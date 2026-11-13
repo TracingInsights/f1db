@@ -176,3 +176,19 @@
   tyreManufacturerId: pirelli
   lap: 41
   time: "1:35.069"
+- position: 19
+  driverNumber: 16
+  driverId: charles-leclerc
+  constructorId: ferrari
+  engineManufacturerId: ferrari
+  tyreManufacturerId: pirelli
+  lap: 49
+  time: "1:36.157"
+- position: 20
+  driverNumber: 10
+  driverId: pierre-gasly
+  constructorId: alpine
+  engineManufacturerId: renault
+  tyreManufacturerId: pirelli
+  lap: 49
+  time: "1:36.425"

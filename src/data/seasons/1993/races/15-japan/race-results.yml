@@ -121,7 +121,7 @@
   timePenalty:
   gap: "+2 laps"
   interval:
-  reasonRetired:
+  reasonRetired: Collision
   points:
   gridPosition: 15
 - position: 10
@@ -320,7 +320,7 @@
   reasonRetired: Engine
   points:
   gridPosition: 14
-- position: 18
+- position: DNF
   driverNumber: 4
   driverId: andrea-de-cesaris
   constructorId: tyrrell

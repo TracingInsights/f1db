@@ -157,7 +157,7 @@
   driverId: eddie-cheever
   constructorId: tyrrell
   engineManufacturerId: ford
-  tyreManufacturerId: avon
+  tyreManufacturerId: goodyear
   laps: 56
   time:
   timePenalty:
@@ -214,7 +214,7 @@
   constructorId: ats-wheels
   engineManufacturerId: ford
   tyreManufacturerId: avon
-  laps: 39
+  laps: 40
   time:
   timePenalty:
   gap:

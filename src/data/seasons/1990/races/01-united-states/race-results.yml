@@ -348,7 +348,7 @@
   reasonRetired: Throttle
   points:
   gridPosition: 13
-- position: DNF
+- position: DNS
   driverNumber: 12
   driverId: martin-donnelly
   constructorId: lotus
@@ -362,20 +362,6 @@
   reasonRetired: Gearbox
   points:
   gridPosition: 19
-- position: DSQ
-  driverNumber: 26
-  driverId: philippe-alliot
-  constructorId: ligier
-  engineManufacturerId: ford
-  tyreManufacturerId: goodyear
-  laps:
-  time:
-  timePenalty:
-  gap:
-  interval:
-  reasonRetired:
-  points:
-  gridPosition:
 - position: DNQ
   driverNumber: 35
   driverId: stefan-johansson
@@ -486,5 +472,19 @@
   gap:
   interval:
   reasonRetired:
+  points:
+  gridPosition:
+- position: EX
+  driverNumber: 26
+  driverId: philippe-alliot
+  constructorId: ligier
+  engineManufacturerId: ford
+  tyreManufacturerId: goodyear
+  laps:
+  time:
+  timePenalty:
+  gap:
+  interval:
+  reasonRetired: Push start
   points:
   gridPosition:

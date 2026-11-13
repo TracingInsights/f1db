@@ -1,0 +1,108 @@
+- lap: 0
+  drivers: [nigel-mansell, ayrton-senna, jean-alesi, riccardo-patrese, gerhard-berger, michael-schumacher, ivan-capelli, thierry-boutsen, martin-brundle, bertrand-gachot, mika-hakkinen, gianni-morbidelli, johnny-herbert, jj-lehto, erik-comas, michele-alboreto, karl-wendlinger, olivier-grouillard, aguri-suzuki, gabriele-tarquini, andrea-de-cesaris, pierluigi-martini, ukyo-katayama, emanuele-naspetti, eric-van-de-poele, mauricio-gugelmin]
+- lap: 1
+  drivers: [nigel-mansell, ayrton-senna, jean-alesi, riccardo-patrese, ivan-capelli, thierry-boutsen, mika-hakkinen, martin-brundle, johnny-herbert, erik-comas, jj-lehto, gianni-morbidelli, bertrand-gachot, karl-wendlinger, michele-alboreto, andrea-de-cesaris, aguri-suzuki, olivier-grouillard, gabriele-tarquini, pierluigi-martini, gerhard-berger, emanuele-naspetti, mauricio-gugelmin, ukyo-katayama, michael-schumacher]
+- lap: 2
+  drivers: [nigel-mansell, ayrton-senna, riccardo-patrese, jean-alesi, ivan-capelli, thierry-boutsen, mika-hakkinen, martin-brundle, johnny-herbert, erik-comas, jj-lehto, bertrand-gachot, gianni-morbidelli, michele-alboreto, andrea-de-cesaris, karl-wendlinger, olivier-grouillard, aguri-suzuki, pierluigi-martini, gerhard-berger, gabriele-tarquini, emanuele-naspetti, mauricio-gugelmin, ukyo-katayama, michael-schumacher]
+- lap: 3
+  drivers: [nigel-mansell, ayrton-senna, riccardo-patrese, jean-alesi, ivan-capelli, thierry-boutsen, mika-hakkinen, martin-brundle, johnny-herbert, erik-comas, jj-lehto, bertrand-gachot, gianni-morbidelli, michele-alboreto, andrea-de-cesaris, karl-wendlinger, gerhard-berger, pierluigi-martini, gabriele-tarquini, emanuele-naspetti, olivier-grouillard, mauricio-gugelmin, ukyo-katayama, michael-schumacher]
+- lap: 4
+  drivers: [nigel-mansell, ayrton-senna, riccardo-patrese, jean-alesi, ivan-capelli, thierry-boutsen, mika-hakkinen, martin-brundle, johnny-herbert, erik-comas, jj-lehto, bertrand-gachot, gianni-morbidelli, michele-alboreto, andrea-de-cesaris, gerhard-berger, karl-wendlinger, pierluigi-martini, gabriele-tarquini, emanuele-naspetti, mauricio-gugelmin, olivier-grouillard, ukyo-katayama, michael-schumacher]
+- lap: 5
+  drivers: [nigel-mansell, ayrton-senna, riccardo-patrese, jean-alesi, ivan-capelli, thierry-boutsen, martin-brundle, mika-hakkinen, johnny-herbert, erik-comas, jj-lehto, bertrand-gachot, gianni-morbidelli, michele-alboreto, andrea-de-cesaris, gerhard-berger, karl-wendlinger, pierluigi-martini, gabriele-tarquini, emanuele-naspetti, mauricio-gugelmin, michael-schumacher, ukyo-katayama, olivier-grouillard]
+- lap: 6
+  drivers: [nigel-mansell, ayrton-senna, riccardo-patrese, jean-alesi, ivan-capelli, thierry-boutsen, martin-brundle, johnny-herbert, erik-comas, jj-lehto, bertrand-gachot, gianni-morbidelli, michele-alboreto, andrea-de-cesaris, gerhard-berger, karl-wendlinger, pierluigi-martini, gabriele-tarquini, emanuele-naspetti, michael-schumacher, mauricio-gugelmin, ukyo-katayama, olivier-grouillard]
+- lap: 7
+  drivers: [nigel-mansell, ayrton-senna, riccardo-patrese, jean-alesi, ivan-capelli, martin-brundle, thierry-boutsen, johnny-herbert, erik-comas, jj-lehto, bertrand-gachot, gianni-morbidelli, michele-alboreto, andrea-de-cesaris, gerhard-berger, karl-wendlinger, pierluigi-martini, gabriele-tarquini, michael-schumacher, emanuele-naspetti, mauricio-gugelmin, ukyo-katayama, olivier-grouillard]
+- lap: 8
+  drivers: [nigel-mansell, ayrton-senna, riccardo-patrese, jean-alesi, ivan-capelli, martin-brundle, thierry-boutsen, johnny-herbert, erik-comas, jj-lehto, bertrand-gachot, gianni-morbidelli, gerhard-berger, michele-alboreto, andrea-de-cesaris, karl-wendlinger, pierluigi-martini, michael-schumacher, gabriele-tarquini, emanuele-naspetti, mauricio-gugelmin, ukyo-katayama, olivier-grouillard]
+- lap: 9
+  drivers: [nigel-mansell, ayrton-senna, riccardo-patrese, jean-alesi, ivan-capelli, martin-brundle, thierry-boutsen, johnny-herbert, erik-comas, jj-lehto, bertrand-gachot, gianni-morbidelli, gerhard-berger, michele-alboreto, andrea-de-cesaris, michael-schumacher, karl-wendlinger, pierluigi-martini, gabriele-tarquini, emanuele-naspetti, mauricio-gugelmin, ukyo-katayama, olivier-grouillard]
+- lap: 10
+  drivers: [nigel-mansell, ayrton-senna, riccardo-patrese, jean-alesi, ivan-capelli, martin-brundle, thierry-boutsen, johnny-herbert, erik-comas, jj-lehto, bertrand-gachot, gianni-morbidelli, gerhard-berger, michele-alboreto, andrea-de-cesaris, michael-schumacher, pierluigi-martini, karl-wendlinger, gabriele-tarquini, emanuele-naspetti, mauricio-gugelmin, ukyo-katayama, olivier-grouillard]
+- lap: 11
+  drivers: [nigel-mansell, ayrton-senna, riccardo-patrese, jean-alesi, ivan-capelli, martin-brundle, thierry-boutsen, johnny-herbert, erik-comas, jj-lehto, gerhard-berger, gianni-morbidelli, michele-alboreto, andrea-de-cesaris, michael-schumacher, pierluigi-martini, karl-wendlinger, gabriele-tarquini, emanuele-naspetti, mauricio-gugelmin, bertrand-gachot, ukyo-katayama, olivier-grouillard]
+- lap: 12
+  drivers: [nigel-mansell, ayrton-senna, riccardo-patrese, jean-alesi, martin-brundle, ivan-capelli, thierry-boutsen, johnny-herbert, erik-comas, jj-lehto, gerhard-berger, gianni-morbidelli, michele-alboreto, michael-schumacher, andrea-de-cesaris, pierluigi-martini, karl-wendlinger, gabriele-tarquini, emanuele-naspetti, mauricio-gugelmin, ukyo-katayama, olivier-grouillard]
+- lap: 13
+  drivers: [nigel-mansell, ayrton-senna, riccardo-patrese, martin-brundle, thierry-boutsen, johnny-herbert, erik-comas, jj-lehto, gerhard-berger, michele-alboreto, michael-schumacher, andrea-de-cesaris, pierluigi-martini, karl-wendlinger, gabriele-tarquini, emanuele-naspetti, mauricio-gugelmin, ukyo-katayama, olivier-grouillard]
+- lap: 14
+  drivers: [nigel-mansell, riccardo-patrese, ayrton-senna, martin-brundle, thierry-boutsen, johnny-herbert, erik-comas, jj-lehto, gerhard-berger, michael-schumacher, michele-alboreto, andrea-de-cesaris, pierluigi-martini, gabriele-tarquini, karl-wendlinger, emanuele-naspetti, mauricio-gugelmin, ukyo-katayama, olivier-grouillard]
+- lap: 15
+  drivers: [nigel-mansell, riccardo-patrese, ayrton-senna, martin-brundle, thierry-boutsen, johnny-herbert, erik-comas, jj-lehto, michael-schumacher, michele-alboreto, andrea-de-cesaris, gerhard-berger, gabriele-tarquini, karl-wendlinger, emanuele-naspetti, pierluigi-martini, mauricio-gugelmin, ukyo-katayama, olivier-grouillard]
+- lap: 16
+  drivers: [nigel-mansell, riccardo-patrese, ayrton-senna, martin-brundle, thierry-boutsen, johnny-herbert, erik-comas, jj-lehto, michael-schumacher, michele-alboreto, andrea-de-cesaris, gerhard-berger, gabriele-tarquini, karl-wendlinger, emanuele-naspetti, pierluigi-martini, mauricio-gugelmin, ukyo-katayama, olivier-grouillard]
+- lap: 17
+  drivers: [nigel-mansell, riccardo-patrese, ayrton-senna, martin-brundle, thierry-boutsen, johnny-herbert, erik-comas, jj-lehto, michael-schumacher, michele-alboreto, andrea-de-cesaris, gerhard-berger, gabriele-tarquini, karl-wendlinger, emanuele-naspetti, pierluigi-martini, mauricio-gugelmin, ukyo-katayama, olivier-grouillard]
+- lap: 18
+  drivers: [nigel-mansell, riccardo-patrese, ayrton-senna, martin-brundle, thierry-boutsen, johnny-herbert, michael-schumacher, erik-comas, jj-lehto, michele-alboreto, andrea-de-cesaris, gerhard-berger, gabriele-tarquini, karl-wendlinger, pierluigi-martini, mauricio-gugelmin, ukyo-katayama, olivier-grouillard]
+- lap: 19
+  drivers: [nigel-mansell, riccardo-patrese, ayrton-senna, martin-brundle, thierry-boutsen, michael-schumacher, erik-comas, jj-lehto, michele-alboreto, andrea-de-cesaris, gerhard-berger, karl-wendlinger, pierluigi-martini, mauricio-gugelmin, ukyo-katayama, olivier-grouillard, gabriele-tarquini]
+- lap: 20
+  drivers: [riccardo-patrese, nigel-mansell, ayrton-senna, martin-brundle, thierry-boutsen, michael-schumacher, erik-comas, jj-lehto, michele-alboreto, andrea-de-cesaris, gerhard-berger, karl-wendlinger, pierluigi-martini, mauricio-gugelmin, ukyo-katayama, olivier-grouillard, gabriele-tarquini]
+- lap: 21
+  drivers: [riccardo-patrese, nigel-mansell, ayrton-senna, martin-brundle, thierry-boutsen, michael-schumacher, erik-comas, jj-lehto, michele-alboreto, andrea-de-cesaris, gerhard-berger, karl-wendlinger, pierluigi-martini, mauricio-gugelmin, ukyo-katayama, olivier-grouillard, gabriele-tarquini]
+- lap: 22
+  drivers: [riccardo-patrese, nigel-mansell, ayrton-senna, martin-brundle, thierry-boutsen, michael-schumacher, erik-comas, jj-lehto, michele-alboreto, andrea-de-cesaris, gerhard-berger, karl-wendlinger, pierluigi-martini, mauricio-gugelmin, ukyo-katayama, olivier-grouillard, gabriele-tarquini]
+- lap: 23
+  drivers: [riccardo-patrese, nigel-mansell, ayrton-senna, martin-brundle, thierry-boutsen, michael-schumacher, erik-comas, jj-lehto, michele-alboreto, andrea-de-cesaris, gerhard-berger, karl-wendlinger, pierluigi-martini, mauricio-gugelmin, ukyo-katayama, olivier-grouillard, gabriele-tarquini]
+- lap: 24
+  drivers: [riccardo-patrese, nigel-mansell, ayrton-senna, martin-brundle, thierry-boutsen, michael-schumacher, erik-comas, jj-lehto, michele-alboreto, andrea-de-cesaris, gerhard-berger, karl-wendlinger, pierluigi-martini, mauricio-gugelmin, ukyo-katayama, olivier-grouillard, gabriele-tarquini]
+- lap: 25
+  drivers: [riccardo-patrese, nigel-mansell, ayrton-senna, martin-brundle, thierry-boutsen, michael-schumacher, erik-comas, jj-lehto, michele-alboreto, andrea-de-cesaris, gerhard-berger, karl-wendlinger, pierluigi-martini, ukyo-katayama, mauricio-gugelmin, olivier-grouillard, gabriele-tarquini]
+- lap: 26
+  drivers: [riccardo-patrese, nigel-mansell, ayrton-senna, martin-brundle, thierry-boutsen, michael-schumacher, erik-comas, jj-lehto, michele-alboreto, andrea-de-cesaris, gerhard-berger, karl-wendlinger, pierluigi-martini, ukyo-katayama, mauricio-gugelmin, olivier-grouillard, gabriele-tarquini]
+- lap: 27
+  drivers: [riccardo-patrese, nigel-mansell, ayrton-senna, martin-brundle, michael-schumacher, thierry-boutsen, erik-comas, jj-lehto, michele-alboreto, andrea-de-cesaris, gerhard-berger, karl-wendlinger, pierluigi-martini, ukyo-katayama, mauricio-gugelmin, gabriele-tarquini]
+- lap: 28
+  drivers: [riccardo-patrese, nigel-mansell, ayrton-senna, martin-brundle, michael-schumacher, thierry-boutsen, erik-comas, jj-lehto, michele-alboreto, andrea-de-cesaris, gerhard-berger, karl-wendlinger, pierluigi-martini, ukyo-katayama, mauricio-gugelmin, gabriele-tarquini]
+- lap: 29
+  drivers: [riccardo-patrese, nigel-mansell, ayrton-senna, martin-brundle, michael-schumacher, thierry-boutsen, erik-comas, jj-lehto, michele-alboreto, andrea-de-cesaris, gerhard-berger, karl-wendlinger, pierluigi-martini, ukyo-katayama, mauricio-gugelmin, gabriele-tarquini]
+- lap: 30
+  drivers: [riccardo-patrese, nigel-mansell, ayrton-senna, martin-brundle, michael-schumacher, thierry-boutsen, erik-comas, jj-lehto, michele-alboreto, andrea-de-cesaris, gerhard-berger, pierluigi-martini, ukyo-katayama, mauricio-gugelmin, karl-wendlinger, gabriele-tarquini]
+- lap: 31
+  drivers: [riccardo-patrese, nigel-mansell, ayrton-senna, martin-brundle, michael-schumacher, thierry-boutsen, erik-comas, jj-lehto, andrea-de-cesaris, michele-alboreto, gerhard-berger, pierluigi-martini, ukyo-katayama, mauricio-gugelmin, karl-wendlinger]
+- lap: 32
+  drivers: [riccardo-patrese, nigel-mansell, ayrton-senna, martin-brundle, michael-schumacher, thierry-boutsen, erik-comas, jj-lehto, andrea-de-cesaris, gerhard-berger, michele-alboreto, pierluigi-martini, ukyo-katayama, mauricio-gugelmin, karl-wendlinger]
+- lap: 33
+  drivers: [riccardo-patrese, nigel-mansell, ayrton-senna, martin-brundle, michael-schumacher, thierry-boutsen, erik-comas, jj-lehto, gerhard-berger, andrea-de-cesaris, michele-alboreto, pierluigi-martini, ukyo-katayama, mauricio-gugelmin, karl-wendlinger]
+- lap: 34
+  drivers: [riccardo-patrese, nigel-mansell, ayrton-senna, martin-brundle, michael-schumacher, thierry-boutsen, erik-comas, jj-lehto, gerhard-berger, andrea-de-cesaris, michele-alboreto, pierluigi-martini, ukyo-katayama, mauricio-gugelmin, karl-wendlinger]
+- lap: 35
+  drivers: [riccardo-patrese, nigel-mansell, ayrton-senna, martin-brundle, michael-schumacher, thierry-boutsen, erik-comas, jj-lehto, gerhard-berger, andrea-de-cesaris, michele-alboreto, pierluigi-martini, ukyo-katayama, mauricio-gugelmin, karl-wendlinger]
+- lap: 36
+  drivers: [riccardo-patrese, nigel-mansell, ayrton-senna, martin-brundle, michael-schumacher, thierry-boutsen, jj-lehto, gerhard-berger, andrea-de-cesaris, michele-alboreto, pierluigi-martini, ukyo-katayama, mauricio-gugelmin, karl-wendlinger]
+- lap: 37
+  drivers: [riccardo-patrese, nigel-mansell, ayrton-senna, martin-brundle, michael-schumacher, thierry-boutsen, gerhard-berger, andrea-de-cesaris, jj-lehto, michele-alboreto, pierluigi-martini, ukyo-katayama, mauricio-gugelmin, karl-wendlinger]
+- lap: 38
+  drivers: [riccardo-patrese, nigel-mansell, ayrton-senna, martin-brundle, michael-schumacher, thierry-boutsen, gerhard-berger, andrea-de-cesaris, jj-lehto, michele-alboreto, pierluigi-martini, ukyo-katayama, mauricio-gugelmin, karl-wendlinger]
+- lap: 39
+  drivers: [riccardo-patrese, nigel-mansell, ayrton-senna, martin-brundle, michael-schumacher, thierry-boutsen, gerhard-berger, andrea-de-cesaris, jj-lehto, michele-alboreto, pierluigi-martini, ukyo-katayama, mauricio-gugelmin, karl-wendlinger]
+- lap: 40
+  drivers: [riccardo-patrese, nigel-mansell, ayrton-senna, martin-brundle, michael-schumacher, thierry-boutsen, gerhard-berger, andrea-de-cesaris, jj-lehto, michele-alboreto, pierluigi-martini, ukyo-katayama, mauricio-gugelmin, karl-wendlinger]
+- lap: 41
+  drivers: [riccardo-patrese, nigel-mansell, ayrton-senna, martin-brundle, michael-schumacher, thierry-boutsen, gerhard-berger, andrea-de-cesaris, jj-lehto, michele-alboreto, pierluigi-martini, ukyo-katayama, mauricio-gugelmin, karl-wendlinger]
+- lap: 42
+  drivers: [riccardo-patrese, ayrton-senna, martin-brundle, michael-schumacher, gerhard-berger, andrea-de-cesaris, jj-lehto, michele-alboreto, pierluigi-martini, ukyo-katayama, mauricio-gugelmin, karl-wendlinger]
+- lap: 43
+  drivers: [riccardo-patrese, ayrton-senna, martin-brundle, michael-schumacher, gerhard-berger, andrea-de-cesaris, jj-lehto, michele-alboreto, pierluigi-martini, ukyo-katayama, mauricio-gugelmin, karl-wendlinger]
+- lap: 44
+  drivers: [riccardo-patrese, ayrton-senna, martin-brundle, michael-schumacher, gerhard-berger, andrea-de-cesaris, jj-lehto, michele-alboreto, pierluigi-martini, ukyo-katayama, mauricio-gugelmin, karl-wendlinger]
+- lap: 45
+  drivers: [riccardo-patrese, ayrton-senna, martin-brundle, michael-schumacher, gerhard-berger, andrea-de-cesaris, jj-lehto, michele-alboreto, pierluigi-martini, ukyo-katayama, mauricio-gugelmin, karl-wendlinger]
+- lap: 46
+  drivers: [riccardo-patrese, ayrton-senna, martin-brundle, michael-schumacher, gerhard-berger, andrea-de-cesaris, jj-lehto, michele-alboreto, pierluigi-martini, ukyo-katayama, mauricio-gugelmin, karl-wendlinger]
+- lap: 47
+  drivers: [riccardo-patrese, ayrton-senna, martin-brundle, michael-schumacher, gerhard-berger, andrea-de-cesaris, jj-lehto, michele-alboreto, pierluigi-martini, ukyo-katayama, karl-wendlinger]
+- lap: 48
+  drivers: [ayrton-senna, riccardo-patrese, martin-brundle, michael-schumacher, gerhard-berger, andrea-de-cesaris, michele-alboreto, pierluigi-martini, ukyo-katayama, karl-wendlinger]
+- lap: 49
+  drivers: [ayrton-senna, martin-brundle, riccardo-patrese, michael-schumacher, gerhard-berger, andrea-de-cesaris, michele-alboreto, pierluigi-martini, ukyo-katayama, karl-wendlinger]
+- lap: 50
+  drivers: [ayrton-senna, martin-brundle, michael-schumacher, riccardo-patrese, gerhard-berger, andrea-de-cesaris, michele-alboreto, pierluigi-martini, ukyo-katayama, karl-wendlinger]
+- lap: 51
+  drivers: [ayrton-senna, martin-brundle, michael-schumacher, riccardo-patrese, gerhard-berger, andrea-de-cesaris, michele-alboreto, pierluigi-martini]
+- lap: 52
+  drivers: [ayrton-senna, martin-brundle, michael-schumacher, riccardo-patrese, gerhard-berger, andrea-de-cesaris, michele-alboreto, pierluigi-martini]
+- lap: 53
+  drivers: [ayrton-senna, martin-brundle, michael-schumacher, gerhard-berger, riccardo-patrese]

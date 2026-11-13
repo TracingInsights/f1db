@@ -191,7 +191,7 @@
   timePenalty:
   gap: "+1 lap"
   interval:
-  reasonRetired:
+  reasonRetired: Accident
   points:
   gridPosition: 14
 - position: 15

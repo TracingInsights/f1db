@@ -140,7 +140,7 @@
   constructorId: jordan
   engineManufacturerId: toyota
   tyreManufacturerId: bridgestone
-  gridPenalty:
+  gridPenalty: 10
   time:
 - position: 19
   driverNumber: 1
@@ -148,7 +148,7 @@
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: bridgestone
-  gridPenalty:
+  gridPenalty: 10
   time:
 - position: PL
   driverNumber: 4

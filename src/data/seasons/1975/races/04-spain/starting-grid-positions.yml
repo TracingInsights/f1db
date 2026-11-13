@@ -198,3 +198,11 @@
   tyreManufacturerId: goodyear
   gridPenalty:
   time: "1:54.300"
+- position: 26
+  driverNumber: 1
+  driverId: emerson-fittipaldi
+  constructorId: mclaren
+  engineManufacturerId: ford
+  tyreManufacturerId: goodyear
+  gridPenalty:
+  time: "2:10.200"

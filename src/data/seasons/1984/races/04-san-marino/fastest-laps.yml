@@ -99,6 +99,26 @@
   gap: "+2.778"
   interval: "+0.053"
 - position: 11
+  driverNumber: 4
+  driverId: stefan-bellof
+  constructorId: tyrrell
+  engineManufacturerId: ford
+  tyreManufacturerId: goodyear
+  lap: 43
+  time: "1:36.095"
+  gap: "+2.820"
+  interval: "+0.042"
+- position: 12
+  driverNumber: 3
+  driverId: martin-brundle
+  constructorId: tyrrell
+  engineManufacturerId: ford
+  tyreManufacturerId: goodyear
+  lap: 38
+  time: "1:37.013"
+  gap: "+3.738"
+  interval: "+0.918"
+- position: 13
   driverNumber: 17
   driverId: marc-surer
   constructorId: arrows
@@ -107,8 +127,8 @@
   lap: 25
   time: "1:37.089"
   gap: "+3.814"
-  interval: "+1.036"
-- position: 12
+  interval: "+0.076"
+- position: 14
   driverNumber: 14
   driverId: manfred-winkelhock
   constructorId: ats-wheels
@@ -118,7 +138,7 @@
   time: "1:37.319"
   gap: "+4.044"
   interval: "+0.230"
-- position: 13
+- position: 15
   driverNumber: 10
   driverId: jonathan-palmer
   constructorId: ram
@@ -128,7 +148,7 @@
   time: "1:37.472"
   gap: "+4.197"
   interval: "+0.153"
-- position: 14
+- position: 16
   driverNumber: 9
   driverId: philippe-alliot
   constructorId: ram
@@ -138,7 +158,7 @@
   time: "1:38.199"
   gap: "+4.924"
   interval: "+0.727"
-- position: 15
+- position: 17
   driverNumber: 20
   driverId: johnny-cecotto
   constructorId: toleman
@@ -148,7 +168,7 @@
   time: "1:38.208"
   gap: "+4.933"
   interval: "+0.009"
-- position: 16
+- position: 18
   driverNumber: 5
   driverId: jacques-laffite
   constructorId: williams
@@ -158,7 +178,7 @@
   time: "1:38.517"
   gap: "+5.242"
   interval: "+0.309"
-- position: 17
+- position: 19
   driverNumber: 22
   driverId: riccardo-patrese
   constructorId: alfa-romeo
@@ -168,7 +188,7 @@
   time: "1:39.389"
   gap: "+6.114"
   interval: "+0.872"
-- position: 18
+- position: 20
   driverNumber: 21
   driverId: mauro-baldi
   constructorId: spirit
@@ -178,7 +198,7 @@
   time: "1:39.404"
   gap: "+6.129"
   interval: "+0.015"
-- position: 19
+- position: 21
   driverNumber: 18
   driverId: thierry-boutsen
   constructorId: arrows
@@ -188,7 +208,7 @@
   time: "1:39.430"
   gap: "+6.155"
   interval: "+0.026"
-- position: 20
+- position: 22
   driverNumber: 6
   driverId: keke-rosberg
   constructorId: williams
@@ -198,7 +218,7 @@
   time: "1:39.769"
   gap: "+6.494"
   interval: "+0.339"
-- position: 21
+- position: 23
   driverNumber: 30
   driverId: jo-gartner
   constructorId: osella
@@ -208,7 +228,7 @@
   time: "1:40.949"
   gap: "+7.674"
   interval: "+1.180"
-- position: 22
+- position: 24
   driverNumber: 12
   driverId: nigel-mansell
   constructorId: lotus

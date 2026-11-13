@@ -1,0 +1,138 @@
+- lap: 0
+  drivers: [jim-clark, jack-brabham, bruce-mclaren, chris-amon, dan-gurney, denny-hulme, jackie-stewart, graham-hill, john-surtees, ludovico-scarfiotti, jochen-rindt, mike-spence, jo-siffert, jo-bonnier, jacky-ickx, chris-irwin, giancarlo-baghetti, guy-ligier]
+- lap: 1
+  drivers: [dan-gurney, jack-brabham, graham-hill, jim-clark, bruce-mclaren, jackie-stewart, denny-hulme, chris-amon, ludovico-scarfiotti, john-surtees, jo-siffert, mike-spence, chris-irwin, jochen-rindt, guy-ligier, jacky-ickx, giancarlo-baghetti, jo-bonnier]
+- lap: 2
+  drivers: [dan-gurney, jim-clark, jack-brabham, graham-hill, jackie-stewart, bruce-mclaren, denny-hulme, chris-amon, john-surtees, ludovico-scarfiotti, jochen-rindt, mike-spence, jo-siffert, chris-irwin, giancarlo-baghetti, jacky-ickx, jo-bonnier, guy-ligier]
+- lap: 3
+  drivers: [jim-clark, dan-gurney, graham-hill, jack-brabham, denny-hulme, jackie-stewart, bruce-mclaren, chris-amon, john-surtees, ludovico-scarfiotti, jochen-rindt, jo-siffert, giancarlo-baghetti, mike-spence, chris-irwin, jacky-ickx, jo-bonnier, guy-ligier]
+- lap: 4
+  drivers: [jim-clark, dan-gurney, graham-hill, jack-brabham, denny-hulme, jackie-stewart, bruce-mclaren, chris-amon, john-surtees, ludovico-scarfiotti, jochen-rindt, giancarlo-baghetti, jo-siffert, chris-irwin, mike-spence, jacky-ickx, jo-bonnier, guy-ligier]
+- lap: 5
+  drivers: [jim-clark, graham-hill, denny-hulme, jack-brabham, jackie-stewart, bruce-mclaren, chris-amon, john-surtees, ludovico-scarfiotti, jochen-rindt, giancarlo-baghetti, chris-irwin, jo-siffert, mike-spence, jacky-ickx, jo-bonnier, guy-ligier]
+- lap: 6
+  drivers: [jim-clark, graham-hill, denny-hulme, jack-brabham, jackie-stewart, bruce-mclaren, chris-amon, john-surtees, jochen-rindt, giancarlo-baghetti, chris-irwin, jo-siffert, mike-spence, jacky-ickx, jo-bonnier, guy-ligier]
+- lap: 7
+  drivers: [jim-clark, graham-hill, denny-hulme, jack-brabham, bruce-mclaren, chris-amon, john-surtees, jochen-rindt, jackie-stewart, giancarlo-baghetti, chris-irwin, jo-siffert, mike-spence, jacky-ickx, jo-bonnier, guy-ligier]
+- lap: 8
+  drivers: [jim-clark, graham-hill, denny-hulme, jack-brabham, chris-amon, john-surtees, bruce-mclaren, jochen-rindt, giancarlo-baghetti, chris-irwin, jo-siffert, mike-spence, jacky-ickx, guy-ligier, jo-bonnier, jackie-stewart]
+- lap: 9
+  drivers: [jim-clark, denny-hulme, graham-hill, jack-brabham, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, giancarlo-baghetti, chris-irwin, jo-siffert, mike-spence, jacky-ickx, guy-ligier, jo-bonnier, jackie-stewart]
+- lap: 10
+  drivers: [denny-hulme, jim-clark, graham-hill, jack-brabham, jochen-rindt, john-surtees, chris-amon, bruce-mclaren, giancarlo-baghetti, chris-irwin, jo-siffert, mike-spence, jacky-ickx, guy-ligier, jo-bonnier, jackie-stewart]
+- lap: 11
+  drivers: [jim-clark, denny-hulme, jack-brabham, graham-hill, john-surtees, chris-amon, jochen-rindt, bruce-mclaren, giancarlo-baghetti, chris-irwin, jo-siffert, mike-spence, jacky-ickx, jo-bonnier, guy-ligier, jackie-stewart]
+- lap: 12
+  drivers: [jim-clark, denny-hulme, jack-brabham, graham-hill, john-surtees, chris-amon, jochen-rindt, bruce-mclaren, giancarlo-baghetti, jo-siffert, chris-irwin, mike-spence, jacky-ickx, jo-bonnier, guy-ligier, jackie-stewart]
+- lap: 13
+  drivers: [denny-hulme, jack-brabham, graham-hill, jim-clark, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, giancarlo-baghetti, jo-siffert, chris-irwin, mike-spence, jacky-ickx, jo-bonnier, guy-ligier, jackie-stewart]
+- lap: 14
+  drivers: [denny-hulme, jack-brabham, graham-hill, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, giancarlo-baghetti, jo-siffert, chris-irwin, mike-spence, jacky-ickx, jo-bonnier, guy-ligier, jim-clark, jackie-stewart]
+- lap: 15
+  drivers: [denny-hulme, jack-brabham, graham-hill, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, giancarlo-baghetti, jo-siffert, chris-irwin, mike-spence, jacky-ickx, guy-ligier, jo-bonnier, jim-clark, jackie-stewart]
+- lap: 16
+  drivers: [jack-brabham, denny-hulme, graham-hill, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, giancarlo-baghetti, jo-siffert, chris-irwin, mike-spence, jacky-ickx, guy-ligier, jo-bonnier, jim-clark, jackie-stewart]
+- lap: 17
+  drivers: [denny-hulme, jack-brabham, graham-hill, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, giancarlo-baghetti, jo-siffert, mike-spence, jacky-ickx, jim-clark, guy-ligier, jo-bonnier, jackie-stewart]
+- lap: 18
+  drivers: [graham-hill, jack-brabham, denny-hulme, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, giancarlo-baghetti, jo-siffert, mike-spence, jacky-ickx, jim-clark, jo-bonnier, guy-ligier, jackie-stewart]
+- lap: 19
+  drivers: [graham-hill, jack-brabham, denny-hulme, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, giancarlo-baghetti, jo-siffert, mike-spence, jim-clark, jacky-ickx, jo-bonnier, guy-ligier, jackie-stewart]
+- lap: 20
+  drivers: [graham-hill, jack-brabham, denny-hulme, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, giancarlo-baghetti, jo-siffert, mike-spence, jim-clark, jacky-ickx, jo-bonnier, guy-ligier, jackie-stewart]
+- lap: 21
+  drivers: [graham-hill, denny-hulme, jack-brabham, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, giancarlo-baghetti, jo-siffert, mike-spence, jim-clark, jacky-ickx, jo-bonnier, guy-ligier, jackie-stewart]
+- lap: 22
+  drivers: [graham-hill, denny-hulme, jack-brabham, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, giancarlo-baghetti, jo-siffert, mike-spence, jim-clark, jacky-ickx, jo-bonnier, guy-ligier, jackie-stewart]
+- lap: 23
+  drivers: [graham-hill, denny-hulme, jack-brabham, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, giancarlo-baghetti, jo-siffert, mike-spence, jim-clark, jacky-ickx, jo-bonnier, guy-ligier, jackie-stewart]
+- lap: 24
+  drivers: [denny-hulme, graham-hill, jack-brabham, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, giancarlo-baghetti, jo-siffert, mike-spence, jim-clark, jacky-ickx, jo-bonnier, guy-ligier, jackie-stewart]
+- lap: 25
+  drivers: [denny-hulme, graham-hill, jack-brabham, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, giancarlo-baghetti, jo-siffert, mike-spence, jim-clark, jacky-ickx, jo-bonnier, guy-ligier, jackie-stewart]
+- lap: 26
+  drivers: [denny-hulme, graham-hill, jack-brabham, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, giancarlo-baghetti, jo-siffert, mike-spence, jim-clark, jacky-ickx, jo-bonnier, guy-ligier, jackie-stewart]
+- lap: 27
+  drivers: [denny-hulme, graham-hill, jack-brabham, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, giancarlo-baghetti, jim-clark, jo-siffert, mike-spence, jacky-ickx, jo-bonnier, jackie-stewart]
+- lap: 28
+  drivers: [graham-hill, denny-hulme, jack-brabham, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, giancarlo-baghetti, jim-clark, jo-siffert, mike-spence, jacky-ickx, jo-bonnier, jackie-stewart]
+- lap: 29
+  drivers: [graham-hill, denny-hulme, jack-brabham, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, giancarlo-baghetti, jim-clark, jo-siffert, mike-spence, jacky-ickx, jo-bonnier, jackie-stewart]
+- lap: 30
+  drivers: [graham-hill, denny-hulme, jack-brabham, john-surtees, chris-amon, jochen-rindt, bruce-mclaren, giancarlo-baghetti, jim-clark, jo-siffert, mike-spence, jacky-ickx, jo-bonnier, jackie-stewart]
+- lap: 31
+  drivers: [graham-hill, jack-brabham, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, giancarlo-baghetti, jim-clark, jo-siffert, mike-spence, jacky-ickx, jackie-stewart, jo-bonnier]
+- lap: 32
+  drivers: [graham-hill, jack-brabham, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, giancarlo-baghetti, jim-clark, jo-siffert, mike-spence, jacky-ickx, jackie-stewart, jo-bonnier]
+- lap: 33
+  drivers: [graham-hill, jack-brabham, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, jim-clark, giancarlo-baghetti, jo-siffert, mike-spence, jacky-ickx, jackie-stewart, jo-bonnier]
+- lap: 34
+  drivers: [graham-hill, jack-brabham, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, jim-clark, giancarlo-baghetti, jo-siffert, mike-spence, jacky-ickx, jackie-stewart, jo-bonnier]
+- lap: 35
+  drivers: [graham-hill, jack-brabham, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, jim-clark, giancarlo-baghetti, jo-siffert, mike-spence, jacky-ickx, jackie-stewart, jo-bonnier]
+- lap: 36
+  drivers: [graham-hill, jack-brabham, john-surtees, chris-amon, jochen-rindt, bruce-mclaren, jim-clark, giancarlo-baghetti, jo-siffert, mike-spence, jacky-ickx, jackie-stewart, jo-bonnier]
+- lap: 37
+  drivers: [graham-hill, jack-brabham, john-surtees, chris-amon, jochen-rindt, bruce-mclaren, jim-clark, giancarlo-baghetti, jo-siffert, mike-spence, jacky-ickx, jackie-stewart, jo-bonnier]
+- lap: 38
+  drivers: [graham-hill, jack-brabham, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, jim-clark, giancarlo-baghetti, jo-siffert, mike-spence, jacky-ickx, jackie-stewart, jo-bonnier]
+- lap: 39
+  drivers: [graham-hill, jack-brabham, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, jim-clark, giancarlo-baghetti, jo-siffert, mike-spence, jacky-ickx, jackie-stewart, jo-bonnier]
+- lap: 40
+  drivers: [graham-hill, jack-brabham, john-surtees, chris-amon, bruce-mclaren, jochen-rindt, jim-clark, giancarlo-baghetti, jo-siffert, mike-spence, jackie-stewart, jacky-ickx, jo-bonnier]
+- lap: 41
+  drivers: [graham-hill, jack-brabham, john-surtees, bruce-mclaren, chris-amon, jochen-rindt, jim-clark, giancarlo-baghetti, jo-siffert, mike-spence, jackie-stewart, jacky-ickx, jo-bonnier]
+- lap: 42
+  drivers: [graham-hill, jack-brabham, bruce-mclaren, john-surtees, chris-amon, jochen-rindt, jim-clark, giancarlo-baghetti, jo-siffert, mike-spence, jackie-stewart, jacky-ickx, jo-bonnier]
+- lap: 43
+  drivers: [graham-hill, jack-brabham, john-surtees, bruce-mclaren, chris-amon, jochen-rindt, jim-clark, giancarlo-baghetti, jo-siffert, mike-spence, jackie-stewart, jacky-ickx, jo-bonnier]
+- lap: 44
+  drivers: [graham-hill, jack-brabham, john-surtees, bruce-mclaren, chris-amon, jochen-rindt, jim-clark, giancarlo-baghetti, jo-siffert, mike-spence, jackie-stewart, jacky-ickx, jo-bonnier]
+- lap: 45
+  drivers: [graham-hill, jack-brabham, john-surtees, bruce-mclaren, chris-amon, jochen-rindt, jim-clark, giancarlo-baghetti, jo-siffert, mike-spence, jackie-stewart, jacky-ickx, jo-bonnier]
+- lap: 46
+  drivers: [graham-hill, jack-brabham, john-surtees, bruce-mclaren, chris-amon, jochen-rindt, jim-clark, giancarlo-baghetti, jo-siffert, mike-spence, jacky-ickx, jo-bonnier]
+- lap: 47
+  drivers: [graham-hill, jack-brabham, john-surtees, chris-amon, jochen-rindt, jim-clark, giancarlo-baghetti, jo-siffert, mike-spence, jacky-ickx]
+- lap: 48
+  drivers: [graham-hill, jack-brabham, john-surtees, jochen-rindt, chris-amon, jim-clark, giancarlo-baghetti, jo-siffert, mike-spence, jacky-ickx]
+- lap: 49
+  drivers: [graham-hill, jack-brabham, john-surtees, jochen-rindt, jim-clark, giancarlo-baghetti, chris-amon, jo-siffert, mike-spence, jacky-ickx]
+- lap: 50
+  drivers: [graham-hill, jack-brabham, john-surtees, jochen-rindt, jim-clark, giancarlo-baghetti, chris-amon, jo-siffert, mike-spence, jacky-ickx]
+- lap: 51
+  drivers: [graham-hill, jack-brabham, john-surtees, jochen-rindt, jim-clark, chris-amon, mike-spence, jacky-ickx]
+- lap: 52
+  drivers: [graham-hill, jack-brabham, john-surtees, jochen-rindt, jim-clark, chris-amon, mike-spence, jacky-ickx]
+- lap: 53
+  drivers: [graham-hill, jack-brabham, john-surtees, jochen-rindt, jim-clark, chris-amon, mike-spence, jacky-ickx]
+- lap: 54
+  drivers: [graham-hill, jack-brabham, john-surtees, jim-clark, jochen-rindt, chris-amon, mike-spence, jacky-ickx]
+- lap: 55
+  drivers: [graham-hill, jack-brabham, john-surtees, jim-clark, jochen-rindt, chris-amon, mike-spence, jacky-ickx]
+- lap: 56
+  drivers: [graham-hill, jack-brabham, john-surtees, jim-clark, jochen-rindt, chris-amon, mike-spence, jacky-ickx]
+- lap: 57
+  drivers: [graham-hill, jack-brabham, john-surtees, jim-clark, jochen-rindt, mike-spence, jacky-ickx, chris-amon]
+- lap: 58
+  drivers: [graham-hill, jack-brabham, john-surtees, jim-clark, jochen-rindt, mike-spence, jacky-ickx, chris-amon]
+- lap: 59
+  drivers: [jack-brabham, john-surtees, jim-clark, jochen-rindt, mike-spence, jacky-ickx, chris-amon]
+- lap: 60
+  drivers: [jack-brabham, jim-clark, john-surtees, jochen-rindt, mike-spence, jacky-ickx, chris-amon]
+- lap: 61
+  drivers: [jim-clark, jack-brabham, john-surtees, jochen-rindt, mike-spence, jacky-ickx, chris-amon]
+- lap: 62
+  drivers: [jim-clark, jack-brabham, john-surtees, jochen-rindt, mike-spence, jacky-ickx, chris-amon]
+- lap: 63
+  drivers: [jim-clark, jack-brabham, john-surtees, jochen-rindt, mike-spence, jacky-ickx, chris-amon]
+- lap: 64
+  drivers: [jim-clark, jack-brabham, john-surtees, jochen-rindt, mike-spence, jacky-ickx, chris-amon]
+- lap: 65
+  drivers: [jim-clark, john-surtees, jack-brabham, jochen-rindt, mike-spence, jacky-ickx]
+- lap: 66
+  drivers: [jim-clark, john-surtees, jack-brabham, jochen-rindt, mike-spence, jacky-ickx]
+- lap: 67
+  drivers: [jim-clark, john-surtees, jack-brabham, jochen-rindt, mike-spence]
+- lap: 68
+  drivers: [john-surtees, jack-brabham, jim-clark, jochen-rindt]

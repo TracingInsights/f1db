@@ -166,34 +166,6 @@
   reasonRetired:
   points:
   gridPosition: 19
-- position: NC
-  driverNumber: 9
-  driverId: mark-webber
-  constructorId: williams
-  engineManufacturerId: cosworth
-  tyreManufacturerId: bridgestone
-  laps: 59
-  time:
-  timePenalty:
-  gap: "+1 lap"
-  interval:
-  reasonRetired:
-  points:
-  gridPosition: 11
-- position: NC
-  driverNumber: 22
-  driverId: takuma-sato
-  constructorId: super-aguri
-  engineManufacturerId: honda
-  tyreManufacturerId: bridgestone
-  laps: 38
-  time:
-  timePenalty:
-  gap: "+2 laps"
-  interval:
-  reasonRetired:
-  points:
-  gridPosition: 17
 - position: DNF
   driverNumber: 17
   driverId: jacques-villeneuve
@@ -278,6 +250,34 @@
   reasonRetired: Accident
   points:
   gridPosition: 14
+- position: DNF
+  driverNumber: 22
+  driverId: takuma-sato
+  constructorId: super-aguri
+  engineManufacturerId: honda
+  tyreManufacturerId: bridgestone
+  laps: 38
+  time:
+  timePenalty:
+  gap: "+2 laps"
+  interval:
+  reasonRetired: Gearbox
+  points:
+  gridPosition: 17
+- position: DNF
+  driverNumber: 9
+  driverId: mark-webber
+  constructorId: williams
+  engineManufacturerId: cosworth
+  tyreManufacturerId: bridgestone
+  laps: 59
+  time:
+  timePenalty:
+  gap: "+1 lap"
+  interval:
+  reasonRetired: Water leak
+  points:
+  gridPosition: 11
 - position: DSQ
   driverNumber: 19
   driverId: christijan-albers

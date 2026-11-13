@@ -24,9 +24,9 @@
   constructorId: williams
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
-  time: "1:16.288"
-  gap: "+0.827"
-  interval: "+0.642"
+  time: "1:16.228"
+  gap: "+0.767"
+  interval: "+0.582"
   laps:
 - position: 4
   driverNumber: 15
@@ -36,7 +36,7 @@
   tyreManufacturerId: michelin
   time: "1:16.304"
   gap: "+0.843"
-  interval: "+0.016"
+  interval: "+0.076"
   laps:
 - position: 5
   driverNumber: 11

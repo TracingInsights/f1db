@@ -84,9 +84,9 @@
   constructorId: mclaren
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
-  time: "1:38.800"
-  gap: "+1.360"
-  interval: "+0.100"
+  time: "1:38.880"
+  gap: "+1.440"
+  interval: "+0.180"
   laps:
 - position: 10
   driverNumber: 3
@@ -96,7 +96,7 @@
   tyreManufacturerId: firestone
   time: "1:38.950"
   gap: "+1.510"
-  interval: "+0.150"
+  interval: "+0.070"
   laps:
 - position: 11
   driverNumber: 17

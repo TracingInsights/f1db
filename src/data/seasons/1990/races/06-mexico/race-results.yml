@@ -362,20 +362,6 @@
   reasonRetired: Engine
   points:
   gridPosition: 18
-- position: DSQ
-  driverNumber: 33
-  driverId: roberto-moreno
-  constructorId: eurobrun
-  engineManufacturerId: judd
-  tyreManufacturerId: pirelli
-  laps:
-  time:
-  timePenalty:
-  gap:
-  interval:
-  reasonRetired: Push start
-  points:
-  gridPosition:
 - position: DNQ
   driverNumber: 16
   driverId: ivan-capelli
@@ -486,5 +472,19 @@
   gap:
   interval:
   reasonRetired:
+  points:
+  gridPosition:
+- position: EX
+  driverNumber: 33
+  driverId: roberto-moreno
+  constructorId: eurobrun
+  engineManufacturerId: judd
+  tyreManufacturerId: pirelli
+  laps:
+  time:
+  timePenalty:
+  gap:
+  interval:
+  reasonRetired: Push start
   points:
   gridPosition:

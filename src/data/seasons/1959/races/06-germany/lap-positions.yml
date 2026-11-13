@@ -1,0 +1,122 @@
+- lap: 0
+  drivers: [tony-brooks, stirling-moss, dan-gurney, jack-brabham, masten-gregory, phil-hill, jo-bonnier, harry-schell, bruce-mclaren, graham-hill, hans-herrmann, maurice-trintignant, innes-ireland, cliff-allison, ian-burgess]
+- lap: 1
+  drivers: [tony-brooks, stirling-moss, masten-gregory, jack-brabham, jo-bonnier, dan-gurney, phil-hill, harry-schell, maurice-trintignant, graham-hill, bruce-mclaren, cliff-allison, hans-herrmann, ian-burgess, innes-ireland]
+- lap: 2
+  drivers: [tony-brooks, dan-gurney, jack-brabham, masten-gregory, phil-hill, jo-bonnier, harry-schell, maurice-trintignant, bruce-mclaren, graham-hill, hans-herrmann, cliff-allison, ian-burgess, innes-ireland]
+- lap: 3
+  drivers: [masten-gregory, tony-brooks, dan-gurney, jack-brabham, phil-hill, jo-bonnier, bruce-mclaren, harry-schell, maurice-trintignant, graham-hill, hans-herrmann, ian-burgess, innes-ireland]
+- lap: 4
+  drivers: [masten-gregory, tony-brooks, jack-brabham, dan-gurney, phil-hill, jo-bonnier, bruce-mclaren, harry-schell, maurice-trintignant, graham-hill, hans-herrmann, ian-burgess, innes-ireland]
+- lap: 5
+  drivers: [tony-brooks, masten-gregory, dan-gurney, jack-brabham, phil-hill, jo-bonnier, harry-schell, maurice-trintignant, bruce-mclaren, graham-hill, hans-herrmann, ian-burgess, innes-ireland]
+- lap: 6
+  drivers: [tony-brooks, masten-gregory, dan-gurney, phil-hill, jack-brabham, jo-bonnier, bruce-mclaren, harry-schell, maurice-trintignant, graham-hill, hans-herrmann, ian-burgess, innes-ireland]
+- lap: 7
+  drivers: [tony-brooks, dan-gurney, masten-gregory, phil-hill, jack-brabham, jo-bonnier, maurice-trintignant, harry-schell, bruce-mclaren, graham-hill, hans-herrmann, ian-burgess, innes-ireland]
+- lap: 8
+  drivers: [tony-brooks, masten-gregory, dan-gurney, phil-hill, jack-brabham, jo-bonnier, maurice-trintignant, harry-schell, bruce-mclaren, graham-hill, hans-herrmann, ian-burgess]
+- lap: 9
+  drivers: [tony-brooks, masten-gregory, dan-gurney, phil-hill, jack-brabham, jo-bonnier, bruce-mclaren, harry-schell, maurice-trintignant, graham-hill, hans-herrmann, ian-burgess]
+- lap: 10
+  drivers: [tony-brooks, dan-gurney, masten-gregory, phil-hill, jack-brabham, bruce-mclaren, jo-bonnier, harry-schell, maurice-trintignant, graham-hill, hans-herrmann, ian-burgess]
+- lap: 11
+  drivers: [tony-brooks, masten-gregory, phil-hill, dan-gurney, jack-brabham, jo-bonnier, harry-schell, maurice-trintignant, bruce-mclaren, hans-herrmann, ian-burgess]
+- lap: 12
+  drivers: [tony-brooks, masten-gregory, dan-gurney, phil-hill, jack-brabham, harry-schell, maurice-trintignant, jo-bonnier, bruce-mclaren, hans-herrmann, ian-burgess]
+- lap: 13
+  drivers: [tony-brooks, dan-gurney, masten-gregory, phil-hill, jack-brabham, harry-schell, jo-bonnier, maurice-trintignant, bruce-mclaren, hans-herrmann, ian-burgess]
+- lap: 14
+  drivers: [dan-gurney, tony-brooks, masten-gregory, phil-hill, jack-brabham, jo-bonnier, maurice-trintignant, bruce-mclaren, harry-schell, hans-herrmann, ian-burgess]
+- lap: 15
+  drivers: [tony-brooks, masten-gregory, dan-gurney, phil-hill, jack-brabham, bruce-mclaren, jo-bonnier, maurice-trintignant, harry-schell, hans-herrmann, ian-burgess]
+- lap: 16
+  drivers: [dan-gurney, masten-gregory, tony-brooks, phil-hill, bruce-mclaren, harry-schell, maurice-trintignant, jo-bonnier, hans-herrmann, ian-burgess]
+- lap: 17
+  drivers: [dan-gurney, tony-brooks, masten-gregory, phil-hill, harry-schell, bruce-mclaren, maurice-trintignant, jo-bonnier, hans-herrmann, ian-burgess]
+- lap: 18
+  drivers: [tony-brooks, masten-gregory, dan-gurney, phil-hill, harry-schell, jo-bonnier, maurice-trintignant, hans-herrmann, bruce-mclaren, ian-burgess]
+- lap: 19
+  drivers: [tony-brooks, masten-gregory, dan-gurney, phil-hill, jo-bonnier, harry-schell, bruce-mclaren, maurice-trintignant, hans-herrmann, ian-burgess]
+- lap: 20
+  drivers: [tony-brooks, dan-gurney, masten-gregory, phil-hill, bruce-mclaren, harry-schell, maurice-trintignant, jo-bonnier, hans-herrmann, ian-burgess]
+- lap: 21
+  drivers: [tony-brooks, masten-gregory, dan-gurney, phil-hill, bruce-mclaren, jo-bonnier, harry-schell, maurice-trintignant, hans-herrmann, ian-burgess]
+- lap: 22
+  drivers: [tony-brooks, masten-gregory, dan-gurney, phil-hill, harry-schell, jo-bonnier, maurice-trintignant, bruce-mclaren, hans-herrmann, ian-burgess]
+- lap: 23
+  drivers: [masten-gregory, tony-brooks, dan-gurney, phil-hill, harry-schell, jo-bonnier, maurice-trintignant, bruce-mclaren, hans-herrmann, ian-burgess]
+- lap: 24
+  drivers: [tony-brooks, dan-gurney, phil-hill, jo-bonnier, harry-schell, bruce-mclaren, maurice-trintignant, hans-herrmann, ian-burgess]
+- lap: 25
+  drivers: [tony-brooks, dan-gurney, phil-hill, harry-schell, bruce-mclaren, maurice-trintignant, jo-bonnier, hans-herrmann, ian-burgess]
+- lap: 26
+  drivers: [tony-brooks, dan-gurney, phil-hill, bruce-mclaren, harry-schell, maurice-trintignant, jo-bonnier, hans-herrmann, ian-burgess]
+- lap: 27
+  drivers: [tony-brooks, dan-gurney, phil-hill, bruce-mclaren, maurice-trintignant, harry-schell, jo-bonnier, hans-herrmann, ian-burgess]
+- lap: 28
+  drivers: [tony-brooks, dan-gurney, phil-hill, bruce-mclaren, maurice-trintignant, harry-schell, jo-bonnier, hans-herrmann, ian-burgess]
+- lap: 29
+  drivers: [tony-brooks, dan-gurney, phil-hill, bruce-mclaren, harry-schell, maurice-trintignant, jo-bonnier, hans-herrmann, ian-burgess]
+- lap: 30
+  drivers: [tony-brooks, dan-gurney, phil-hill, bruce-mclaren, jo-bonnier, maurice-trintignant, harry-schell, hans-herrmann, ian-burgess]
+- lap: 31
+  drivers: [phil-hill, jo-bonnier, tony-brooks, dan-gurney, bruce-mclaren, maurice-trintignant, harry-schell, hans-herrmann, ian-burgess]
+- lap: 32
+  drivers: [tony-brooks, jo-bonnier, dan-gurney, phil-hill, bruce-mclaren, harry-schell, maurice-trintignant, hans-herrmann, ian-burgess]
+- lap: 33
+  drivers: [tony-brooks, phil-hill, bruce-mclaren, dan-gurney, maurice-trintignant, jo-bonnier, harry-schell, hans-herrmann, ian-burgess]
+- lap: 34
+  drivers: [tony-brooks, phil-hill, bruce-mclaren, dan-gurney, maurice-trintignant, jo-bonnier, harry-schell, hans-herrmann, ian-burgess]
+- lap: 35
+  drivers: [tony-brooks, dan-gurney, phil-hill, bruce-mclaren, maurice-trintignant, jo-bonnier, harry-schell, hans-herrmann, ian-burgess]
+- lap: 36
+  drivers: [phil-hill, tony-brooks, dan-gurney, bruce-mclaren, maurice-trintignant, jo-bonnier, harry-schell, hans-herrmann, ian-burgess]
+- lap: 37
+  drivers: [tony-brooks, phil-hill, dan-gurney, bruce-mclaren, maurice-trintignant, jo-bonnier, harry-schell, ian-burgess]
+- lap: 38
+  drivers: [phil-hill, tony-brooks, dan-gurney, jo-bonnier, maurice-trintignant, harry-schell, ian-burgess]
+- lap: 39
+  drivers: [phil-hill, tony-brooks, dan-gurney, maurice-trintignant, jo-bonnier, ian-burgess, harry-schell]
+- lap: 40
+  drivers: [tony-brooks, dan-gurney, phil-hill, jo-bonnier, maurice-trintignant, ian-burgess, harry-schell]
+- lap: 41
+  drivers: [dan-gurney, tony-brooks, phil-hill, jo-bonnier, maurice-trintignant, ian-burgess, harry-schell]
+- lap: 42
+  drivers: [tony-brooks, dan-gurney, phil-hill, jo-bonnier, maurice-trintignant, ian-burgess, harry-schell]
+- lap: 43
+  drivers: [dan-gurney, tony-brooks, phil-hill, jo-bonnier, maurice-trintignant, ian-burgess, harry-schell]
+- lap: 44
+  drivers: [dan-gurney, phil-hill, tony-brooks, jo-bonnier, maurice-trintignant, ian-burgess, harry-schell]
+- lap: 45
+  drivers: [phil-hill, tony-brooks, dan-gurney, jo-bonnier, maurice-trintignant, ian-burgess, harry-schell]
+- lap: 46
+  drivers: [tony-brooks, dan-gurney, phil-hill, maurice-trintignant, jo-bonnier, ian-burgess, harry-schell]
+- lap: 47
+  drivers: [tony-brooks, dan-gurney, phil-hill, jo-bonnier, maurice-trintignant, ian-burgess, harry-schell]
+- lap: 48
+  drivers: [phil-hill, dan-gurney, tony-brooks, jo-bonnier, maurice-trintignant, ian-burgess, harry-schell]
+- lap: 49
+  drivers: [phil-hill, tony-brooks, dan-gurney, jo-bonnier, maurice-trintignant, ian-burgess, harry-schell]
+- lap: 50
+  drivers: [dan-gurney, tony-brooks, phil-hill, maurice-trintignant, jo-bonnier, ian-burgess]
+- lap: 51
+  drivers: [dan-gurney, tony-brooks, phil-hill, jo-bonnier, maurice-trintignant, ian-burgess]
+- lap: 52
+  drivers: [tony-brooks, phil-hill, dan-gurney, maurice-trintignant, jo-bonnier, ian-burgess]
+- lap: 53
+  drivers: [tony-brooks, phil-hill, dan-gurney, maurice-trintignant, jo-bonnier, ian-burgess]
+- lap: 54
+  drivers: [tony-brooks, phil-hill, dan-gurney, maurice-trintignant, jo-bonnier, ian-burgess]
+- lap: 55
+  drivers: [tony-brooks, phil-hill, dan-gurney, maurice-trintignant, jo-bonnier, ian-burgess]
+- lap: 56
+  drivers: [tony-brooks, phil-hill, dan-gurney, maurice-trintignant, jo-bonnier, ian-burgess]
+- lap: 57
+  drivers: [tony-brooks, phil-hill, dan-gurney, maurice-trintignant, jo-bonnier]
+- lap: 58
+  drivers: [tony-brooks, phil-hill, dan-gurney, maurice-trintignant, jo-bonnier]
+- lap: 59
+  drivers: [tony-brooks, phil-hill, dan-gurney, maurice-trintignant]
+- lap: 60
+  drivers: [tony-brooks, phil-hill, dan-gurney]

@@ -30,7 +30,7 @@
   constructorId: cooper
   engineManufacturerId: alta
   chassisId: cooper-t24
-  engineId: alta-gp-25-l4
+  engineId: alta-f2-20-l4
   tyreManufacturerId: dunlop
   driverId: peter-whitehead
   rounds: 6
@@ -110,7 +110,7 @@
       chassis:
         - chassisId: cooper-special
         - chassisId: cooper-t24
-      engineId: alta-gp-25-l4
+      engineId: alta-f2-20-l4
       tyreManufacturerId: dunlop
       driverId: stirling-moss
       rounds: 5,7,9
@@ -441,7 +441,7 @@
   countryId: united-states-of-america
   constructorId: kurtis-kraft
   engineManufacturerId: offenhauser
-  chassisId: kurtis-kraft-kk500
+  chassisId: kurtis-kraft-kk500a
   engineId: offenhauser-45-l4
   tyreManufacturerId: firestone
   driverId: bill-vukovich
@@ -451,7 +451,7 @@
   constructorId: hwm
   engineManufacturerId: alta
   chassisId: hwm-53
-  engineId: alta-gp-25-l4
+  engineId: alta-f2-20-l4
   tyreManufacturerId: dunlop
   drivers:
     - driverId: lance-macklin
@@ -657,7 +657,7 @@
   countryId: united-states-of-america
   constructorId: kurtis-kraft
   engineManufacturerId: offenhauser
-  chassisId: kurtis-kraft-kk3000
+  chassisId: kurtis-kraft-kk500b
   engineId: offenhauser-45-l4
   tyreManufacturerId: firestone
   driverId: bill-holland

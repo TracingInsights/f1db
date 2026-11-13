@@ -1,0 +1,90 @@
+- lap: 0
+  drivers: [nigel-mansell, ayrton-senna, michael-schumacher, riccardo-patrese, jean-alesi, gerhard-berger, thierry-boutsen, mika-hakkinen, martin-brundle, johnny-herbert, gabriele-tarquini, ivan-capelli, andrea-de-cesaris, michele-alboreto, eric-van-de-poele, jj-lehto, stefano-modena, karl-wendlinger, pierluigi-martini, bertrand-gachot, emanuele-naspetti, olivier-grouillard, gianni-morbidelli, mauricio-gugelmin, aguri-suzuki, ukyo-katayama]
+- lap: 1
+  drivers: [ayrton-senna, nigel-mansell, riccardo-patrese, michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, thierry-boutsen, ivan-capelli, johnny-herbert, gabriele-tarquini, andrea-de-cesaris, michele-alboreto, jj-lehto, eric-van-de-poele, karl-wendlinger, stefano-modena, olivier-grouillard, emanuele-naspetti, bertrand-gachot, gianni-morbidelli, aguri-suzuki, mauricio-gugelmin, ukyo-katayama]
+- lap: 2
+  drivers: [nigel-mansell, riccardo-patrese, ayrton-senna, michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, thierry-boutsen, ivan-capelli, johnny-herbert, gabriele-tarquini, andrea-de-cesaris, jj-lehto, karl-wendlinger, stefano-modena, bertrand-gachot, aguri-suzuki, michele-alboreto, emanuele-naspetti, eric-van-de-poele, gianni-morbidelli, mauricio-gugelmin, ukyo-katayama]
+- lap: 3
+  drivers: [nigel-mansell, riccardo-patrese, ayrton-senna, michael-schumacher, martin-brundle, mika-hakkinen, thierry-boutsen, ivan-capelli, johnny-herbert, jean-alesi, gabriele-tarquini, andrea-de-cesaris, jj-lehto, karl-wendlinger, bertrand-gachot, aguri-suzuki, emanuele-naspetti, stefano-modena, eric-van-de-poele, mauricio-gugelmin, ukyo-katayama, gianni-morbidelli, michele-alboreto]
+- lap: 4
+  drivers: [riccardo-patrese, ayrton-senna, martin-brundle, michael-schumacher, mika-hakkinen, ivan-capelli, johnny-herbert, andrea-de-cesaris, gabriele-tarquini, jj-lehto, karl-wendlinger, thierry-boutsen, jean-alesi, nigel-mansell, emanuele-naspetti, bertrand-gachot, aguri-suzuki, eric-van-de-poele, michele-alboreto, stefano-modena, ukyo-katayama, mauricio-gugelmin, gianni-morbidelli]
+- lap: 5
+  drivers: [riccardo-patrese, ayrton-senna, martin-brundle, mika-hakkinen, ivan-capelli, johnny-herbert, andrea-de-cesaris, jean-alesi, michael-schumacher, nigel-mansell, gabriele-tarquini, emanuele-naspetti, jj-lehto, thierry-boutsen, michele-alboreto, karl-wendlinger, eric-van-de-poele, bertrand-gachot, aguri-suzuki, mauricio-gugelmin, stefano-modena, gianni-morbidelli, ukyo-katayama]
+- lap: 6
+  drivers: [riccardo-patrese, ayrton-senna, ivan-capelli, johnny-herbert, jean-alesi, nigel-mansell, michael-schumacher, martin-brundle, mika-hakkinen, andrea-de-cesaris, emanuele-naspetti, thierry-boutsen, michele-alboreto, jj-lehto, gabriele-tarquini, eric-van-de-poele, bertrand-gachot, aguri-suzuki, mauricio-gugelmin, stefano-modena, karl-wendlinger, gianni-morbidelli, ukyo-katayama]
+- lap: 7
+  drivers: [ayrton-senna, jean-alesi, nigel-mansell, johnny-herbert, riccardo-patrese, michael-schumacher, martin-brundle, mika-hakkinen, ivan-capelli, thierry-boutsen, michele-alboreto, jj-lehto, emanuele-naspetti, gabriele-tarquini, andrea-de-cesaris, bertrand-gachot, mauricio-gugelmin, aguri-suzuki, stefano-modena, eric-van-de-poele, karl-wendlinger, gianni-morbidelli, ukyo-katayama]
+- lap: 8
+  drivers: [ayrton-senna, riccardo-patrese, nigel-mansell, michael-schumacher, martin-brundle, mika-hakkinen, ivan-capelli, thierry-boutsen, michele-alboreto, jj-lehto, johnny-herbert, gabriele-tarquini, andrea-de-cesaris, bertrand-gachot, mauricio-gugelmin, emanuele-naspetti, aguri-suzuki, stefano-modena, eric-van-de-poele, karl-wendlinger, gianni-morbidelli, ukyo-katayama]
+- lap: 9
+  drivers: [ayrton-senna, nigel-mansell, riccardo-patrese, michael-schumacher, martin-brundle, mika-hakkinen, ivan-capelli, thierry-boutsen, michele-alboreto, jj-lehto, johnny-herbert, gabriele-tarquini, andrea-de-cesaris, bertrand-gachot, mauricio-gugelmin, emanuele-naspetti, aguri-suzuki, stefano-modena, eric-van-de-poele, karl-wendlinger, gianni-morbidelli, ukyo-katayama]
+- lap: 10
+  drivers: [ayrton-senna, nigel-mansell, riccardo-patrese, michael-schumacher, martin-brundle, mika-hakkinen, ivan-capelli, thierry-boutsen, michele-alboreto, jj-lehto, johnny-herbert, gabriele-tarquini, andrea-de-cesaris, bertrand-gachot, mauricio-gugelmin, aguri-suzuki, stefano-modena, eric-van-de-poele, emanuele-naspetti, karl-wendlinger, gianni-morbidelli, ukyo-katayama]
+- lap: 11
+  drivers: [nigel-mansell, ayrton-senna, riccardo-patrese, michael-schumacher, martin-brundle, mika-hakkinen, ivan-capelli, thierry-boutsen, michele-alboreto, jj-lehto, johnny-herbert, gabriele-tarquini, andrea-de-cesaris, bertrand-gachot, aguri-suzuki, mauricio-gugelmin, stefano-modena, eric-van-de-poele, emanuele-naspetti, karl-wendlinger, gianni-morbidelli, ukyo-katayama]
+- lap: 12
+  drivers: [nigel-mansell, riccardo-patrese, ayrton-senna, michael-schumacher, martin-brundle, mika-hakkinen, ivan-capelli, thierry-boutsen, michele-alboreto, jj-lehto, johnny-herbert, gabriele-tarquini, andrea-de-cesaris, bertrand-gachot, aguri-suzuki, mauricio-gugelmin, eric-van-de-poele, stefano-modena, emanuele-naspetti, karl-wendlinger, gianni-morbidelli, ukyo-katayama]
+- lap: 13
+  drivers: [nigel-mansell, riccardo-patrese, michael-schumacher, martin-brundle, mika-hakkinen, ayrton-senna, ivan-capelli, thierry-boutsen, michele-alboreto, jj-lehto, johnny-herbert, gabriele-tarquini, andrea-de-cesaris, bertrand-gachot, aguri-suzuki, mauricio-gugelmin, eric-van-de-poele, stefano-modena, emanuele-naspetti, karl-wendlinger, gianni-morbidelli, ukyo-katayama]
+- lap: 14
+  drivers: [nigel-mansell, riccardo-patrese, michael-schumacher, martin-brundle, mika-hakkinen, ivan-capelli, ayrton-senna, thierry-boutsen, michele-alboreto, jj-lehto, johnny-herbert, gabriele-tarquini, andrea-de-cesaris, bertrand-gachot, aguri-suzuki, mauricio-gugelmin, eric-van-de-poele, stefano-modena, karl-wendlinger, emanuele-naspetti, gianni-morbidelli, ukyo-katayama]
+- lap: 15
+  drivers: [nigel-mansell, riccardo-patrese, michael-schumacher, martin-brundle, mika-hakkinen, ivan-capelli, thierry-boutsen, michele-alboreto, jj-lehto, johnny-herbert, gabriele-tarquini, ayrton-senna, andrea-de-cesaris, bertrand-gachot, aguri-suzuki, mauricio-gugelmin, eric-van-de-poele, stefano-modena, karl-wendlinger, emanuele-naspetti, gianni-morbidelli, ukyo-katayama]
+- lap: 16
+  drivers: [nigel-mansell, riccardo-patrese, michael-schumacher, martin-brundle, mika-hakkinen, ivan-capelli, thierry-boutsen, michele-alboreto, jj-lehto, johnny-herbert, gabriele-tarquini, ayrton-senna, andrea-de-cesaris, bertrand-gachot, aguri-suzuki, mauricio-gugelmin, eric-van-de-poele, stefano-modena, karl-wendlinger, emanuele-naspetti, gianni-morbidelli, ukyo-katayama]
+- lap: 17
+  drivers: [nigel-mansell, riccardo-patrese, michael-schumacher, martin-brundle, mika-hakkinen, ivan-capelli, thierry-boutsen, michele-alboreto, jj-lehto, johnny-herbert, gabriele-tarquini, ayrton-senna, andrea-de-cesaris, bertrand-gachot, aguri-suzuki, eric-van-de-poele, mauricio-gugelmin, stefano-modena, karl-wendlinger, emanuele-naspetti, gianni-morbidelli, ukyo-katayama]
+- lap: 18
+  drivers: [nigel-mansell, riccardo-patrese, michael-schumacher, martin-brundle, mika-hakkinen, ivan-capelli, thierry-boutsen, michele-alboreto, jj-lehto, johnny-herbert, gabriele-tarquini, ayrton-senna, andrea-de-cesaris, bertrand-gachot, aguri-suzuki, eric-van-de-poele, mauricio-gugelmin, stefano-modena, karl-wendlinger, emanuele-naspetti, gianni-morbidelli, ukyo-katayama]
+- lap: 19
+  drivers: [nigel-mansell, riccardo-patrese, michael-schumacher, martin-brundle, mika-hakkinen, ivan-capelli, thierry-boutsen, michele-alboreto, jj-lehto, johnny-herbert, gabriele-tarquini, ayrton-senna, andrea-de-cesaris, aguri-suzuki, bertrand-gachot, eric-van-de-poele, mauricio-gugelmin, stefano-modena, karl-wendlinger, emanuele-naspetti, gianni-morbidelli, ukyo-katayama]
+- lap: 20
+  drivers: [nigel-mansell, riccardo-patrese, michael-schumacher, martin-brundle, mika-hakkinen, ivan-capelli, thierry-boutsen, michele-alboreto, jj-lehto, johnny-herbert, gabriele-tarquini, ayrton-senna, andrea-de-cesaris, aguri-suzuki, bertrand-gachot, eric-van-de-poele, mauricio-gugelmin, stefano-modena, karl-wendlinger, emanuele-naspetti, gianni-morbidelli, ukyo-katayama]
+- lap: 21
+  drivers: [nigel-mansell, riccardo-patrese, michael-schumacher, martin-brundle, mika-hakkinen, ivan-capelli, thierry-boutsen, jj-lehto, johnny-herbert, gabriele-tarquini, ayrton-senna, andrea-de-cesaris, aguri-suzuki, bertrand-gachot, eric-van-de-poele, mauricio-gugelmin, stefano-modena, karl-wendlinger, emanuele-naspetti, gianni-morbidelli, ukyo-katayama]
+- lap: 22
+  drivers: [nigel-mansell, riccardo-patrese, michael-schumacher, martin-brundle, mika-hakkinen, ivan-capelli, thierry-boutsen, johnny-herbert, jj-lehto, gabriele-tarquini, ayrton-senna, andrea-de-cesaris, aguri-suzuki, bertrand-gachot, eric-van-de-poele, mauricio-gugelmin, stefano-modena, karl-wendlinger, emanuele-naspetti, gianni-morbidelli, ukyo-katayama]
+- lap: 23
+  drivers: [nigel-mansell, riccardo-patrese, michael-schumacher, martin-brundle, mika-hakkinen, ivan-capelli, johnny-herbert, thierry-boutsen, jj-lehto, gabriele-tarquini, ayrton-senna, andrea-de-cesaris, aguri-suzuki, bertrand-gachot, eric-van-de-poele, mauricio-gugelmin, stefano-modena, karl-wendlinger, emanuele-naspetti, gianni-morbidelli, ukyo-katayama]
+- lap: 24
+  drivers: [nigel-mansell, riccardo-patrese, michael-schumacher, martin-brundle, mika-hakkinen, ivan-capelli, johnny-herbert, thierry-boutsen, jj-lehto, gabriele-tarquini, ayrton-senna, andrea-de-cesaris, aguri-suzuki, bertrand-gachot, eric-van-de-poele, mauricio-gugelmin, stefano-modena, karl-wendlinger, emanuele-naspetti, gianni-morbidelli, ukyo-katayama]
+- lap: 25
+  drivers: [nigel-mansell, riccardo-patrese, michael-schumacher, martin-brundle, mika-hakkinen, ivan-capelli, johnny-herbert, thierry-boutsen, jj-lehto, gabriele-tarquini, ayrton-senna, andrea-de-cesaris, aguri-suzuki, bertrand-gachot, eric-van-de-poele, mauricio-gugelmin, stefano-modena, karl-wendlinger, emanuele-naspetti, gianni-morbidelli, ukyo-katayama]
+- lap: 26
+  drivers: [nigel-mansell, riccardo-patrese, michael-schumacher, martin-brundle, mika-hakkinen, johnny-herbert, jj-lehto, ayrton-senna, thierry-boutsen, andrea-de-cesaris, aguri-suzuki, bertrand-gachot, eric-van-de-poele, mauricio-gugelmin, stefano-modena, karl-wendlinger, emanuele-naspetti, gianni-morbidelli, ukyo-katayama]
+- lap: 27
+  drivers: [nigel-mansell, riccardo-patrese, michael-schumacher, martin-brundle, mika-hakkinen, johnny-herbert, ayrton-senna, jj-lehto, andrea-de-cesaris, aguri-suzuki, thierry-boutsen, bertrand-gachot, eric-van-de-poele, mauricio-gugelmin, stefano-modena, emanuele-naspetti, karl-wendlinger, gianni-morbidelli, ukyo-katayama]
+- lap: 28
+  drivers: [nigel-mansell, riccardo-patrese, michael-schumacher, martin-brundle, mika-hakkinen, johnny-herbert, ayrton-senna, andrea-de-cesaris, jj-lehto, aguri-suzuki, bertrand-gachot, eric-van-de-poele, mauricio-gugelmin, stefano-modena, emanuele-naspetti, karl-wendlinger, gianni-morbidelli, ukyo-katayama]
+- lap: 29
+  drivers: [nigel-mansell, riccardo-patrese, michael-schumacher, martin-brundle, mika-hakkinen, johnny-herbert, jj-lehto, ayrton-senna, andrea-de-cesaris, aguri-suzuki, bertrand-gachot, eric-van-de-poele, mauricio-gugelmin, stefano-modena, emanuele-naspetti, karl-wendlinger, ukyo-katayama, gianni-morbidelli]
+- lap: 30
+  drivers: [nigel-mansell, riccardo-patrese, martin-brundle, michael-schumacher, mika-hakkinen, johnny-herbert, jj-lehto, ayrton-senna, bertrand-gachot, aguri-suzuki, andrea-de-cesaris, eric-van-de-poele, mauricio-gugelmin, stefano-modena, karl-wendlinger, emanuele-naspetti, ukyo-katayama, gianni-morbidelli]
+- lap: 31
+  drivers: [nigel-mansell, riccardo-patrese, martin-brundle, michael-schumacher, mika-hakkinen, jj-lehto, johnny-herbert, ayrton-senna, bertrand-gachot, aguri-suzuki, andrea-de-cesaris, eric-van-de-poele, mauricio-gugelmin, stefano-modena, karl-wendlinger, emanuele-naspetti, ukyo-katayama, gianni-morbidelli]
+- lap: 32
+  drivers: [nigel-mansell, riccardo-patrese, michael-schumacher, martin-brundle, mika-hakkinen, jj-lehto, johnny-herbert, ayrton-senna, andrea-de-cesaris, aguri-suzuki, bertrand-gachot, eric-van-de-poele, stefano-modena, karl-wendlinger, emanuele-naspetti, mauricio-gugelmin, ukyo-katayama, gianni-morbidelli]
+- lap: 33
+  drivers: [nigel-mansell, michael-schumacher, riccardo-patrese, martin-brundle, mika-hakkinen, jj-lehto, ayrton-senna, johnny-herbert, andrea-de-cesaris, aguri-suzuki, bertrand-gachot, eric-van-de-poele, karl-wendlinger, emanuele-naspetti, stefano-modena, mauricio-gugelmin, gianni-morbidelli, ukyo-katayama]
+- lap: 34
+  drivers: [michael-schumacher, nigel-mansell, riccardo-patrese, martin-brundle, mika-hakkinen, ayrton-senna, jj-lehto, johnny-herbert, aguri-suzuki, andrea-de-cesaris, bertrand-gachot, eric-van-de-poele, karl-wendlinger, emanuele-naspetti, stefano-modena, mauricio-gugelmin, gianni-morbidelli, ukyo-katayama]
+- lap: 35
+  drivers: [michael-schumacher, nigel-mansell, riccardo-patrese, martin-brundle, mika-hakkinen, ayrton-senna, jj-lehto, johnny-herbert, aguri-suzuki, andrea-de-cesaris, bertrand-gachot, eric-van-de-poele, karl-wendlinger, emanuele-naspetti, mauricio-gugelmin, stefano-modena, gianni-morbidelli, ukyo-katayama]
+- lap: 36
+  drivers: [michael-schumacher, nigel-mansell, riccardo-patrese, martin-brundle, mika-hakkinen, ayrton-senna, jj-lehto, johnny-herbert, aguri-suzuki, andrea-de-cesaris, bertrand-gachot, eric-van-de-poele, karl-wendlinger, emanuele-naspetti, mauricio-gugelmin, stefano-modena, gianni-morbidelli, ukyo-katayama]
+- lap: 37
+  drivers: [michael-schumacher, nigel-mansell, riccardo-patrese, martin-brundle, mika-hakkinen, ayrton-senna, jj-lehto, johnny-herbert, aguri-suzuki, andrea-de-cesaris, bertrand-gachot, eric-van-de-poele, karl-wendlinger, emanuele-naspetti, mauricio-gugelmin, stefano-modena, gianni-morbidelli, ukyo-katayama]
+- lap: 38
+  drivers: [michael-schumacher, nigel-mansell, riccardo-patrese, martin-brundle, mika-hakkinen, ayrton-senna, jj-lehto, johnny-herbert, aguri-suzuki, andrea-de-cesaris, bertrand-gachot, eric-van-de-poele, karl-wendlinger, emanuele-naspetti, mauricio-gugelmin, stefano-modena, gianni-morbidelli, ukyo-katayama]
+- lap: 39
+  drivers: [michael-schumacher, nigel-mansell, riccardo-patrese, martin-brundle, mika-hakkinen, ayrton-senna, jj-lehto, johnny-herbert, aguri-suzuki, andrea-de-cesaris, bertrand-gachot, eric-van-de-poele, karl-wendlinger, emanuele-naspetti, mauricio-gugelmin, stefano-modena, gianni-morbidelli, ukyo-katayama]
+- lap: 40
+  drivers: [michael-schumacher, nigel-mansell, riccardo-patrese, martin-brundle, mika-hakkinen, ayrton-senna, jj-lehto, johnny-herbert, aguri-suzuki, andrea-de-cesaris, bertrand-gachot, eric-van-de-poele, karl-wendlinger, emanuele-naspetti, mauricio-gugelmin, stefano-modena, gianni-morbidelli, ukyo-katayama]
+- lap: 41
+  drivers: [michael-schumacher, nigel-mansell, riccardo-patrese, martin-brundle, mika-hakkinen, ayrton-senna, johnny-herbert, jj-lehto, andrea-de-cesaris, aguri-suzuki, eric-van-de-poele, karl-wendlinger, emanuele-naspetti, mauricio-gugelmin, stefano-modena, gianni-morbidelli, ukyo-katayama]
+- lap: 42
+  drivers: [michael-schumacher, nigel-mansell, riccardo-patrese, martin-brundle, mika-hakkinen, ayrton-senna, johnny-herbert, jj-lehto, andrea-de-cesaris, aguri-suzuki, eric-van-de-poele, karl-wendlinger, emanuele-naspetti, mauricio-gugelmin, stefano-modena, gianni-morbidelli, ukyo-katayama]
+- lap: 43
+  drivers: [michael-schumacher, nigel-mansell, riccardo-patrese, martin-brundle, ayrton-senna, mika-hakkinen, jj-lehto, andrea-de-cesaris, aguri-suzuki, eric-van-de-poele, karl-wendlinger, emanuele-naspetti]
+- lap: 44
+  drivers: [michael-schumacher, nigel-mansell, riccardo-patrese, martin-brundle, ayrton-senna, mika-hakkinen, jj-lehto]

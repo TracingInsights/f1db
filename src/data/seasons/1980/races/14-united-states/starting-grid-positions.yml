@@ -94,6 +94,14 @@
   tyreManufacturerId: goodyear
   gridPenalty:
   time: "1:35.421"
+- position: 13
+  driverNumber: 8
+  driverId: alain-prost
+  constructorId: mclaren
+  engineManufacturerId: ford
+  tyreManufacturerId: goodyear
+  gridPenalty:
+  time: "1:35.988"
 - position: 14
   driverNumber: 21
   driverId: keke-rosberg
@@ -117,7 +125,7 @@
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
   gridPenalty:
-  time: "1:36.903"
+  time: "1:36.908"
 - position: 17
   driverNumber: 9
   driverId: marc-surer

@@ -132,7 +132,7 @@
   constructorId: jordan
   engineManufacturerId: toyota
   tyreManufacturerId: bridgestone
-  gridPenalty:
+  gridPenalty: 10
   time: "2:43.442"
 - position: 18
   driverNumber: 17
@@ -140,5 +140,5 @@
   constructorId: toyota
   engineManufacturerId: toyota
   tyreManufacturerId: michelin
-  gridPenalty:
+  gridPenalty: 10
   time:

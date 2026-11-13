@@ -1,0 +1,152 @@
+- lap: 0
+  drivers: [andrea-de-cesaris, niki-lauda, rene-arnoux, alain-prost, bruno-giacomelli, nelson-piquet, gilles-villeneuve, keke-rosberg, didier-pironi, jean-pierre-jarier, john-watson, michele-alboreto, eddie-cheever, mario-andretti, jacques-laffite, elio-de-angelis, nigel-mansell, riccardo-patrese, roberto-guerrero, brian-henton, jochen-mass, derek-daly, raul-boesel, slim-borgudd, manfred-winkelhock, eliseo-salazar]
+- lap: 1
+  drivers: [andrea-de-cesaris, rene-arnoux, niki-lauda, bruno-giacomelli, gilles-villeneuve, alain-prost, didier-pironi, keke-rosberg, nelson-piquet, michele-alboreto, john-watson, eddie-cheever, mario-andretti, jean-pierre-jarier, jacques-laffite, elio-de-angelis, riccardo-patrese, jochen-mass, roberto-guerrero, nigel-mansell, derek-daly, raul-boesel, brian-henton, manfred-winkelhock, slim-borgudd, eliseo-salazar]
+- lap: 2
+  drivers: [andrea-de-cesaris, rene-arnoux, niki-lauda, bruno-giacomelli, gilles-villeneuve, alain-prost, didier-pironi, keke-rosberg, nelson-piquet, john-watson, michele-alboreto, eddie-cheever, mario-andretti, jacques-laffite, jean-pierre-jarier, elio-de-angelis, riccardo-patrese, jochen-mass, roberto-guerrero, nigel-mansell, derek-daly, raul-boesel, brian-henton, slim-borgudd, eliseo-salazar]
+- lap: 3
+  drivers: [andrea-de-cesaris, rene-arnoux, niki-lauda, bruno-giacomelli, gilles-villeneuve, alain-prost, didier-pironi, keke-rosberg, nelson-piquet, john-watson, michele-alboreto, eddie-cheever, mario-andretti, jacques-laffite, jean-pierre-jarier, elio-de-angelis, riccardo-patrese, jochen-mass, roberto-guerrero, nigel-mansell, derek-daly, raul-boesel, brian-henton, slim-borgudd, eliseo-salazar]
+- lap: 4
+  drivers: [andrea-de-cesaris, rene-arnoux, niki-lauda, bruno-giacomelli, gilles-villeneuve, alain-prost, keke-rosberg, didier-pironi, john-watson, nelson-piquet, michele-alboreto, eddie-cheever, mario-andretti, jacques-laffite, jean-pierre-jarier, elio-de-angelis, riccardo-patrese, jochen-mass, roberto-guerrero, nigel-mansell, derek-daly, raul-boesel, brian-henton, slim-borgudd]
+- lap: 5
+  drivers: [andrea-de-cesaris, rene-arnoux, niki-lauda, bruno-giacomelli, gilles-villeneuve, keke-rosberg, alain-prost, john-watson, nelson-piquet, didier-pironi, michele-alboreto, eddie-cheever, mario-andretti, jacques-laffite, jean-pierre-jarier, elio-de-angelis, riccardo-patrese, jochen-mass, roberto-guerrero, nigel-mansell, derek-daly, raul-boesel, brian-henton, slim-borgudd]
+- lap: 6
+  drivers: [andrea-de-cesaris, niki-lauda, gilles-villeneuve, keke-rosberg, john-watson, nelson-piquet, alain-prost, michele-alboreto, didier-pironi, eddie-cheever, mario-andretti, jacques-laffite, jean-pierre-jarier, elio-de-angelis, riccardo-patrese, jochen-mass, roberto-guerrero, nigel-mansell, derek-daly, raul-boesel, brian-henton, slim-borgudd]
+- lap: 7
+  drivers: [andrea-de-cesaris, niki-lauda, gilles-villeneuve, john-watson, keke-rosberg, nelson-piquet, alain-prost, michele-alboreto, eddie-cheever, mario-andretti, jacques-laffite, jean-pierre-jarier, elio-de-angelis, riccardo-patrese, jochen-mass, roberto-guerrero, nigel-mansell, derek-daly, raul-boesel, brian-henton, slim-borgudd]
+- lap: 8
+  drivers: [andrea-de-cesaris, niki-lauda, gilles-villeneuve, john-watson, keke-rosberg, nelson-piquet, alain-prost, michele-alboreto, eddie-cheever, mario-andretti, jacques-laffite, jean-pierre-jarier, elio-de-angelis, riccardo-patrese, jochen-mass, roberto-guerrero, nigel-mansell, derek-daly, raul-boesel, brian-henton, slim-borgudd]
+- lap: 9
+  drivers: [andrea-de-cesaris, niki-lauda, john-watson, gilles-villeneuve, keke-rosberg, nelson-piquet, michele-alboreto, alain-prost, eddie-cheever, mario-andretti, jacques-laffite, jean-pierre-jarier, riccardo-patrese, elio-de-angelis, jochen-mass, roberto-guerrero, nigel-mansell, derek-daly, raul-boesel, brian-henton, slim-borgudd]
+- lap: 10
+  drivers: [andrea-de-cesaris, niki-lauda, john-watson, gilles-villeneuve, keke-rosberg, nelson-piquet, michele-alboreto, eddie-cheever, mario-andretti, alain-prost, jacques-laffite, riccardo-patrese, jean-pierre-jarier, elio-de-angelis, jochen-mass, roberto-guerrero, nigel-mansell, derek-daly, raul-boesel, brian-henton, slim-borgudd]
+- lap: 11
+  drivers: [andrea-de-cesaris, niki-lauda, john-watson, gilles-villeneuve, keke-rosberg, nelson-piquet, michele-alboreto, eddie-cheever, mario-andretti, jacques-laffite, riccardo-patrese, elio-de-angelis, jean-pierre-jarier, jochen-mass, roberto-guerrero, nigel-mansell, derek-daly, raul-boesel, brian-henton, slim-borgudd]
+- lap: 12
+  drivers: [andrea-de-cesaris, niki-lauda, john-watson, gilles-villeneuve, keke-rosberg, nelson-piquet, michele-alboreto, eddie-cheever, mario-andretti, jacques-laffite, riccardo-patrese, elio-de-angelis, jean-pierre-jarier, jochen-mass, nigel-mansell, roberto-guerrero, derek-daly, raul-boesel, brian-henton, slim-borgudd]
+- lap: 13
+  drivers: [andrea-de-cesaris, niki-lauda, john-watson, gilles-villeneuve, keke-rosberg, nelson-piquet, michele-alboreto, eddie-cheever, mario-andretti, jacques-laffite, riccardo-patrese, elio-de-angelis, jean-pierre-jarier, jochen-mass, nigel-mansell, roberto-guerrero, derek-daly, raul-boesel, brian-henton, slim-borgudd]
+- lap: 14
+  drivers: [andrea-de-cesaris, niki-lauda, john-watson, gilles-villeneuve, keke-rosberg, nelson-piquet, michele-alboreto, eddie-cheever, mario-andretti, jacques-laffite, riccardo-patrese, elio-de-angelis, jean-pierre-jarier, jochen-mass, nigel-mansell, roberto-guerrero, derek-daly, raul-boesel, brian-henton, slim-borgudd]
+- lap: 15
+  drivers: [niki-lauda, andrea-de-cesaris, john-watson, gilles-villeneuve, keke-rosberg, nelson-piquet, michele-alboreto, eddie-cheever, mario-andretti, jacques-laffite, riccardo-patrese, elio-de-angelis, jean-pierre-jarier, jochen-mass, nigel-mansell, roberto-guerrero, derek-daly, raul-boesel, brian-henton, slim-borgudd]
+- lap: 16
+  drivers: [niki-lauda, andrea-de-cesaris, john-watson, gilles-villeneuve, keke-rosberg, nelson-piquet, michele-alboreto, eddie-cheever, mario-andretti, jacques-laffite, riccardo-patrese, elio-de-angelis, jean-pierre-jarier, jochen-mass, nigel-mansell, roberto-guerrero, derek-daly, raul-boesel, brian-henton, slim-borgudd]
+- lap: 17
+  drivers: [niki-lauda, andrea-de-cesaris, john-watson, gilles-villeneuve, keke-rosberg, nelson-piquet, michele-alboreto, eddie-cheever, mario-andretti, jacques-laffite, riccardo-patrese, elio-de-angelis, jean-pierre-jarier, jochen-mass, nigel-mansell, roberto-guerrero, derek-daly, raul-boesel, brian-henton, slim-borgudd]
+- lap: 18
+  drivers: [niki-lauda, andrea-de-cesaris, john-watson, gilles-villeneuve, keke-rosberg, nelson-piquet, michele-alboreto, eddie-cheever, jacques-laffite, riccardo-patrese, elio-de-angelis, mario-andretti, jean-pierre-jarier, jochen-mass, nigel-mansell, roberto-guerrero, derek-daly, brian-henton, raul-boesel, slim-borgudd]
+- lap: 19
+  drivers: [niki-lauda, andrea-de-cesaris, john-watson, gilles-villeneuve, keke-rosberg, nelson-piquet, michele-alboreto, eddie-cheever, jacques-laffite, riccardo-patrese, elio-de-angelis, jean-pierre-jarier, jochen-mass, nigel-mansell, roberto-guerrero, derek-daly, brian-henton, raul-boesel, mario-andretti, slim-borgudd]
+- lap: 20
+  drivers: [niki-lauda, andrea-de-cesaris, john-watson, gilles-villeneuve, keke-rosberg, nelson-piquet, michele-alboreto, eddie-cheever, jacques-laffite, riccardo-patrese, elio-de-angelis, jean-pierre-jarier, jochen-mass, nigel-mansell, roberto-guerrero, derek-daly, brian-henton, raul-boesel, slim-borgudd]
+- lap: 21
+  drivers: [niki-lauda, andrea-de-cesaris, john-watson, keke-rosberg, gilles-villeneuve, nelson-piquet, michele-alboreto, eddie-cheever, jacques-laffite, riccardo-patrese, elio-de-angelis, jean-pierre-jarier, jochen-mass, nigel-mansell, roberto-guerrero, derek-daly, brian-henton, raul-boesel, slim-borgudd]
+- lap: 22
+  drivers: [niki-lauda, andrea-de-cesaris, john-watson, keke-rosberg, gilles-villeneuve, nelson-piquet, michele-alboreto, eddie-cheever, jacques-laffite, riccardo-patrese, elio-de-angelis, jean-pierre-jarier, jochen-mass, nigel-mansell, roberto-guerrero, derek-daly, brian-henton, raul-boesel, slim-borgudd]
+- lap: 23
+  drivers: [niki-lauda, andrea-de-cesaris, john-watson, keke-rosberg, gilles-villeneuve, nelson-piquet, michele-alboreto, eddie-cheever, jacques-laffite, riccardo-patrese, elio-de-angelis, jean-pierre-jarier, jochen-mass, nigel-mansell, roberto-guerrero, derek-daly, brian-henton, raul-boesel, slim-borgudd]
+- lap: 24
+  drivers: [niki-lauda, andrea-de-cesaris, john-watson, keke-rosberg, gilles-villeneuve, nelson-piquet, michele-alboreto, eddie-cheever, jacques-laffite, riccardo-patrese, elio-de-angelis, jean-pierre-jarier, jochen-mass, roberto-guerrero, nigel-mansell, brian-henton, raul-boesel, slim-borgudd]
+- lap: 25
+  drivers: [niki-lauda, andrea-de-cesaris, john-watson, keke-rosberg, gilles-villeneuve, nelson-piquet, michele-alboreto, eddie-cheever, jacques-laffite, riccardo-patrese, elio-de-angelis, jean-pierre-jarier, jochen-mass, roberto-guerrero, nigel-mansell, brian-henton, raul-boesel, slim-borgudd]
+- lap: 26
+  drivers: [niki-lauda, andrea-de-cesaris, john-watson, keke-rosberg, gilles-villeneuve, michele-alboreto, eddie-cheever, jacques-laffite, riccardo-patrese, elio-de-angelis, jean-pierre-jarier, jochen-mass, roberto-guerrero, nigel-mansell, brian-henton, raul-boesel, slim-borgudd]
+- lap: 27
+  drivers: [niki-lauda, andrea-de-cesaris, keke-rosberg, john-watson, gilles-villeneuve, michele-alboreto, eddie-cheever, elio-de-angelis, riccardo-patrese, jochen-mass, roberto-guerrero, nigel-mansell, brian-henton, raul-boesel, slim-borgudd]
+- lap: 28
+  drivers: [niki-lauda, andrea-de-cesaris, keke-rosberg, john-watson, gilles-villeneuve, michele-alboreto, eddie-cheever, elio-de-angelis, riccardo-patrese, jochen-mass, nigel-mansell, brian-henton, raul-boesel, slim-borgudd]
+- lap: 29
+  drivers: [niki-lauda, andrea-de-cesaris, keke-rosberg, gilles-villeneuve, michele-alboreto, john-watson, eddie-cheever, elio-de-angelis, riccardo-patrese, jochen-mass, nigel-mansell, brian-henton, raul-boesel, slim-borgudd]
+- lap: 30
+  drivers: [niki-lauda, andrea-de-cesaris, keke-rosberg, gilles-villeneuve, michele-alboreto, eddie-cheever, elio-de-angelis, john-watson, riccardo-patrese, jochen-mass, nigel-mansell, brian-henton, raul-boesel, slim-borgudd]
+- lap: 31
+  drivers: [niki-lauda, andrea-de-cesaris, keke-rosberg, gilles-villeneuve, michele-alboreto, eddie-cheever, elio-de-angelis, john-watson, riccardo-patrese, jochen-mass, nigel-mansell, brian-henton, raul-boesel, slim-borgudd]
+- lap: 32
+  drivers: [niki-lauda, andrea-de-cesaris, keke-rosberg, gilles-villeneuve, michele-alboreto, eddie-cheever, elio-de-angelis, john-watson, riccardo-patrese, jochen-mass, nigel-mansell, brian-henton, raul-boesel, slim-borgudd]
+- lap: 33
+  drivers: [niki-lauda, andrea-de-cesaris, keke-rosberg, gilles-villeneuve, michele-alboreto, eddie-cheever, elio-de-angelis, riccardo-patrese, john-watson, jochen-mass, nigel-mansell, raul-boesel, slim-borgudd]
+- lap: 34
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, eddie-cheever, elio-de-angelis, riccardo-patrese, john-watson, jochen-mass, nigel-mansell, raul-boesel, slim-borgudd]
+- lap: 35
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, eddie-cheever, elio-de-angelis, riccardo-patrese, john-watson, jochen-mass, nigel-mansell, raul-boesel, slim-borgudd]
+- lap: 36
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, eddie-cheever, elio-de-angelis, riccardo-patrese, john-watson, jochen-mass, nigel-mansell, raul-boesel, slim-borgudd]
+- lap: 37
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, eddie-cheever, elio-de-angelis, riccardo-patrese, john-watson, jochen-mass, nigel-mansell, raul-boesel, slim-borgudd]
+- lap: 38
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, eddie-cheever, riccardo-patrese, elio-de-angelis, john-watson, jochen-mass, nigel-mansell, raul-boesel, slim-borgudd]
+- lap: 39
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, eddie-cheever, riccardo-patrese, elio-de-angelis, john-watson, jochen-mass, nigel-mansell, raul-boesel, slim-borgudd]
+- lap: 40
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, eddie-cheever, riccardo-patrese, elio-de-angelis, john-watson, jochen-mass, nigel-mansell, raul-boesel, slim-borgudd]
+- lap: 41
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, eddie-cheever, riccardo-patrese, elio-de-angelis, john-watson, jochen-mass, nigel-mansell, raul-boesel, slim-borgudd]
+- lap: 42
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, eddie-cheever, riccardo-patrese, elio-de-angelis, john-watson, jochen-mass, nigel-mansell, raul-boesel, slim-borgudd]
+- lap: 43
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, eddie-cheever, riccardo-patrese, elio-de-angelis, john-watson, jochen-mass, nigel-mansell, raul-boesel, slim-borgudd]
+- lap: 44
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, eddie-cheever, riccardo-patrese, elio-de-angelis, john-watson, jochen-mass, nigel-mansell, raul-boesel, slim-borgudd]
+- lap: 45
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, riccardo-patrese, eddie-cheever, elio-de-angelis, john-watson, jochen-mass, nigel-mansell, raul-boesel, slim-borgudd]
+- lap: 46
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, riccardo-patrese, elio-de-angelis, john-watson, eddie-cheever, jochen-mass, nigel-mansell, raul-boesel, slim-borgudd]
+- lap: 47
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, riccardo-patrese, elio-de-angelis, john-watson, eddie-cheever, jochen-mass, nigel-mansell, raul-boesel, slim-borgudd]
+- lap: 48
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, riccardo-patrese, elio-de-angelis, john-watson, eddie-cheever, jochen-mass, nigel-mansell, raul-boesel, slim-borgudd]
+- lap: 49
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, riccardo-patrese, elio-de-angelis, john-watson, eddie-cheever, jochen-mass, nigel-mansell, raul-boesel, slim-borgudd]
+- lap: 50
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, riccardo-patrese, elio-de-angelis, john-watson, eddie-cheever, jochen-mass, nigel-mansell, raul-boesel, slim-borgudd]
+- lap: 51
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, riccardo-patrese, elio-de-angelis, john-watson, eddie-cheever, jochen-mass, nigel-mansell, raul-boesel, slim-borgudd]
+- lap: 52
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, riccardo-patrese, elio-de-angelis, john-watson, eddie-cheever, jochen-mass, nigel-mansell, raul-boesel, slim-borgudd]
+- lap: 53
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, riccardo-patrese, elio-de-angelis, john-watson, eddie-cheever, nigel-mansell, jochen-mass, raul-boesel, slim-borgudd]
+- lap: 54
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, riccardo-patrese, elio-de-angelis, john-watson, eddie-cheever, nigel-mansell, jochen-mass, raul-boesel, slim-borgudd]
+- lap: 55
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, riccardo-patrese, elio-de-angelis, john-watson, eddie-cheever, nigel-mansell, jochen-mass, raul-boesel, slim-borgudd]
+- lap: 56
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, riccardo-patrese, elio-de-angelis, john-watson, eddie-cheever, nigel-mansell, jochen-mass, raul-boesel, slim-borgudd]
+- lap: 57
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, riccardo-patrese, elio-de-angelis, john-watson, eddie-cheever, nigel-mansell, jochen-mass, raul-boesel, slim-borgudd]
+- lap: 58
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, michele-alboreto, riccardo-patrese, elio-de-angelis, john-watson, eddie-cheever, nigel-mansell, jochen-mass, raul-boesel, slim-borgudd]
+- lap: 59
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, riccardo-patrese, michele-alboreto, elio-de-angelis, john-watson, eddie-cheever, nigel-mansell, jochen-mass, raul-boesel, slim-borgudd]
+- lap: 60
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, riccardo-patrese, michele-alboreto, elio-de-angelis, john-watson, nigel-mansell, jochen-mass, raul-boesel, slim-borgudd]
+- lap: 61
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, riccardo-patrese, michele-alboreto, elio-de-angelis, john-watson, nigel-mansell, jochen-mass, raul-boesel, slim-borgudd]
+- lap: 62
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, riccardo-patrese, michele-alboreto, elio-de-angelis, john-watson, nigel-mansell, jochen-mass, raul-boesel, slim-borgudd]
+- lap: 63
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, riccardo-patrese, michele-alboreto, elio-de-angelis, john-watson, nigel-mansell, jochen-mass, raul-boesel, slim-borgudd]
+- lap: 64
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, riccardo-patrese, michele-alboreto, elio-de-angelis, john-watson, nigel-mansell, jochen-mass, raul-boesel, slim-borgudd]
+- lap: 65
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, riccardo-patrese, michele-alboreto, elio-de-angelis, john-watson, nigel-mansell, jochen-mass, raul-boesel, slim-borgudd]
+- lap: 66
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, riccardo-patrese, michele-alboreto, elio-de-angelis, john-watson, nigel-mansell, jochen-mass, raul-boesel, slim-borgudd]
+- lap: 67
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, riccardo-patrese, michele-alboreto, elio-de-angelis, john-watson, nigel-mansell, jochen-mass, raul-boesel, slim-borgudd]
+- lap: 68
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, riccardo-patrese, michele-alboreto, elio-de-angelis, john-watson, nigel-mansell, jochen-mass, raul-boesel, slim-borgudd]
+- lap: 69
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, riccardo-patrese, michele-alboreto, elio-de-angelis, john-watson, nigel-mansell, jochen-mass, raul-boesel]
+- lap: 70
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, riccardo-patrese, michele-alboreto, elio-de-angelis, john-watson, nigel-mansell, jochen-mass, raul-boesel]
+- lap: 71
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, riccardo-patrese, michele-alboreto, elio-de-angelis, john-watson, nigel-mansell, jochen-mass]
+- lap: 72
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, riccardo-patrese, michele-alboreto, elio-de-angelis, john-watson, nigel-mansell, jochen-mass]
+- lap: 73
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, riccardo-patrese, michele-alboreto, elio-de-angelis, john-watson, nigel-mansell, jochen-mass]
+- lap: 74
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, riccardo-patrese, michele-alboreto, elio-de-angelis, john-watson]
+- lap: 75
+  drivers: [niki-lauda, keke-rosberg, gilles-villeneuve, riccardo-patrese, michele-alboreto]

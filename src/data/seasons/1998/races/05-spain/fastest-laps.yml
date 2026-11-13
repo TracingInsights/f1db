@@ -14,7 +14,7 @@
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: goodyear
-  lap: 45
+  lap: 47
   time: "1:24.625"
   gap: "+0.350"
   interval: "+0.350"
@@ -24,7 +24,7 @@
   constructorId: mclaren
   engineManufacturerId: mercedes
   tyreManufacturerId: bridgestone
-  lap: 61
+  lap: 63
   time: "1:24.778"
   gap: "+0.503"
   interval: "+0.153"
@@ -34,7 +34,7 @@
   constructorId: benetton
   engineManufacturerId: playlife
   tyreManufacturerId: bridgestone
-  lap: 43
+  lap: 44
   time: "1:25.343"
   gap: "+1.068"
   interval: "+0.565"
@@ -44,7 +44,7 @@
   constructorId: sauber
   engineManufacturerId: petronas
   tyreManufacturerId: goodyear
-  lap: 31
+  lap: 32
   time: "1:25.668"
   gap: "+1.393"
   interval: "+0.325"
@@ -74,7 +74,7 @@
   constructorId: williams
   engineManufacturerId: mecachrome
   tyreManufacturerId: goodyear
-  lap: 3
+  lap: 4
   time: "1:26.011"
   gap: "+1.736"
   interval: "+0.160"
@@ -84,7 +84,7 @@
   constructorId: sauber
   engineManufacturerId: petronas
   tyreManufacturerId: goodyear
-  lap: 25
+  lap: 26
   time: "1:26.354"
   gap: "+2.079"
   interval: "+0.343"
@@ -94,7 +94,7 @@
   constructorId: prost
   engineManufacturerId: peugeot
   tyreManufacturerId: bridgestone
-  lap: 25
+  lap: 26
   time: "1:26.394"
   gap: "+2.119"
   interval: "+0.040"
@@ -114,7 +114,7 @@
   constructorId: jordan
   engineManufacturerId: mugen-honda
   tyreManufacturerId: goodyear
-  lap: 37
+  lap: 38
   time: "1:26.501"
   gap: "+2.226"
   interval: "+0.094"
@@ -124,7 +124,7 @@
   constructorId: prost
   engineManufacturerId: peugeot
   tyreManufacturerId: bridgestone
-  lap: 57
+  lap: 59
   time: "1:26.502"
   gap: "+2.227"
   interval: "+0.001"
@@ -134,7 +134,7 @@
   constructorId: stewart
   engineManufacturerId: ford
   tyreManufacturerId: bridgestone
-  lap: 23
+  lap: 24
   time: "1:26.532"
   gap: "+2.257"
   interval: "+0.030"
@@ -144,7 +144,7 @@
   constructorId: jordan
   engineManufacturerId: mugen-honda
   tyreManufacturerId: goodyear
-  lap: 40
+  lap: 41
   time: "1:26.533"
   gap: "+2.258"
   interval: "+0.001"
@@ -154,7 +154,7 @@
   constructorId: stewart
   engineManufacturerId: ford
   tyreManufacturerId: bridgestone
-  lap: 43
+  lap: 44
   time: "1:27.203"
   gap: "+2.928"
   interval: "+0.670"
@@ -164,7 +164,7 @@
   constructorId: minardi
   engineManufacturerId: ford
   tyreManufacturerId: bridgestone
-  lap: 45
+  lap: 47
   time: "1:27.601"
   gap: "+3.326"
   interval: "+0.398"
@@ -184,7 +184,7 @@
   constructorId: arrows
   engineManufacturerId: arrows
   tyreManufacturerId: bridgestone
-  lap: 22
+  lap: 21
   time: "1:27.767"
   gap: "+3.492"
   interval: "+0.129"

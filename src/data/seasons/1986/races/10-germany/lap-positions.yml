@@ -1,0 +1,90 @@
+- lap: 0
+  drivers: [keke-rosberg, alain-prost, ayrton-senna, gerhard-berger, nelson-piquet, nigel-mansell, riccardo-patrese, rene-arnoux, teo-fabi, michele-alboreto, stefan-johansson, johnny-dumfries, patrick-tambay, philippe-alliot, martin-brundle, jonathan-palmer, christian-danner, philippe-streiff, alan-jones, derek-warwick, thierry-boutsen, alessandro-nannini, andrea-de-cesaris, huub-rothengatter, piercarlo-ghinzani, allen-berg]
+- lap: 1
+  drivers: [ayrton-senna, gerhard-berger, keke-rosberg, nelson-piquet, alain-prost, nigel-mansell, riccardo-patrese, michele-alboreto, rene-arnoux, johnny-dumfries, derek-warwick, patrick-tambay, philippe-streiff, andrea-de-cesaris, jonathan-palmer, alan-jones, thierry-boutsen, alessandro-nannini, huub-rothengatter, christian-danner, piercarlo-ghinzani, martin-brundle, allen-berg, stefan-johansson, philippe-alliot]
+- lap: 2
+  drivers: [keke-rosberg, ayrton-senna, gerhard-berger, nelson-piquet, alain-prost, nigel-mansell, michele-alboreto, riccardo-patrese, rene-arnoux, johnny-dumfries, derek-warwick, patrick-tambay, philippe-streiff, andrea-de-cesaris, jonathan-palmer, alan-jones, thierry-boutsen, alessandro-nannini, huub-rothengatter, christian-danner, martin-brundle, piercarlo-ghinzani, allen-berg, philippe-alliot, stefan-johansson]
+- lap: 3
+  drivers: [keke-rosberg, nelson-piquet, ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, rene-arnoux, riccardo-patrese, johnny-dumfries, derek-warwick, patrick-tambay, philippe-streiff, andrea-de-cesaris, jonathan-palmer, alan-jones, thierry-boutsen, alessandro-nannini, huub-rothengatter, christian-danner, martin-brundle, piercarlo-ghinzani, allen-berg, philippe-alliot, stefan-johansson]
+- lap: 4
+  drivers: [keke-rosberg, nelson-piquet, ayrton-senna, alain-prost, nigel-mansell, gerhard-berger, michele-alboreto, rene-arnoux, riccardo-patrese, johnny-dumfries, patrick-tambay, derek-warwick, philippe-streiff, andrea-de-cesaris, alan-jones, thierry-boutsen, jonathan-palmer, alessandro-nannini, martin-brundle, huub-rothengatter, christian-danner, allen-berg, piercarlo-ghinzani, philippe-alliot, stefan-johansson]
+- lap: 5
+  drivers: [keke-rosberg, nelson-piquet, alain-prost, ayrton-senna, nigel-mansell, michele-alboreto, rene-arnoux, riccardo-patrese, johnny-dumfries, patrick-tambay, derek-warwick, philippe-streiff, gerhard-berger, alan-jones, andrea-de-cesaris, thierry-boutsen, martin-brundle, jonathan-palmer, alessandro-nannini, christian-danner, huub-rothengatter, allen-berg, piercarlo-ghinzani, stefan-johansson, philippe-alliot]
+- lap: 6
+  drivers: [nelson-piquet, keke-rosberg, alain-prost, ayrton-senna, nigel-mansell, michele-alboreto, rene-arnoux, riccardo-patrese, johnny-dumfries, derek-warwick, philippe-streiff, patrick-tambay, alan-jones, andrea-de-cesaris, martin-brundle, thierry-boutsen, jonathan-palmer, alessandro-nannini, christian-danner, huub-rothengatter, allen-berg, piercarlo-ghinzani, stefan-johansson, philippe-alliot, gerhard-berger]
+- lap: 7
+  drivers: [nelson-piquet, keke-rosberg, alain-prost, ayrton-senna, rene-arnoux, nigel-mansell, johnny-dumfries, philippe-streiff, derek-warwick, riccardo-patrese, alan-jones, martin-brundle, andrea-de-cesaris, thierry-boutsen, jonathan-palmer, christian-danner, alessandro-nannini, huub-rothengatter, patrick-tambay, piercarlo-ghinzani, allen-berg, stefan-johansson, philippe-alliot, gerhard-berger]
+- lap: 8
+  drivers: [nelson-piquet, keke-rosberg, alain-prost, ayrton-senna, rene-arnoux, nigel-mansell, johnny-dumfries, derek-warwick, alan-jones, riccardo-patrese, martin-brundle, andrea-de-cesaris, thierry-boutsen, christian-danner, jonathan-palmer, alessandro-nannini, huub-rothengatter, patrick-tambay, allen-berg, piercarlo-ghinzani, stefan-johansson, philippe-alliot, gerhard-berger]
+- lap: 9
+  drivers: [nelson-piquet, keke-rosberg, alain-prost, ayrton-senna, rene-arnoux, nigel-mansell, johnny-dumfries, derek-warwick, alan-jones, riccardo-patrese, martin-brundle, andrea-de-cesaris, thierry-boutsen, christian-danner, jonathan-palmer, alessandro-nannini, huub-rothengatter, patrick-tambay, allen-berg, piercarlo-ghinzani, stefan-johansson, philippe-alliot, gerhard-berger]
+- lap: 10
+  drivers: [nelson-piquet, keke-rosberg, alain-prost, ayrton-senna, rene-arnoux, nigel-mansell, johnny-dumfries, derek-warwick, riccardo-patrese, alan-jones, martin-brundle, andrea-de-cesaris, christian-danner, thierry-boutsen, jonathan-palmer, alessandro-nannini, huub-rothengatter, patrick-tambay, allen-berg, piercarlo-ghinzani, stefan-johansson, philippe-alliot, gerhard-berger]
+- lap: 11
+  drivers: [nelson-piquet, keke-rosberg, alain-prost, ayrton-senna, rene-arnoux, nigel-mansell, johnny-dumfries, derek-warwick, riccardo-patrese, alan-jones, martin-brundle, andrea-de-cesaris, christian-danner, jonathan-palmer, alessandro-nannini, patrick-tambay, huub-rothengatter, thierry-boutsen, allen-berg, stefan-johansson, philippe-alliot, gerhard-berger]
+- lap: 12
+  drivers: [nelson-piquet, keke-rosberg, alain-prost, ayrton-senna, rene-arnoux, nigel-mansell, johnny-dumfries, riccardo-patrese, derek-warwick, martin-brundle, alan-jones, andrea-de-cesaris, christian-danner, patrick-tambay, jonathan-palmer, alessandro-nannini, allen-berg, huub-rothengatter, stefan-johansson, thierry-boutsen, gerhard-berger]
+- lap: 13
+  drivers: [nelson-piquet, keke-rosberg, alain-prost, ayrton-senna, rene-arnoux, nigel-mansell, johnny-dumfries, riccardo-patrese, martin-brundle, alan-jones, andrea-de-cesaris, derek-warwick, patrick-tambay, christian-danner, jonathan-palmer, alessandro-nannini, allen-berg, huub-rothengatter, stefan-johansson, thierry-boutsen, gerhard-berger]
+- lap: 14
+  drivers: [nelson-piquet, keke-rosberg, alain-prost, ayrton-senna, rene-arnoux, nigel-mansell, johnny-dumfries, riccardo-patrese, martin-brundle, alan-jones, derek-warwick, andrea-de-cesaris, patrick-tambay, christian-danner, jonathan-palmer, alessandro-nannini, huub-rothengatter, stefan-johansson, allen-berg, gerhard-berger]
+- lap: 15
+  drivers: [keke-rosberg, alain-prost, nelson-piquet, ayrton-senna, rene-arnoux, nigel-mansell, johnny-dumfries, riccardo-patrese, martin-brundle, alan-jones, derek-warwick, patrick-tambay, christian-danner, andrea-de-cesaris, jonathan-palmer, alessandro-nannini, huub-rothengatter, stefan-johansson, allen-berg, gerhard-berger]
+- lap: 16
+  drivers: [keke-rosberg, alain-prost, ayrton-senna, nelson-piquet, rene-arnoux, nigel-mansell, riccardo-patrese, johnny-dumfries, derek-warwick, patrick-tambay, alan-jones, christian-danner, andrea-de-cesaris, jonathan-palmer, alessandro-nannini, martin-brundle, huub-rothengatter, stefan-johansson, allen-berg, gerhard-berger]
+- lap: 17
+  drivers: [keke-rosberg, alain-prost, ayrton-senna, nelson-piquet, rene-arnoux, nigel-mansell, riccardo-patrese, johnny-dumfries, derek-warwick, patrick-tambay, alan-jones, christian-danner, andrea-de-cesaris, jonathan-palmer, alessandro-nannini, stefan-johansson, huub-rothengatter, allen-berg, martin-brundle, gerhard-berger]
+- lap: 18
+  drivers: [keke-rosberg, alain-prost, ayrton-senna, nelson-piquet, rene-arnoux, riccardo-patrese, nigel-mansell, derek-warwick, patrick-tambay, alan-jones, christian-danner, andrea-de-cesaris, jonathan-palmer, alessandro-nannini, stefan-johansson, allen-berg, huub-rothengatter, gerhard-berger, martin-brundle]
+- lap: 19
+  drivers: [keke-rosberg, alain-prost, ayrton-senna, nelson-piquet, rene-arnoux, riccardo-patrese, nigel-mansell, derek-warwick, patrick-tambay, alan-jones, andrea-de-cesaris, christian-danner, jonathan-palmer, alessandro-nannini, stefan-johansson, allen-berg, huub-rothengatter, gerhard-berger, martin-brundle]
+- lap: 20
+  drivers: [alain-prost, nelson-piquet, ayrton-senna, keke-rosberg, riccardo-patrese, rene-arnoux, nigel-mansell, derek-warwick, patrick-tambay, alan-jones, christian-danner, andrea-de-cesaris, jonathan-palmer, stefan-johansson, allen-berg, gerhard-berger, huub-rothengatter, martin-brundle]
+- lap: 21
+  drivers: [nelson-piquet, ayrton-senna, keke-rosberg, alain-prost, nigel-mansell, rene-arnoux, riccardo-patrese, derek-warwick, alan-jones, patrick-tambay, christian-danner, stefan-johansson, jonathan-palmer, gerhard-berger, allen-berg, huub-rothengatter, martin-brundle]
+- lap: 22
+  drivers: [nelson-piquet, keke-rosberg, alain-prost, ayrton-senna, rene-arnoux, nigel-mansell, riccardo-patrese, derek-warwick, alan-jones, patrick-tambay, christian-danner, stefan-johansson, jonathan-palmer, gerhard-berger, allen-berg, huub-rothengatter, martin-brundle]
+- lap: 23
+  drivers: [nelson-piquet, keke-rosberg, alain-prost, ayrton-senna, rene-arnoux, nigel-mansell, derek-warwick, alan-jones, patrick-tambay, christian-danner, stefan-johansson, jonathan-palmer, gerhard-berger, allen-berg, huub-rothengatter, martin-brundle]
+- lap: 24
+  drivers: [nelson-piquet, keke-rosberg, alain-prost, ayrton-senna, rene-arnoux, nigel-mansell, derek-warwick, alan-jones, patrick-tambay, stefan-johansson, christian-danner, jonathan-palmer, gerhard-berger, allen-berg, huub-rothengatter, martin-brundle]
+- lap: 25
+  drivers: [nelson-piquet, keke-rosberg, alain-prost, ayrton-senna, rene-arnoux, nigel-mansell, derek-warwick, alan-jones, patrick-tambay, stefan-johansson, christian-danner, jonathan-palmer, gerhard-berger, allen-berg, huub-rothengatter]
+- lap: 26
+  drivers: [nelson-piquet, keke-rosberg, alain-prost, ayrton-senna, rene-arnoux, nigel-mansell, derek-warwick, alan-jones, patrick-tambay, stefan-johansson, christian-danner, jonathan-palmer, gerhard-berger, allen-berg, huub-rothengatter]
+- lap: 27
+  drivers: [keke-rosberg, alain-prost, nelson-piquet, ayrton-senna, rene-arnoux, nigel-mansell, derek-warwick, alan-jones, patrick-tambay, stefan-johansson, christian-danner, jonathan-palmer, gerhard-berger, allen-berg, huub-rothengatter]
+- lap: 28
+  drivers: [keke-rosberg, alain-prost, nelson-piquet, ayrton-senna, rene-arnoux, nigel-mansell, derek-warwick, alan-jones, patrick-tambay, stefan-johansson, christian-danner, jonathan-palmer, gerhard-berger, allen-berg, huub-rothengatter]
+- lap: 29
+  drivers: [keke-rosberg, alain-prost, nelson-piquet, ayrton-senna, rene-arnoux, nigel-mansell, derek-warwick, alan-jones, patrick-tambay, stefan-johansson, christian-danner, jonathan-palmer, gerhard-berger, allen-berg, huub-rothengatter]
+- lap: 30
+  drivers: [keke-rosberg, alain-prost, nelson-piquet, ayrton-senna, rene-arnoux, nigel-mansell, derek-warwick, alan-jones, patrick-tambay, stefan-johansson, christian-danner, jonathan-palmer, gerhard-berger, allen-berg, huub-rothengatter]
+- lap: 31
+  drivers: [keke-rosberg, nelson-piquet, alain-prost, ayrton-senna, rene-arnoux, nigel-mansell, derek-warwick, patrick-tambay, alan-jones, stefan-johansson, christian-danner, jonathan-palmer, gerhard-berger, allen-berg, huub-rothengatter]
+- lap: 32
+  drivers: [keke-rosberg, nelson-piquet, alain-prost, ayrton-senna, rene-arnoux, nigel-mansell, derek-warwick, patrick-tambay, alan-jones, stefan-johansson, christian-danner, jonathan-palmer, gerhard-berger, allen-berg, huub-rothengatter]
+- lap: 33
+  drivers: [keke-rosberg, nelson-piquet, alain-prost, ayrton-senna, rene-arnoux, nigel-mansell, derek-warwick, patrick-tambay, alan-jones, stefan-johansson, christian-danner, jonathan-palmer, gerhard-berger, allen-berg, huub-rothengatter]
+- lap: 34
+  drivers: [keke-rosberg, nelson-piquet, alain-prost, ayrton-senna, rene-arnoux, nigel-mansell, derek-warwick, patrick-tambay, alan-jones, stefan-johansson, christian-danner, jonathan-palmer, gerhard-berger, allen-berg, huub-rothengatter]
+- lap: 35
+  drivers: [keke-rosberg, nelson-piquet, alain-prost, ayrton-senna, rene-arnoux, nigel-mansell, derek-warwick, patrick-tambay, stefan-johansson, alan-jones, christian-danner, jonathan-palmer, gerhard-berger, allen-berg, huub-rothengatter]
+- lap: 36
+  drivers: [keke-rosberg, nelson-piquet, alain-prost, ayrton-senna, rene-arnoux, nigel-mansell, derek-warwick, patrick-tambay, stefan-johansson, alan-jones, christian-danner, jonathan-palmer, gerhard-berger, allen-berg, huub-rothengatter]
+- lap: 37
+  drivers: [keke-rosberg, nelson-piquet, alain-prost, ayrton-senna, rene-arnoux, nigel-mansell, derek-warwick, patrick-tambay, stefan-johansson, alan-jones, christian-danner, jonathan-palmer, gerhard-berger, allen-berg, huub-rothengatter]
+- lap: 38
+  drivers: [keke-rosberg, nelson-piquet, alain-prost, ayrton-senna, rene-arnoux, nigel-mansell, derek-warwick, patrick-tambay, stefan-johansson, alan-jones, christian-danner, gerhard-berger, allen-berg, huub-rothengatter]
+- lap: 39
+  drivers: [nelson-piquet, keke-rosberg, alain-prost, ayrton-senna, nigel-mansell, rene-arnoux, derek-warwick, patrick-tambay, stefan-johansson, alan-jones, gerhard-berger, allen-berg]
+- lap: 40
+  drivers: [nelson-piquet, keke-rosberg, alain-prost, ayrton-senna, nigel-mansell, rene-arnoux, derek-warwick, patrick-tambay, stefan-johansson, alan-jones, gerhard-berger, allen-berg]
+- lap: 41
+  drivers: [nelson-piquet, keke-rosberg, alain-prost, ayrton-senna, nigel-mansell, rene-arnoux, derek-warwick, patrick-tambay, stefan-johansson, alan-jones, gerhard-berger]
+- lap: 42
+  drivers: [nelson-piquet, keke-rosberg, alain-prost, ayrton-senna, nigel-mansell, rene-arnoux, derek-warwick, patrick-tambay, alan-jones, gerhard-berger]
+- lap: 43
+  drivers: [nelson-piquet, keke-rosberg, ayrton-senna, alain-prost, nigel-mansell, rene-arnoux, derek-warwick, patrick-tambay]
+- lap: 44
+  drivers: [nelson-piquet, ayrton-senna, nigel-mansell, rene-arnoux]

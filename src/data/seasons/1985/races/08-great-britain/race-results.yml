@@ -348,13 +348,13 @@
   reasonRetired: Collision
   points:
   gridPosition: 13
-- position: DNS
+- position: DNF
   driverNumber: 24
   driverId: piercarlo-ghinzani
   constructorId: osella
   engineManufacturerId: alfa-romeo
   tyreManufacturerId: pirelli
-  laps:
+  laps: 0
   time:
   timePenalty:
   gap:

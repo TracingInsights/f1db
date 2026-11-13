@@ -1,0 +1,122 @@
+- lap: 0
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, alessandro-nannini, gerhard-berger, riccardo-patrese, eddie-cheever, thierry-boutsen, ivan-capelli, michele-alboreto, nigel-mansell, satoru-nakajima, philippe-streiff, derek-warwick, philippe-alliot, andrea-de-cesaris, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, julian-bailey, adrian-campos, jonathan-palmer, alex-caffi, piercarlo-ghinzani, stefano-modena]
+- lap: 1
+  drivers: [ayrton-senna, nelson-piquet, riccardo-patrese, alessandro-nannini, gerhard-berger, alain-prost, eddie-cheever, ivan-capelli, thierry-boutsen, nigel-mansell, philippe-streiff, derek-warwick, gabriele-tarquini, luis-perez-sala, philippe-alliot, satoru-nakajima, yannick-dalmas, julian-bailey, mauricio-gugelmin, jonathan-palmer, stefano-modena, alex-caffi, michele-alboreto, adrian-campos, piercarlo-ghinzani]
+- lap: 2
+  drivers: [ayrton-senna, nelson-piquet, riccardo-patrese, alessandro-nannini, gerhard-berger, alain-prost, eddie-cheever, ivan-capelli, thierry-boutsen, nigel-mansell, philippe-streiff, derek-warwick, gabriele-tarquini, luis-perez-sala, satoru-nakajima, philippe-alliot, yannick-dalmas, julian-bailey, mauricio-gugelmin, jonathan-palmer, stefano-modena, michele-alboreto, alex-caffi, adrian-campos, piercarlo-ghinzani]
+- lap: 3
+  drivers: [ayrton-senna, nelson-piquet, riccardo-patrese, gerhard-berger, alain-prost, alessandro-nannini, eddie-cheever, thierry-boutsen, nigel-mansell, philippe-streiff, derek-warwick, gabriele-tarquini, satoru-nakajima, luis-perez-sala, philippe-alliot, yannick-dalmas, mauricio-gugelmin, julian-bailey, jonathan-palmer, michele-alboreto, stefano-modena, alex-caffi, adrian-campos, piercarlo-ghinzani]
+- lap: 4
+  drivers: [ayrton-senna, nelson-piquet, riccardo-patrese, gerhard-berger, alain-prost, alessandro-nannini, eddie-cheever, thierry-boutsen, nigel-mansell, philippe-streiff, derek-warwick, gabriele-tarquini, satoru-nakajima, luis-perez-sala, philippe-alliot, yannick-dalmas, mauricio-gugelmin, julian-bailey, michele-alboreto, jonathan-palmer, stefano-modena, alex-caffi, adrian-campos, piercarlo-ghinzani]
+- lap: 5
+  drivers: [ayrton-senna, nelson-piquet, riccardo-patrese, alain-prost, gerhard-berger, alessandro-nannini, eddie-cheever, thierry-boutsen, nigel-mansell, philippe-streiff, derek-warwick, gabriele-tarquini, satoru-nakajima, luis-perez-sala, philippe-alliot, yannick-dalmas, mauricio-gugelmin, julian-bailey, michele-alboreto, jonathan-palmer, alex-caffi, adrian-campos, piercarlo-ghinzani, stefano-modena]
+- lap: 6
+  drivers: [ayrton-senna, nelson-piquet, alain-prost, riccardo-patrese, gerhard-berger, alessandro-nannini, eddie-cheever, thierry-boutsen, nigel-mansell, philippe-streiff, derek-warwick, satoru-nakajima, gabriele-tarquini, luis-perez-sala, philippe-alliot, yannick-dalmas, mauricio-gugelmin, michele-alboreto, julian-bailey, jonathan-palmer, alex-caffi, adrian-campos, piercarlo-ghinzani, stefano-modena]
+- lap: 7
+  drivers: [ayrton-senna, nelson-piquet, alain-prost, riccardo-patrese, alessandro-nannini, gerhard-berger, eddie-cheever, thierry-boutsen, nigel-mansell, philippe-streiff, derek-warwick, satoru-nakajima, gabriele-tarquini, luis-perez-sala, philippe-alliot, yannick-dalmas, michele-alboreto, mauricio-gugelmin, julian-bailey, jonathan-palmer, alex-caffi, adrian-campos, piercarlo-ghinzani, stefano-modena]
+- lap: 8
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, riccardo-patrese, alessandro-nannini, gerhard-berger, eddie-cheever, thierry-boutsen, nigel-mansell, philippe-streiff, derek-warwick, satoru-nakajima, gabriele-tarquini, luis-perez-sala, michele-alboreto, yannick-dalmas, philippe-alliot, mauricio-gugelmin, jonathan-palmer, alex-caffi, adrian-campos, piercarlo-ghinzani, julian-bailey, stefano-modena]
+- lap: 9
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, riccardo-patrese, alessandro-nannini, gerhard-berger, eddie-cheever, thierry-boutsen, nigel-mansell, philippe-streiff, derek-warwick, satoru-nakajima, gabriele-tarquini, luis-perez-sala, michele-alboreto, yannick-dalmas, philippe-alliot, mauricio-gugelmin, jonathan-palmer, alex-caffi, adrian-campos, piercarlo-ghinzani, julian-bailey, stefano-modena]
+- lap: 10
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, riccardo-patrese, alessandro-nannini, gerhard-berger, thierry-boutsen, nigel-mansell, eddie-cheever, philippe-streiff, derek-warwick, satoru-nakajima, gabriele-tarquini, michele-alboreto, luis-perez-sala, yannick-dalmas, philippe-alliot, mauricio-gugelmin, jonathan-palmer, alex-caffi, adrian-campos, piercarlo-ghinzani, julian-bailey, stefano-modena]
+- lap: 11
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, riccardo-patrese, alessandro-nannini, gerhard-berger, thierry-boutsen, nigel-mansell, eddie-cheever, philippe-streiff, derek-warwick, satoru-nakajima, michele-alboreto, gabriele-tarquini, luis-perez-sala, yannick-dalmas, philippe-alliot, mauricio-gugelmin, jonathan-palmer, alex-caffi, adrian-campos, piercarlo-ghinzani, julian-bailey, stefano-modena]
+- lap: 12
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, riccardo-patrese, alessandro-nannini, gerhard-berger, thierry-boutsen, nigel-mansell, eddie-cheever, philippe-streiff, derek-warwick, satoru-nakajima, michele-alboreto, gabriele-tarquini, luis-perez-sala, yannick-dalmas, philippe-alliot, mauricio-gugelmin, jonathan-palmer, alex-caffi, adrian-campos, piercarlo-ghinzani, julian-bailey, stefano-modena]
+- lap: 13
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, riccardo-patrese, alessandro-nannini, gerhard-berger, thierry-boutsen, nigel-mansell, eddie-cheever, philippe-streiff, derek-warwick, satoru-nakajima, michele-alboreto, gabriele-tarquini, luis-perez-sala, yannick-dalmas, philippe-alliot, mauricio-gugelmin, jonathan-palmer, alex-caffi, adrian-campos, piercarlo-ghinzani, julian-bailey, stefano-modena]
+- lap: 14
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, riccardo-patrese, alessandro-nannini, gerhard-berger, thierry-boutsen, nigel-mansell, eddie-cheever, philippe-streiff, derek-warwick, satoru-nakajima, michele-alboreto, gabriele-tarquini, luis-perez-sala, yannick-dalmas, philippe-alliot, mauricio-gugelmin, jonathan-palmer, alex-caffi, adrian-campos, piercarlo-ghinzani, julian-bailey, stefano-modena]
+- lap: 15
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, riccardo-patrese, alessandro-nannini, gerhard-berger, thierry-boutsen, nigel-mansell, eddie-cheever, philippe-streiff, derek-warwick, satoru-nakajima, michele-alboreto, gabriele-tarquini, luis-perez-sala, yannick-dalmas, philippe-alliot, mauricio-gugelmin, jonathan-palmer, alex-caffi, adrian-campos, piercarlo-ghinzani, julian-bailey, stefano-modena]
+- lap: 16
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, riccardo-patrese, alessandro-nannini, thierry-boutsen, gerhard-berger, nigel-mansell, eddie-cheever, philippe-streiff, derek-warwick, satoru-nakajima, michele-alboreto, gabriele-tarquini, luis-perez-sala, yannick-dalmas, philippe-alliot, mauricio-gugelmin, jonathan-palmer, alex-caffi, adrian-campos, piercarlo-ghinzani, julian-bailey, stefano-modena]
+- lap: 17
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, riccardo-patrese, alessandro-nannini, thierry-boutsen, gerhard-berger, nigel-mansell, eddie-cheever, philippe-streiff, derek-warwick, michele-alboreto, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, philippe-alliot, mauricio-gugelmin, jonathan-palmer, alex-caffi, adrian-campos, julian-bailey, stefano-modena]
+- lap: 18
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, riccardo-patrese, alessandro-nannini, thierry-boutsen, gerhard-berger, nigel-mansell, eddie-cheever, philippe-streiff, derek-warwick, michele-alboreto, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, alex-caffi, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 19
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, riccardo-patrese, alessandro-nannini, thierry-boutsen, gerhard-berger, nigel-mansell, eddie-cheever, philippe-streiff, derek-warwick, michele-alboreto, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 20
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, riccardo-patrese, alessandro-nannini, thierry-boutsen, nigel-mansell, gerhard-berger, eddie-cheever, philippe-streiff, derek-warwick, michele-alboreto, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 21
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, riccardo-patrese, alessandro-nannini, thierry-boutsen, nigel-mansell, gerhard-berger, eddie-cheever, philippe-streiff, derek-warwick, michele-alboreto, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 22
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, riccardo-patrese, alessandro-nannini, thierry-boutsen, nigel-mansell, gerhard-berger, eddie-cheever, philippe-streiff, michele-alboreto, derek-warwick, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 23
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, riccardo-patrese, alessandro-nannini, thierry-boutsen, nigel-mansell, gerhard-berger, eddie-cheever, philippe-streiff, michele-alboreto, derek-warwick, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 24
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, riccardo-patrese, alessandro-nannini, thierry-boutsen, nigel-mansell, gerhard-berger, eddie-cheever, philippe-streiff, michele-alboreto, derek-warwick, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 25
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, alessandro-nannini, riccardo-patrese, thierry-boutsen, nigel-mansell, gerhard-berger, eddie-cheever, philippe-streiff, michele-alboreto, derek-warwick, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 26
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, alessandro-nannini, thierry-boutsen, nigel-mansell, riccardo-patrese, gerhard-berger, eddie-cheever, philippe-streiff, michele-alboreto, derek-warwick, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 27
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, alessandro-nannini, thierry-boutsen, nigel-mansell, riccardo-patrese, gerhard-berger, eddie-cheever, philippe-streiff, michele-alboreto, derek-warwick, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 28
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, alessandro-nannini, thierry-boutsen, nigel-mansell, riccardo-patrese, gerhard-berger, eddie-cheever, philippe-streiff, michele-alboreto, derek-warwick, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 29
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, alessandro-nannini, thierry-boutsen, nigel-mansell, riccardo-patrese, gerhard-berger, eddie-cheever, michele-alboreto, philippe-streiff, derek-warwick, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 30
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, alessandro-nannini, thierry-boutsen, nigel-mansell, riccardo-patrese, gerhard-berger, eddie-cheever, michele-alboreto, philippe-streiff, derek-warwick, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 31
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, alessandro-nannini, thierry-boutsen, nigel-mansell, riccardo-patrese, gerhard-berger, michele-alboreto, eddie-cheever, philippe-streiff, derek-warwick, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 32
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, alessandro-nannini, thierry-boutsen, nigel-mansell, riccardo-patrese, gerhard-berger, michele-alboreto, eddie-cheever, philippe-streiff, derek-warwick, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 33
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, alessandro-nannini, nigel-mansell, thierry-boutsen, riccardo-patrese, gerhard-berger, michele-alboreto, eddie-cheever, philippe-streiff, derek-warwick, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 34
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, alessandro-nannini, nigel-mansell, thierry-boutsen, riccardo-patrese, gerhard-berger, michele-alboreto, eddie-cheever, philippe-streiff, derek-warwick, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 35
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, alessandro-nannini, nigel-mansell, thierry-boutsen, riccardo-patrese, gerhard-berger, michele-alboreto, eddie-cheever, philippe-streiff, derek-warwick, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 36
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, nigel-mansell, thierry-boutsen, riccardo-patrese, alessandro-nannini, gerhard-berger, michele-alboreto, eddie-cheever, philippe-streiff, derek-warwick, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 37
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, nigel-mansell, thierry-boutsen, riccardo-patrese, alessandro-nannini, gerhard-berger, michele-alboreto, eddie-cheever, philippe-streiff, derek-warwick, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 38
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, nigel-mansell, thierry-boutsen, alessandro-nannini, riccardo-patrese, gerhard-berger, michele-alboreto, eddie-cheever, philippe-streiff, derek-warwick, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 39
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, nigel-mansell, thierry-boutsen, alessandro-nannini, riccardo-patrese, gerhard-berger, michele-alboreto, eddie-cheever, philippe-streiff, derek-warwick, satoru-nakajima, gabriele-tarquini, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 40
+  drivers: [ayrton-senna, alain-prost, nigel-mansell, nelson-piquet, thierry-boutsen, alessandro-nannini, riccardo-patrese, gerhard-berger, michele-alboreto, eddie-cheever, philippe-streiff, derek-warwick, satoru-nakajima, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, gabriele-tarquini, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 41
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, nigel-mansell, thierry-boutsen, alessandro-nannini, riccardo-patrese, gerhard-berger, michele-alboreto, eddie-cheever, philippe-streiff, derek-warwick, satoru-nakajima, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 42
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, nigel-mansell, thierry-boutsen, alessandro-nannini, riccardo-patrese, gerhard-berger, michele-alboreto, eddie-cheever, philippe-streiff, derek-warwick, satoru-nakajima, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 43
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, thierry-boutsen, alessandro-nannini, riccardo-patrese, gerhard-berger, michele-alboreto, eddie-cheever, derek-warwick, philippe-streiff, satoru-nakajima, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 44
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, thierry-boutsen, alessandro-nannini, riccardo-patrese, gerhard-berger, michele-alboreto, eddie-cheever, derek-warwick, philippe-streiff, satoru-nakajima, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 45
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, thierry-boutsen, alessandro-nannini, riccardo-patrese, gerhard-berger, michele-alboreto, eddie-cheever, derek-warwick, philippe-streiff, satoru-nakajima, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 46
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, thierry-boutsen, alessandro-nannini, riccardo-patrese, gerhard-berger, michele-alboreto, eddie-cheever, derek-warwick, satoru-nakajima, philippe-streiff, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 47
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, thierry-boutsen, alessandro-nannini, riccardo-patrese, gerhard-berger, michele-alboreto, eddie-cheever, derek-warwick, satoru-nakajima, philippe-streiff, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 48
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, thierry-boutsen, alessandro-nannini, gerhard-berger, riccardo-patrese, michele-alboreto, eddie-cheever, derek-warwick, satoru-nakajima, philippe-streiff, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, julian-bailey, philippe-alliot, stefano-modena]
+- lap: 49
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, thierry-boutsen, alessandro-nannini, gerhard-berger, riccardo-patrese, michele-alboreto, eddie-cheever, derek-warwick, satoru-nakajima, philippe-streiff, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, philippe-alliot, stefano-modena]
+- lap: 50
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, thierry-boutsen, alessandro-nannini, gerhard-berger, riccardo-patrese, michele-alboreto, eddie-cheever, derek-warwick, satoru-nakajima, philippe-streiff, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, philippe-alliot, stefano-modena]
+- lap: 51
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, thierry-boutsen, alessandro-nannini, gerhard-berger, riccardo-patrese, michele-alboreto, eddie-cheever, satoru-nakajima, derek-warwick, philippe-streiff, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, philippe-alliot, stefano-modena]
+- lap: 52
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, thierry-boutsen, alessandro-nannini, gerhard-berger, riccardo-patrese, michele-alboreto, eddie-cheever, satoru-nakajima, derek-warwick, philippe-streiff, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, philippe-alliot, stefano-modena]
+- lap: 53
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, thierry-boutsen, alessandro-nannini, gerhard-berger, riccardo-patrese, michele-alboreto, eddie-cheever, satoru-nakajima, derek-warwick, philippe-streiff, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, philippe-alliot]
+- lap: 54
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, thierry-boutsen, alessandro-nannini, gerhard-berger, eddie-cheever, michele-alboreto, riccardo-patrese, satoru-nakajima, derek-warwick, philippe-streiff, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, philippe-alliot]
+- lap: 55
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, thierry-boutsen, alessandro-nannini, gerhard-berger, eddie-cheever, riccardo-patrese, satoru-nakajima, derek-warwick, philippe-streiff, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, philippe-alliot]
+- lap: 56
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, thierry-boutsen, alessandro-nannini, gerhard-berger, eddie-cheever, satoru-nakajima, derek-warwick, riccardo-patrese, philippe-streiff, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, philippe-alliot]
+- lap: 57
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, thierry-boutsen, alessandro-nannini, gerhard-berger, eddie-cheever, satoru-nakajima, derek-warwick, philippe-streiff, riccardo-patrese, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, jonathan-palmer, adrian-campos, philippe-alliot]
+- lap: 58
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, thierry-boutsen, alessandro-nannini, gerhard-berger, eddie-cheever, satoru-nakajima, derek-warwick, philippe-streiff, luis-perez-sala, yannick-dalmas, riccardo-patrese, jonathan-palmer, mauricio-gugelmin]
+- lap: 59
+  drivers: [ayrton-senna, alain-prost, nelson-piquet, thierry-boutsen, gerhard-berger, alessandro-nannini, eddie-cheever, satoru-nakajima]
+- lap: 60
+  drivers: [ayrton-senna, alain-prost]

@@ -1,0 +1,152 @@
+- lap: 0
+  drivers: [mario-andretti, jacques-laffite, carlos-reutemann, jody-scheckter, john-watson, james-hunt, clay-regazzoni, jochen-mass, patrick-depailler, vittorio-brambilla, gunnar-nilsson, hans-joachim-stuck, alan-jones, ronnie-peterson, rupert-keegan, ian-scheckter, harald-ertl, emerson-fittipaldi, hans-binder, arturo-merzario, patrick-neve, emilio-de-villota, renzo-zorzi, brett-lunger]
+- lap: 1
+  drivers: [mario-andretti, jacques-laffite, carlos-reutemann, james-hunt, john-watson, clay-regazzoni, jody-scheckter, vittorio-brambilla, gunnar-nilsson, jochen-mass, patrick-depailler, ronnie-peterson, ian-scheckter, rupert-keegan, alan-jones, harald-ertl, hans-joachim-stuck, arturo-merzario, hans-binder, emerson-fittipaldi, renzo-zorzi, patrick-neve, brett-lunger, emilio-de-villota]
+- lap: 2
+  drivers: [mario-andretti, jacques-laffite, carlos-reutemann, james-hunt, john-watson, jody-scheckter, clay-regazzoni, vittorio-brambilla, gunnar-nilsson, jochen-mass, patrick-depailler, ronnie-peterson, ian-scheckter, rupert-keegan, alan-jones, harald-ertl, hans-joachim-stuck, arturo-merzario, hans-binder, emerson-fittipaldi, renzo-zorzi, patrick-neve, brett-lunger, emilio-de-villota]
+- lap: 3
+  drivers: [mario-andretti, jacques-laffite, carlos-reutemann, james-hunt, john-watson, jody-scheckter, clay-regazzoni, vittorio-brambilla, gunnar-nilsson, jochen-mass, patrick-depailler, ronnie-peterson, ian-scheckter, rupert-keegan, alan-jones, hans-joachim-stuck, harald-ertl, arturo-merzario, hans-binder, emerson-fittipaldi, renzo-zorzi, patrick-neve, brett-lunger, emilio-de-villota]
+- lap: 4
+  drivers: [mario-andretti, jacques-laffite, carlos-reutemann, james-hunt, john-watson, jody-scheckter, clay-regazzoni, vittorio-brambilla, gunnar-nilsson, jochen-mass, patrick-depailler, ronnie-peterson, ian-scheckter, rupert-keegan, alan-jones, hans-joachim-stuck, harald-ertl, arturo-merzario, hans-binder, emerson-fittipaldi, renzo-zorzi, patrick-neve, brett-lunger, emilio-de-villota]
+- lap: 5
+  drivers: [mario-andretti, jacques-laffite, carlos-reutemann, james-hunt, john-watson, jody-scheckter, clay-regazzoni, vittorio-brambilla, gunnar-nilsson, jochen-mass, patrick-depailler, ronnie-peterson, ian-scheckter, rupert-keegan, alan-jones, hans-joachim-stuck, harald-ertl, arturo-merzario, hans-binder, emerson-fittipaldi, renzo-zorzi, patrick-neve, brett-lunger, emilio-de-villota]
+- lap: 6
+  drivers: [mario-andretti, jacques-laffite, carlos-reutemann, john-watson, jody-scheckter, james-hunt, clay-regazzoni, vittorio-brambilla, gunnar-nilsson, jochen-mass, patrick-depailler, ronnie-peterson, ian-scheckter, rupert-keegan, alan-jones, hans-joachim-stuck, harald-ertl, arturo-merzario, hans-binder, emerson-fittipaldi, renzo-zorzi, patrick-neve, brett-lunger, emilio-de-villota]
+- lap: 7
+  drivers: [mario-andretti, jacques-laffite, carlos-reutemann, john-watson, jody-scheckter, clay-regazzoni, vittorio-brambilla, gunnar-nilsson, jochen-mass, patrick-depailler, ronnie-peterson, ian-scheckter, rupert-keegan, alan-jones, hans-joachim-stuck, harald-ertl, arturo-merzario, hans-binder, emerson-fittipaldi, renzo-zorzi, patrick-neve, brett-lunger, emilio-de-villota, james-hunt]
+- lap: 8
+  drivers: [mario-andretti, jacques-laffite, carlos-reutemann, john-watson, jody-scheckter, clay-regazzoni, vittorio-brambilla, gunnar-nilsson, jochen-mass, patrick-depailler, ronnie-peterson, ian-scheckter, rupert-keegan, alan-jones, hans-joachim-stuck, harald-ertl, arturo-merzario, hans-binder, emerson-fittipaldi, renzo-zorzi, patrick-neve, brett-lunger, emilio-de-villota, james-hunt]
+- lap: 9
+  drivers: [mario-andretti, jacques-laffite, carlos-reutemann, john-watson, jody-scheckter, clay-regazzoni, vittorio-brambilla, gunnar-nilsson, jochen-mass, patrick-depailler, ronnie-peterson, ian-scheckter, rupert-keegan, alan-jones, hans-joachim-stuck, harald-ertl, hans-binder, emerson-fittipaldi, patrick-neve, renzo-zorzi, brett-lunger, arturo-merzario, emilio-de-villota, james-hunt]
+- lap: 10
+  drivers: [mario-andretti, jacques-laffite, carlos-reutemann, john-watson, jody-scheckter, gunnar-nilsson, jochen-mass, patrick-depailler, ronnie-peterson, ian-scheckter, rupert-keegan, alan-jones, hans-joachim-stuck, harald-ertl, hans-binder, emerson-fittipaldi, patrick-neve, renzo-zorzi, brett-lunger, emilio-de-villota, arturo-merzario, james-hunt]
+- lap: 11
+  drivers: [mario-andretti, jacques-laffite, carlos-reutemann, john-watson, jody-scheckter, gunnar-nilsson, jochen-mass, patrick-depailler, ronnie-peterson, rupert-keegan, alan-jones, ian-scheckter, hans-joachim-stuck, harald-ertl, hans-binder, emerson-fittipaldi, patrick-neve, renzo-zorzi, brett-lunger, emilio-de-villota, arturo-merzario]
+- lap: 12
+  drivers: [mario-andretti, carlos-reutemann, john-watson, jody-scheckter, gunnar-nilsson, jochen-mass, jacques-laffite, ronnie-peterson, rupert-keegan, alan-jones, ian-scheckter, hans-joachim-stuck, harald-ertl, hans-binder, emerson-fittipaldi, patrick-neve, renzo-zorzi, brett-lunger, emilio-de-villota, patrick-depailler, arturo-merzario]
+- lap: 13
+  drivers: [mario-andretti, carlos-reutemann, john-watson, jody-scheckter, gunnar-nilsson, jochen-mass, ronnie-peterson, rupert-keegan, alan-jones, ian-scheckter, hans-joachim-stuck, harald-ertl, hans-binder, emerson-fittipaldi, patrick-neve, renzo-zorzi, brett-lunger, emilio-de-villota, jacques-laffite, arturo-merzario]
+- lap: 14
+  drivers: [mario-andretti, carlos-reutemann, john-watson, jody-scheckter, gunnar-nilsson, jochen-mass, ronnie-peterson, rupert-keegan, alan-jones, ian-scheckter, hans-joachim-stuck, harald-ertl, hans-binder, emerson-fittipaldi, patrick-neve, renzo-zorzi, brett-lunger, emilio-de-villota, jacques-laffite, arturo-merzario]
+- lap: 15
+  drivers: [mario-andretti, carlos-reutemann, john-watson, jody-scheckter, gunnar-nilsson, jochen-mass, ronnie-peterson, rupert-keegan, alan-jones, ian-scheckter, hans-joachim-stuck, harald-ertl, hans-binder, emerson-fittipaldi, patrick-neve, renzo-zorzi, brett-lunger, emilio-de-villota, jacques-laffite, arturo-merzario]
+- lap: 16
+  drivers: [mario-andretti, carlos-reutemann, john-watson, jody-scheckter, gunnar-nilsson, jochen-mass, ronnie-peterson, rupert-keegan, alan-jones, ian-scheckter, hans-joachim-stuck, harald-ertl, hans-binder, emerson-fittipaldi, patrick-neve, renzo-zorzi, brett-lunger, emilio-de-villota, jacques-laffite, arturo-merzario]
+- lap: 17
+  drivers: [mario-andretti, carlos-reutemann, john-watson, jody-scheckter, gunnar-nilsson, jochen-mass, ronnie-peterson, rupert-keegan, alan-jones, ian-scheckter, hans-joachim-stuck, harald-ertl, hans-binder, emerson-fittipaldi, patrick-neve, renzo-zorzi, brett-lunger, emilio-de-villota, jacques-laffite]
+- lap: 18
+  drivers: [mario-andretti, carlos-reutemann, john-watson, jody-scheckter, gunnar-nilsson, jochen-mass, ronnie-peterson, rupert-keegan, alan-jones, ian-scheckter, hans-joachim-stuck, harald-ertl, hans-binder, emerson-fittipaldi, patrick-neve, renzo-zorzi, brett-lunger, emilio-de-villota, jacques-laffite]
+- lap: 19
+  drivers: [mario-andretti, carlos-reutemann, john-watson, jody-scheckter, jochen-mass, gunnar-nilsson, ronnie-peterson, rupert-keegan, alan-jones, ian-scheckter, hans-joachim-stuck, harald-ertl, hans-binder, emerson-fittipaldi, patrick-neve, renzo-zorzi, brett-lunger, emilio-de-villota, jacques-laffite]
+- lap: 20
+  drivers: [mario-andretti, carlos-reutemann, john-watson, jody-scheckter, jochen-mass, gunnar-nilsson, ronnie-peterson, rupert-keegan, alan-jones, ian-scheckter, hans-joachim-stuck, harald-ertl, hans-binder, emerson-fittipaldi, patrick-neve, renzo-zorzi, brett-lunger, emilio-de-villota, jacques-laffite]
+- lap: 21
+  drivers: [mario-andretti, carlos-reutemann, john-watson, jody-scheckter, jochen-mass, gunnar-nilsson, ronnie-peterson, alan-jones, rupert-keegan, ian-scheckter, hans-joachim-stuck, harald-ertl, hans-binder, emerson-fittipaldi, patrick-neve, renzo-zorzi, brett-lunger, emilio-de-villota, jacques-laffite]
+- lap: 22
+  drivers: [mario-andretti, carlos-reutemann, john-watson, jody-scheckter, jochen-mass, gunnar-nilsson, ronnie-peterson, alan-jones, rupert-keegan, ian-scheckter, hans-joachim-stuck, harald-ertl, hans-binder, emerson-fittipaldi, patrick-neve, renzo-zorzi, brett-lunger, emilio-de-villota, jacques-laffite]
+- lap: 23
+  drivers: [mario-andretti, carlos-reutemann, john-watson, jody-scheckter, jochen-mass, gunnar-nilsson, ronnie-peterson, alan-jones, rupert-keegan, ian-scheckter, hans-joachim-stuck, harald-ertl, hans-binder, emerson-fittipaldi, patrick-neve, renzo-zorzi, brett-lunger, emilio-de-villota, jacques-laffite]
+- lap: 24
+  drivers: [mario-andretti, carlos-reutemann, john-watson, jody-scheckter, jochen-mass, gunnar-nilsson, ronnie-peterson, alan-jones, rupert-keegan, ian-scheckter, hans-joachim-stuck, harald-ertl, hans-binder, emerson-fittipaldi, patrick-neve, renzo-zorzi, brett-lunger, jacques-laffite, emilio-de-villota]
+- lap: 25
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, rupert-keegan, ian-scheckter, hans-joachim-stuck, harald-ertl, hans-binder, emerson-fittipaldi, patrick-neve, renzo-zorzi, jacques-laffite, brett-lunger, emilio-de-villota]
+- lap: 26
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, rupert-keegan, ian-scheckter, hans-joachim-stuck, harald-ertl, hans-binder, emerson-fittipaldi, patrick-neve, jacques-laffite, brett-lunger, emilio-de-villota]
+- lap: 27
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, rupert-keegan, ian-scheckter, hans-joachim-stuck, harald-ertl, hans-binder, emerson-fittipaldi, patrick-neve, jacques-laffite, brett-lunger, emilio-de-villota]
+- lap: 28
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, rupert-keegan, ian-scheckter, hans-joachim-stuck, harald-ertl, hans-binder, emerson-fittipaldi, patrick-neve, jacques-laffite, brett-lunger, emilio-de-villota]
+- lap: 29
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, rupert-keegan, ian-scheckter, hans-joachim-stuck, hans-binder, emerson-fittipaldi, harald-ertl, patrick-neve, jacques-laffite, brett-lunger, emilio-de-villota]
+- lap: 30
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, rupert-keegan, ian-scheckter, hans-joachim-stuck, hans-binder, emerson-fittipaldi, patrick-neve, jacques-laffite, brett-lunger, emilio-de-villota]
+- lap: 31
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, rupert-keegan, ian-scheckter, hans-joachim-stuck, hans-binder, emerson-fittipaldi, patrick-neve, jacques-laffite, brett-lunger, emilio-de-villota]
+- lap: 32
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, rupert-keegan, ian-scheckter, hans-joachim-stuck, hans-binder, patrick-neve, jacques-laffite, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 33
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, ian-scheckter, hans-joachim-stuck, hans-binder, jacques-laffite, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 34
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, ian-scheckter, hans-joachim-stuck, hans-binder, jacques-laffite, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 35
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, ian-scheckter, hans-joachim-stuck, hans-binder, jacques-laffite, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 36
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, ian-scheckter, hans-joachim-stuck, hans-binder, jacques-laffite, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 37
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, ian-scheckter, hans-joachim-stuck, hans-binder, jacques-laffite, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 38
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, ian-scheckter, hans-joachim-stuck, hans-binder, jacques-laffite, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 39
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, ian-scheckter, hans-joachim-stuck, hans-binder, jacques-laffite, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 40
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, ian-scheckter, hans-joachim-stuck, hans-binder, jacques-laffite, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 41
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, hans-joachim-stuck, ian-scheckter, hans-binder, jacques-laffite, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 42
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, hans-joachim-stuck, ian-scheckter, hans-binder, jacques-laffite, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 43
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, hans-joachim-stuck, ian-scheckter, hans-binder, jacques-laffite, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 44
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, hans-joachim-stuck, ian-scheckter, hans-binder, jacques-laffite, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 45
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, hans-joachim-stuck, ian-scheckter, hans-binder, jacques-laffite, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 46
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, hans-joachim-stuck, ian-scheckter, jacques-laffite, hans-binder, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 47
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, hans-joachim-stuck, ian-scheckter, jacques-laffite, hans-binder, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 48
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, hans-joachim-stuck, ian-scheckter, jacques-laffite, hans-binder, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 49
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, hans-joachim-stuck, ian-scheckter, jacques-laffite, hans-binder, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 50
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, hans-joachim-stuck, ian-scheckter, jacques-laffite, hans-binder, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 51
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, hans-joachim-stuck, jacques-laffite, ian-scheckter, hans-binder, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 52
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, hans-joachim-stuck, jacques-laffite, ian-scheckter, hans-binder, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 53
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, hans-joachim-stuck, jacques-laffite, ian-scheckter, hans-binder, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 54
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, hans-joachim-stuck, jacques-laffite, ian-scheckter, hans-binder, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 55
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, hans-joachim-stuck, jacques-laffite, ian-scheckter, hans-binder, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 56
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, alan-jones, hans-joachim-stuck, jacques-laffite, ian-scheckter, hans-binder, patrick-neve, brett-lunger, emilio-de-villota, emerson-fittipaldi]
+- lap: 57
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, hans-joachim-stuck, jacques-laffite, hans-binder, patrick-neve, brett-lunger, emilio-de-villota, ian-scheckter, emerson-fittipaldi]
+- lap: 58
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, ronnie-peterson, hans-joachim-stuck, jacques-laffite, hans-binder, patrick-neve, brett-lunger, emilio-de-villota, ian-scheckter, emerson-fittipaldi]
+- lap: 59
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, hans-joachim-stuck, ronnie-peterson, jacques-laffite, hans-binder, patrick-neve, emilio-de-villota, brett-lunger, ian-scheckter, emerson-fittipaldi]
+- lap: 60
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, hans-joachim-stuck, ronnie-peterson, jacques-laffite, hans-binder, emilio-de-villota, brett-lunger, ian-scheckter, patrick-neve, emerson-fittipaldi]
+- lap: 61
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, hans-joachim-stuck, ronnie-peterson, jacques-laffite, hans-binder, emilio-de-villota, brett-lunger, ian-scheckter, patrick-neve, emerson-fittipaldi]
+- lap: 62
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, hans-joachim-stuck, ronnie-peterson, jacques-laffite, hans-binder, emilio-de-villota, brett-lunger, ian-scheckter, patrick-neve, emerson-fittipaldi]
+- lap: 63
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, john-watson, gunnar-nilsson, hans-joachim-stuck, ronnie-peterson, jacques-laffite, hans-binder, emilio-de-villota, brett-lunger, ian-scheckter, patrick-neve, emerson-fittipaldi]
+- lap: 64
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, gunnar-nilsson, john-watson, hans-joachim-stuck, ronnie-peterson, jacques-laffite, hans-binder, emilio-de-villota, brett-lunger, ian-scheckter, patrick-neve, emerson-fittipaldi]
+- lap: 65
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, gunnar-nilsson, hans-joachim-stuck, ronnie-peterson, jacques-laffite, hans-binder, emilio-de-villota, brett-lunger, ian-scheckter, patrick-neve, emerson-fittipaldi]
+- lap: 66
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, gunnar-nilsson, hans-joachim-stuck, ronnie-peterson, jacques-laffite, hans-binder, emilio-de-villota, brett-lunger, ian-scheckter, patrick-neve, emerson-fittipaldi]
+- lap: 67
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, gunnar-nilsson, hans-joachim-stuck, jacques-laffite, ronnie-peterson, hans-binder, emilio-de-villota, brett-lunger, ian-scheckter, patrick-neve, emerson-fittipaldi]
+- lap: 68
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, gunnar-nilsson, hans-joachim-stuck, jacques-laffite, ronnie-peterson, hans-binder, brett-lunger, ian-scheckter, emilio-de-villota, patrick-neve, emerson-fittipaldi]
+- lap: 69
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, gunnar-nilsson, hans-joachim-stuck, jacques-laffite, ronnie-peterson, hans-binder, brett-lunger, ian-scheckter, patrick-neve, emilio-de-villota, emerson-fittipaldi]
+- lap: 70
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, gunnar-nilsson, hans-joachim-stuck, jacques-laffite, ronnie-peterson, hans-binder, brett-lunger, ian-scheckter, patrick-neve, emilio-de-villota, emerson-fittipaldi]
+- lap: 71
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, gunnar-nilsson, hans-joachim-stuck, jacques-laffite, ronnie-peterson, hans-binder, brett-lunger, ian-scheckter, patrick-neve]
+- lap: 72
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, gunnar-nilsson, hans-joachim-stuck, jacques-laffite, ronnie-peterson, hans-binder, brett-lunger, ian-scheckter]
+- lap: 73
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, gunnar-nilsson, hans-joachim-stuck, jacques-laffite, ronnie-peterson, hans-binder]
+- lap: 74
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, gunnar-nilsson, hans-joachim-stuck, jacques-laffite, ronnie-peterson]
+- lap: 75
+  drivers: [mario-andretti, carlos-reutemann, jody-scheckter, jochen-mass, gunnar-nilsson]

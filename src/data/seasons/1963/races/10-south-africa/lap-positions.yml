@@ -1,0 +1,172 @@
+- lap: 0
+  drivers: [jim-clark, jack-brabham, dan-gurney, john-surtees, lorenzo-bandini, graham-hill, richie-ginther, trevor-taylor, bruce-mclaren, tony-maggs, jo-bonnier, ernie-pieterse, john-love, david-prophet, brausch-niemann, peter-de-klerk, sam-tingle, doug-serrurier, trevor-blokdyk, carel-godin-de-beaufort]
+- lap: 1
+  drivers: [jim-clark, john-surtees, jack-brabham, dan-gurney, trevor-taylor, lorenzo-bandini, bruce-mclaren, richie-ginther, graham-hill, tony-maggs, jo-bonnier, john-love, ernie-pieterse, sam-tingle, doug-serrurier, david-prophet, brausch-niemann, trevor-blokdyk, peter-de-klerk, carel-godin-de-beaufort]
+- lap: 2
+  drivers: [jim-clark, john-surtees, jack-brabham, dan-gurney, trevor-taylor, lorenzo-bandini, bruce-mclaren, richie-ginther, tony-maggs, graham-hill, jo-bonnier, john-love, ernie-pieterse, doug-serrurier, sam-tingle, david-prophet, peter-de-klerk, trevor-blokdyk, carel-godin-de-beaufort, brausch-niemann]
+- lap: 3
+  drivers: [jim-clark, john-surtees, jack-brabham, dan-gurney, trevor-taylor, lorenzo-bandini, bruce-mclaren, richie-ginther, graham-hill, tony-maggs, jo-bonnier, john-love, doug-serrurier, ernie-pieterse, david-prophet, peter-de-klerk, trevor-blokdyk, carel-godin-de-beaufort, brausch-niemann]
+- lap: 4
+  drivers: [jim-clark, john-surtees, jack-brabham, dan-gurney, trevor-taylor, lorenzo-bandini, bruce-mclaren, richie-ginther, graham-hill, tony-maggs, jo-bonnier, john-love, doug-serrurier, peter-de-klerk, carel-godin-de-beaufort, trevor-blokdyk, david-prophet, brausch-niemann]
+- lap: 5
+  drivers: [jim-clark, john-surtees, jack-brabham, dan-gurney, trevor-taylor, bruce-mclaren, richie-ginther, graham-hill, lorenzo-bandini, tony-maggs, jo-bonnier, john-love, doug-serrurier, carel-godin-de-beaufort, trevor-blokdyk, peter-de-klerk, david-prophet, brausch-niemann]
+- lap: 6
+  drivers: [jim-clark, jack-brabham, dan-gurney, john-surtees, bruce-mclaren, graham-hill, richie-ginther, lorenzo-bandini, tony-maggs, trevor-taylor, jo-bonnier, john-love, doug-serrurier, carel-godin-de-beaufort, david-prophet, trevor-blokdyk, peter-de-klerk, brausch-niemann]
+- lap: 7
+  drivers: [jim-clark, dan-gurney, jack-brabham, john-surtees, bruce-mclaren, graham-hill, richie-ginther, lorenzo-bandini, tony-maggs, trevor-taylor, jo-bonnier, john-love, doug-serrurier, carel-godin-de-beaufort, david-prophet, trevor-blokdyk, peter-de-klerk, brausch-niemann]
+- lap: 8
+  drivers: [jim-clark, dan-gurney, jack-brabham, john-surtees, graham-hill, bruce-mclaren, richie-ginther, tony-maggs, lorenzo-bandini, trevor-taylor, jo-bonnier, john-love, doug-serrurier, carel-godin-de-beaufort, david-prophet, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 9
+  drivers: [jim-clark, dan-gurney, jack-brabham, john-surtees, graham-hill, bruce-mclaren, richie-ginther, tony-maggs, trevor-taylor, lorenzo-bandini, jo-bonnier, john-love, doug-serrurier, david-prophet, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 10
+  drivers: [jim-clark, dan-gurney, jack-brabham, john-surtees, graham-hill, bruce-mclaren, richie-ginther, trevor-taylor, tony-maggs, lorenzo-bandini, jo-bonnier, john-love, doug-serrurier, david-prophet, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 11
+  drivers: [jim-clark, dan-gurney, jack-brabham, john-surtees, graham-hill, bruce-mclaren, richie-ginther, trevor-taylor, lorenzo-bandini, tony-maggs, jo-bonnier, john-love, doug-serrurier, david-prophet, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 12
+  drivers: [jim-clark, dan-gurney, john-surtees, jack-brabham, graham-hill, bruce-mclaren, richie-ginther, trevor-taylor, lorenzo-bandini, tony-maggs, jo-bonnier, john-love, doug-serrurier, david-prophet, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 13
+  drivers: [jim-clark, dan-gurney, john-surtees, jack-brabham, graham-hill, bruce-mclaren, richie-ginther, trevor-taylor, lorenzo-bandini, tony-maggs, jo-bonnier, john-love, doug-serrurier, david-prophet, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 14
+  drivers: [jim-clark, dan-gurney, john-surtees, jack-brabham, graham-hill, bruce-mclaren, richie-ginther, trevor-taylor, lorenzo-bandini, tony-maggs, jo-bonnier, john-love, doug-serrurier, david-prophet, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 15
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, jack-brabham, richie-ginther, bruce-mclaren, trevor-taylor, lorenzo-bandini, tony-maggs, jo-bonnier, john-love, doug-serrurier, david-prophet, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 16
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, jack-brabham, richie-ginther, bruce-mclaren, trevor-taylor, lorenzo-bandini, tony-maggs, jo-bonnier, john-love, doug-serrurier, david-prophet, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 17
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, jack-brabham, richie-ginther, bruce-mclaren, trevor-taylor, lorenzo-bandini, tony-maggs, jo-bonnier, john-love, doug-serrurier, david-prophet, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 18
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, jack-brabham, bruce-mclaren, trevor-taylor, lorenzo-bandini, tony-maggs, jo-bonnier, john-love, doug-serrurier, david-prophet, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 19
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, jack-brabham, bruce-mclaren, trevor-taylor, lorenzo-bandini, tony-maggs, jo-bonnier, john-love, doug-serrurier, david-prophet, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 20
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, jack-brabham, bruce-mclaren, trevor-taylor, lorenzo-bandini, tony-maggs, jo-bonnier, john-love, doug-serrurier, david-prophet, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 21
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, jack-brabham, trevor-taylor, lorenzo-bandini, tony-maggs, jo-bonnier, john-love, doug-serrurier, david-prophet, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 22
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, trevor-taylor, jack-brabham, lorenzo-bandini, tony-maggs, jo-bonnier, john-love, doug-serrurier, david-prophet, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 23
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, trevor-taylor, jack-brabham, lorenzo-bandini, tony-maggs, jo-bonnier, john-love, david-prophet, doug-serrurier, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 24
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, trevor-taylor, jack-brabham, lorenzo-bandini, tony-maggs, jo-bonnier, john-love, david-prophet, doug-serrurier, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 25
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, trevor-taylor, jack-brabham, lorenzo-bandini, tony-maggs, jo-bonnier, john-love, david-prophet, doug-serrurier, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 26
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, trevor-taylor, jack-brabham, lorenzo-bandini, tony-maggs, jo-bonnier, john-love, david-prophet, doug-serrurier, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 27
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, trevor-taylor, jack-brabham, lorenzo-bandini, tony-maggs, jo-bonnier, john-love, david-prophet, doug-serrurier, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 28
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, trevor-taylor, jack-brabham, lorenzo-bandini, tony-maggs, jo-bonnier, john-love, david-prophet, doug-serrurier, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 29
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, trevor-taylor, jack-brabham, lorenzo-bandini, tony-maggs, jo-bonnier, john-love, david-prophet, doug-serrurier, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 30
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, trevor-taylor, jack-brabham, lorenzo-bandini, tony-maggs, jo-bonnier, john-love, david-prophet, doug-serrurier, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 31
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, trevor-taylor, jack-brabham, lorenzo-bandini, tony-maggs, jo-bonnier, john-love, david-prophet, doug-serrurier, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 32
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, trevor-taylor, jack-brabham, lorenzo-bandini, jo-bonnier, tony-maggs, john-love, david-prophet, doug-serrurier, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 33
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, trevor-taylor, jack-brabham, lorenzo-bandini, jo-bonnier, tony-maggs, john-love, david-prophet, doug-serrurier, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 34
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, trevor-taylor, jack-brabham, lorenzo-bandini, jo-bonnier, tony-maggs, john-love, david-prophet, doug-serrurier, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 35
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, trevor-taylor, jack-brabham, lorenzo-bandini, jo-bonnier, tony-maggs, john-love, david-prophet, doug-serrurier, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 36
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, trevor-taylor, jack-brabham, lorenzo-bandini, jo-bonnier, tony-maggs, john-love, david-prophet, doug-serrurier, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 37
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, trevor-taylor, jack-brabham, lorenzo-bandini, jo-bonnier, tony-maggs, john-love, david-prophet, doug-serrurier, carel-godin-de-beaufort, peter-de-klerk, trevor-blokdyk, brausch-niemann]
+- lap: 38
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, trevor-taylor, jack-brabham, lorenzo-bandini, jo-bonnier, tony-maggs, john-love, david-prophet, doug-serrurier, carel-godin-de-beaufort, trevor-blokdyk, peter-de-klerk, brausch-niemann]
+- lap: 39
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, trevor-taylor, jack-brabham, lorenzo-bandini, jo-bonnier, tony-maggs, john-love, david-prophet, doug-serrurier, carel-godin-de-beaufort, trevor-blokdyk, peter-de-klerk, brausch-niemann]
+- lap: 40
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, trevor-taylor, jack-brabham, lorenzo-bandini, jo-bonnier, tony-maggs, john-love, david-prophet, doug-serrurier, carel-godin-de-beaufort, trevor-blokdyk, peter-de-klerk, brausch-niemann]
+- lap: 41
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, trevor-taylor, jack-brabham, lorenzo-bandini, jo-bonnier, tony-maggs, john-love, david-prophet, doug-serrurier, carel-godin-de-beaufort, trevor-blokdyk, peter-de-klerk, brausch-niemann]
+- lap: 42
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, trevor-taylor, jack-brabham, lorenzo-bandini, jo-bonnier, tony-maggs, john-love, david-prophet, doug-serrurier, carel-godin-de-beaufort, trevor-blokdyk, peter-de-klerk, brausch-niemann]
+- lap: 43
+  drivers: [jim-clark, dan-gurney, john-surtees, graham-hill, richie-ginther, bruce-mclaren, trevor-taylor, jack-brabham, lorenzo-bandini, jo-bonnier, tony-maggs, john-love, david-prophet, doug-serrurier, carel-godin-de-beaufort, trevor-blokdyk, peter-de-klerk, brausch-niemann]
+- lap: 44
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, jack-brabham, lorenzo-bandini, trevor-taylor, jo-bonnier, tony-maggs, john-love, david-prophet, doug-serrurier, carel-godin-de-beaufort, trevor-blokdyk, peter-de-klerk, brausch-niemann]
+- lap: 45
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, jack-brabham, lorenzo-bandini, trevor-taylor, jo-bonnier, tony-maggs, david-prophet, john-love, doug-serrurier, carel-godin-de-beaufort, trevor-blokdyk, peter-de-klerk, brausch-niemann]
+- lap: 46
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, jack-brabham, lorenzo-bandini, jo-bonnier, tony-maggs, trevor-taylor, david-prophet, john-love, doug-serrurier, carel-godin-de-beaufort, trevor-blokdyk, peter-de-klerk, brausch-niemann]
+- lap: 47
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, jack-brabham, lorenzo-bandini, jo-bonnier, tony-maggs, trevor-taylor, david-prophet, john-love, doug-serrurier, carel-godin-de-beaufort, trevor-blokdyk, peter-de-klerk, brausch-niemann]
+- lap: 48
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, jack-brabham, lorenzo-bandini, jo-bonnier, tony-maggs, trevor-taylor, david-prophet, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk, peter-de-klerk, brausch-niemann]
+- lap: 49
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jack-brabham, jo-bonnier, tony-maggs, trevor-taylor, david-prophet, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk, peter-de-klerk, brausch-niemann]
+- lap: 50
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jack-brabham, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk, peter-de-klerk, brausch-niemann]
+- lap: 51
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jack-brabham, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk, peter-de-klerk, brausch-niemann]
+- lap: 52
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jack-brabham, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk, peter-de-klerk, brausch-niemann]
+- lap: 53
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jack-brabham, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk, brausch-niemann, peter-de-klerk]
+- lap: 54
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jack-brabham, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk, brausch-niemann]
+- lap: 55
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jack-brabham, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk, brausch-niemann]
+- lap: 56
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jack-brabham, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk, brausch-niemann]
+- lap: 57
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jack-brabham, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk, brausch-niemann]
+- lap: 58
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jack-brabham, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk, brausch-niemann]
+- lap: 59
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jack-brabham, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk, brausch-niemann]
+- lap: 60
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jack-brabham, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk, brausch-niemann]
+- lap: 61
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jack-brabham, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk, brausch-niemann]
+- lap: 62
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jack-brabham, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk, brausch-niemann]
+- lap: 63
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jack-brabham, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk, brausch-niemann]
+- lap: 64
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jack-brabham, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk, brausch-niemann]
+- lap: 65
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jack-brabham, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk, brausch-niemann]
+- lap: 66
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jack-brabham, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk, brausch-niemann]
+- lap: 67
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jack-brabham, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk]
+- lap: 68
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jack-brabham, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk]
+- lap: 69
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jack-brabham, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk]
+- lap: 70
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jack-brabham, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk]
+- lap: 71
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk]
+- lap: 72
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk]
+- lap: 73
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk]
+- lap: 74
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk]
+- lap: 75
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk]
+- lap: 76
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk]
+- lap: 77
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier, trevor-blokdyk]
+- lap: 78
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort, doug-serrurier]
+- lap: 79
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jo-bonnier, tony-maggs, trevor-taylor, john-love, carel-godin-de-beaufort]
+- lap: 80
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jo-bonnier, tony-maggs, trevor-taylor, john-love]
+- lap: 81
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jo-bonnier, tony-maggs, trevor-taylor]
+- lap: 82
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jo-bonnier, tony-maggs]
+- lap: 83
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini, jo-bonnier]
+- lap: 84
+  drivers: [jim-clark, dan-gurney, graham-hill, bruce-mclaren, lorenzo-bandini]
+- lap: 85
+  drivers: [jim-clark, dan-gurney]

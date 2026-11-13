@@ -1,0 +1,162 @@
+- lap: 0
+  drivers: ["36:stirling-moss", innes-ireland, graham-hill, jo-bonnier, wolfgang-von-trips, phil-hill, cliff-allison, maurice-trintignant, harry-schell, jack-brabham, jose-froilan-gonzalez, carlos-menditeguy, bruce-mclaren, alan-stacey, alberto-rodriguez-larreta, masten-gregory, roberto-bonomi, giorgio-scarlatti, gino-munaron, nasif-estefano, ettore-chimeri, antonio-creus]
+- lap: 1
+  drivers: [innes-ireland, jo-bonnier, graham-hill, phil-hill, jack-brabham, jose-froilan-gonzalez, carlos-menditeguy, "36:stirling-moss", bruce-mclaren, maurice-trintignant, wolfgang-von-trips, cliff-allison, alan-stacey, alberto-rodriguez-larreta, harry-schell, giorgio-scarlatti, masten-gregory, gino-munaron, antonio-creus, roberto-bonomi, nasif-estefano, ettore-chimeri]
+- lap: 2
+  drivers: [jo-bonnier, graham-hill, phil-hill, "36:stirling-moss", jack-brabham, innes-ireland, jose-froilan-gonzalez, carlos-menditeguy, bruce-mclaren, wolfgang-von-trips, maurice-trintignant, cliff-allison, alan-stacey, alberto-rodriguez-larreta, giorgio-scarlatti, harry-schell, masten-gregory, roberto-bonomi, gino-munaron, antonio-creus, ettore-chimeri, nasif-estefano]
+- lap: 3
+  drivers: [jo-bonnier, graham-hill, "36:stirling-moss", phil-hill, jack-brabham, innes-ireland, carlos-menditeguy, jose-froilan-gonzalez, bruce-mclaren, wolfgang-von-trips, maurice-trintignant, cliff-allison, alan-stacey, alberto-rodriguez-larreta, giorgio-scarlatti, roberto-bonomi, harry-schell, masten-gregory, gino-munaron, antonio-creus, nasif-estefano, ettore-chimeri]
+- lap: 4
+  drivers: [jo-bonnier, graham-hill, "36:stirling-moss", jack-brabham, phil-hill, innes-ireland, carlos-menditeguy, jose-froilan-gonzalez, bruce-mclaren, wolfgang-von-trips, maurice-trintignant, cliff-allison, alan-stacey, alberto-rodriguez-larreta, roberto-bonomi, giorgio-scarlatti, harry-schell, masten-gregory, gino-munaron, antonio-creus, ettore-chimeri, nasif-estefano]
+- lap: 5
+  drivers: [jo-bonnier, graham-hill, "36:stirling-moss", jack-brabham, innes-ireland, phil-hill, carlos-menditeguy, bruce-mclaren, wolfgang-von-trips, jose-froilan-gonzalez, cliff-allison, maurice-trintignant, alan-stacey, alberto-rodriguez-larreta, roberto-bonomi, giorgio-scarlatti, harry-schell, masten-gregory, gino-munaron, antonio-creus, ettore-chimeri, nasif-estefano]
+- lap: 6
+  drivers: [jo-bonnier, graham-hill, "36:stirling-moss", jack-brabham, innes-ireland, phil-hill, carlos-menditeguy, bruce-mclaren, wolfgang-von-trips, cliff-allison, maurice-trintignant, jose-froilan-gonzalez, alan-stacey, alberto-rodriguez-larreta, roberto-bonomi, harry-schell, giorgio-scarlatti, masten-gregory, gino-munaron, antonio-creus, ettore-chimeri, nasif-estefano]
+- lap: 7
+  drivers: [jo-bonnier, graham-hill, "36:stirling-moss", jack-brabham, innes-ireland, phil-hill, carlos-menditeguy, bruce-mclaren, cliff-allison, wolfgang-von-trips, maurice-trintignant, alan-stacey, jose-froilan-gonzalez, alberto-rodriguez-larreta, harry-schell, giorgio-scarlatti, masten-gregory, roberto-bonomi, gino-munaron, antonio-creus, ettore-chimeri, nasif-estefano]
+- lap: 8
+  drivers: [jo-bonnier, graham-hill, "36:stirling-moss", jack-brabham, innes-ireland, phil-hill, carlos-menditeguy, bruce-mclaren, cliff-allison, wolfgang-von-trips, maurice-trintignant, jose-froilan-gonzalez, alberto-rodriguez-larreta, harry-schell, giorgio-scarlatti, masten-gregory, roberto-bonomi, gino-munaron, antonio-creus, ettore-chimeri, nasif-estefano, alan-stacey]
+- lap: 9
+  drivers: [jo-bonnier, graham-hill, "36:stirling-moss", jack-brabham, innes-ireland, phil-hill, carlos-menditeguy, bruce-mclaren, cliff-allison, wolfgang-von-trips, maurice-trintignant, jose-froilan-gonzalez, harry-schell, giorgio-scarlatti, masten-gregory, roberto-bonomi, gino-munaron, antonio-creus, ettore-chimeri, alberto-rodriguez-larreta, nasif-estefano, alan-stacey]
+- lap: 10
+  drivers: [jo-bonnier, "36:stirling-moss", graham-hill, jack-brabham, innes-ireland, phil-hill, carlos-menditeguy, bruce-mclaren, cliff-allison, wolfgang-von-trips, maurice-trintignant, jose-froilan-gonzalez, harry-schell, giorgio-scarlatti, masten-gregory, roberto-bonomi, gino-munaron, antonio-creus, ettore-chimeri, alberto-rodriguez-larreta, nasif-estefano, alan-stacey]
+- lap: 11
+  drivers: [jo-bonnier, "36:stirling-moss", graham-hill, jack-brabham, innes-ireland, phil-hill, carlos-menditeguy, bruce-mclaren, cliff-allison, wolfgang-von-trips, maurice-trintignant, jose-froilan-gonzalez, harry-schell, masten-gregory, roberto-bonomi, gino-munaron, antonio-creus, ettore-chimeri, alberto-rodriguez-larreta, nasif-estefano, alan-stacey]
+- lap: 12
+  drivers: [jo-bonnier, "36:stirling-moss", graham-hill, jack-brabham, innes-ireland, phil-hill, carlos-menditeguy, bruce-mclaren, cliff-allison, wolfgang-von-trips, maurice-trintignant, jose-froilan-gonzalez, harry-schell, masten-gregory, roberto-bonomi, gino-munaron, antonio-creus, ettore-chimeri, alberto-rodriguez-larreta, nasif-estefano, alan-stacey]
+- lap: 13
+  drivers: [jo-bonnier, "36:stirling-moss", graham-hill, jack-brabham, innes-ireland, phil-hill, carlos-menditeguy, bruce-mclaren, cliff-allison, wolfgang-von-trips, maurice-trintignant, jose-froilan-gonzalez, harry-schell, masten-gregory, roberto-bonomi, gino-munaron, antonio-creus, ettore-chimeri, alberto-rodriguez-larreta, nasif-estefano, alan-stacey]
+- lap: 14
+  drivers: [jo-bonnier, "36:stirling-moss", graham-hill, innes-ireland, jack-brabham, phil-hill, carlos-menditeguy, bruce-mclaren, cliff-allison, wolfgang-von-trips, maurice-trintignant, jose-froilan-gonzalez, harry-schell, masten-gregory, roberto-bonomi, gino-munaron, alberto-rodriguez-larreta, antonio-creus, ettore-chimeri, alan-stacey, nasif-estefano]
+- lap: 15
+  drivers: [jo-bonnier, "36:stirling-moss", graham-hill, innes-ireland, jack-brabham, phil-hill, carlos-menditeguy, bruce-mclaren, cliff-allison, wolfgang-von-trips, maurice-trintignant, jose-froilan-gonzalez, harry-schell, masten-gregory, roberto-bonomi, alberto-rodriguez-larreta, gino-munaron, antonio-creus, ettore-chimeri, alan-stacey, nasif-estefano]
+- lap: 16
+  drivers: ["36:stirling-moss", jo-bonnier, graham-hill, innes-ireland, jack-brabham, phil-hill, carlos-menditeguy, bruce-mclaren, cliff-allison, wolfgang-von-trips, maurice-trintignant, jose-froilan-gonzalez, harry-schell, masten-gregory, roberto-bonomi, alberto-rodriguez-larreta, gino-munaron, antonio-creus, ettore-chimeri, alan-stacey, nasif-estefano]
+- lap: 17
+  drivers: ["36:stirling-moss", jo-bonnier, graham-hill, innes-ireland, jack-brabham, phil-hill, carlos-menditeguy, bruce-mclaren, cliff-allison, wolfgang-von-trips, maurice-trintignant, jose-froilan-gonzalez, harry-schell, masten-gregory, roberto-bonomi, alberto-rodriguez-larreta, gino-munaron, ettore-chimeri, alan-stacey, nasif-estefano]
+- lap: 18
+  drivers: ["36:stirling-moss", jo-bonnier, innes-ireland, graham-hill, jack-brabham, phil-hill, carlos-menditeguy, bruce-mclaren, cliff-allison, wolfgang-von-trips, maurice-trintignant, jose-froilan-gonzalez, harry-schell, masten-gregory, roberto-bonomi, alberto-rodriguez-larreta, gino-munaron, ettore-chimeri, alan-stacey, nasif-estefano]
+- lap: 19
+  drivers: ["36:stirling-moss", jo-bonnier, innes-ireland, graham-hill, jack-brabham, phil-hill, carlos-menditeguy, bruce-mclaren, cliff-allison, wolfgang-von-trips, maurice-trintignant, jose-froilan-gonzalez, harry-schell, masten-gregory, roberto-bonomi, alberto-rodriguez-larreta, gino-munaron, ettore-chimeri, alan-stacey, nasif-estefano]
+- lap: 20
+  drivers: ["36:stirling-moss", jo-bonnier, innes-ireland, graham-hill, jack-brabham, phil-hill, carlos-menditeguy, bruce-mclaren, cliff-allison, wolfgang-von-trips, maurice-trintignant, jose-froilan-gonzalez, harry-schell, masten-gregory, roberto-bonomi, alberto-rodriguez-larreta, gino-munaron, alan-stacey, ettore-chimeri, nasif-estefano]
+- lap: 21
+  drivers: [jo-bonnier, "36:stirling-moss", innes-ireland, graham-hill, jack-brabham, phil-hill, carlos-menditeguy, bruce-mclaren, cliff-allison, wolfgang-von-trips, maurice-trintignant, jose-froilan-gonzalez, harry-schell, masten-gregory, roberto-bonomi, alberto-rodriguez-larreta, gino-munaron, alan-stacey, nasif-estefano, ettore-chimeri]
+- lap: 22
+  drivers: [jo-bonnier, "36:stirling-moss", innes-ireland, graham-hill, jack-brabham, phil-hill, carlos-menditeguy, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, jose-froilan-gonzalez, harry-schell, masten-gregory, roberto-bonomi, alberto-rodriguez-larreta, gino-munaron, alan-stacey, nasif-estefano, ettore-chimeri]
+- lap: 23
+  drivers: [jo-bonnier, "36:stirling-moss", innes-ireland, graham-hill, jack-brabham, phil-hill, carlos-menditeguy, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, harry-schell, jose-froilan-gonzalez, masten-gregory, roberto-bonomi, alberto-rodriguez-larreta, gino-munaron, alan-stacey, nasif-estefano, ettore-chimeri]
+- lap: 24
+  drivers: [jo-bonnier, "36:stirling-moss", innes-ireland, graham-hill, jack-brabham, phil-hill, carlos-menditeguy, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, jose-froilan-gonzalez, harry-schell, masten-gregory, alberto-rodriguez-larreta, roberto-bonomi, gino-munaron, alan-stacey, nasif-estefano]
+- lap: 25
+  drivers: [jo-bonnier, "36:stirling-moss", innes-ireland, graham-hill, jack-brabham, phil-hill, carlos-menditeguy, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, jose-froilan-gonzalez, harry-schell, masten-gregory, roberto-bonomi, gino-munaron, alberto-rodriguez-larreta, nasif-estefano]
+- lap: 26
+  drivers: [jo-bonnier, "36:stirling-moss", innes-ireland, graham-hill, jack-brabham, phil-hill, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, carlos-menditeguy, jose-froilan-gonzalez, harry-schell, masten-gregory, roberto-bonomi, gino-munaron, alberto-rodriguez-larreta, nasif-estefano]
+- lap: 27
+  drivers: [jo-bonnier, "36:stirling-moss", innes-ireland, graham-hill, jack-brabham, phil-hill, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, carlos-menditeguy, jose-froilan-gonzalez, harry-schell, masten-gregory, roberto-bonomi, gino-munaron, alberto-rodriguez-larreta, nasif-estefano]
+- lap: 28
+  drivers: [jo-bonnier, "36:stirling-moss", innes-ireland, graham-hill, jack-brabham, phil-hill, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, carlos-menditeguy, jose-froilan-gonzalez, harry-schell, masten-gregory, roberto-bonomi, alberto-rodriguez-larreta, gino-munaron, nasif-estefano]
+- lap: 29
+  drivers: [jo-bonnier, "36:stirling-moss", innes-ireland, graham-hill, jack-brabham, phil-hill, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, carlos-menditeguy, jose-froilan-gonzalez, harry-schell, masten-gregory, roberto-bonomi, alberto-rodriguez-larreta, gino-munaron, nasif-estefano]
+- lap: 30
+  drivers: [jo-bonnier, "36:stirling-moss", innes-ireland, graham-hill, jack-brabham, phil-hill, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, carlos-menditeguy, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, alberto-rodriguez-larreta, gino-munaron, nasif-estefano]
+- lap: 31
+  drivers: [jo-bonnier, "36:stirling-moss", innes-ireland, graham-hill, jack-brabham, phil-hill, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, harry-schell, jose-froilan-gonzalez, carlos-menditeguy, roberto-bonomi, masten-gregory, alberto-rodriguez-larreta, gino-munaron, nasif-estefano]
+- lap: 32
+  drivers: [jo-bonnier, "36:stirling-moss", innes-ireland, graham-hill, jack-brabham, phil-hill, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, harry-schell, jose-froilan-gonzalez, carlos-menditeguy, roberto-bonomi, masten-gregory, alberto-rodriguez-larreta, gino-munaron, nasif-estefano]
+- lap: 33
+  drivers: [jo-bonnier, "36:stirling-moss", innes-ireland, graham-hill, jack-brabham, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, harry-schell, jose-froilan-gonzalez, carlos-menditeguy, roberto-bonomi, masten-gregory, alberto-rodriguez-larreta, phil-hill, gino-munaron, nasif-estefano]
+- lap: 34
+  drivers: [jo-bonnier, "36:stirling-moss", innes-ireland, graham-hill, jack-brabham, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, jose-froilan-gonzalez, carlos-menditeguy, roberto-bonomi, masten-gregory, alberto-rodriguez-larreta, harry-schell, phil-hill, gino-munaron, nasif-estefano]
+- lap: 35
+  drivers: [jo-bonnier, "36:stirling-moss", innes-ireland, graham-hill, jack-brabham, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, jose-froilan-gonzalez, carlos-menditeguy, roberto-bonomi, masten-gregory, alberto-rodriguez-larreta, harry-schell, gino-munaron, phil-hill, nasif-estefano]
+- lap: 36
+  drivers: [jo-bonnier, "36:stirling-moss", innes-ireland, graham-hill, jack-brabham, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, jose-froilan-gonzalez, carlos-menditeguy, harry-schell, roberto-bonomi, gino-munaron, masten-gregory, alberto-rodriguez-larreta, phil-hill, nasif-estefano]
+- lap: 37
+  drivers: ["36:stirling-moss", jo-bonnier, innes-ireland, graham-hill, jack-brabham, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, harry-schell, jose-froilan-gonzalez, carlos-menditeguy, roberto-bonomi, gino-munaron, masten-gregory, alberto-rodriguez-larreta, phil-hill, nasif-estefano]
+- lap: 38
+  drivers: ["36:stirling-moss", jo-bonnier, innes-ireland, jack-brabham, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, jose-froilan-gonzalez, carlos-menditeguy, alberto-rodriguez-larreta, roberto-bonomi, masten-gregory, gino-munaron, harry-schell, phil-hill, nasif-estefano]
+- lap: 39
+  drivers: ["36:stirling-moss", jo-bonnier, innes-ireland, jack-brabham, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, carlos-menditeguy, jose-froilan-gonzalez, alberto-rodriguez-larreta, harry-schell, phil-hill, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 40
+  drivers: ["36:stirling-moss", jo-bonnier, innes-ireland, jack-brabham, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, carlos-menditeguy, alberto-rodriguez-larreta, phil-hill, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 41
+  drivers: [jo-bonnier, innes-ireland, jack-brabham, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, carlos-menditeguy, alberto-rodriguez-larreta, phil-hill, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 42
+  drivers: [jo-bonnier, innes-ireland, jack-brabham, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, carlos-menditeguy, alberto-rodriguez-larreta, phil-hill, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 43
+  drivers: [jo-bonnier, innes-ireland, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, carlos-menditeguy, alberto-rodriguez-larreta, phil-hill, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 44
+  drivers: [jo-bonnier, innes-ireland, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, carlos-menditeguy, alberto-rodriguez-larreta, phil-hill, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 45
+  drivers: [jo-bonnier, innes-ireland, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, carlos-menditeguy, alberto-rodriguez-larreta, phil-hill, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 46
+  drivers: [jo-bonnier, innes-ireland, bruce-mclaren, cliff-allison, maurice-trintignant, wolfgang-von-trips, carlos-menditeguy, alberto-rodriguez-larreta, phil-hill, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 47
+  drivers: [jo-bonnier, innes-ireland, bruce-mclaren, cliff-allison, "38:stirling-moss", wolfgang-von-trips, carlos-menditeguy, alberto-rodriguez-larreta, phil-hill, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 48
+  drivers: [jo-bonnier, innes-ireland, bruce-mclaren, cliff-allison, "38:stirling-moss", wolfgang-von-trips, carlos-menditeguy, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 49
+  drivers: [jo-bonnier, innes-ireland, bruce-mclaren, cliff-allison, "38:stirling-moss", wolfgang-von-trips, carlos-menditeguy, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 50
+  drivers: [jo-bonnier, innes-ireland, bruce-mclaren, cliff-allison, "38:stirling-moss", wolfgang-von-trips, carlos-menditeguy, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 51
+  drivers: [jo-bonnier, innes-ireland, bruce-mclaren, cliff-allison, "38:stirling-moss", wolfgang-von-trips, carlos-menditeguy, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 52
+  drivers: [jo-bonnier, innes-ireland, bruce-mclaren, cliff-allison, "38:stirling-moss", wolfgang-von-trips, carlos-menditeguy, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 53
+  drivers: [jo-bonnier, innes-ireland, bruce-mclaren, cliff-allison, "38:stirling-moss", wolfgang-von-trips, carlos-menditeguy, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 54
+  drivers: [jo-bonnier, innes-ireland, bruce-mclaren, cliff-allison, "38:stirling-moss", wolfgang-von-trips, carlos-menditeguy, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 55
+  drivers: [jo-bonnier, innes-ireland, bruce-mclaren, cliff-allison, "38:stirling-moss", wolfgang-von-trips, carlos-menditeguy, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 56
+  drivers: [jo-bonnier, innes-ireland, bruce-mclaren, cliff-allison, "38:stirling-moss", wolfgang-von-trips, carlos-menditeguy, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 57
+  drivers: [jo-bonnier, innes-ireland, bruce-mclaren, cliff-allison, "38:stirling-moss", wolfgang-von-trips, carlos-menditeguy, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 58
+  drivers: [jo-bonnier, innes-ireland, bruce-mclaren, cliff-allison, "38:stirling-moss", wolfgang-von-trips, carlos-menditeguy, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 59
+  drivers: [jo-bonnier, innes-ireland, bruce-mclaren, cliff-allison, "38:stirling-moss", wolfgang-von-trips, carlos-menditeguy, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 60
+  drivers: [jo-bonnier, innes-ireland, bruce-mclaren, cliff-allison, "38:stirling-moss", wolfgang-von-trips, carlos-menditeguy, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 61
+  drivers: [jo-bonnier, innes-ireland, bruce-mclaren, cliff-allison, "38:stirling-moss", carlos-menditeguy, wolfgang-von-trips, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, harry-schell, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 62
+  drivers: [jo-bonnier, innes-ireland, bruce-mclaren, cliff-allison, "38:stirling-moss", carlos-menditeguy, wolfgang-von-trips, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano, harry-schell]
+- lap: 63
+  drivers: [jo-bonnier, bruce-mclaren, innes-ireland, cliff-allison, "38:stirling-moss", carlos-menditeguy, wolfgang-von-trips, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano, harry-schell]
+- lap: 64
+  drivers: [jo-bonnier, bruce-mclaren, cliff-allison, innes-ireland, carlos-menditeguy, "38:stirling-moss", wolfgang-von-trips, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 65
+  drivers: [jo-bonnier, bruce-mclaren, cliff-allison, innes-ireland, carlos-menditeguy, "38:stirling-moss", wolfgang-von-trips, phil-hill, jose-froilan-gonzalez, alberto-rodriguez-larreta, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 66
+  drivers: [jo-bonnier, bruce-mclaren, cliff-allison, innes-ireland, carlos-menditeguy, "38:stirling-moss", wolfgang-von-trips, phil-hill, jose-froilan-gonzalez, alberto-rodriguez-larreta, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 67
+  drivers: [jo-bonnier, bruce-mclaren, cliff-allison, innes-ireland, carlos-menditeguy, "38:stirling-moss", wolfgang-von-trips, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 68
+  drivers: [bruce-mclaren, jo-bonnier, cliff-allison, innes-ireland, carlos-menditeguy, "38:stirling-moss", wolfgang-von-trips, phil-hill, jose-froilan-gonzalez, alberto-rodriguez-larreta, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 69
+  drivers: [bruce-mclaren, cliff-allison, carlos-menditeguy, jo-bonnier, "38:stirling-moss", innes-ireland, wolfgang-von-trips, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 70
+  drivers: [bruce-mclaren, cliff-allison, carlos-menditeguy, "38:stirling-moss", jo-bonnier, innes-ireland, wolfgang-von-trips, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, roberto-bonomi, masten-gregory, gino-munaron, nasif-estefano]
+- lap: 71
+  drivers: [bruce-mclaren, cliff-allison, carlos-menditeguy, "38:stirling-moss", jo-bonnier, innes-ireland, wolfgang-von-trips, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, roberto-bonomi, masten-gregory, gino-munaron]
+- lap: 72
+  drivers: [bruce-mclaren, cliff-allison, "38:stirling-moss", carlos-menditeguy, jo-bonnier, innes-ireland, wolfgang-von-trips, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, roberto-bonomi, masten-gregory, gino-munaron]
+- lap: 73
+  drivers: [bruce-mclaren, cliff-allison, "38:stirling-moss", carlos-menditeguy, jo-bonnier, innes-ireland, wolfgang-von-trips, phil-hill, jose-froilan-gonzalez, alberto-rodriguez-larreta, roberto-bonomi, masten-gregory]
+- lap: 74
+  drivers: [bruce-mclaren, cliff-allison, "38:stirling-moss", carlos-menditeguy, jo-bonnier, innes-ireland, wolfgang-von-trips, phil-hill, jose-froilan-gonzalez, alberto-rodriguez-larreta, roberto-bonomi, masten-gregory]
+- lap: 75
+  drivers: [bruce-mclaren, cliff-allison, "38:stirling-moss", carlos-menditeguy, jo-bonnier, innes-ireland, wolfgang-von-trips, phil-hill, jose-froilan-gonzalez, alberto-rodriguez-larreta, roberto-bonomi, masten-gregory]
+- lap: 76
+  drivers: [bruce-mclaren, cliff-allison, "38:stirling-moss", carlos-menditeguy, innes-ireland, jo-bonnier, wolfgang-von-trips, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez, roberto-bonomi, masten-gregory]
+- lap: 77
+  drivers: [bruce-mclaren, cliff-allison, "38:stirling-moss", carlos-menditeguy, innes-ireland, wolfgang-von-trips, jo-bonnier, phil-hill, alberto-rodriguez-larreta, jose-froilan-gonzalez]
+- lap: 78
+  drivers: [bruce-mclaren, cliff-allison, "38:stirling-moss", carlos-menditeguy, wolfgang-von-trips, innes-ireland, jo-bonnier]
+- lap: 79
+  drivers: [bruce-mclaren, cliff-allison, "38:stirling-moss", carlos-menditeguy, wolfgang-von-trips, innes-ireland, jo-bonnier]
+- lap: 80
+  drivers: [bruce-mclaren, cliff-allison, "38:stirling-moss", carlos-menditeguy]

@@ -149,16 +149,6 @@
   interval: "+0.356"
   laps: 11
 - position: 16
-  driverNumber: 11
-  driverId: olivier-panis
-  constructorId: prost
-  engineManufacturerId: peugeot
-  tyreManufacturerId: bridgestone
-  time: "1:33.851"
-  gap: "+3.841"
-  interval: "+0.112"
-  laps: 12
-- position: 17
   driverNumber: 17
   driverId: mika-salo
   constructorId: arrows
@@ -166,9 +156,9 @@
   tyreManufacturerId: bridgestone
   time: "1:33.927"
   gap: "+3.917"
-  interval: "+0.076"
+  interval: "+0.188"
   laps: 8
-- position: 18
+- position: 17
   driverNumber: 23
   driverId: esteban-tuero
   constructorId: minardi
@@ -178,7 +168,7 @@
   gap: "+4.636"
   interval: "+0.719"
   laps: 12
-- position: 19
+- position: 18
   driverNumber: 19
   driverId: jan-magnussen
   constructorId: stewart
@@ -188,7 +178,7 @@
   gap: "+4.896"
   interval: "+0.260"
   laps: 9
-- position: 20
+- position: 19
   driverNumber: 20
   driverId: ricardo-rosset
   constructorId: tyrrell
@@ -198,7 +188,7 @@
   gap: "+5.109"
   interval: "+0.213"
   laps: 11
-- position: 21
+- position: 20
   driverNumber: 16
   driverId: pedro-diniz
   constructorId: arrows
@@ -208,6 +198,16 @@
   gap: "+5.130"
   interval: "+0.021"
   laps: 7
+- position: 21
+  driverNumber: 11
+  driverId: olivier-panis
+  constructorId: prost
+  engineManufacturerId: peugeot
+  tyreManufacturerId: bridgestone
+  time: "1:35.215"
+  gap: "+5.205"
+  interval: "+0.075"
+  laps: 12
 - position: 22
   driverNumber: 22
   driverId: shinji-nakano
@@ -216,5 +216,5 @@
   tyreManufacturerId: bridgestone
   time: "1:35.301"
   gap: "+5.291"
-  interval: "+0.161"
+  interval: "+0.086"
   laps: 12

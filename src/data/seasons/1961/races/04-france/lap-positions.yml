@@ -1,0 +1,106 @@
+- lap: 0
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, stirling-moss, jim-clark, graham-hill, john-surtees, bruce-mclaren, dan-gurney, innes-ireland, tony-brooks, giancarlo-baghetti, jo-bonnier, jack-brabham, roy-salvadori, masten-gregory, carel-godin-de-beaufort, jackie-lewis, lucien-bianchi, willy-mairesse, bernard-collomb, michael-may, maurice-trintignant, ian-burgess, henry-taylor, giorgio-scarlatti]
+- lap: 1
+  drivers: [phil-hill, richie-ginther, wolfgang-von-trips, stirling-moss, bruce-mclaren, jim-clark, innes-ireland, graham-hill, tony-brooks, dan-gurney, john-surtees, masten-gregory, giancarlo-baghetti, jo-bonnier, roy-salvadori, jack-brabham, willy-mairesse, carel-godin-de-beaufort, jackie-lewis, henry-taylor, michael-may, bernard-collomb, maurice-trintignant, lucien-bianchi, giorgio-scarlatti, ian-burgess]
+- lap: 2
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, stirling-moss, john-surtees, graham-hill, tony-brooks, jo-bonnier, innes-ireland, dan-gurney, giancarlo-baghetti, bruce-mclaren, jim-clark, roy-salvadori, jack-brabham, willy-mairesse, carel-godin-de-beaufort, jackie-lewis, henry-taylor, michael-may, maurice-trintignant, giorgio-scarlatti, bernard-collomb, ian-burgess, masten-gregory, lucien-bianchi]
+- lap: 3
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, stirling-moss, john-surtees, graham-hill, jim-clark, tony-brooks, innes-ireland, giancarlo-baghetti, dan-gurney, jo-bonnier, bruce-mclaren, jack-brabham, carel-godin-de-beaufort, roy-salvadori, henry-taylor, willy-mairesse, michael-may, maurice-trintignant, giorgio-scarlatti, jackie-lewis, bernard-collomb, lucien-bianchi, ian-burgess, masten-gregory]
+- lap: 4
+  drivers: [phil-hill, wolfgang-von-trips, stirling-moss, richie-ginther, innes-ireland, jim-clark, graham-hill, jo-bonnier, giancarlo-baghetti, bruce-mclaren, dan-gurney, tony-brooks, john-surtees, carel-godin-de-beaufort, jack-brabham, roy-salvadori, willy-mairesse, michael-may, maurice-trintignant, henry-taylor, giorgio-scarlatti, jackie-lewis, lucien-bianchi, ian-burgess, bernard-collomb, masten-gregory]
+- lap: 5
+  drivers: [phil-hill, wolfgang-von-trips, stirling-moss, richie-ginther, innes-ireland, jim-clark, graham-hill, giancarlo-baghetti, jo-bonnier, bruce-mclaren, dan-gurney, jack-brabham, carel-godin-de-beaufort, roy-salvadori, willy-mairesse, michael-may, maurice-trintignant, henry-taylor, giorgio-scarlatti, lucien-bianchi, bernard-collomb, ian-burgess, masten-gregory]
+- lap: 6
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, stirling-moss, innes-ireland, graham-hill, jo-bonnier, jim-clark, giancarlo-baghetti, bruce-mclaren, dan-gurney, jack-brabham, roy-salvadori, carel-godin-de-beaufort, willy-mairesse, michael-may, maurice-trintignant, henry-taylor, giorgio-scarlatti, lucien-bianchi, bernard-collomb, ian-burgess, masten-gregory]
+- lap: 7
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, stirling-moss, innes-ireland, graham-hill, jo-bonnier, jim-clark, giancarlo-baghetti, bruce-mclaren, dan-gurney, jack-brabham, roy-salvadori, carel-godin-de-beaufort, willy-mairesse, michael-may, maurice-trintignant, henry-taylor, giorgio-scarlatti, lucien-bianchi, masten-gregory, ian-burgess]
+- lap: 8
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, stirling-moss, innes-ireland, graham-hill, giancarlo-baghetti, jim-clark, bruce-mclaren, dan-gurney, jo-bonnier, jack-brabham, roy-salvadori, carel-godin-de-beaufort, willy-mairesse, michael-may, maurice-trintignant, henry-taylor, lucien-bianchi, giorgio-scarlatti, masten-gregory, ian-burgess]
+- lap: 9
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, stirling-moss, innes-ireland, jim-clark, graham-hill, giancarlo-baghetti, jo-bonnier, bruce-mclaren, dan-gurney, carel-godin-de-beaufort, jack-brabham, roy-salvadori, willy-mairesse, michael-may, maurice-trintignant, henry-taylor, lucien-bianchi, giorgio-scarlatti, masten-gregory, ian-burgess]
+- lap: 10
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, stirling-moss, giancarlo-baghetti, jim-clark, jo-bonnier, graham-hill, bruce-mclaren, dan-gurney, innes-ireland, jack-brabham, carel-godin-de-beaufort, roy-salvadori, michael-may, willy-mairesse, henry-taylor, maurice-trintignant, lucien-bianchi, giorgio-scarlatti, masten-gregory, ian-burgess]
+- lap: 11
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, stirling-moss, giancarlo-baghetti, jim-clark, innes-ireland, graham-hill, jo-bonnier, dan-gurney, bruce-mclaren, jack-brabham, roy-salvadori, carel-godin-de-beaufort, michael-may, henry-taylor, maurice-trintignant, lucien-bianchi, giorgio-scarlatti, masten-gregory, ian-burgess, willy-mairesse]
+- lap: 12
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, stirling-moss, giancarlo-baghetti, jim-clark, innes-ireland, jo-bonnier, bruce-mclaren, graham-hill, dan-gurney, jack-brabham, roy-salvadori, carel-godin-de-beaufort, michael-may, henry-taylor, maurice-trintignant, lucien-bianchi, giorgio-scarlatti, ian-burgess, willy-mairesse, masten-gregory]
+- lap: 13
+  drivers: [wolfgang-von-trips, phil-hill, richie-ginther, stirling-moss, giancarlo-baghetti, jim-clark, innes-ireland, bruce-mclaren, jo-bonnier, graham-hill, dan-gurney, jack-brabham, carel-godin-de-beaufort, roy-salvadori, henry-taylor, michael-may, maurice-trintignant, lucien-bianchi, giorgio-scarlatti, ian-burgess, willy-mairesse, masten-gregory]
+- lap: 14
+  drivers: [wolfgang-von-trips, phil-hill, richie-ginther, giancarlo-baghetti, jim-clark, innes-ireland, bruce-mclaren, stirling-moss, jo-bonnier, graham-hill, dan-gurney, roy-salvadori, carel-godin-de-beaufort, henry-taylor, michael-may, jack-brabham, lucien-bianchi, giorgio-scarlatti, maurice-trintignant, ian-burgess, willy-mairesse, masten-gregory]
+- lap: 15
+  drivers: [wolfgang-von-trips, phil-hill, richie-ginther, innes-ireland, jim-clark, giancarlo-baghetti, stirling-moss, bruce-mclaren, jo-bonnier, graham-hill, dan-gurney, roy-salvadori, carel-godin-de-beaufort, henry-taylor, michael-may, lucien-bianchi, maurice-trintignant, giorgio-scarlatti, ian-burgess, willy-mairesse, masten-gregory]
+- lap: 16
+  drivers: [wolfgang-von-trips, phil-hill, richie-ginther, giancarlo-baghetti, jim-clark, innes-ireland, stirling-moss, bruce-mclaren, jo-bonnier, graham-hill, dan-gurney, roy-salvadori, carel-godin-de-beaufort, henry-taylor, michael-may, lucien-bianchi, maurice-trintignant, ian-burgess, willy-mairesse, masten-gregory]
+- lap: 17
+  drivers: [wolfgang-von-trips, phil-hill, richie-ginther, giancarlo-baghetti, innes-ireland, jim-clark, jo-bonnier, bruce-mclaren, stirling-moss, graham-hill, dan-gurney, roy-salvadori, carel-godin-de-beaufort, henry-taylor, michael-may, lucien-bianchi, maurice-trintignant, ian-burgess, willy-mairesse, masten-gregory]
+- lap: 18
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, giancarlo-baghetti, jim-clark, innes-ireland, bruce-mclaren, jo-bonnier, dan-gurney, graham-hill, stirling-moss, roy-salvadori, carel-godin-de-beaufort, henry-taylor, michael-may, maurice-trintignant, lucien-bianchi, willy-mairesse, ian-burgess, masten-gregory]
+- lap: 19
+  drivers: [phil-hill, richie-ginther, giancarlo-baghetti, innes-ireland, jim-clark, jo-bonnier, bruce-mclaren, graham-hill, dan-gurney, stirling-moss, roy-salvadori, carel-godin-de-beaufort, henry-taylor, michael-may, maurice-trintignant, lucien-bianchi, willy-mairesse, ian-burgess, masten-gregory]
+- lap: 20
+  drivers: [phil-hill, richie-ginther, giancarlo-baghetti, jim-clark, innes-ireland, jo-bonnier, bruce-mclaren, graham-hill, dan-gurney, roy-salvadori, carel-godin-de-beaufort, henry-taylor, michael-may, maurice-trintignant, stirling-moss, lucien-bianchi, willy-mairesse, ian-burgess, masten-gregory]
+- lap: 21
+  drivers: [phil-hill, richie-ginther, giancarlo-baghetti, innes-ireland, jim-clark, jo-bonnier, graham-hill, bruce-mclaren, dan-gurney, roy-salvadori, henry-taylor, carel-godin-de-beaufort, michael-may, maurice-trintignant, lucien-bianchi, stirling-moss, willy-mairesse, ian-burgess, masten-gregory]
+- lap: 22
+  drivers: [phil-hill, richie-ginther, giancarlo-baghetti, jim-clark, innes-ireland, jo-bonnier, bruce-mclaren, dan-gurney, graham-hill, roy-salvadori, henry-taylor, carel-godin-de-beaufort, michael-may, maurice-trintignant, stirling-moss, ian-burgess, willy-mairesse, masten-gregory]
+- lap: 23
+  drivers: [phil-hill, richie-ginther, innes-ireland, giancarlo-baghetti, jim-clark, dan-gurney, jo-bonnier, bruce-mclaren, graham-hill, roy-salvadori, henry-taylor, michael-may, carel-godin-de-beaufort, maurice-trintignant, stirling-moss, ian-burgess, willy-mairesse, masten-gregory]
+- lap: 24
+  drivers: [phil-hill, richie-ginther, giancarlo-baghetti, innes-ireland, jim-clark, dan-gurney, jo-bonnier, bruce-mclaren, graham-hill, roy-salvadori, henry-taylor, michael-may, maurice-trintignant, stirling-moss, ian-burgess, masten-gregory, willy-mairesse]
+- lap: 25
+  drivers: [phil-hill, richie-ginther, giancarlo-baghetti, jim-clark, innes-ireland, dan-gurney, jo-bonnier, graham-hill, bruce-mclaren, roy-salvadori, henry-taylor, michael-may, maurice-trintignant, stirling-moss, ian-burgess, masten-gregory, willy-mairesse]
+- lap: 26
+  drivers: [phil-hill, richie-ginther, giancarlo-baghetti, dan-gurney, jo-bonnier, jim-clark, innes-ireland, bruce-mclaren, graham-hill, roy-salvadori, henry-taylor, michael-may, maurice-trintignant, stirling-moss, ian-burgess, masten-gregory, willy-mairesse]
+- lap: 27
+  drivers: [phil-hill, richie-ginther, giancarlo-baghetti, jim-clark, dan-gurney, jo-bonnier, innes-ireland, bruce-mclaren, graham-hill, roy-salvadori, henry-taylor, michael-may, stirling-moss, maurice-trintignant, ian-burgess, masten-gregory, willy-mairesse]
+- lap: 28
+  drivers: [phil-hill, richie-ginther, giancarlo-baghetti, dan-gurney, jo-bonnier, jim-clark, innes-ireland, bruce-mclaren, graham-hill, roy-salvadori, henry-taylor, michael-may, stirling-moss, maurice-trintignant, ian-burgess, masten-gregory]
+- lap: 29
+  drivers: [phil-hill, richie-ginther, giancarlo-baghetti, jo-bonnier, jim-clark, dan-gurney, innes-ireland, bruce-mclaren, graham-hill, roy-salvadori, henry-taylor, michael-may, stirling-moss, maurice-trintignant, ian-burgess, masten-gregory]
+- lap: 30
+  drivers: [phil-hill, richie-ginther, giancarlo-baghetti, jim-clark, jo-bonnier, dan-gurney, innes-ireland, graham-hill, bruce-mclaren, roy-salvadori, henry-taylor, michael-may, stirling-moss, maurice-trintignant, ian-burgess, masten-gregory]
+- lap: 31
+  drivers: [phil-hill, richie-ginther, giancarlo-baghetti, jim-clark, jo-bonnier, dan-gurney, innes-ireland, bruce-mclaren, graham-hill, roy-salvadori, henry-taylor, michael-may, stirling-moss, maurice-trintignant, masten-gregory, ian-burgess]
+- lap: 32
+  drivers: [phil-hill, richie-ginther, giancarlo-baghetti, dan-gurney, jo-bonnier, jim-clark, innes-ireland, bruce-mclaren, graham-hill, roy-salvadori, henry-taylor, michael-may, maurice-trintignant, masten-gregory, ian-burgess]
+- lap: 33
+  drivers: [phil-hill, richie-ginther, jo-bonnier, giancarlo-baghetti, dan-gurney, jim-clark, innes-ireland, bruce-mclaren, graham-hill, roy-salvadori, henry-taylor, michael-may, maurice-trintignant, masten-gregory, ian-burgess]
+- lap: 34
+  drivers: [phil-hill, richie-ginther, giancarlo-baghetti, dan-gurney, jo-bonnier, jim-clark, innes-ireland, bruce-mclaren, graham-hill, roy-salvadori, henry-taylor, michael-may, maurice-trintignant, masten-gregory, ian-burgess]
+- lap: 35
+  drivers: [phil-hill, richie-ginther, giancarlo-baghetti, dan-gurney, jo-bonnier, jim-clark, innes-ireland, bruce-mclaren, graham-hill, roy-salvadori, henry-taylor, michael-may, maurice-trintignant, masten-gregory, ian-burgess]
+- lap: 36
+  drivers: [phil-hill, richie-ginther, giancarlo-baghetti, dan-gurney, jo-bonnier, jim-clark, innes-ireland, bruce-mclaren, graham-hill, roy-salvadori, henry-taylor, michael-may, maurice-trintignant, masten-gregory, ian-burgess]
+- lap: 37
+  drivers: [phil-hill, richie-ginther, giancarlo-baghetti, jo-bonnier, dan-gurney, jim-clark, innes-ireland, bruce-mclaren, graham-hill, roy-salvadori, henry-taylor, michael-may, masten-gregory, maurice-trintignant, ian-burgess]
+- lap: 38
+  drivers: [richie-ginther, dan-gurney, giancarlo-baghetti, jo-bonnier, jim-clark, innes-ireland, graham-hill, bruce-mclaren, roy-salvadori, phil-hill, henry-taylor, michael-may, masten-gregory, maurice-trintignant, ian-burgess]
+- lap: 39
+  drivers: [richie-ginther, giancarlo-baghetti, jo-bonnier, dan-gurney, jim-clark, innes-ireland, bruce-mclaren, graham-hill, roy-salvadori, phil-hill, henry-taylor, michael-may, masten-gregory, maurice-trintignant, ian-burgess]
+- lap: 40
+  drivers: [richie-ginther, giancarlo-baghetti, jo-bonnier, dan-gurney, jim-clark, innes-ireland, graham-hill, bruce-mclaren, roy-salvadori, phil-hill, henry-taylor, michael-may, masten-gregory, maurice-trintignant, ian-burgess]
+- lap: 41
+  drivers: [giancarlo-baghetti, jo-bonnier, dan-gurney, jim-clark, innes-ireland, graham-hill, bruce-mclaren, roy-salvadori, phil-hill, henry-taylor, michael-may, masten-gregory, maurice-trintignant, ian-burgess]
+- lap: 42
+  drivers: [giancarlo-baghetti, jo-bonnier, dan-gurney, jim-clark, innes-ireland, graham-hill, bruce-mclaren, roy-salvadori, phil-hill, henry-taylor, michael-may, masten-gregory, maurice-trintignant, ian-burgess]
+- lap: 43
+  drivers: [giancarlo-baghetti, dan-gurney, jo-bonnier, jim-clark, innes-ireland, graham-hill, bruce-mclaren, roy-salvadori, phil-hill, henry-taylor, michael-may, masten-gregory]
+- lap: 44
+  drivers: [jo-bonnier, giancarlo-baghetti, dan-gurney, jim-clark, innes-ireland, graham-hill, bruce-mclaren, roy-salvadori, phil-hill, henry-taylor, michael-may]
+- lap: 45
+  drivers: [giancarlo-baghetti, jo-bonnier, dan-gurney, jim-clark, innes-ireland, graham-hill, bruce-mclaren, roy-salvadori, phil-hill, henry-taylor, michael-may]
+- lap: 46
+  drivers: [dan-gurney, jo-bonnier, giancarlo-baghetti, jim-clark, innes-ireland, graham-hill, bruce-mclaren, roy-salvadori, phil-hill, henry-taylor, michael-may]
+- lap: 47
+  drivers: [giancarlo-baghetti, dan-gurney, jo-bonnier, jim-clark, innes-ireland, bruce-mclaren, graham-hill, roy-salvadori, phil-hill, henry-taylor, michael-may]
+- lap: 48
+  drivers: [dan-gurney, giancarlo-baghetti, jo-bonnier, jim-clark, innes-ireland, graham-hill, bruce-mclaren, roy-salvadori, phil-hill, henry-taylor, michael-may]
+- lap: 49
+  drivers: [dan-gurney, giancarlo-baghetti, jo-bonnier, jim-clark, innes-ireland, graham-hill, bruce-mclaren, roy-salvadori, phil-hill, henry-taylor]
+- lap: 50
+  drivers: [giancarlo-baghetti, dan-gurney, jo-bonnier, jim-clark, innes-ireland, graham-hill, bruce-mclaren, roy-salvadori, phil-hill]
+- lap: 51
+  drivers: [dan-gurney, giancarlo-baghetti, jim-clark, innes-ireland, graham-hill, bruce-mclaren, jo-bonnier, roy-salvadori]
+- lap: 52
+  drivers: [giancarlo-baghetti, dan-gurney, jim-clark, innes-ireland, bruce-mclaren, graham-hill, jo-bonnier]

@@ -284,9 +284,9 @@
   constructorId: bromme
   engineManufacturerId: offenhauser
   tyreManufacturerId: firestone
-  time: "4:24.800"
-  gap: "+3.950"
-  interval: "+0.060"
+  time: "4:24.780"
+  gap: "+3.930"
+  interval: "+0.040"
   laps:
 - position: 30
   driverNumber: 27
@@ -296,7 +296,7 @@
   tyreManufacturerId: firestone
   time: "4:25.910"
   gap: "+5.060"
-  interval: "+1.110"
+  interval: "+1.130"
   laps:
 - position: 31
   driverNumber: 5

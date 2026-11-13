@@ -1,0 +1,160 @@
+- lap: 0
+  drivers: [jackie-stewart, chris-amon, clay-regazzoni, mario-andretti, emerson-fittipaldi, john-surtees, denny-hulme, jacky-ickx, francois-cevert, pedro-rodriguez, peter-gethin, dave-charlton, ronnie-peterson, reine-wisell, rolf-stommelen, jo-siffert, brian-redman, henri-pescarolo, graham-hill, jackie-pretorius, john-love, andrea-de-adamich, jo-bonnier, howden-ganley, alex-soler-roig]
+- lap: 1
+  drivers: [clay-regazzoni, emerson-fittipaldi, jacky-ickx, denny-hulme, pedro-rodriguez, mario-andretti, jackie-stewart, francois-cevert, jo-siffert, dave-charlton, john-surtees, brian-redman, reine-wisell, chris-amon, john-love, peter-gethin, rolf-stommelen, ronnie-peterson, jackie-pretorius, henri-pescarolo, andrea-de-adamich, howden-ganley, jo-bonnier, alex-soler-roig, graham-hill]
+- lap: 2
+  drivers: [clay-regazzoni, emerson-fittipaldi, denny-hulme, jacky-ickx, pedro-rodriguez, jackie-stewart, mario-andretti, francois-cevert, jo-siffert, dave-charlton, john-surtees, reine-wisell, brian-redman, chris-amon, john-love, rolf-stommelen, ronnie-peterson, peter-gethin, jackie-pretorius, henri-pescarolo, howden-ganley, jo-bonnier, andrea-de-adamich, graham-hill, alex-soler-roig]
+- lap: 3
+  drivers: [clay-regazzoni, emerson-fittipaldi, denny-hulme, pedro-rodriguez, jacky-ickx, jackie-stewart, mario-andretti, francois-cevert, john-surtees, jo-siffert, dave-charlton, chris-amon, reine-wisell, brian-redman, john-love, rolf-stommelen, ronnie-peterson, peter-gethin, jackie-pretorius, henri-pescarolo, howden-ganley, jo-bonnier, andrea-de-adamich, graham-hill, alex-soler-roig]
+- lap: 4
+  drivers: [clay-regazzoni, denny-hulme, emerson-fittipaldi, pedro-rodriguez, jackie-stewart, mario-andretti, francois-cevert, john-surtees, jacky-ickx, jo-siffert, dave-charlton, reine-wisell, brian-redman, peter-gethin, chris-amon, john-love, ronnie-peterson, rolf-stommelen, jackie-pretorius, henri-pescarolo, howden-ganley, graham-hill, andrea-de-adamich, alex-soler-roig, jo-bonnier]
+- lap: 5
+  drivers: [clay-regazzoni, denny-hulme, emerson-fittipaldi, pedro-rodriguez, jackie-stewart, mario-andretti, john-surtees, jacky-ickx, jo-siffert, francois-cevert, reine-wisell, dave-charlton, brian-redman, john-love, ronnie-peterson, chris-amon, rolf-stommelen, peter-gethin, jackie-pretorius, henri-pescarolo, howden-ganley, graham-hill, andrea-de-adamich, alex-soler-roig, jo-bonnier]
+- lap: 6
+  drivers: [clay-regazzoni, denny-hulme, pedro-rodriguez, emerson-fittipaldi, jackie-stewart, mario-andretti, john-surtees, jo-siffert, jacky-ickx, francois-cevert, reine-wisell, dave-charlton, brian-redman, john-love, ronnie-peterson, chris-amon, rolf-stommelen, henri-pescarolo, jackie-pretorius, howden-ganley, graham-hill, andrea-de-adamich, peter-gethin]
+- lap: 7
+  drivers: [clay-regazzoni, denny-hulme, pedro-rodriguez, jackie-stewart, emerson-fittipaldi, mario-andretti, john-surtees, jacky-ickx, jo-siffert, francois-cevert, reine-wisell, dave-charlton, brian-redman, john-love, ronnie-peterson, chris-amon, rolf-stommelen, henri-pescarolo, jackie-pretorius, howden-ganley, graham-hill, andrea-de-adamich, peter-gethin]
+- lap: 8
+  drivers: [clay-regazzoni, denny-hulme, pedro-rodriguez, jackie-stewart, mario-andretti, john-surtees, emerson-fittipaldi, jacky-ickx, jo-siffert, francois-cevert, reine-wisell, dave-charlton, john-love, brian-redman, ronnie-peterson, chris-amon, rolf-stommelen, henri-pescarolo, jackie-pretorius, howden-ganley, graham-hill, andrea-de-adamich]
+- lap: 9
+  drivers: [clay-regazzoni, denny-hulme, pedro-rodriguez, jackie-stewart, mario-andretti, john-surtees, emerson-fittipaldi, jacky-ickx, jo-siffert, francois-cevert, reine-wisell, dave-charlton, john-love, brian-redman, ronnie-peterson, chris-amon, rolf-stommelen, henri-pescarolo, jackie-pretorius, graham-hill, howden-ganley, andrea-de-adamich]
+- lap: 10
+  drivers: [clay-regazzoni, denny-hulme, pedro-rodriguez, jackie-stewart, mario-andretti, john-surtees, emerson-fittipaldi, jacky-ickx, jo-siffert, reine-wisell, francois-cevert, dave-charlton, john-love, brian-redman, ronnie-peterson, chris-amon, rolf-stommelen, henri-pescarolo, jackie-pretorius, graham-hill, howden-ganley, andrea-de-adamich]
+- lap: 11
+  drivers: [clay-regazzoni, denny-hulme, pedro-rodriguez, jackie-stewart, john-surtees, mario-andretti, emerson-fittipaldi, jacky-ickx, jo-siffert, reine-wisell, francois-cevert, dave-charlton, john-love, ronnie-peterson, brian-redman, chris-amon, rolf-stommelen, henri-pescarolo, graham-hill, jackie-pretorius, howden-ganley, andrea-de-adamich]
+- lap: 12
+  drivers: [clay-regazzoni, denny-hulme, pedro-rodriguez, jackie-stewart, john-surtees, mario-andretti, emerson-fittipaldi, jo-siffert, jacky-ickx, reine-wisell, francois-cevert, dave-charlton, john-love, ronnie-peterson, brian-redman, chris-amon, rolf-stommelen, graham-hill, henri-pescarolo, howden-ganley, jackie-pretorius, andrea-de-adamich]
+- lap: 13
+  drivers: [clay-regazzoni, denny-hulme, pedro-rodriguez, jackie-stewart, john-surtees, mario-andretti, emerson-fittipaldi, jo-siffert, jacky-ickx, reine-wisell, francois-cevert, dave-charlton, john-love, ronnie-peterson, brian-redman, chris-amon, rolf-stommelen, graham-hill, howden-ganley, henri-pescarolo, jackie-pretorius, andrea-de-adamich]
+- lap: 14
+  drivers: [clay-regazzoni, denny-hulme, pedro-rodriguez, jackie-stewart, john-surtees, mario-andretti, jo-siffert, emerson-fittipaldi, jacky-ickx, reine-wisell, francois-cevert, dave-charlton, john-love, ronnie-peterson, brian-redman, chris-amon, rolf-stommelen, graham-hill, howden-ganley, henri-pescarolo, jackie-pretorius, andrea-de-adamich]
+- lap: 15
+  drivers: [clay-regazzoni, denny-hulme, pedro-rodriguez, john-surtees, jackie-stewart, mario-andretti, jo-siffert, emerson-fittipaldi, jacky-ickx, reine-wisell, francois-cevert, dave-charlton, john-love, ronnie-peterson, brian-redman, chris-amon, rolf-stommelen, graham-hill, howden-ganley, henri-pescarolo, jackie-pretorius, andrea-de-adamich]
+- lap: 16
+  drivers: [clay-regazzoni, denny-hulme, pedro-rodriguez, john-surtees, jackie-stewart, mario-andretti, jo-siffert, emerson-fittipaldi, jacky-ickx, reine-wisell, francois-cevert, john-love, ronnie-peterson, dave-charlton, brian-redman, chris-amon, rolf-stommelen, graham-hill, howden-ganley, henri-pescarolo, jackie-pretorius, andrea-de-adamich]
+- lap: 17
+  drivers: [denny-hulme, clay-regazzoni, john-surtees, pedro-rodriguez, jackie-stewart, mario-andretti, jo-siffert, emerson-fittipaldi, reine-wisell, francois-cevert, jacky-ickx, john-love, ronnie-peterson, dave-charlton, brian-redman, chris-amon, rolf-stommelen, graham-hill, howden-ganley, henri-pescarolo, jackie-pretorius, andrea-de-adamich]
+- lap: 18
+  drivers: [denny-hulme, clay-regazzoni, john-surtees, pedro-rodriguez, jackie-stewart, mario-andretti, jo-siffert, emerson-fittipaldi, reine-wisell, francois-cevert, john-love, ronnie-peterson, dave-charlton, chris-amon, brian-redman, jacky-ickx, rolf-stommelen, graham-hill, howden-ganley, henri-pescarolo, jackie-pretorius, andrea-de-adamich]
+- lap: 19
+  drivers: [denny-hulme, clay-regazzoni, john-surtees, pedro-rodriguez, jackie-stewart, mario-andretti, jo-siffert, emerson-fittipaldi, reine-wisell, francois-cevert, john-love, ronnie-peterson, dave-charlton, chris-amon, brian-redman, rolf-stommelen, graham-hill, howden-ganley, henri-pescarolo, jackie-pretorius, andrea-de-adamich, jacky-ickx]
+- lap: 20
+  drivers: [denny-hulme, clay-regazzoni, john-surtees, pedro-rodriguez, jackie-stewart, mario-andretti, jo-siffert, emerson-fittipaldi, reine-wisell, francois-cevert, john-love, ronnie-peterson, dave-charlton, chris-amon, brian-redman, graham-hill, rolf-stommelen, howden-ganley, henri-pescarolo, jackie-pretorius, andrea-de-adamich, jacky-ickx]
+- lap: 21
+  drivers: [denny-hulme, clay-regazzoni, john-surtees, pedro-rodriguez, jackie-stewart, mario-andretti, jo-siffert, emerson-fittipaldi, reine-wisell, francois-cevert, ronnie-peterson, john-love, dave-charlton, brian-redman, chris-amon, graham-hill, rolf-stommelen, howden-ganley, henri-pescarolo, jackie-pretorius, andrea-de-adamich, jacky-ickx]
+- lap: 22
+  drivers: [denny-hulme, clay-regazzoni, john-surtees, pedro-rodriguez, mario-andretti, jackie-stewart, jo-siffert, emerson-fittipaldi, reine-wisell, francois-cevert, ronnie-peterson, john-love, dave-charlton, brian-redman, chris-amon, graham-hill, rolf-stommelen, howden-ganley, henri-pescarolo, jackie-pretorius, andrea-de-adamich, jacky-ickx]
+- lap: 23
+  drivers: [denny-hulme, clay-regazzoni, john-surtees, mario-andretti, pedro-rodriguez, jo-siffert, jackie-stewart, emerson-fittipaldi, reine-wisell, francois-cevert, ronnie-peterson, john-love, dave-charlton, brian-redman, chris-amon, graham-hill, rolf-stommelen, howden-ganley, henri-pescarolo, andrea-de-adamich, jacky-ickx]
+- lap: 24
+  drivers: [denny-hulme, clay-regazzoni, john-surtees, mario-andretti, pedro-rodriguez, jo-siffert, jackie-stewart, emerson-fittipaldi, reine-wisell, francois-cevert, ronnie-peterson, john-love, dave-charlton, brian-redman, chris-amon, graham-hill, rolf-stommelen, howden-ganley, henri-pescarolo, andrea-de-adamich, jacky-ickx]
+- lap: 25
+  drivers: [denny-hulme, clay-regazzoni, john-surtees, mario-andretti, pedro-rodriguez, jo-siffert, jackie-stewart, reine-wisell, emerson-fittipaldi, francois-cevert, ronnie-peterson, john-love, dave-charlton, brian-redman, chris-amon, graham-hill, rolf-stommelen, henri-pescarolo, howden-ganley, andrea-de-adamich, jacky-ickx]
+- lap: 26
+  drivers: [denny-hulme, clay-regazzoni, john-surtees, mario-andretti, jo-siffert, pedro-rodriguez, jackie-stewart, reine-wisell, emerson-fittipaldi, francois-cevert, ronnie-peterson, john-love, brian-redman, dave-charlton, chris-amon, graham-hill, henri-pescarolo, rolf-stommelen, howden-ganley, jacky-ickx, andrea-de-adamich]
+- lap: 27
+  drivers: [denny-hulme, clay-regazzoni, john-surtees, mario-andretti, jo-siffert, pedro-rodriguez, jackie-stewart, reine-wisell, emerson-fittipaldi, francois-cevert, ronnie-peterson, john-love, brian-redman, dave-charlton, chris-amon, graham-hill, henri-pescarolo, rolf-stommelen, howden-ganley, jacky-ickx, andrea-de-adamich]
+- lap: 28
+  drivers: [denny-hulme, clay-regazzoni, john-surtees, mario-andretti, jo-siffert, pedro-rodriguez, jackie-stewart, reine-wisell, emerson-fittipaldi, francois-cevert, ronnie-peterson, john-love, brian-redman, dave-charlton, chris-amon, graham-hill, henri-pescarolo, rolf-stommelen, howden-ganley, jacky-ickx, andrea-de-adamich]
+- lap: 29
+  drivers: [denny-hulme, clay-regazzoni, john-surtees, mario-andretti, jo-siffert, pedro-rodriguez, jackie-stewart, reine-wisell, emerson-fittipaldi, francois-cevert, ronnie-peterson, john-love, brian-redman, dave-charlton, chris-amon, graham-hill, henri-pescarolo, rolf-stommelen, howden-ganley, jacky-ickx, andrea-de-adamich]
+- lap: 30
+  drivers: [denny-hulme, clay-regazzoni, john-surtees, mario-andretti, jo-siffert, pedro-rodriguez, jackie-stewart, reine-wisell, emerson-fittipaldi, francois-cevert, ronnie-peterson, brian-redman, dave-charlton, chris-amon, graham-hill, john-love, henri-pescarolo, rolf-stommelen, howden-ganley, jacky-ickx, andrea-de-adamich]
+- lap: 31
+  drivers: [denny-hulme, clay-regazzoni, john-surtees, mario-andretti, jackie-stewart, pedro-rodriguez, reine-wisell, emerson-fittipaldi, francois-cevert, jo-siffert, brian-redman, chris-amon, ronnie-peterson, graham-hill, dave-charlton, henri-pescarolo, rolf-stommelen, howden-ganley, jacky-ickx, andrea-de-adamich]
+- lap: 32
+  drivers: [denny-hulme, clay-regazzoni, john-surtees, mario-andretti, jackie-stewart, pedro-rodriguez, reine-wisell, emerson-fittipaldi, francois-cevert, brian-redman, chris-amon, graham-hill, henri-pescarolo, rolf-stommelen, howden-ganley, jacky-ickx, ronnie-peterson, andrea-de-adamich]
+- lap: 33
+  drivers: [denny-hulme, clay-regazzoni, john-surtees, mario-andretti, jackie-stewart, reine-wisell, emerson-fittipaldi, francois-cevert, pedro-rodriguez, brian-redman, chris-amon, graham-hill, henri-pescarolo, rolf-stommelen, jacky-ickx, ronnie-peterson, andrea-de-adamich, howden-ganley]
+- lap: 34
+  drivers: [denny-hulme, clay-regazzoni, john-surtees, mario-andretti, jackie-stewart, reine-wisell, emerson-fittipaldi, francois-cevert, brian-redman, chris-amon, graham-hill, henri-pescarolo, rolf-stommelen, jacky-ickx, ronnie-peterson, andrea-de-adamich, howden-ganley]
+- lap: 35
+  drivers: [denny-hulme, clay-regazzoni, john-surtees, mario-andretti, jackie-stewart, reine-wisell, emerson-fittipaldi, francois-cevert, brian-redman, chris-amon, graham-hill, henri-pescarolo, rolf-stommelen, jacky-ickx, ronnie-peterson, andrea-de-adamich, howden-ganley]
+- lap: 36
+  drivers: [denny-hulme, clay-regazzoni, john-surtees, mario-andretti, jackie-stewart, reine-wisell, emerson-fittipaldi, francois-cevert, brian-redman, chris-amon, graham-hill, henri-pescarolo, rolf-stommelen, jacky-ickx, ronnie-peterson, andrea-de-adamich, howden-ganley]
+- lap: 37
+  drivers: [denny-hulme, john-surtees, clay-regazzoni, mario-andretti, jackie-stewart, reine-wisell, emerson-fittipaldi, francois-cevert, chris-amon, brian-redman, graham-hill, henri-pescarolo, rolf-stommelen, jacky-ickx, ronnie-peterson, andrea-de-adamich, howden-ganley]
+- lap: 38
+  drivers: [denny-hulme, john-surtees, mario-andretti, clay-regazzoni, jackie-stewart, reine-wisell, francois-cevert, emerson-fittipaldi, chris-amon, brian-redman, graham-hill, henri-pescarolo, rolf-stommelen, jacky-ickx, ronnie-peterson, andrea-de-adamich, howden-ganley]
+- lap: 39
+  drivers: [denny-hulme, john-surtees, mario-andretti, clay-regazzoni, jackie-stewart, reine-wisell, francois-cevert, emerson-fittipaldi, chris-amon, graham-hill, brian-redman, henri-pescarolo, rolf-stommelen, jacky-ickx, ronnie-peterson, andrea-de-adamich, howden-ganley]
+- lap: 40
+  drivers: [denny-hulme, john-surtees, mario-andretti, clay-regazzoni, jackie-stewart, reine-wisell, francois-cevert, emerson-fittipaldi, chris-amon, graham-hill, brian-redman, henri-pescarolo, rolf-stommelen, jacky-ickx, ronnie-peterson, andrea-de-adamich, howden-ganley]
+- lap: 41
+  drivers: [denny-hulme, john-surtees, mario-andretti, clay-regazzoni, jackie-stewart, reine-wisell, francois-cevert, emerson-fittipaldi, chris-amon, graham-hill, brian-redman, henri-pescarolo, rolf-stommelen, jacky-ickx, ronnie-peterson, andrea-de-adamich, howden-ganley]
+- lap: 42
+  drivers: [denny-hulme, john-surtees, mario-andretti, clay-regazzoni, jackie-stewart, reine-wisell, francois-cevert, emerson-fittipaldi, graham-hill, chris-amon, brian-redman, henri-pescarolo, rolf-stommelen, jacky-ickx, ronnie-peterson, andrea-de-adamich, howden-ganley]
+- lap: 43
+  drivers: [denny-hulme, john-surtees, mario-andretti, clay-regazzoni, jackie-stewart, reine-wisell, francois-cevert, emerson-fittipaldi, graham-hill, chris-amon, brian-redman, henri-pescarolo, rolf-stommelen, jacky-ickx, ronnie-peterson, andrea-de-adamich]
+- lap: 44
+  drivers: [denny-hulme, mario-andretti, john-surtees, clay-regazzoni, jackie-stewart, reine-wisell, francois-cevert, emerson-fittipaldi, graham-hill, chris-amon, brian-redman, henri-pescarolo, jacky-ickx, rolf-stommelen, ronnie-peterson, andrea-de-adamich]
+- lap: 45
+  drivers: [denny-hulme, mario-andretti, john-surtees, clay-regazzoni, jackie-stewart, reine-wisell, francois-cevert, emerson-fittipaldi, graham-hill, chris-amon, brian-redman, henri-pescarolo, jacky-ickx, rolf-stommelen, ronnie-peterson, andrea-de-adamich]
+- lap: 46
+  drivers: [denny-hulme, mario-andretti, john-surtees, clay-regazzoni, jackie-stewart, reine-wisell, emerson-fittipaldi, graham-hill, chris-amon, brian-redman, henri-pescarolo, jacky-ickx, rolf-stommelen, ronnie-peterson, andrea-de-adamich]
+- lap: 47
+  drivers: [denny-hulme, mario-andretti, john-surtees, clay-regazzoni, jackie-stewart, reine-wisell, emerson-fittipaldi, graham-hill, chris-amon, brian-redman, henri-pescarolo, jacky-ickx, rolf-stommelen, ronnie-peterson, andrea-de-adamich]
+- lap: 48
+  drivers: [denny-hulme, mario-andretti, john-surtees, clay-regazzoni, jackie-stewart, reine-wisell, emerson-fittipaldi, graham-hill, chris-amon, brian-redman, henri-pescarolo, jacky-ickx, rolf-stommelen, ronnie-peterson, andrea-de-adamich]
+- lap: 49
+  drivers: [denny-hulme, mario-andretti, clay-regazzoni, john-surtees, jackie-stewart, reine-wisell, emerson-fittipaldi, graham-hill, chris-amon, brian-redman, henri-pescarolo, jacky-ickx, ronnie-peterson, rolf-stommelen, andrea-de-adamich]
+- lap: 50
+  drivers: [denny-hulme, mario-andretti, clay-regazzoni, john-surtees, jackie-stewart, reine-wisell, emerson-fittipaldi, graham-hill, chris-amon, brian-redman, henri-pescarolo, jacky-ickx, ronnie-peterson, rolf-stommelen, andrea-de-adamich]
+- lap: 51
+  drivers: [denny-hulme, mario-andretti, clay-regazzoni, jackie-stewart, john-surtees, reine-wisell, emerson-fittipaldi, graham-hill, chris-amon, brian-redman, jacky-ickx, henri-pescarolo, ronnie-peterson, rolf-stommelen, andrea-de-adamich]
+- lap: 52
+  drivers: [denny-hulme, mario-andretti, clay-regazzoni, jackie-stewart, john-surtees, reine-wisell, emerson-fittipaldi, graham-hill, chris-amon, brian-redman, henri-pescarolo, jacky-ickx, ronnie-peterson, rolf-stommelen, andrea-de-adamich]
+- lap: 53
+  drivers: [denny-hulme, mario-andretti, clay-regazzoni, jackie-stewart, john-surtees, reine-wisell, emerson-fittipaldi, graham-hill, chris-amon, brian-redman, jacky-ickx, henri-pescarolo, ronnie-peterson, rolf-stommelen, andrea-de-adamich]
+- lap: 54
+  drivers: [denny-hulme, mario-andretti, clay-regazzoni, jackie-stewart, john-surtees, reine-wisell, emerson-fittipaldi, graham-hill, chris-amon, brian-redman, jacky-ickx, henri-pescarolo, ronnie-peterson, rolf-stommelen, andrea-de-adamich]
+- lap: 55
+  drivers: [denny-hulme, mario-andretti, clay-regazzoni, jackie-stewart, john-surtees, reine-wisell, emerson-fittipaldi, graham-hill, chris-amon, brian-redman, jacky-ickx, henri-pescarolo, ronnie-peterson, rolf-stommelen, andrea-de-adamich]
+- lap: 56
+  drivers: [denny-hulme, mario-andretti, clay-regazzoni, jackie-stewart, reine-wisell, emerson-fittipaldi, graham-hill, chris-amon, brian-redman, jacky-ickx, henri-pescarolo, ronnie-peterson, rolf-stommelen, john-surtees, andrea-de-adamich]
+- lap: 57
+  drivers: [denny-hulme, mario-andretti, clay-regazzoni, jackie-stewart, reine-wisell, emerson-fittipaldi, graham-hill, chris-amon, brian-redman, jacky-ickx, henri-pescarolo, ronnie-peterson, rolf-stommelen, andrea-de-adamich]
+- lap: 58
+  drivers: [denny-hulme, mario-andretti, clay-regazzoni, jackie-stewart, reine-wisell, emerson-fittipaldi, graham-hill, chris-amon, brian-redman, jacky-ickx, ronnie-peterson, henri-pescarolo, rolf-stommelen, andrea-de-adamich]
+- lap: 59
+  drivers: [denny-hulme, mario-andretti, clay-regazzoni, jackie-stewart, reine-wisell, graham-hill, chris-amon, brian-redman, jacky-ickx, ronnie-peterson, henri-pescarolo, rolf-stommelen, andrea-de-adamich]
+- lap: 60
+  drivers: [denny-hulme, mario-andretti, clay-regazzoni, jackie-stewart, reine-wisell, chris-amon, graham-hill, brian-redman, jacky-ickx, ronnie-peterson, henri-pescarolo, rolf-stommelen, andrea-de-adamich]
+- lap: 61
+  drivers: [denny-hulme, mario-andretti, clay-regazzoni, jackie-stewart, reine-wisell, chris-amon, brian-redman, jacky-ickx, graham-hill, ronnie-peterson, henri-pescarolo, rolf-stommelen, andrea-de-adamich]
+- lap: 62
+  drivers: [denny-hulme, mario-andretti, clay-regazzoni, jackie-stewart, reine-wisell, chris-amon, brian-redman, jacky-ickx, graham-hill, ronnie-peterson, henri-pescarolo, rolf-stommelen, andrea-de-adamich]
+- lap: 63
+  drivers: [denny-hulme, mario-andretti, clay-regazzoni, jackie-stewart, reine-wisell, chris-amon, brian-redman, jacky-ickx, graham-hill, ronnie-peterson, henri-pescarolo, rolf-stommelen, andrea-de-adamich]
+- lap: 64
+  drivers: [denny-hulme, mario-andretti, clay-regazzoni, jackie-stewart, reine-wisell, chris-amon, brian-redman, jacky-ickx, graham-hill, ronnie-peterson, henri-pescarolo, rolf-stommelen, andrea-de-adamich]
+- lap: 65
+  drivers: [denny-hulme, mario-andretti, clay-regazzoni, jackie-stewart, reine-wisell, chris-amon, brian-redman, jacky-ickx, graham-hill, ronnie-peterson, henri-pescarolo, rolf-stommelen, andrea-de-adamich]
+- lap: 66
+  drivers: [denny-hulme, mario-andretti, jackie-stewart, clay-regazzoni, reine-wisell, chris-amon, brian-redman, jacky-ickx, graham-hill, ronnie-peterson, henri-pescarolo, rolf-stommelen, andrea-de-adamich]
+- lap: 67
+  drivers: [denny-hulme, mario-andretti, jackie-stewart, clay-regazzoni, reine-wisell, chris-amon, brian-redman, jacky-ickx, graham-hill, ronnie-peterson, henri-pescarolo, rolf-stommelen, andrea-de-adamich]
+- lap: 68
+  drivers: [denny-hulme, mario-andretti, jackie-stewart, clay-regazzoni, reine-wisell, chris-amon, brian-redman, jacky-ickx, graham-hill, ronnie-peterson, henri-pescarolo, rolf-stommelen, andrea-de-adamich]
+- lap: 69
+  drivers: [denny-hulme, mario-andretti, jackie-stewart, clay-regazzoni, reine-wisell, chris-amon, brian-redman, jacky-ickx, graham-hill, ronnie-peterson, henri-pescarolo, rolf-stommelen, andrea-de-adamich]
+- lap: 70
+  drivers: [denny-hulme, mario-andretti, jackie-stewart, clay-regazzoni, reine-wisell, chris-amon, brian-redman, jacky-ickx, graham-hill, ronnie-peterson, henri-pescarolo, rolf-stommelen, andrea-de-adamich]
+- lap: 71
+  drivers: [denny-hulme, mario-andretti, jackie-stewart, clay-regazzoni, reine-wisell, chris-amon, brian-redman, jacky-ickx, graham-hill, ronnie-peterson, henri-pescarolo, rolf-stommelen, andrea-de-adamich]
+- lap: 72
+  drivers: [denny-hulme, mario-andretti, jackie-stewart, clay-regazzoni, reine-wisell, chris-amon, brian-redman, jacky-ickx, graham-hill, ronnie-peterson, henri-pescarolo, rolf-stommelen, andrea-de-adamich]
+- lap: 73
+  drivers: [denny-hulme, mario-andretti, jackie-stewart, clay-regazzoni, reine-wisell, chris-amon, brian-redman, jacky-ickx, graham-hill, ronnie-peterson, henri-pescarolo, rolf-stommelen, andrea-de-adamich]
+- lap: 74
+  drivers: [denny-hulme, mario-andretti, jackie-stewart, clay-regazzoni, reine-wisell, chris-amon, brian-redman, jacky-ickx, graham-hill, ronnie-peterson, henri-pescarolo, rolf-stommelen, andrea-de-adamich]
+- lap: 75
+  drivers: [denny-hulme, mario-andretti, jackie-stewart, clay-regazzoni, reine-wisell, chris-amon, brian-redman, jacky-ickx, graham-hill, ronnie-peterson, henri-pescarolo, rolf-stommelen, andrea-de-adamich]
+- lap: 76
+  drivers: [mario-andretti, denny-hulme, jackie-stewart, clay-regazzoni, reine-wisell, chris-amon, brian-redman, jacky-ickx, graham-hill, ronnie-peterson, henri-pescarolo, rolf-stommelen]
+- lap: 77
+  drivers: [mario-andretti, jackie-stewart, clay-regazzoni, denny-hulme, reine-wisell, chris-amon, brian-redman, jacky-ickx, graham-hill, ronnie-peterson, henri-pescarolo, rolf-stommelen]
+- lap: 78
+  drivers: [mario-andretti, jackie-stewart, clay-regazzoni, reine-wisell, chris-amon, denny-hulme, brian-redman, jacky-ickx]
+- lap: 79
+  drivers: [mario-andretti, jackie-stewart, clay-regazzoni, reine-wisell]

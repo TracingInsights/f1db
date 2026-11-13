@@ -179,20 +179,20 @@
   interval: "+3.100"
   laps: 6
 - position: 19
-  driverNumber: 20
-  driverId: gianmaria-bruni
-  constructorId: minardi
-  engineManufacturerId: cosworth
+  driverNumber: 1
+  driverId: michael-schumacher
+  constructorId: ferrari
+  engineManufacturerId: ferrari
   tyreManufacturerId: bridgestone
   time:
   gap:
   interval:
   laps: 5
 - position: 20
-  driverNumber: 1
-  driverId: michael-schumacher
-  constructorId: ferrari
-  engineManufacturerId: ferrari
+  driverNumber: 20
+  driverId: gianmaria-bruni
+  constructorId: minardi
+  engineManufacturerId: cosworth
   tyreManufacturerId: bridgestone
   time:
   gap:

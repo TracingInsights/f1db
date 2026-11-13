@@ -64,9 +64,9 @@
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: michelin
-  time: "1:22.080"
-  gap: "+0.950"
-  interval: "+0.000"
+  time: "1:22.090"
+  gap: "+0.960"
+  interval: "+0.010"
   laps:
 - position: 8
   driverNumber: 28
@@ -76,7 +76,7 @@
   tyreManufacturerId: goodyear
   time: "1:22.400"
   gap: "+1.270"
-  interval: "+0.320"
+  interval: "+0.310"
   laps:
 - position: 9
   driverNumber: 20

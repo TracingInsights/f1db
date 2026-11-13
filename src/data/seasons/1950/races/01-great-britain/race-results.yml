@@ -145,7 +145,7 @@
   engineManufacturerId: maserati
   tyreManufacturerId: dunlop
   sharedCar: true
-  laps:
+  laps: 19
   time:
   timePenalty:
   gap:
@@ -300,7 +300,7 @@
   engineManufacturerId: era
   tyreManufacturerId: dunlop
   sharedCar: true
-  laps:
+  laps: 3
   time:
   timePenalty:
   gap:

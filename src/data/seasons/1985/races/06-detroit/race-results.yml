@@ -334,13 +334,13 @@
   reasonRetired: Turbo
   points:
   gridPosition: 20
-- position: DNS
+- position: DNF
   driverNumber: 24
   driverId: piercarlo-ghinzani
   constructorId: osella
   engineManufacturerId: alfa-romeo
   tyreManufacturerId: pirelli
-  laps:
+  laps: 0
   time:
   timePenalty:
   gap:

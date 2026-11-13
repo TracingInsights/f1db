@@ -19,7 +19,7 @@
   engineManufacturerId: ferrari
   tyreManufacturerId: englebert
   sharedCar: true
-  laps:
+  laps: 68
   time:
   timePenalty:
   gap:
@@ -46,7 +46,7 @@
   driverId: mike-hawthorn
   constructorId: maserati
   engineManufacturerId: maserati
-  tyreManufacturerId: dunlop
+  tyreManufacturerId: pirelli
   laps: 96
   time:
   timePenalty:
@@ -76,7 +76,7 @@
   engineManufacturerId: maserati
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 46
   time:
   timePenalty:
   gap:
@@ -119,7 +119,7 @@
   engineManufacturerId: maserati
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 44
   time:
   timePenalty:
   gap:

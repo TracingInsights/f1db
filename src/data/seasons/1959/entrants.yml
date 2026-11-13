@@ -562,7 +562,7 @@
   engineManufacturerId: climax
   chassis:
     - chassisId: cooper-t51
-    - chassisId: cooper-t43
+    - chassisId: cooper-t45
   engineId: climax-fpf-15-l4
   tyreManufacturerId: dunlop
   drivers:
@@ -633,7 +633,7 @@
   engineManufacturerId: ferrari
   chassis:
     - chassisId: ferrari-246
-    - chassisId: ferrari-156
+    - chassisId: ferrari-dino-156-f2
   engines:
     - engineId: ferrari-155-24-v6
     - engineId: ferrari-d156-15-v6

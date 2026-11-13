@@ -92,6 +92,7 @@
   engines:
     - engineId: climax-fpf-20-l4
     - engineId: climax-fpf-15-l4
+    - engineId: climax-fpf-22-l4
   tyreManufacturerId: dunlop
   drivers:
     - driverId: jack-brabham
@@ -520,7 +521,7 @@
   constructorId: lesovsky
   engineManufacturerId: offenhauser
   chassisId: lesovsky
-  engineId: offenhauser-30-l4-s
+  engineId: offenhauser-45-l4
   tyreManufacturerId: firestone
   driverId: rodger-ward
   rounds: 4
@@ -543,6 +544,7 @@
   engines:
     - engineId: climax-fpf-20-l4
     - engineId: climax-fpf-15-l4
+    - engineId: climax-fpf-22-l4
   tyreManufacturers:
     - tyreManufacturerId: dunlop
     - tyreManufacturerId: continental
@@ -562,7 +564,9 @@
       engineManufacturerId: maserati
       chassisId: maserati-250f
       engineId: maserati-250f1-25-l6
-      tyreManufacturerId: pirelli
+      tyreManufacturers:
+        - tyreManufacturerId: pirelli
+        - tyreManufacturerId: dunlop
       drivers:
         - driverId: gerino-gerini
           rounds: 2,6-7,10-11
@@ -597,7 +601,7 @@
   engineManufacturerId: ferrari
   chassis:
     - chassisId: ferrari-246
-    - chassisId: ferrari-156
+    - chassisId: ferrari-dino-156-f2
   engines:
     - engineId: ferrari-143-24-v6
     - engineId: ferrari-d156-15-v6
@@ -652,7 +656,9 @@
   engineManufacturerId: maserati
   chassisId: maserati-250f
   engineId: maserati-250f1-25-l6
-  tyreManufacturerId: pirelli
+  tyreManufacturers:
+    - tyreManufacturerId: pirelli
+    - tyreManufacturerId: dunlop
   drivers:
     - driverId: carroll-shelby
       rounds: 9,10

@@ -1,0 +1,146 @@
+- lap: 0
+  drivers: [david-coulthard, damon-hill, michael-schumacher, eddie-irvine, mika-hakkinen, jean-alesi, mika-salo, gerhard-berger, heinz-harald-frentzen, rubens-barrichello, johnny-herbert, gianni-morbidelli, jos-verstappen, ukyo-katayama, pierluigi-martini, mark-blundell, olivier-panis, aguri-suzuki, domenico-schiattarella, karl-wendlinger, andrea-montermini, bertrand-gachot, roberto-moreno, pedro-diniz, taki-inoue]
+- lap: 1
+  drivers: [david-coulthard, michael-schumacher, damon-hill, mika-salo, jean-alesi, heinz-harald-frentzen, ukyo-katayama, johnny-herbert, mark-blundell, jos-verstappen, aguri-suzuki, gerhard-berger, pierluigi-martini, domenico-schiattarella, gianni-morbidelli, olivier-panis, roberto-moreno, taki-inoue, rubens-barrichello, pedro-diniz, eddie-irvine, andrea-montermini]
+- lap: 2
+  drivers: [david-coulthard, michael-schumacher, damon-hill, mika-salo, jean-alesi, heinz-harald-frentzen, ukyo-katayama, johnny-herbert, mark-blundell, jos-verstappen, aguri-suzuki, gerhard-berger, pierluigi-martini, gianni-morbidelli, domenico-schiattarella, olivier-panis, roberto-moreno, rubens-barrichello, taki-inoue, pedro-diniz, eddie-irvine]
+- lap: 3
+  drivers: [david-coulthard, michael-schumacher, damon-hill, mika-salo, jean-alesi, heinz-harald-frentzen, ukyo-katayama, johnny-herbert, mark-blundell, jos-verstappen, aguri-suzuki, gerhard-berger, pierluigi-martini, gianni-morbidelli, olivier-panis, domenico-schiattarella, rubens-barrichello, taki-inoue, roberto-moreno, pedro-diniz, eddie-irvine]
+- lap: 4
+  drivers: [david-coulthard, michael-schumacher, damon-hill, mika-salo, jean-alesi, heinz-harald-frentzen, ukyo-katayama, johnny-herbert, mark-blundell, jos-verstappen, aguri-suzuki, gerhard-berger, pierluigi-martini, gianni-morbidelli, olivier-panis, domenico-schiattarella, rubens-barrichello, taki-inoue, roberto-moreno, pedro-diniz, eddie-irvine]
+- lap: 5
+  drivers: [david-coulthard, michael-schumacher, damon-hill, mika-salo, jean-alesi, heinz-harald-frentzen, ukyo-katayama, johnny-herbert, mark-blundell, jos-verstappen, aguri-suzuki, gerhard-berger, pierluigi-martini, gianni-morbidelli, olivier-panis, domenico-schiattarella, rubens-barrichello, taki-inoue, roberto-moreno, pedro-diniz, eddie-irvine]
+- lap: 6
+  drivers: [michael-schumacher, damon-hill, david-coulthard, mika-salo, jean-alesi, heinz-harald-frentzen, johnny-herbert, ukyo-katayama, mark-blundell, jos-verstappen, aguri-suzuki, gerhard-berger, pierluigi-martini, gianni-morbidelli, olivier-panis, domenico-schiattarella, rubens-barrichello, taki-inoue, roberto-moreno, pedro-diniz, eddie-irvine]
+- lap: 7
+  drivers: [michael-schumacher, damon-hill, david-coulthard, jean-alesi, mika-salo, heinz-harald-frentzen, johnny-herbert, mark-blundell, ukyo-katayama, jos-verstappen, gerhard-berger, aguri-suzuki, pierluigi-martini, gianni-morbidelli, olivier-panis, rubens-barrichello, domenico-schiattarella, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 8
+  drivers: [michael-schumacher, damon-hill, david-coulthard, jean-alesi, mika-salo, heinz-harald-frentzen, johnny-herbert, mark-blundell, ukyo-katayama, jos-verstappen, gerhard-berger, gianni-morbidelli, pierluigi-martini, aguri-suzuki, rubens-barrichello, taki-inoue, olivier-panis, roberto-moreno, domenico-schiattarella, pedro-diniz]
+- lap: 9
+  drivers: [michael-schumacher, damon-hill, david-coulthard, jean-alesi, mika-salo, heinz-harald-frentzen, johnny-herbert, mark-blundell, jos-verstappen, gerhard-berger, ukyo-katayama, gianni-morbidelli, rubens-barrichello, olivier-panis, pierluigi-martini, aguri-suzuki, domenico-schiattarella, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 10
+  drivers: [michael-schumacher, damon-hill, david-coulthard, jean-alesi, mika-salo, heinz-harald-frentzen, johnny-herbert, gerhard-berger, jos-verstappen, ukyo-katayama, gianni-morbidelli, rubens-barrichello, olivier-panis, pierluigi-martini, aguri-suzuki, domenico-schiattarella, roberto-moreno, pedro-diniz, taki-inoue]
+- lap: 11
+  drivers: [damon-hill, michael-schumacher, david-coulthard, jean-alesi, mika-salo, heinz-harald-frentzen, johnny-herbert, gerhard-berger, jos-verstappen, ukyo-katayama, gianni-morbidelli, rubens-barrichello, olivier-panis, pierluigi-martini, aguri-suzuki, domenico-schiattarella, taki-inoue, pedro-diniz, roberto-moreno]
+- lap: 12
+  drivers: [damon-hill, michael-schumacher, david-coulthard, jean-alesi, mika-salo, heinz-harald-frentzen, johnny-herbert, gerhard-berger, jos-verstappen, ukyo-katayama, gianni-morbidelli, rubens-barrichello, olivier-panis, pierluigi-martini, aguri-suzuki, domenico-schiattarella, taki-inoue, pedro-diniz, roberto-moreno]
+- lap: 13
+  drivers: [damon-hill, michael-schumacher, david-coulthard, jean-alesi, mika-salo, heinz-harald-frentzen, johnny-herbert, gerhard-berger, jos-verstappen, ukyo-katayama, gianni-morbidelli, rubens-barrichello, olivier-panis, pierluigi-martini, aguri-suzuki, domenico-schiattarella, taki-inoue, pedro-diniz, roberto-moreno]
+- lap: 14
+  drivers: [damon-hill, michael-schumacher, david-coulthard, jean-alesi, heinz-harald-frentzen, johnny-herbert, jos-verstappen, ukyo-katayama, gianni-morbidelli, gerhard-berger, mika-salo, rubens-barrichello, olivier-panis, pierluigi-martini, aguri-suzuki, domenico-schiattarella, taki-inoue, pedro-diniz, roberto-moreno]
+- lap: 15
+  drivers: [damon-hill, michael-schumacher, david-coulthard, jean-alesi, heinz-harald-frentzen, johnny-herbert, jos-verstappen, ukyo-katayama, gianni-morbidelli, mika-salo, rubens-barrichello, olivier-panis, pierluigi-martini, aguri-suzuki, domenico-schiattarella, gerhard-berger, taki-inoue, pedro-diniz, roberto-moreno]
+- lap: 16
+  drivers: [damon-hill, david-coulthard, michael-schumacher, jean-alesi, heinz-harald-frentzen, johnny-herbert, jos-verstappen, ukyo-katayama, gianni-morbidelli, mika-salo, rubens-barrichello, olivier-panis, pierluigi-martini, aguri-suzuki, domenico-schiattarella, gerhard-berger, taki-inoue, pedro-diniz, roberto-moreno]
+- lap: 17
+  drivers: [michael-schumacher, jean-alesi, damon-hill, johnny-herbert, heinz-harald-frentzen, jos-verstappen, gianni-morbidelli, ukyo-katayama, mika-salo, rubens-barrichello, olivier-panis, pierluigi-martini, domenico-schiattarella, aguri-suzuki, gerhard-berger, taki-inoue, pedro-diniz, roberto-moreno]
+- lap: 18
+  drivers: [jean-alesi, damon-hill, michael-schumacher, johnny-herbert, heinz-harald-frentzen, jos-verstappen, gianni-morbidelli, ukyo-katayama, mika-salo, rubens-barrichello, olivier-panis, pierluigi-martini, domenico-schiattarella, gerhard-berger, aguri-suzuki, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 19
+  drivers: [jean-alesi, damon-hill, michael-schumacher, johnny-herbert, heinz-harald-frentzen, jos-verstappen, gianni-morbidelli, mika-salo, rubens-barrichello, ukyo-katayama, olivier-panis, pierluigi-martini, domenico-schiattarella, gerhard-berger, aguri-suzuki, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 20
+  drivers: [jean-alesi, damon-hill, michael-schumacher, johnny-herbert, heinz-harald-frentzen, jos-verstappen, gianni-morbidelli, mika-salo, rubens-barrichello, ukyo-katayama, olivier-panis, pierluigi-martini, domenico-schiattarella, gerhard-berger, aguri-suzuki, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 21
+  drivers: [jean-alesi, damon-hill, michael-schumacher, johnny-herbert, heinz-harald-frentzen, jos-verstappen, gianni-morbidelli, mika-salo, rubens-barrichello, olivier-panis, ukyo-katayama, pierluigi-martini, domenico-schiattarella, gerhard-berger, aguri-suzuki, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 22
+  drivers: [jean-alesi, damon-hill, michael-schumacher, johnny-herbert, heinz-harald-frentzen, jos-verstappen, mika-salo, gianni-morbidelli, rubens-barrichello, olivier-panis, ukyo-katayama, pierluigi-martini, domenico-schiattarella, gerhard-berger, aguri-suzuki, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 23
+  drivers: [jean-alesi, damon-hill, michael-schumacher, johnny-herbert, heinz-harald-frentzen, mika-salo, rubens-barrichello, gianni-morbidelli, olivier-panis, ukyo-katayama, pierluigi-martini, jos-verstappen, domenico-schiattarella, gerhard-berger, aguri-suzuki, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 24
+  drivers: [jean-alesi, damon-hill, michael-schumacher, heinz-harald-frentzen, johnny-herbert, mika-salo, rubens-barrichello, gianni-morbidelli, olivier-panis, ukyo-katayama, pierluigi-martini, domenico-schiattarella, gerhard-berger, aguri-suzuki, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 25
+  drivers: [jean-alesi, damon-hill, michael-schumacher, heinz-harald-frentzen, johnny-herbert, mika-salo, rubens-barrichello, gianni-morbidelli, olivier-panis, ukyo-katayama, pierluigi-martini, gerhard-berger, domenico-schiattarella, aguri-suzuki, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 26
+  drivers: [damon-hill, jean-alesi, michael-schumacher, heinz-harald-frentzen, johnny-herbert, mika-salo, rubens-barrichello, gianni-morbidelli, olivier-panis, ukyo-katayama, pierluigi-martini, gerhard-berger, aguri-suzuki, domenico-schiattarella, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 27
+  drivers: [damon-hill, jean-alesi, michael-schumacher, heinz-harald-frentzen, johnny-herbert, mika-salo, rubens-barrichello, gianni-morbidelli, olivier-panis, ukyo-katayama, pierluigi-martini, gerhard-berger, aguri-suzuki, domenico-schiattarella, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 28
+  drivers: [damon-hill, jean-alesi, michael-schumacher, heinz-harald-frentzen, johnny-herbert, mika-salo, rubens-barrichello, gianni-morbidelli, olivier-panis, ukyo-katayama, pierluigi-martini, gerhard-berger, aguri-suzuki, domenico-schiattarella, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 29
+  drivers: [damon-hill, jean-alesi, michael-schumacher, heinz-harald-frentzen, johnny-herbert, mika-salo, rubens-barrichello, gianni-morbidelli, olivier-panis, ukyo-katayama, pierluigi-martini, gerhard-berger, aguri-suzuki, domenico-schiattarella, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 30
+  drivers: [damon-hill, jean-alesi, michael-schumacher, heinz-harald-frentzen, johnny-herbert, mika-salo, rubens-barrichello, gianni-morbidelli, olivier-panis, ukyo-katayama, pierluigi-martini, gerhard-berger, aguri-suzuki, domenico-schiattarella, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 31
+  drivers: [damon-hill, jean-alesi, michael-schumacher, heinz-harald-frentzen, johnny-herbert, mika-salo, rubens-barrichello, gianni-morbidelli, ukyo-katayama, olivier-panis, gerhard-berger, pierluigi-martini, aguri-suzuki, domenico-schiattarella, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 32
+  drivers: [damon-hill, jean-alesi, michael-schumacher, heinz-harald-frentzen, johnny-herbert, mika-salo, rubens-barrichello, gianni-morbidelli, olivier-panis, ukyo-katayama, gerhard-berger, pierluigi-martini, aguri-suzuki, domenico-schiattarella, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 33
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, mika-salo, heinz-harald-frentzen, rubens-barrichello, gianni-morbidelli, olivier-panis, ukyo-katayama, gerhard-berger, pierluigi-martini, aguri-suzuki, domenico-schiattarella, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 34
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, mika-salo, heinz-harald-frentzen, gianni-morbidelli, olivier-panis, ukyo-katayama, gerhard-berger, pierluigi-martini, aguri-suzuki, domenico-schiattarella, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 35
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, mika-salo, heinz-harald-frentzen, gianni-morbidelli, olivier-panis, gerhard-berger, pierluigi-martini, ukyo-katayama, aguri-suzuki, domenico-schiattarella, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 36
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, mika-salo, heinz-harald-frentzen, gianni-morbidelli, olivier-panis, gerhard-berger, ukyo-katayama, pierluigi-martini, domenico-schiattarella, aguri-suzuki, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 37
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, mika-salo, heinz-harald-frentzen, gianni-morbidelli, olivier-panis, gerhard-berger, ukyo-katayama, pierluigi-martini, domenico-schiattarella, aguri-suzuki, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 38
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, mika-salo, heinz-harald-frentzen, gianni-morbidelli, olivier-panis, gerhard-berger, ukyo-katayama, pierluigi-martini, domenico-schiattarella, aguri-suzuki, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 39
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, mika-salo, heinz-harald-frentzen, gianni-morbidelli, olivier-panis, gerhard-berger, ukyo-katayama, pierluigi-martini, domenico-schiattarella, aguri-suzuki, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 40
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, mika-salo, heinz-harald-frentzen, gianni-morbidelli, olivier-panis, gerhard-berger, ukyo-katayama, pierluigi-martini, domenico-schiattarella, aguri-suzuki, taki-inoue, roberto-moreno, pedro-diniz]
+- lap: 41
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, mika-salo, heinz-harald-frentzen, gianni-morbidelli, olivier-panis, gerhard-berger, ukyo-katayama, pierluigi-martini, domenico-schiattarella, aguri-suzuki, roberto-moreno, pedro-diniz]
+- lap: 42
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, mika-salo, heinz-harald-frentzen, gianni-morbidelli, olivier-panis, gerhard-berger, ukyo-katayama, pierluigi-martini, domenico-schiattarella, aguri-suzuki, roberto-moreno, pedro-diniz]
+- lap: 43
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, mika-salo, heinz-harald-frentzen, gianni-morbidelli, olivier-panis, gerhard-berger, ukyo-katayama, pierluigi-martini, domenico-schiattarella, aguri-suzuki, roberto-moreno, pedro-diniz]
+- lap: 44
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, mika-salo, heinz-harald-frentzen, olivier-panis, gerhard-berger, ukyo-katayama, pierluigi-martini, domenico-schiattarella, aguri-suzuki, roberto-moreno, pedro-diniz]
+- lap: 45
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, mika-salo, heinz-harald-frentzen, olivier-panis, gerhard-berger, ukyo-katayama, domenico-schiattarella, aguri-suzuki, roberto-moreno, pedro-diniz]
+- lap: 46
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, mika-salo, heinz-harald-frentzen, olivier-panis, gerhard-berger, ukyo-katayama, domenico-schiattarella, aguri-suzuki, roberto-moreno, pedro-diniz]
+- lap: 47
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, mika-salo, heinz-harald-frentzen, olivier-panis, gerhard-berger, ukyo-katayama, domenico-schiattarella, aguri-suzuki, roberto-moreno, pedro-diniz]
+- lap: 48
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, mika-salo, heinz-harald-frentzen, olivier-panis, gerhard-berger, ukyo-katayama, domenico-schiattarella, roberto-moreno, pedro-diniz]
+- lap: 49
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, heinz-harald-frentzen, olivier-panis, gerhard-berger, ukyo-katayama, domenico-schiattarella, roberto-moreno, pedro-diniz]
+- lap: 50
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, heinz-harald-frentzen, olivier-panis, gerhard-berger, ukyo-katayama, domenico-schiattarella, roberto-moreno, pedro-diniz]
+- lap: 51
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, heinz-harald-frentzen, olivier-panis, gerhard-berger, ukyo-katayama, domenico-schiattarella, roberto-moreno, pedro-diniz]
+- lap: 52
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, heinz-harald-frentzen, gerhard-berger, olivier-panis, ukyo-katayama, domenico-schiattarella, roberto-moreno, pedro-diniz]
+- lap: 53
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, heinz-harald-frentzen, gerhard-berger, olivier-panis, ukyo-katayama, domenico-schiattarella, roberto-moreno, pedro-diniz]
+- lap: 54
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, heinz-harald-frentzen, gerhard-berger, olivier-panis, ukyo-katayama, domenico-schiattarella, roberto-moreno, pedro-diniz]
+- lap: 55
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, heinz-harald-frentzen, gerhard-berger, olivier-panis, ukyo-katayama, domenico-schiattarella, roberto-moreno, pedro-diniz]
+- lap: 56
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, heinz-harald-frentzen, gerhard-berger, olivier-panis, ukyo-katayama, domenico-schiattarella, roberto-moreno, pedro-diniz]
+- lap: 57
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, heinz-harald-frentzen, gerhard-berger, olivier-panis, ukyo-katayama, domenico-schiattarella, roberto-moreno, pedro-diniz]
+- lap: 58
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, heinz-harald-frentzen, gerhard-berger, olivier-panis, ukyo-katayama, domenico-schiattarella, roberto-moreno, pedro-diniz]
+- lap: 59
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, heinz-harald-frentzen, gerhard-berger, olivier-panis, ukyo-katayama, domenico-schiattarella, roberto-moreno, pedro-diniz]
+- lap: 60
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, heinz-harald-frentzen, gerhard-berger, olivier-panis, ukyo-katayama, domenico-schiattarella, pedro-diniz, roberto-moreno]
+- lap: 61
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, heinz-harald-frentzen, gerhard-berger, olivier-panis, ukyo-katayama, domenico-schiattarella, pedro-diniz, roberto-moreno]
+- lap: 62
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, heinz-harald-frentzen, gerhard-berger, olivier-panis, ukyo-katayama, domenico-schiattarella, pedro-diniz, roberto-moreno]
+- lap: 63
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, heinz-harald-frentzen, gerhard-berger, olivier-panis, ukyo-katayama, domenico-schiattarella, pedro-diniz, roberto-moreno]
+- lap: 64
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, heinz-harald-frentzen, gerhard-berger, olivier-panis, ukyo-katayama, domenico-schiattarella]
+- lap: 65
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, heinz-harald-frentzen, gerhard-berger, olivier-panis, ukyo-katayama, domenico-schiattarella]
+- lap: 66
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, heinz-harald-frentzen, gerhard-berger, olivier-panis, ukyo-katayama, domenico-schiattarella]
+- lap: 67
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, heinz-harald-frentzen, gerhard-berger, olivier-panis, ukyo-katayama, domenico-schiattarella]
+- lap: 68
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, heinz-harald-frentzen, gerhard-berger, olivier-panis, ukyo-katayama, domenico-schiattarella]
+- lap: 69
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, heinz-harald-frentzen, gerhard-berger, olivier-panis, ukyo-katayama]
+- lap: 70
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert, heinz-harald-frentzen, gerhard-berger, olivier-panis]
+- lap: 71
+  drivers: [damon-hill, jean-alesi, michael-schumacher, johnny-herbert]
+- lap: 72
+  drivers: [damon-hill, jean-alesi, michael-schumacher]

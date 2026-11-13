@@ -304,9 +304,9 @@
   constructorId: schroeder
   engineManufacturerId: offenhauser
   tyreManufacturerId: firestone
-  time: "4:25.760"
-  gap: "+5.630"
-  interval: "+1.240"
+  time: "4:25.670"
+  gap: "+5.540"
+  interval: "+1.150"
   laps:
 - position: 32
   driverNumber: 53
@@ -314,9 +314,9 @@
   constructorId: kurtis-kraft
   engineManufacturerId: offenhauser
   tyreManufacturerId: firestone
-  time: "4:26.150"
-  gap: "+6.020"
-  interval: "+0.390"
+  time: "4:26.070"
+  gap: "+5.940"
+  interval: "+0.400"
   laps:
 - position: 33
   driverNumber: 56
@@ -326,5 +326,5 @@
   tyreManufacturerId: firestone
   time: "4:26.150"
   gap: "+6.020"
-  interval: "+0.000"
+  interval: "+0.080"
   laps:

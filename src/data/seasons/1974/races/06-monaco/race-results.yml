@@ -172,7 +172,7 @@
   constructorId: hesketh
   engineManufacturerId: ford
   tyreManufacturerId: firestone
-  laps: 28
+  laps: 27
   time:
   timePenalty:
   gap:
@@ -214,7 +214,7 @@
   constructorId: brm
   engineManufacturerId: brm
   tyreManufacturerId: firestone
-  laps: 5
+  laps: 4
   time:
   timePenalty:
   gap:
@@ -359,7 +359,7 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Driveshaft
   points:
   gridPosition: 17
 - position: DNS

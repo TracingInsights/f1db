@@ -1,0 +1,74 @@
+- lap: 0
+  drivers: ["4:juan-manuel-fangio", alberto-ascari, jose-froilan-gonzalez, nino-farina, luigi-villoresi, onofre-marimon, mike-hawthorn, maurice-trintignant, emmanuel-de-graffenried, johnny-claes, paul-frere, harry-schell, louis-rosier, jean-behra, fred-wacker, peter-collins, lance-macklin, andre-pilette, arthur-legat, georges-berger]
+- lap: 1
+  drivers: [jose-froilan-gonzalez, "4:juan-manuel-fangio", alberto-ascari, nino-farina, luigi-villoresi, mike-hawthorn, onofre-marimon, emmanuel-de-graffenried, maurice-trintignant, johnny-claes, lance-macklin, peter-collins, jean-behra, harry-schell, louis-rosier, fred-wacker, paul-frere, andre-pilette, georges-berger]
+- lap: 2
+  drivers: [jose-froilan-gonzalez, "4:juan-manuel-fangio", alberto-ascari, nino-farina, luigi-villoresi, onofre-marimon, mike-hawthorn, maurice-trintignant, emmanuel-de-graffenried, johnny-claes, lance-macklin, jean-behra, louis-rosier, harry-schell, fred-wacker, peter-collins, andre-pilette, paul-frere, georges-berger]
+- lap: 3
+  drivers: [jose-froilan-gonzalez, "4:juan-manuel-fangio", alberto-ascari, nino-farina, luigi-villoresi, onofre-marimon, mike-hawthorn, maurice-trintignant, emmanuel-de-graffenried, johnny-claes, jean-behra, lance-macklin, louis-rosier, fred-wacker, harry-schell, peter-collins, andre-pilette, paul-frere, georges-berger]
+- lap: 4
+  drivers: [jose-froilan-gonzalez, "4:juan-manuel-fangio", alberto-ascari, nino-farina, onofre-marimon, luigi-villoresi, mike-hawthorn, maurice-trintignant, emmanuel-de-graffenried, johnny-claes, jean-behra, lance-macklin, harry-schell, fred-wacker, louis-rosier, peter-collins, paul-frere, andre-pilette]
+- lap: 5
+  drivers: [jose-froilan-gonzalez, "4:juan-manuel-fangio", alberto-ascari, nino-farina, mike-hawthorn, luigi-villoresi, onofre-marimon, maurice-trintignant, emmanuel-de-graffenried, johnny-claes, jean-behra, lance-macklin, harry-schell, fred-wacker, louis-rosier, paul-frere, andre-pilette]
+- lap: 6
+  drivers: [jose-froilan-gonzalez, "4:juan-manuel-fangio", alberto-ascari, nino-farina, mike-hawthorn, luigi-villoresi, onofre-marimon, maurice-trintignant, emmanuel-de-graffenried, johnny-claes, harry-schell, louis-rosier, paul-frere, fred-wacker, jean-behra, andre-pilette, lance-macklin]
+- lap: 7
+  drivers: [jose-froilan-gonzalez, "4:juan-manuel-fangio", alberto-ascari, nino-farina, mike-hawthorn, luigi-villoresi, onofre-marimon, maurice-trintignant, emmanuel-de-graffenried, johnny-claes, harry-schell, louis-rosier, paul-frere, jean-behra, fred-wacker, andre-pilette, lance-macklin]
+- lap: 8
+  drivers: [jose-froilan-gonzalez, "4:juan-manuel-fangio", alberto-ascari, nino-farina, mike-hawthorn, luigi-villoresi, onofre-marimon, maurice-trintignant, emmanuel-de-graffenried, johnny-claes, harry-schell, louis-rosier, fred-wacker, jean-behra, andre-pilette, paul-frere, lance-macklin]
+- lap: 9
+  drivers: [jose-froilan-gonzalez, "4:juan-manuel-fangio", alberto-ascari, nino-farina, mike-hawthorn, luigi-villoresi, onofre-marimon, maurice-trintignant, emmanuel-de-graffenried, johnny-claes, harry-schell, louis-rosier, andre-pilette, jean-behra, fred-wacker, paul-frere, lance-macklin]
+- lap: 10
+  drivers: [jose-froilan-gonzalez, "4:juan-manuel-fangio", alberto-ascari, nino-farina, mike-hawthorn, luigi-villoresi, onofre-marimon, maurice-trintignant, emmanuel-de-graffenried, johnny-claes, harry-schell, louis-rosier, andre-pilette, fred-wacker, paul-frere, lance-macklin]
+- lap: 11
+  drivers: [jose-froilan-gonzalez, "4:juan-manuel-fangio", alberto-ascari, nino-farina, mike-hawthorn, luigi-villoresi, onofre-marimon, maurice-trintignant, emmanuel-de-graffenried, johnny-claes, harry-schell, louis-rosier, fred-wacker, andre-pilette, paul-frere, lance-macklin]
+- lap: 12
+  drivers: ["4:juan-manuel-fangio", alberto-ascari, nino-farina, mike-hawthorn, onofre-marimon, luigi-villoresi, emmanuel-de-graffenried, maurice-trintignant, johnny-claes, harry-schell, louis-rosier, fred-wacker, andre-pilette, paul-frere, lance-macklin]
+- lap: 13
+  drivers: ["4:juan-manuel-fangio", alberto-ascari, nino-farina, mike-hawthorn, onofre-marimon, luigi-villoresi, emmanuel-de-graffenried, maurice-trintignant, johnny-claes, harry-schell, louis-rosier, fred-wacker, andre-pilette, paul-frere, lance-macklin]
+- lap: 14
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, onofre-marimon, luigi-villoresi, emmanuel-de-graffenried, maurice-trintignant, "6:juan-manuel-fangio", harry-schell, louis-rosier, fred-wacker, andre-pilette, paul-frere, lance-macklin]
+- lap: 15
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, onofre-marimon, luigi-villoresi, maurice-trintignant, emmanuel-de-graffenried, "6:juan-manuel-fangio", harry-schell, louis-rosier, fred-wacker, paul-frere, andre-pilette, lance-macklin]
+- lap: 16
+  drivers: [alberto-ascari, mike-hawthorn, onofre-marimon, luigi-villoresi, nino-farina, emmanuel-de-graffenried, maurice-trintignant, "6:juan-manuel-fangio", harry-schell, louis-rosier, fred-wacker, paul-frere, andre-pilette, lance-macklin]
+- lap: 17
+  drivers: [alberto-ascari, mike-hawthorn, onofre-marimon, luigi-villoresi, emmanuel-de-graffenried, maurice-trintignant, "6:juan-manuel-fangio", louis-rosier, harry-schell, fred-wacker, paul-frere, andre-pilette, lance-macklin]
+- lap: 18
+  drivers: [alberto-ascari, mike-hawthorn, onofre-marimon, luigi-villoresi, emmanuel-de-graffenried, maurice-trintignant, "6:juan-manuel-fangio", louis-rosier, harry-schell, fred-wacker, paul-frere, andre-pilette, lance-macklin]
+- lap: 19
+  drivers: [alberto-ascari, mike-hawthorn, onofre-marimon, luigi-villoresi, emmanuel-de-graffenried, maurice-trintignant, "6:juan-manuel-fangio", harry-schell, louis-rosier, fred-wacker, paul-frere, andre-pilette, lance-macklin]
+- lap: 20
+  drivers: [alberto-ascari, mike-hawthorn, onofre-marimon, luigi-villoresi, "6:juan-manuel-fangio", emmanuel-de-graffenried, maurice-trintignant, harry-schell, louis-rosier, fred-wacker, paul-frere, andre-pilette]
+- lap: 21
+  drivers: [alberto-ascari, mike-hawthorn, onofre-marimon, luigi-villoresi, "6:juan-manuel-fangio", emmanuel-de-graffenried, maurice-trintignant, harry-schell, louis-rosier, fred-wacker, paul-frere, andre-pilette]
+- lap: 22
+  drivers: [alberto-ascari, mike-hawthorn, onofre-marimon, luigi-villoresi, "6:juan-manuel-fangio", emmanuel-de-graffenried, maurice-trintignant, harry-schell, louis-rosier, fred-wacker, paul-frere, andre-pilette]
+- lap: 23
+  drivers: [alberto-ascari, mike-hawthorn, onofre-marimon, luigi-villoresi, "6:juan-manuel-fangio", emmanuel-de-graffenried, maurice-trintignant, harry-schell, louis-rosier, fred-wacker, paul-frere, andre-pilette]
+- lap: 24
+  drivers: [alberto-ascari, mike-hawthorn, onofre-marimon, luigi-villoresi, "6:juan-manuel-fangio", emmanuel-de-graffenried, maurice-trintignant, harry-schell, louis-rosier, fred-wacker, paul-frere, andre-pilette]
+- lap: 25
+  drivers: [alberto-ascari, mike-hawthorn, onofre-marimon, luigi-villoresi, "6:juan-manuel-fangio", emmanuel-de-graffenried, maurice-trintignant, harry-schell, louis-rosier, fred-wacker, paul-frere, andre-pilette]
+- lap: 26
+  drivers: [alberto-ascari, mike-hawthorn, onofre-marimon, luigi-villoresi, "6:juan-manuel-fangio", emmanuel-de-graffenried, maurice-trintignant, harry-schell, louis-rosier, fred-wacker, paul-frere, andre-pilette]
+- lap: 27
+  drivers: [alberto-ascari, mike-hawthorn, onofre-marimon, luigi-villoresi, "6:juan-manuel-fangio", emmanuel-de-graffenried, maurice-trintignant, harry-schell, louis-rosier, fred-wacker, paul-frere, andre-pilette]
+- lap: 28
+  drivers: [alberto-ascari, mike-hawthorn, luigi-villoresi, onofre-marimon, "6:juan-manuel-fangio", emmanuel-de-graffenried, maurice-trintignant, harry-schell, louis-rosier, fred-wacker, paul-frere, andre-pilette]
+- lap: 29
+  drivers: [alberto-ascari, luigi-villoresi, onofre-marimon, "6:juan-manuel-fangio", mike-hawthorn, emmanuel-de-graffenried, maurice-trintignant, harry-schell, louis-rosier, fred-wacker, paul-frere, andre-pilette]
+- lap: 30
+  drivers: [alberto-ascari, luigi-villoresi, "6:juan-manuel-fangio", onofre-marimon, emmanuel-de-graffenried, maurice-trintignant, mike-hawthorn, harry-schell, louis-rosier, fred-wacker, paul-frere]
+- lap: 31
+  drivers: [alberto-ascari, luigi-villoresi, "6:juan-manuel-fangio", onofre-marimon, emmanuel-de-graffenried, mike-hawthorn, maurice-trintignant, harry-schell, louis-rosier, fred-wacker]
+- lap: 32
+  drivers: [alberto-ascari, luigi-villoresi, "6:juan-manuel-fangio", onofre-marimon, mike-hawthorn, emmanuel-de-graffenried, maurice-trintignant, harry-schell, louis-rosier, fred-wacker]
+- lap: 33
+  drivers: [alberto-ascari, luigi-villoresi, "6:juan-manuel-fangio", onofre-marimon, mike-hawthorn, emmanuel-de-graffenried, maurice-trintignant, harry-schell, louis-rosier]
+- lap: 34
+  drivers: [alberto-ascari, luigi-villoresi, "6:juan-manuel-fangio", onofre-marimon, emmanuel-de-graffenried, maurice-trintignant, mike-hawthorn]
+- lap: 35
+  drivers: [alberto-ascari, luigi-villoresi, "6:juan-manuel-fangio", onofre-marimon, emmanuel-de-graffenried, maurice-trintignant, mike-hawthorn]
+- lap: 36
+  drivers: [alberto-ascari, luigi-villoresi]

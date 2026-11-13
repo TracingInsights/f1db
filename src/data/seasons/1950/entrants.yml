@@ -597,9 +597,9 @@
   tyreManufacturerId: pirelli
   drivers:
     - driverId: alberto-ascari
-      rounds: 2,4-5,7
+      rounds: 2,4-7
     - driverId: luigi-villoresi
-      rounds: 2,4-5
+      rounds: 2,4-6
     - driverId: raymond-sommer
       rounds: 2,4
     - driverId: dorino-serafini

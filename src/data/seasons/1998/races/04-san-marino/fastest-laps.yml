@@ -4,7 +4,7 @@
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: goodyear
-  lap: 46
+  lap: 48
   time: "1:29.345"
   gap:
   interval:
@@ -24,7 +24,7 @@
   constructorId: williams
   engineManufacturerId: mecachrome
   tyreManufacturerId: goodyear
-  lap: 55
+  lap: 57
   time: "1:29.726"
   gap: "+0.381"
   interval: "+0.229"
@@ -54,7 +54,7 @@
   constructorId: williams
   engineManufacturerId: mecachrome
   tyreManufacturerId: goodyear
-  lap: 39
+  lap: 40
   time: "1:30.283"
   gap: "+0.938"
   interval: "+0.077"
@@ -64,7 +64,7 @@
   constructorId: sauber
   engineManufacturerId: petronas
   tyreManufacturerId: goodyear
-  lap: 23
+  lap: 24
   time: "1:30.391"
   gap: "+1.046"
   interval: "+0.108"
@@ -74,7 +74,7 @@
   constructorId: prost
   engineManufacturerId: peugeot
   tyreManufacturerId: bridgestone
-  lap: 53
+  lap: 55
   time: "1:30.481"
   gap: "+1.136"
   interval: "+0.090"
@@ -84,7 +84,7 @@
   constructorId: jordan
   engineManufacturerId: mugen-honda
   tyreManufacturerId: goodyear
-  lap: 53
+  lap: 55
   time: "1:30.859"
   gap: "+1.514"
   interval: "+0.378"
@@ -94,7 +94,7 @@
   constructorId: arrows
   engineManufacturerId: arrows
   tyreManufacturerId: bridgestone
-  lap: 19
+  lap: 20
   time: "1:31.267"
   gap: "+1.922"
   interval: "+0.408"
@@ -104,7 +104,7 @@
   constructorId: benetton
   engineManufacturerId: playlife
   tyreManufacturerId: bridgestone
-  lap: 14
+  lap: 15
   time: "1:31.562"
   gap: "+2.217"
   interval: "+0.295"
@@ -154,7 +154,7 @@
   constructorId: tyrrell
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
-  lap: 21
+  lap: 22
   time: "1:32.430"
   gap: "+3.085"
   interval: "+0.069"
@@ -174,7 +174,7 @@
   constructorId: minardi
   engineManufacturerId: ford
   tyreManufacturerId: bridgestone
-  lap: 53
+  lap: 55
   time: "1:33.443"
   gap: "+4.098"
   interval: "+0.455"
@@ -184,7 +184,7 @@
   constructorId: minardi
   engineManufacturerId: ford
   tyreManufacturerId: bridgestone
-  lap: 21
+  lap: 22
   time: "1:33.889"
   gap: "+4.544"
   interval: "+0.446"

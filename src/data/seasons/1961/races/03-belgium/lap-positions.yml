@@ -1,0 +1,62 @@
+- lap: 0
+  drivers: [phil-hill, wolfgang-von-trips, olivier-gendebien, john-surtees, richie-ginther, graham-hill, tony-brooks, stirling-moss, jo-bonnier, dan-gurney, jack-brabham, masten-gregory, jackie-lewis, carel-godin-de-beaufort, bruce-mclaren, jim-clark, lorenzo-bandini, innes-ireland, willy-mairesse, maurice-trintignant, lucien-bianchi]
+- lap: 1
+  drivers: [phil-hill, olivier-gendebien, richie-ginther, wolfgang-von-trips, john-surtees, graham-hill, jo-bonnier, jack-brabham, dan-gurney, masten-gregory, tony-brooks, stirling-moss, jackie-lewis, innes-ireland, carel-godin-de-beaufort, lorenzo-bandini, maurice-trintignant, jim-clark, willy-mairesse, lucien-bianchi, bruce-mclaren]
+- lap: 2
+  drivers: [olivier-gendebien, phil-hill, wolfgang-von-trips, richie-ginther, john-surtees, graham-hill, jo-bonnier, jack-brabham, dan-gurney, tony-brooks, masten-gregory, stirling-moss, jackie-lewis, innes-ireland, carel-godin-de-beaufort, lorenzo-bandini, maurice-trintignant, willy-mairesse, lucien-bianchi, bruce-mclaren, jim-clark]
+- lap: 3
+  drivers: [phil-hill, olivier-gendebien, wolfgang-von-trips, richie-ginther, john-surtees, graham-hill, jo-bonnier, jack-brabham, dan-gurney, tony-brooks, stirling-moss, masten-gregory, jackie-lewis, innes-ireland, carel-godin-de-beaufort, lorenzo-bandini, maurice-trintignant, willy-mairesse, lucien-bianchi, jim-clark, bruce-mclaren]
+- lap: 4
+  drivers: [phil-hill, wolfgang-von-trips, olivier-gendebien, richie-ginther, graham-hill, john-surtees, jo-bonnier, dan-gurney, jack-brabham, tony-brooks, masten-gregory, stirling-moss, jackie-lewis, innes-ireland, carel-godin-de-beaufort, lorenzo-bandini, maurice-trintignant, willy-mairesse, lucien-bianchi, jim-clark, bruce-mclaren]
+- lap: 5
+  drivers: [phil-hill, wolfgang-von-trips, olivier-gendebien, richie-ginther, graham-hill, john-surtees, jo-bonnier, jack-brabham, dan-gurney, tony-brooks, stirling-moss, masten-gregory, jackie-lewis, innes-ireland, carel-godin-de-beaufort, lorenzo-bandini, maurice-trintignant, lucien-bianchi, willy-mairesse, jim-clark, bruce-mclaren]
+- lap: 6
+  drivers: [olivier-gendebien, phil-hill, wolfgang-von-trips, richie-ginther, john-surtees, graham-hill, jack-brabham, jo-bonnier, dan-gurney, stirling-moss, tony-brooks, masten-gregory, jackie-lewis, innes-ireland, carel-godin-de-beaufort, maurice-trintignant, lorenzo-bandini, lucien-bianchi, willy-mairesse, jim-clark, bruce-mclaren]
+- lap: 7
+  drivers: [olivier-gendebien, phil-hill, wolfgang-von-trips, richie-ginther, graham-hill, john-surtees, jack-brabham, dan-gurney, jo-bonnier, stirling-moss, masten-gregory, jackie-lewis, innes-ireland, carel-godin-de-beaufort, lorenzo-bandini, maurice-trintignant, lucien-bianchi, willy-mairesse, jim-clark, tony-brooks, bruce-mclaren]
+- lap: 8
+  drivers: [phil-hill, wolfgang-von-trips, olivier-gendebien, richie-ginther, john-surtees, graham-hill, dan-gurney, jack-brabham, jo-bonnier, stirling-moss, masten-gregory, jackie-lewis, innes-ireland, carel-godin-de-beaufort, maurice-trintignant, lorenzo-bandini, lucien-bianchi, jim-clark, tony-brooks, bruce-mclaren]
+- lap: 9
+  drivers: [wolfgang-von-trips, phil-hill, olivier-gendebien, richie-ginther, john-surtees, graham-hill, dan-gurney, jack-brabham, jo-bonnier, stirling-moss, masten-gregory, jackie-lewis, innes-ireland, carel-godin-de-beaufort, lorenzo-bandini, maurice-trintignant, lucien-bianchi, jim-clark, tony-brooks, bruce-mclaren]
+- lap: 10
+  drivers: [wolfgang-von-trips, phil-hill, olivier-gendebien, richie-ginther, graham-hill, john-surtees, dan-gurney, jack-brabham, jo-bonnier, stirling-moss, masten-gregory, jackie-lewis, carel-godin-de-beaufort, lorenzo-bandini, maurice-trintignant, jim-clark, tony-brooks]
+- lap: 11
+  drivers: [phil-hill, wolfgang-von-trips, olivier-gendebien, richie-ginther, graham-hill, john-surtees, jack-brabham, dan-gurney, jo-bonnier, stirling-moss, jackie-lewis, masten-gregory, lorenzo-bandini, maurice-trintignant, carel-godin-de-beaufort, jim-clark, tony-brooks]
+- lap: 12
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, olivier-gendebien, graham-hill, john-surtees, jack-brabham, jo-bonnier, dan-gurney, stirling-moss, jackie-lewis, masten-gregory, lorenzo-bandini, maurice-trintignant, carel-godin-de-beaufort, jim-clark, tony-brooks]
+- lap: 13
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, olivier-gendebien, graham-hill, john-surtees, dan-gurney, jo-bonnier, stirling-moss, jackie-lewis, masten-gregory, maurice-trintignant, lorenzo-bandini, carel-godin-de-beaufort, jim-clark, tony-brooks]
+- lap: 14
+  drivers: [wolfgang-von-trips, phil-hill, richie-ginther, olivier-gendebien, john-surtees, graham-hill, jo-bonnier, dan-gurney, stirling-moss, jackie-lewis, masten-gregory, maurice-trintignant, lorenzo-bandini, carel-godin-de-beaufort, jim-clark, tony-brooks]
+- lap: 15
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, olivier-gendebien, graham-hill, john-surtees, dan-gurney, jo-bonnier, stirling-moss, jackie-lewis, masten-gregory, lorenzo-bandini, maurice-trintignant, carel-godin-de-beaufort, jim-clark, tony-brooks]
+- lap: 16
+  drivers: [wolfgang-von-trips, phil-hill, richie-ginther, olivier-gendebien, graham-hill, john-surtees, dan-gurney, jo-bonnier, stirling-moss, jackie-lewis, masten-gregory, lorenzo-bandini, maurice-trintignant, carel-godin-de-beaufort, jim-clark, tony-brooks]
+- lap: 17
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, olivier-gendebien, john-surtees, graham-hill, dan-gurney, jo-bonnier, stirling-moss, jackie-lewis, masten-gregory, lorenzo-bandini, maurice-trintignant, carel-godin-de-beaufort, jim-clark, tony-brooks]
+- lap: 18
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, olivier-gendebien, john-surtees, graham-hill, dan-gurney, jo-bonnier, stirling-moss, jackie-lewis, masten-gregory, maurice-trintignant, lorenzo-bandini, carel-godin-de-beaufort, jim-clark, tony-brooks]
+- lap: 19
+  drivers: [wolfgang-von-trips, phil-hill, richie-ginther, olivier-gendebien, john-surtees, graham-hill, dan-gurney, jo-bonnier, stirling-moss, jackie-lewis, masten-gregory, maurice-trintignant, lorenzo-bandini, carel-godin-de-beaufort, jim-clark, tony-brooks]
+- lap: 20
+  drivers: [wolfgang-von-trips, phil-hill, richie-ginther, olivier-gendebien, john-surtees, dan-gurney, jo-bonnier, stirling-moss, graham-hill, jackie-lewis, masten-gregory, maurice-trintignant, carel-godin-de-beaufort, lorenzo-bandini, jim-clark, tony-brooks]
+- lap: 21
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, olivier-gendebien, john-surtees, dan-gurney, jo-bonnier, stirling-moss, graham-hill, jackie-lewis, masten-gregory, carel-godin-de-beaufort, maurice-trintignant, jim-clark, tony-brooks]
+- lap: 22
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, olivier-gendebien, john-surtees, dan-gurney, jo-bonnier, stirling-moss, graham-hill, jackie-lewis, masten-gregory, carel-godin-de-beaufort, maurice-trintignant, jim-clark, tony-brooks]
+- lap: 23
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, olivier-gendebien, john-surtees, dan-gurney, jo-bonnier, stirling-moss, jackie-lewis, graham-hill, masten-gregory, carel-godin-de-beaufort, maurice-trintignant, jim-clark, tony-brooks]
+- lap: 24
+  drivers: [wolfgang-von-trips, phil-hill, richie-ginther, olivier-gendebien, john-surtees, dan-gurney, jo-bonnier, stirling-moss, jackie-lewis, graham-hill, masten-gregory, carel-godin-de-beaufort, jim-clark, tony-brooks]
+- lap: 25
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, olivier-gendebien, john-surtees, dan-gurney, jo-bonnier, stirling-moss, jackie-lewis, masten-gregory, carel-godin-de-beaufort]
+- lap: 26
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, olivier-gendebien, john-surtees, dan-gurney, jo-bonnier, stirling-moss, jackie-lewis, masten-gregory, carel-godin-de-beaufort]
+- lap: 27
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, olivier-gendebien, john-surtees, dan-gurney, jo-bonnier, stirling-moss, jackie-lewis, masten-gregory, carel-godin-de-beaufort]
+- lap: 28
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, olivier-gendebien, john-surtees, dan-gurney, jo-bonnier, stirling-moss, jackie-lewis, masten-gregory, carel-godin-de-beaufort]
+- lap: 29
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, olivier-gendebien, john-surtees, dan-gurney, jo-bonnier, stirling-moss, jackie-lewis, masten-gregory]
+- lap: 30
+  drivers: [phil-hill, wolfgang-von-trips, richie-ginther, olivier-gendebien, john-surtees, dan-gurney, jo-bonnier, stirling-moss]

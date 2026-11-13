@@ -148,7 +148,7 @@
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
-  gridPenalty:
+  gridPenalty: 15
   time: "1:14.079"
 - position: PL
   driverNumber: 2

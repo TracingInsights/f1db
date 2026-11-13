@@ -432,20 +432,6 @@
   reasonRetired:
   points:
   gridPosition:
-- position: DNQ
-  driverNumber: 10
-  driverId: alex-caffi
-  constructorId: footwork
-  engineManufacturerId: ford
-  tyreManufacturerId: goodyear
-  laps:
-  time:
-  timePenalty:
-  gap:
-  interval:
-  reasonRetired:
-  points:
-  gridPosition:
 - position: DNPQ
   driverNumber: 18
   driverId: fabrizio-barbazza
@@ -464,6 +450,20 @@
   driverNumber: 31
   driverId: pedro-chaves
   constructorId: coloni
+  engineManufacturerId: ford
+  tyreManufacturerId: goodyear
+  laps:
+  time:
+  timePenalty:
+  gap:
+  interval:
+  reasonRetired:
+  points:
+  gridPosition:
+- position: DNPQ
+  driverNumber: 10
+  driverId: alex-caffi
+  constructorId: footwork
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
   laps:

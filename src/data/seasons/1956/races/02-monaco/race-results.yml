@@ -33,7 +33,7 @@
   engineManufacturerId: ferrari
   tyreManufacturerId: englebert
   sharedCar: true
-  laps:
+  laps: 46
   time:
   timePenalty:
   gap:
@@ -76,7 +76,7 @@
   engineManufacturerId: ferrari
   tyreManufacturerId: englebert
   sharedCar: true
-  laps:
+  laps: 54
   time:
   timePenalty:
   gap:
@@ -119,7 +119,7 @@
   engineManufacturerId: gordini
   tyreManufacturerId: englebert
   sharedCar: true
-  laps:
+  laps: 44
   time:
   timePenalty:
   gap:
@@ -252,7 +252,7 @@
   interval:
   reasonRetired: Engine valve
   points:
-  gridPosition:
+  gridPosition: 10
 - position: DNS
   driverNumber: 12
   driverId: tony-brooks
@@ -266,7 +266,7 @@
   interval:
   reasonRetired: Engine valve
   points:
-  gridPosition:
+  gridPosition: 13
 - position: DNS
   driverNumber: 34
   driverId: louis-chiron

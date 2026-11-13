@@ -331,9 +331,9 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Accident
   points:
-  gridPosition:
+  gridPosition: 24
 - position: DNQ
   driverNumber: 30
   driverId: siegfried-stohr

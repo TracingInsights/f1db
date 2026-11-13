@@ -1,0 +1,110 @@
+- lap: 0
+  drivers: [jim-clark, graham-hill, bruce-mclaren, jack-brabham, john-surtees, dan-gurney, masten-gregory, innes-ireland, jo-bonnier, richie-ginther, tony-maggs, trevor-taylor, maurice-trintignant, roy-salvadori, jo-siffert, jackie-lewis, carel-godin-de-beaufort]
+- lap: 1
+  drivers: [graham-hill, john-surtees, jim-clark, bruce-mclaren, jack-brabham, dan-gurney, masten-gregory, tony-maggs, jo-bonnier, maurice-trintignant, jackie-lewis, roy-salvadori, trevor-taylor, jo-siffert, carel-godin-de-beaufort, innes-ireland, richie-ginther]
+- lap: 2
+  drivers: [graham-hill, john-surtees, jim-clark, bruce-mclaren, jack-brabham, dan-gurney, masten-gregory, tony-maggs, jo-bonnier, maurice-trintignant, jackie-lewis, roy-salvadori, trevor-taylor, carel-godin-de-beaufort, jo-siffert, richie-ginther]
+- lap: 3
+  drivers: [graham-hill, john-surtees, jim-clark, bruce-mclaren, jack-brabham, dan-gurney, masten-gregory, tony-maggs, jo-bonnier, maurice-trintignant, jackie-lewis, roy-salvadori, carel-godin-de-beaufort, jo-siffert, trevor-taylor, richie-ginther]
+- lap: 4
+  drivers: [graham-hill, john-surtees, jim-clark, bruce-mclaren, jack-brabham, dan-gurney, masten-gregory, jo-bonnier, tony-maggs, maurice-trintignant, jackie-lewis, roy-salvadori, carel-godin-de-beaufort, jo-siffert, trevor-taylor, richie-ginther]
+- lap: 5
+  drivers: [graham-hill, john-surtees, jim-clark, bruce-mclaren, jack-brabham, dan-gurney, masten-gregory, jo-bonnier, tony-maggs, maurice-trintignant, jackie-lewis, roy-salvadori, carel-godin-de-beaufort, trevor-taylor, jo-siffert, richie-ginther]
+- lap: 6
+  drivers: [graham-hill, john-surtees, jim-clark, bruce-mclaren, jack-brabham, dan-gurney, masten-gregory, jo-bonnier, maurice-trintignant, tony-maggs, roy-salvadori, jackie-lewis, carel-godin-de-beaufort, trevor-taylor, richie-ginther, jo-siffert]
+- lap: 7
+  drivers: [graham-hill, john-surtees, jim-clark, bruce-mclaren, jack-brabham, dan-gurney, masten-gregory, jo-bonnier, maurice-trintignant, tony-maggs, roy-salvadori, jackie-lewis, carel-godin-de-beaufort, trevor-taylor, richie-ginther]
+- lap: 8
+  drivers: [graham-hill, john-surtees, jim-clark, bruce-mclaren, jack-brabham, dan-gurney, masten-gregory, jo-bonnier, maurice-trintignant, tony-maggs, roy-salvadori, jackie-lewis, carel-godin-de-beaufort, trevor-taylor, richie-ginther]
+- lap: 9
+  drivers: [graham-hill, john-surtees, jim-clark, bruce-mclaren, jack-brabham, dan-gurney, masten-gregory, jo-bonnier, maurice-trintignant, tony-maggs, roy-salvadori, jackie-lewis, trevor-taylor, carel-godin-de-beaufort, richie-ginther]
+- lap: 10
+  drivers: [graham-hill, john-surtees, jim-clark, dan-gurney, masten-gregory, jo-bonnier, tony-maggs, maurice-trintignant, roy-salvadori, trevor-taylor, jackie-lewis, carel-godin-de-beaufort, jack-brabham, bruce-mclaren, richie-ginther]
+- lap: 11
+  drivers: [graham-hill, john-surtees, jim-clark, dan-gurney, masten-gregory, jo-bonnier, tony-maggs, maurice-trintignant, roy-salvadori, trevor-taylor, jackie-lewis, carel-godin-de-beaufort, richie-ginther, bruce-mclaren, jack-brabham]
+- lap: 12
+  drivers: [graham-hill, john-surtees, jim-clark, dan-gurney, masten-gregory, jo-bonnier, tony-maggs, maurice-trintignant, roy-salvadori, trevor-taylor, jackie-lewis, carel-godin-de-beaufort, richie-ginther, bruce-mclaren]
+- lap: 13
+  drivers: [graham-hill, john-surtees, jim-clark, dan-gurney, masten-gregory, jo-bonnier, tony-maggs, maurice-trintignant, roy-salvadori, trevor-taylor, jackie-lewis, carel-godin-de-beaufort, richie-ginther, bruce-mclaren]
+- lap: 14
+  drivers: [graham-hill, jim-clark, dan-gurney, masten-gregory, jo-bonnier, tony-maggs, maurice-trintignant, john-surtees, roy-salvadori, trevor-taylor, jackie-lewis, carel-godin-de-beaufort, richie-ginther, bruce-mclaren]
+- lap: 15
+  drivers: [graham-hill, jim-clark, dan-gurney, jo-bonnier, maurice-trintignant, tony-maggs, john-surtees, roy-salvadori, trevor-taylor, jackie-lewis, carel-godin-de-beaufort, richie-ginther, bruce-mclaren, masten-gregory]
+- lap: 16
+  drivers: [graham-hill, jim-clark, dan-gurney, jo-bonnier, maurice-trintignant, john-surtees, tony-maggs, roy-salvadori, trevor-taylor, jackie-lewis, carel-godin-de-beaufort, richie-ginther, bruce-mclaren]
+- lap: 17
+  drivers: [graham-hill, jim-clark, dan-gurney, jo-bonnier, john-surtees, maurice-trintignant, tony-maggs, trevor-taylor, roy-salvadori, jackie-lewis, carel-godin-de-beaufort, richie-ginther, bruce-mclaren]
+- lap: 18
+  drivers: [graham-hill, jim-clark, dan-gurney, jo-bonnier, john-surtees, maurice-trintignant, tony-maggs, trevor-taylor, jackie-lewis, roy-salvadori, carel-godin-de-beaufort, richie-ginther, bruce-mclaren]
+- lap: 19
+  drivers: [graham-hill, jim-clark, dan-gurney, jo-bonnier, john-surtees, maurice-trintignant, tony-maggs, trevor-taylor, jackie-lewis, roy-salvadori, carel-godin-de-beaufort, richie-ginther, bruce-mclaren]
+- lap: 20
+  drivers: [graham-hill, jim-clark, dan-gurney, jo-bonnier, john-surtees, maurice-trintignant, tony-maggs, trevor-taylor, jackie-lewis, carel-godin-de-beaufort, roy-salvadori, richie-ginther, bruce-mclaren]
+- lap: 21
+  drivers: [graham-hill, jim-clark, dan-gurney, jo-bonnier, john-surtees, maurice-trintignant, tony-maggs, trevor-taylor, jackie-lewis, carel-godin-de-beaufort, richie-ginther, roy-salvadori, bruce-mclaren]
+- lap: 22
+  drivers: [graham-hill, jim-clark, dan-gurney, jo-bonnier, john-surtees, maurice-trintignant, tony-maggs, trevor-taylor, jackie-lewis, carel-godin-de-beaufort, richie-ginther, bruce-mclaren]
+- lap: 23
+  drivers: [graham-hill, jim-clark, dan-gurney, john-surtees, jo-bonnier, maurice-trintignant, tony-maggs, trevor-taylor, jackie-lewis, richie-ginther, carel-godin-de-beaufort, bruce-mclaren]
+- lap: 24
+  drivers: [graham-hill, jim-clark, dan-gurney, john-surtees, tony-maggs, jo-bonnier, jackie-lewis, richie-ginther, carel-godin-de-beaufort, maurice-trintignant, trevor-taylor, bruce-mclaren]
+- lap: 25
+  drivers: [graham-hill, jim-clark, dan-gurney, john-surtees, tony-maggs, richie-ginther, carel-godin-de-beaufort, jackie-lewis, jo-bonnier, bruce-mclaren, maurice-trintignant, trevor-taylor]
+- lap: 26
+  drivers: [graham-hill, jim-clark, dan-gurney, john-surtees, tony-maggs, jackie-lewis, richie-ginther, carel-godin-de-beaufort, jo-bonnier, bruce-mclaren, maurice-trintignant, trevor-taylor]
+- lap: 27
+  drivers: [graham-hill, jim-clark, dan-gurney, john-surtees, tony-maggs, jackie-lewis, richie-ginther, carel-godin-de-beaufort, jo-bonnier, bruce-mclaren, maurice-trintignant, trevor-taylor]
+- lap: 28
+  drivers: [graham-hill, jim-clark, dan-gurney, john-surtees, tony-maggs, jackie-lewis, richie-ginther, carel-godin-de-beaufort, jo-bonnier, bruce-mclaren, maurice-trintignant, trevor-taylor]
+- lap: 29
+  drivers: [graham-hill, jim-clark, dan-gurney, john-surtees, tony-maggs, richie-ginther, carel-godin-de-beaufort, jo-bonnier, bruce-mclaren, maurice-trintignant, trevor-taylor]
+- lap: 30
+  drivers: [graham-hill, jim-clark, dan-gurney, john-surtees, tony-maggs, richie-ginther, carel-godin-de-beaufort, jo-bonnier, bruce-mclaren, maurice-trintignant, trevor-taylor]
+- lap: 31
+  drivers: [jim-clark, graham-hill, dan-gurney, john-surtees, tony-maggs, richie-ginther, carel-godin-de-beaufort, jo-bonnier, bruce-mclaren, maurice-trintignant, trevor-taylor]
+- lap: 32
+  drivers: [jim-clark, graham-hill, dan-gurney, john-surtees, tony-maggs, richie-ginther, carel-godin-de-beaufort, jo-bonnier, bruce-mclaren, maurice-trintignant, trevor-taylor]
+- lap: 33
+  drivers: [jim-clark, graham-hill, dan-gurney, john-surtees, tony-maggs, richie-ginther, carel-godin-de-beaufort, jo-bonnier, bruce-mclaren, maurice-trintignant, trevor-taylor]
+- lap: 34
+  drivers: [graham-hill, dan-gurney, jim-clark, john-surtees, tony-maggs, richie-ginther, carel-godin-de-beaufort, jo-bonnier, bruce-mclaren, maurice-trintignant, trevor-taylor]
+- lap: 35
+  drivers: [graham-hill, dan-gurney, john-surtees, tony-maggs, richie-ginther, carel-godin-de-beaufort, jo-bonnier, bruce-mclaren, maurice-trintignant, trevor-taylor]
+- lap: 36
+  drivers: [graham-hill, dan-gurney, john-surtees, tony-maggs, richie-ginther, carel-godin-de-beaufort, jo-bonnier, bruce-mclaren, maurice-trintignant, trevor-taylor]
+- lap: 37
+  drivers: [graham-hill, dan-gurney, john-surtees, tony-maggs, richie-ginther, carel-godin-de-beaufort, jo-bonnier, bruce-mclaren, maurice-trintignant, trevor-taylor]
+- lap: 38
+  drivers: [graham-hill, dan-gurney, john-surtees, tony-maggs, richie-ginther, carel-godin-de-beaufort, jo-bonnier, bruce-mclaren, maurice-trintignant, trevor-taylor]
+- lap: 39
+  drivers: [graham-hill, dan-gurney, john-surtees, tony-maggs, richie-ginther, carel-godin-de-beaufort, jo-bonnier, bruce-mclaren, maurice-trintignant, trevor-taylor]
+- lap: 40
+  drivers: [graham-hill, dan-gurney, john-surtees, tony-maggs, richie-ginther, carel-godin-de-beaufort, jo-bonnier, bruce-mclaren, maurice-trintignant, trevor-taylor]
+- lap: 41
+  drivers: [graham-hill, dan-gurney, john-surtees, tony-maggs, richie-ginther, carel-godin-de-beaufort, jo-bonnier, bruce-mclaren, maurice-trintignant, trevor-taylor]
+- lap: 42
+  drivers: [graham-hill, dan-gurney, john-surtees, tony-maggs, richie-ginther, carel-godin-de-beaufort, jo-bonnier, bruce-mclaren, maurice-trintignant, trevor-taylor]
+- lap: 43
+  drivers: [dan-gurney, john-surtees, tony-maggs, richie-ginther, carel-godin-de-beaufort, bruce-mclaren, jo-bonnier, maurice-trintignant, graham-hill, trevor-taylor]
+- lap: 44
+  drivers: [dan-gurney, tony-maggs, richie-ginther, john-surtees, carel-godin-de-beaufort, bruce-mclaren, maurice-trintignant, trevor-taylor, graham-hill]
+- lap: 45
+  drivers: [dan-gurney, tony-maggs, richie-ginther, john-surtees, carel-godin-de-beaufort, bruce-mclaren, maurice-trintignant, trevor-taylor]
+- lap: 46
+  drivers: [dan-gurney, tony-maggs, richie-ginther, john-surtees, carel-godin-de-beaufort, bruce-mclaren, maurice-trintignant, trevor-taylor]
+- lap: 47
+  drivers: [dan-gurney, tony-maggs, richie-ginther, john-surtees, carel-godin-de-beaufort, bruce-mclaren, maurice-trintignant, trevor-taylor]
+- lap: 48
+  drivers: [dan-gurney, tony-maggs, richie-ginther, john-surtees, bruce-mclaren, carel-godin-de-beaufort, maurice-trintignant, trevor-taylor]
+- lap: 49
+  drivers: [dan-gurney, tony-maggs, richie-ginther, john-surtees, bruce-mclaren, carel-godin-de-beaufort, maurice-trintignant]
+- lap: 50
+  drivers: [dan-gurney, tony-maggs, richie-ginther, john-surtees, bruce-mclaren, carel-godin-de-beaufort, maurice-trintignant]
+- lap: 51
+  drivers: [dan-gurney, tony-maggs, richie-ginther, bruce-mclaren, john-surtees, carel-godin-de-beaufort]
+- lap: 52
+  drivers: [dan-gurney, tony-maggs, richie-ginther]
+- lap: 53
+  drivers: [dan-gurney, tony-maggs]
+- lap: 54
+  drivers: [dan-gurney]

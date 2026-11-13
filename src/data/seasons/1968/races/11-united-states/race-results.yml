@@ -275,7 +275,7 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Accident
   points:
   gridPosition: 16
 - position: DNS
@@ -289,6 +289,6 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Engine
   points:
   gridPosition:

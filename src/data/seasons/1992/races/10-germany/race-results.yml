@@ -107,7 +107,7 @@
   timePenalty:
   gap: "+1 lap"
   interval:
-  reasonRetired:
+  reasonRetired: Spun off
   points:
   gridPosition: 2
 - position: 9
@@ -443,6 +443,6 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Missed weight check
   points:
   gridPosition:

@@ -33,7 +33,9 @@
   constructors:
     - constructorId: mclaren
       engineManufacturerId: ford
-      chassisId: mclaren-m14a
+      chassis:
+        - chassisId: mclaren-m14a
+        - chassisId: mclaren-m14d
       engineId: ford-cosworth-dfv-30-v8
       tyreManufacturerId: goodyear
       drivers:
@@ -109,6 +111,7 @@
     - chassisId: lotus-49c
     - chassisId: lotus-72b
     - chassisId: lotus-72c
+    - chassisId: lotus-72
   engineId: ford-cosworth-dfv-30-v8
   tyreManufacturerId: firestone
   drivers:
@@ -162,6 +165,22 @@
       rounds: 1-13
     - driverId: rolf-stommelen
       rounds: 1-13
+- entrantId: owen-racing-organisation
+  countryId: united-kingdom
+  constructorId: brm
+  engineManufacturerId: brm
+  chassis:
+    - chassisId: brm-p153
+    - chassisId: brm-p139
+  engineId: brm-p142-30-v12
+  tyreManufacturerId: dunlop
+  drivers:
+    - driverId: george-eaton
+      rounds: 1
+    - driverId: jackie-oliver
+      rounds: 1
+    - driverId: pedro-rodriguez
+      rounds: 1
 - entrantId: pete-lovely-volkswagen-inc
   countryId: united-states-of-america
   constructorId: lotus
@@ -284,7 +303,9 @@
   countryId: united-kingdom
   constructorId: lotus
   engineManufacturerId: ford
-  chassisId: lotus-49c
+  chassis:
+    - chassisId: lotus-49c
+    - chassisId: lotus-72
   engineId: ford-cosworth-dfv-30-v8
   tyreManufacturerId: firestone
   driverId: alex-soler-roig
@@ -300,10 +321,10 @@
   tyreManufacturerId: dunlop
   drivers:
     - driverId: george-eaton
-      rounds: 1-3,5-7,9-12
+      rounds: 2-3,5-7,9-12
     - driverId: jackie-oliver
-      rounds: 1-13
+      rounds: 2-13
     - driverId: pedro-rodriguez
-      rounds: 1-13
+      rounds: 2-13
     - driverId: peter-westbury
       rounds: 12

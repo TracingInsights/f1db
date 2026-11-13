@@ -132,7 +132,7 @@
   constructorId: minardi
   engineManufacturerId: cosworth
   tyreManufacturerId: bridgestone
-  gridPenalty:
+  gridPenalty: 10
   time: "1:34.398"
 - position: 18
   driverNumber: 11
@@ -140,7 +140,7 @@
   constructorId: sauber
   engineManufacturerId: petronas
   tyreManufacturerId: bridgestone
-  gridPenalty:
+  gridPenalty: 10
   time:
 - position: 19
   driverNumber: 20
@@ -148,7 +148,7 @@
   constructorId: minardi
   engineManufacturerId: cosworth
   tyreManufacturerId: bridgestone
-  gridPenalty:
+  gridPenalty: 10
   time:
 - position: 20
   driverNumber: 5

@@ -154,9 +154,9 @@
   constructorId: cooper
   engineManufacturerId: climax
   tyreManufacturerId: dunlop
-  time: "1:48.400"
-  gap: "+9.000"
-  interval: "+4.200"
+  time: "1:45.400"
+  gap: "+6.000"
+  interval: "+1.200"
   laps:
 - position: 17
   driverNumber: 15
@@ -166,7 +166,7 @@
   tyreManufacturerId: avon
   time: "1:51.400"
   gap: "+12.000"
-  interval: "+3.000"
+  interval: "+6.000"
   laps:
 - position: 18
   driverNumber: 6

@@ -1,0 +1,116 @@
+- lap: 0
+  drivers: [lewis-hamilton, daniel-ricciardo, nico-rosberg, kevin-magnussen, fernando-alonso, jean-eric-vergne, nico-hulkenberg, daniil-kvyat, felipe-massa, jenson-button, kimi-raikkonen, sebastian-vettel, adrian-sutil, kamui-kobayashi, valtteri-bottas, sergio-perez, max-chilton, jules-bianchi, marcus-ericsson, esteban-gutierrez, pastor-maldonado, romain-grosjean]
+- lap: 1
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, lewis-hamilton, nico-hulkenberg, fernando-alonso, jean-eric-vergne, kimi-raikkonen, daniil-kvyat, valtteri-bottas, jenson-button, adrian-sutil, marcus-ericsson, pastor-maldonado, sebastian-vettel, max-chilton, romain-grosjean, sergio-perez, esteban-gutierrez, jules-bianchi]
+- lap: 2
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, lewis-hamilton, fernando-alonso, jean-eric-vergne, kimi-raikkonen, daniil-kvyat, valtteri-bottas, jenson-button, adrian-sutil, marcus-ericsson, pastor-maldonado, max-chilton, sebastian-vettel, romain-grosjean, sergio-perez, esteban-gutierrez, jules-bianchi]
+- lap: 3
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, kimi-raikkonen, jean-eric-vergne, valtteri-bottas, daniil-kvyat, jenson-button, adrian-sutil, marcus-ericsson, pastor-maldonado, max-chilton, romain-grosjean, sebastian-vettel, sergio-perez, esteban-gutierrez, jules-bianchi]
+- lap: 4
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, kimi-raikkonen, jean-eric-vergne, valtteri-bottas, daniil-kvyat, jenson-button, adrian-sutil, marcus-ericsson, pastor-maldonado, max-chilton, romain-grosjean, sergio-perez, esteban-gutierrez, jules-bianchi]
+- lap: 5
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, kimi-raikkonen, valtteri-bottas, jean-eric-vergne, daniil-kvyat, jenson-button, marcus-ericsson, adrian-sutil, pastor-maldonado, max-chilton, romain-grosjean, sergio-perez, esteban-gutierrez, jules-bianchi]
+- lap: 6
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, kimi-raikkonen, valtteri-bottas, jean-eric-vergne, daniil-kvyat, jenson-button, marcus-ericsson, adrian-sutil, pastor-maldonado, max-chilton, romain-grosjean, sergio-perez, esteban-gutierrez, jules-bianchi]
+- lap: 7
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, kimi-raikkonen, valtteri-bottas, jean-eric-vergne, daniil-kvyat, jenson-button, adrian-sutil, marcus-ericsson, pastor-maldonado, max-chilton, romain-grosjean, sergio-perez, esteban-gutierrez, jules-bianchi]
+- lap: 8
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, valtteri-bottas, kimi-raikkonen, jean-eric-vergne, daniil-kvyat, jenson-button, adrian-sutil, pastor-maldonado, marcus-ericsson, max-chilton, romain-grosjean, sergio-perez, esteban-gutierrez, jules-bianchi]
+- lap: 9
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, valtteri-bottas, kimi-raikkonen, jean-eric-vergne, daniil-kvyat, jenson-button, adrian-sutil, pastor-maldonado, marcus-ericsson, romain-grosjean, max-chilton, sergio-perez, esteban-gutierrez, jules-bianchi]
+- lap: 10
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, kimi-raikkonen, jean-eric-vergne, daniil-kvyat, jenson-button, adrian-sutil, pastor-maldonado, marcus-ericsson, romain-grosjean, max-chilton, sergio-perez, valtteri-bottas, esteban-gutierrez, jules-bianchi]
+- lap: 11
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, kimi-raikkonen, jean-eric-vergne, daniil-kvyat, jenson-button, adrian-sutil, pastor-maldonado, marcus-ericsson, romain-grosjean, max-chilton, esteban-gutierrez, valtteri-bottas, sergio-perez, jules-bianchi]
+- lap: 12
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, jenson-button, jean-eric-vergne, kimi-raikkonen, daniil-kvyat, adrian-sutil, pastor-maldonado, marcus-ericsson, romain-grosjean, max-chilton, esteban-gutierrez, valtteri-bottas, sergio-perez, jules-bianchi]
+- lap: 13
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, jenson-button, jean-eric-vergne, kimi-raikkonen, adrian-sutil, daniil-kvyat, pastor-maldonado, marcus-ericsson, romain-grosjean, max-chilton, esteban-gutierrez, valtteri-bottas, sergio-perez, jules-bianchi]
+- lap: 14
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, jenson-button, jean-eric-vergne, kimi-raikkonen, adrian-sutil, daniil-kvyat, pastor-maldonado, marcus-ericsson, romain-grosjean, max-chilton, esteban-gutierrez, valtteri-bottas, sergio-perez, jules-bianchi]
+- lap: 15
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, jenson-button, jean-eric-vergne, kimi-raikkonen, adrian-sutil, daniil-kvyat, pastor-maldonado, marcus-ericsson, romain-grosjean, max-chilton, esteban-gutierrez, valtteri-bottas, sergio-perez, jules-bianchi]
+- lap: 16
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, jenson-button, jean-eric-vergne, kimi-raikkonen, adrian-sutil, daniil-kvyat, pastor-maldonado, romain-grosjean, marcus-ericsson, valtteri-bottas, sergio-perez, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 17
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, jenson-button, jean-eric-vergne, kimi-raikkonen, daniil-kvyat, adrian-sutil, pastor-maldonado, valtteri-bottas, romain-grosjean, sergio-perez, marcus-ericsson, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 18
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, jenson-button, jean-eric-vergne, kimi-raikkonen, daniil-kvyat, adrian-sutil, valtteri-bottas, pastor-maldonado, romain-grosjean, sergio-perez, marcus-ericsson, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 19
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, jenson-button, jean-eric-vergne, kimi-raikkonen, daniil-kvyat, valtteri-bottas, adrian-sutil, pastor-maldonado, romain-grosjean, sergio-perez, esteban-gutierrez, marcus-ericsson, max-chilton, jules-bianchi]
+- lap: 20
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, jenson-button, jean-eric-vergne, kimi-raikkonen, daniil-kvyat, valtteri-bottas, adrian-sutil, pastor-maldonado, sergio-perez, romain-grosjean, esteban-gutierrez, marcus-ericsson, max-chilton, jules-bianchi]
+- lap: 21
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, jenson-button, jean-eric-vergne, kimi-raikkonen, daniil-kvyat, valtteri-bottas, adrian-sutil, sergio-perez, pastor-maldonado, romain-grosjean, esteban-gutierrez, marcus-ericsson, max-chilton, jules-bianchi]
+- lap: 22
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, jenson-button, jean-eric-vergne, kimi-raikkonen, daniil-kvyat, valtteri-bottas, adrian-sutil, sergio-perez, pastor-maldonado, romain-grosjean, esteban-gutierrez, marcus-ericsson, max-chilton, jules-bianchi]
+- lap: 23
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, jenson-button, jean-eric-vergne, kimi-raikkonen, daniil-kvyat, valtteri-bottas, adrian-sutil, sergio-perez, romain-grosjean, pastor-maldonado, esteban-gutierrez, max-chilton, marcus-ericsson, jules-bianchi]
+- lap: 24
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, jenson-button, jean-eric-vergne, kimi-raikkonen, daniil-kvyat, valtteri-bottas, adrian-sutil, sergio-perez, romain-grosjean, pastor-maldonado, esteban-gutierrez, max-chilton, marcus-ericsson, jules-bianchi]
+- lap: 25
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, jenson-button, jean-eric-vergne, kimi-raikkonen, valtteri-bottas, daniil-kvyat, adrian-sutil, sergio-perez, romain-grosjean, pastor-maldonado, esteban-gutierrez, marcus-ericsson, max-chilton, jules-bianchi]
+- lap: 26
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, jenson-button, jean-eric-vergne, kimi-raikkonen, valtteri-bottas, daniil-kvyat, adrian-sutil, sergio-perez, romain-grosjean, pastor-maldonado, esteban-gutierrez, marcus-ericsson, max-chilton, jules-bianchi]
+- lap: 27
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, jenson-button, jean-eric-vergne, kimi-raikkonen, valtteri-bottas, daniil-kvyat, adrian-sutil, sergio-perez, romain-grosjean, pastor-maldonado, esteban-gutierrez, marcus-ericsson, max-chilton, jules-bianchi]
+- lap: 28
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, jenson-button, jean-eric-vergne, kimi-raikkonen, valtteri-bottas, daniil-kvyat, adrian-sutil, sergio-perez, esteban-gutierrez, pastor-maldonado, romain-grosjean, max-chilton, jules-bianchi]
+- lap: 29
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, jenson-button, jean-eric-vergne, kimi-raikkonen, valtteri-bottas, daniil-kvyat, adrian-sutil, sergio-perez, esteban-gutierrez, romain-grosjean, pastor-maldonado, max-chilton, jules-bianchi]
+- lap: 30
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, jenson-button, jean-eric-vergne, kimi-raikkonen, valtteri-bottas, daniil-kvyat, adrian-sutil, sergio-perez, romain-grosjean, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 31
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, jenson-button, jean-eric-vergne, kimi-raikkonen, valtteri-bottas, daniil-kvyat, adrian-sutil, sergio-perez, romain-grosjean, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 32
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, nico-hulkenberg, fernando-alonso, jean-eric-vergne, kimi-raikkonen, valtteri-bottas, daniil-kvyat, jenson-button, adrian-sutil, sergio-perez, romain-grosjean, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 33
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, fernando-alonso, kimi-raikkonen, valtteri-bottas, daniil-kvyat, nico-hulkenberg, jean-eric-vergne, jenson-button, adrian-sutil, sergio-perez, romain-grosjean, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 34
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, fernando-alonso, kimi-raikkonen, valtteri-bottas, daniil-kvyat, jenson-button, nico-hulkenberg, jean-eric-vergne, adrian-sutil, sergio-perez, romain-grosjean, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 35
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, valtteri-bottas, kimi-raikkonen, daniil-kvyat, fernando-alonso, jenson-button, nico-hulkenberg, jean-eric-vergne, sergio-perez, romain-grosjean, adrian-sutil, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 36
+  drivers: [nico-rosberg, kevin-magnussen, daniel-ricciardo, jenson-button, fernando-alonso, nico-hulkenberg, jean-eric-vergne, valtteri-bottas, kimi-raikkonen, daniil-kvyat, sergio-perez, romain-grosjean, adrian-sutil, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 37
+  drivers: [nico-rosberg, kevin-magnussen, daniel-ricciardo, jenson-button, fernando-alonso, nico-hulkenberg, jean-eric-vergne, valtteri-bottas, kimi-raikkonen, daniil-kvyat, sergio-perez, romain-grosjean, adrian-sutil, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 38
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, jenson-button, fernando-alonso, nico-hulkenberg, jean-eric-vergne, valtteri-bottas, kimi-raikkonen, daniil-kvyat, sergio-perez, romain-grosjean, adrian-sutil, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 39
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, jenson-button, fernando-alonso, nico-hulkenberg, jean-eric-vergne, valtteri-bottas, kimi-raikkonen, daniil-kvyat, sergio-perez, romain-grosjean, adrian-sutil, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 40
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, jenson-button, fernando-alonso, nico-hulkenberg, jean-eric-vergne, valtteri-bottas, kimi-raikkonen, daniil-kvyat, sergio-perez, romain-grosjean, adrian-sutil, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 41
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, jenson-button, fernando-alonso, nico-hulkenberg, jean-eric-vergne, valtteri-bottas, kimi-raikkonen, daniil-kvyat, sergio-perez, romain-grosjean, adrian-sutil, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 42
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, jenson-button, fernando-alonso, nico-hulkenberg, jean-eric-vergne, valtteri-bottas, kimi-raikkonen, daniil-kvyat, sergio-perez, romain-grosjean, adrian-sutil, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 43
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, jenson-button, fernando-alonso, nico-hulkenberg, jean-eric-vergne, valtteri-bottas, kimi-raikkonen, daniil-kvyat, sergio-perez, romain-grosjean, adrian-sutil, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 44
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, jenson-button, fernando-alonso, nico-hulkenberg, jean-eric-vergne, valtteri-bottas, kimi-raikkonen, daniil-kvyat, sergio-perez, adrian-sutil, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 45
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, jenson-button, fernando-alonso, nico-hulkenberg, jean-eric-vergne, valtteri-bottas, kimi-raikkonen, daniil-kvyat, sergio-perez, adrian-sutil, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 46
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, jenson-button, fernando-alonso, nico-hulkenberg, valtteri-bottas, jean-eric-vergne, kimi-raikkonen, daniil-kvyat, sergio-perez, adrian-sutil, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 47
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, jenson-button, fernando-alonso, nico-hulkenberg, valtteri-bottas, jean-eric-vergne, kimi-raikkonen, daniil-kvyat, sergio-perez, adrian-sutil, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 48
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, jenson-button, fernando-alonso, nico-hulkenberg, valtteri-bottas, jean-eric-vergne, kimi-raikkonen, daniil-kvyat, sergio-perez, adrian-sutil, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 49
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, jenson-button, fernando-alonso, nico-hulkenberg, valtteri-bottas, jean-eric-vergne, kimi-raikkonen, daniil-kvyat, sergio-perez, adrian-sutil, esteban-gutierrez, max-chilton, jules-bianchi]
+- lap: 50
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, jenson-button, fernando-alonso, nico-hulkenberg, valtteri-bottas, jean-eric-vergne, kimi-raikkonen, daniil-kvyat, sergio-perez, adrian-sutil, esteban-gutierrez, max-chilton]
+- lap: 51
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, jenson-button, fernando-alonso, nico-hulkenberg, valtteri-bottas, jean-eric-vergne, kimi-raikkonen, daniil-kvyat, sergio-perez, adrian-sutil, esteban-gutierrez, max-chilton]
+- lap: 52
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, jenson-button, fernando-alonso, valtteri-bottas, nico-hulkenberg, jean-eric-vergne, kimi-raikkonen, daniil-kvyat, sergio-perez, adrian-sutil, esteban-gutierrez, max-chilton]
+- lap: 53
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, jenson-button, fernando-alonso, valtteri-bottas, nico-hulkenberg, kimi-raikkonen, jean-eric-vergne, daniil-kvyat, sergio-perez, adrian-sutil, esteban-gutierrez, max-chilton]
+- lap: 54
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, jenson-button, fernando-alonso, valtteri-bottas, nico-hulkenberg, kimi-raikkonen, jean-eric-vergne, daniil-kvyat, sergio-perez, adrian-sutil, esteban-gutierrez, max-chilton]
+- lap: 55
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, jenson-button, fernando-alonso, valtteri-bottas, nico-hulkenberg, kimi-raikkonen, jean-eric-vergne, daniil-kvyat, sergio-perez, adrian-sutil, esteban-gutierrez, max-chilton]
+- lap: 56
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, jenson-button, fernando-alonso, valtteri-bottas, nico-hulkenberg, kimi-raikkonen, jean-eric-vergne, daniil-kvyat, sergio-perez, adrian-sutil, esteban-gutierrez]
+- lap: 57
+  drivers: [nico-rosberg, daniel-ricciardo, kevin-magnussen, jenson-button, fernando-alonso, valtteri-bottas, nico-hulkenberg, kimi-raikkonen, jean-eric-vergne, daniil-kvyat, sergio-perez]

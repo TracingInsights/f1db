@@ -172,7 +172,9 @@
       engineManufacturerId: honda
       chassisId: honda-ra301
       engineId: honda-ra301e-30-v12
-      tyreManufacturerId: firestone
+      tyreManufacturers:
+        - tyreManufacturerId: firestone
+        - tyreManufacturerId: goodyear
       driverId: jo-bonnier
       rounds: 12
 - entrantId: john-love
@@ -198,6 +200,8 @@
       rounds: 1,4-12
     - driverId: johnny-servoz-gavin
       rounds: 3,9-10,12
+    - driverId: jean-pierre-beltoise
+      rounds: 2
 - entrantId: matra-sports
   countryId: france
   constructors:
@@ -207,7 +211,7 @@
       engineId: ford-cosworth-fva-16-l4
       tyreManufacturerId: dunlop
       driverId: jean-pierre-beltoise
-      rounds: 1-2
+      rounds: 1
     - constructorId: matra
       engineManufacturerId: matra
       chassisId: matra-ms11
@@ -230,7 +234,9 @@
   engines:
     - engineId: brm-p101-30-v12
     - engineId: brm-p75-30-h16
-  tyreManufacturerId: goodyear
+  tyreManufacturers:
+    - tyreManufacturerId: goodyear
+    - tyreManufacturerId: dunlop
   drivers:
     - driverId: pedro-rodriguez
       rounds: 1-12
@@ -246,7 +252,9 @@
   engineManufacturerId: brm
   chassisId: brm-p126
   engineId: brm-p101-30-v12
-  tyreManufacturerId: goodyear
+  tyreManufacturers:
+    - tyreManufacturerId: goodyear
+    - tyreManufacturerId: dunlop
   driverId: piers-courage
   rounds: 2-12
 - entrantId: rob-walker-jack-durlacher-racing-team

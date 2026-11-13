@@ -14,9 +14,9 @@
   constructorId: kuzma
   engineManufacturerId: offenhauser
   tyreManufacturerId: firestone
-  time: "4:10.220"
-  gap: "+0.130"
-  interval: "+0.130"
+  time: "4:10.310"
+  gap: "+0.220"
+  interval: "+0.220"
   laps:
 - position: 3
   driverNumber: 52
@@ -26,7 +26,7 @@
   tyreManufacturerId: firestone
   time: "4:12.150"
   gap: "+2.060"
-  interval: "+1.930"
+  interval: "+1.840"
   laps:
 - position: 4
   driverNumber: 14
@@ -241,7 +241,7 @@
 - position: 25
   driverNumber: 82
   driverId: chuck-weyant
-  constructorId: kuzma
+  constructorId: kurtis-kraft
   engineManufacturerId: offenhauser
   tyreManufacturerId: firestone
   time: "4:15.130"

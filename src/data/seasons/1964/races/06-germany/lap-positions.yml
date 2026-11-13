@@ -1,0 +1,32 @@
+- lap: 0
+  drivers: [john-surtees, jim-clark, dan-gurney, lorenzo-bandini, graham-hill, jack-brabham, bruce-mclaren, phil-hill, chris-amon, jo-siffert, richie-ginther, jo-bonnier, mike-hailwood, maurice-trintignant, bob-anderson, tony-maggs, mike-spence, peter-revson, gerhard-mitter, edgar-barth, giancarlo-baghetti, ronnie-bucknum]
+- lap: 1
+  drivers: [jim-clark, john-surtees, dan-gurney, graham-hill, jack-brabham, phil-hill, lorenzo-bandini, richie-ginther, bruce-mclaren, chris-amon, jo-siffert, tony-maggs, ronnie-bucknum, giancarlo-baghetti, maurice-trintignant, mike-spence, edgar-barth, gerhard-mitter, peter-revson, bob-anderson]
+- lap: 2
+  drivers: [john-surtees, jim-clark, dan-gurney, graham-hill, jack-brabham, bruce-mclaren, lorenzo-bandini, richie-ginther, chris-amon, jo-siffert, tony-maggs, maurice-trintignant, ronnie-bucknum, mike-spence, edgar-barth, giancarlo-baghetti, gerhard-mitter, peter-revson, bob-anderson]
+- lap: 3
+  drivers: [john-surtees, dan-gurney, jim-clark, graham-hill, jack-brabham, lorenzo-bandini, bruce-mclaren, chris-amon, richie-ginther, jo-siffert, tony-maggs, maurice-trintignant, ronnie-bucknum, mike-spence, edgar-barth, gerhard-mitter, peter-revson, bob-anderson]
+- lap: 4
+  drivers: [dan-gurney, john-surtees, graham-hill, jim-clark, jack-brabham, lorenzo-bandini, bruce-mclaren, chris-amon, jo-siffert, tony-maggs, maurice-trintignant, mike-spence, ronnie-bucknum, richie-ginther, gerhard-mitter, peter-revson, bob-anderson]
+- lap: 5
+  drivers: [john-surtees, dan-gurney, graham-hill, jim-clark, jack-brabham, lorenzo-bandini, jo-siffert, chris-amon, tony-maggs, maurice-trintignant, mike-spence, ronnie-bucknum, richie-ginther, gerhard-mitter, peter-revson]
+- lap: 6
+  drivers: [john-surtees, dan-gurney, graham-hill, jim-clark, jack-brabham, lorenzo-bandini, jo-siffert, chris-amon, tony-maggs, maurice-trintignant, mike-spence, ronnie-bucknum, richie-ginther, gerhard-mitter, peter-revson]
+- lap: 7
+  drivers: [john-surtees, dan-gurney, graham-hill, jim-clark, jack-brabham, lorenzo-bandini, jo-siffert, chris-amon, tony-maggs, maurice-trintignant, mike-spence, ronnie-bucknum, richie-ginther, gerhard-mitter, peter-revson]
+- lap: 8
+  drivers: [john-surtees, dan-gurney, graham-hill, jack-brabham, lorenzo-bandini, jo-siffert, chris-amon, tony-maggs, maurice-trintignant, mike-spence, ronnie-bucknum, richie-ginther, gerhard-mitter, peter-revson]
+- lap: 9
+  drivers: [john-surtees, dan-gurney, graham-hill, lorenzo-bandini, jack-brabham, jo-siffert, chris-amon, tony-maggs, maurice-trintignant, mike-spence, ronnie-bucknum, richie-ginther, gerhard-mitter, peter-revson]
+- lap: 10
+  drivers: [john-surtees, dan-gurney, graham-hill, lorenzo-bandini, jack-brabham, jo-siffert, chris-amon, tony-maggs, maurice-trintignant, mike-spence, ronnie-bucknum, richie-ginther, gerhard-mitter, peter-revson]
+- lap: 11
+  drivers: [john-surtees, graham-hill, dan-gurney, jack-brabham, lorenzo-bandini, jo-siffert, chris-amon, tony-maggs, maurice-trintignant, mike-spence, richie-ginther, ronnie-bucknum, gerhard-mitter]
+- lap: 12
+  drivers: [john-surtees, graham-hill, lorenzo-bandini, jo-siffert, chris-amon, dan-gurney, tony-maggs, maurice-trintignant, mike-spence, richie-ginther, gerhard-mitter]
+- lap: 13
+  drivers: [john-surtees, graham-hill, lorenzo-bandini, jo-siffert, maurice-trintignant, tony-maggs, richie-ginther, mike-spence, gerhard-mitter, dan-gurney]
+- lap: 14
+  drivers: [john-surtees, graham-hill, lorenzo-bandini, jo-siffert, maurice-trintignant, tony-maggs, richie-ginther, mike-spence, gerhard-mitter, dan-gurney]
+- lap: 15
+  drivers: [john-surtees, graham-hill, lorenzo-bandini, jo-siffert]

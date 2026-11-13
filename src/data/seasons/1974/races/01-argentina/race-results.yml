@@ -130,10 +130,10 @@
   constructorId: mclaren
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
-  laps: 51
+  laps: 52
   time:
   timePenalty:
-  gap: "+2 laps"
+  gap: "+1 lap"
   interval:
   reasonRetired:
   points:
@@ -144,10 +144,10 @@
   constructorId: lola
   engineManufacturerId: ford
   tyreManufacturerId: firestone
-  laps: 50
+  laps: 51
   time:
   timePenalty:
-  gap: "+3 laps"
+  gap: "+2 laps"
   interval:
   reasonRetired:
   points:

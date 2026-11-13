@@ -1,0 +1,132 @@
+- lap: 0
+  drivers: [jim-clark, john-surtees, graham-hill, dan-gurney, richie-ginther, bruce-mclaren, lorenzo-bandini, jo-bonnier, jo-siffert, jack-brabham, moises-solana, trevor-taylor, tony-maggs, masten-gregory, jim-hall, hap-sharp, phil-hill, carel-godin-de-beaufort, chris-amon, pedro-rodriguez, giancarlo-baghetti]
+- lap: 1
+  drivers: [jim-clark, john-surtees, dan-gurney, bruce-mclaren, richie-ginther, jack-brabham, lorenzo-bandini, graham-hill, tony-maggs, pedro-rodriguez, masten-gregory, jo-bonnier, moises-solana, trevor-taylor, jim-hall, hap-sharp, phil-hill, chris-amon, carel-godin-de-beaufort, giancarlo-baghetti, jo-siffert]
+- lap: 2
+  drivers: [jim-clark, dan-gurney, john-surtees, richie-ginther, bruce-mclaren, jack-brabham, lorenzo-bandini, graham-hill, tony-maggs, pedro-rodriguez, jo-bonnier, masten-gregory, moises-solana, trevor-taylor, jim-hall, hap-sharp, phil-hill, chris-amon, carel-godin-de-beaufort, giancarlo-baghetti, jo-siffert]
+- lap: 3
+  drivers: [jim-clark, dan-gurney, john-surtees, richie-ginther, jack-brabham, bruce-mclaren, graham-hill, lorenzo-bandini, tony-maggs, pedro-rodriguez, jo-bonnier, masten-gregory, moises-solana, trevor-taylor, hap-sharp, jim-hall, phil-hill, chris-amon, carel-godin-de-beaufort, giancarlo-baghetti, jo-siffert]
+- lap: 4
+  drivers: [jim-clark, dan-gurney, john-surtees, richie-ginther, jack-brabham, bruce-mclaren, graham-hill, lorenzo-bandini, pedro-rodriguez, tony-maggs, jo-bonnier, masten-gregory, moises-solana, trevor-taylor, hap-sharp, jim-hall, chris-amon, phil-hill, carel-godin-de-beaufort, giancarlo-baghetti, jo-siffert]
+- lap: 5
+  drivers: [jim-clark, dan-gurney, john-surtees, jack-brabham, richie-ginther, bruce-mclaren, graham-hill, lorenzo-bandini, pedro-rodriguez, jo-bonnier, tony-maggs, moises-solana, masten-gregory, trevor-taylor, hap-sharp, jim-hall, chris-amon, phil-hill, carel-godin-de-beaufort, giancarlo-baghetti, jo-siffert]
+- lap: 6
+  drivers: [jim-clark, dan-gurney, john-surtees, jack-brabham, richie-ginther, bruce-mclaren, graham-hill, lorenzo-bandini, pedro-rodriguez, jo-bonnier, tony-maggs, masten-gregory, moises-solana, trevor-taylor, hap-sharp, jim-hall, chris-amon, phil-hill, carel-godin-de-beaufort, giancarlo-baghetti, jo-siffert]
+- lap: 7
+  drivers: [jim-clark, dan-gurney, john-surtees, jack-brabham, richie-ginther, bruce-mclaren, graham-hill, lorenzo-bandini, pedro-rodriguez, jo-bonnier, tony-maggs, masten-gregory, moises-solana, trevor-taylor, hap-sharp, jim-hall, chris-amon, phil-hill, carel-godin-de-beaufort, giancarlo-baghetti, jo-siffert]
+- lap: 8
+  drivers: [jim-clark, dan-gurney, john-surtees, jack-brabham, richie-ginther, bruce-mclaren, graham-hill, lorenzo-bandini, pedro-rodriguez, jo-bonnier, masten-gregory, moises-solana, trevor-taylor, hap-sharp, jim-hall, chris-amon, phil-hill, carel-godin-de-beaufort, giancarlo-baghetti, jo-siffert]
+- lap: 9
+  drivers: [jim-clark, dan-gurney, john-surtees, jack-brabham, richie-ginther, bruce-mclaren, graham-hill, lorenzo-bandini, pedro-rodriguez, jo-bonnier, masten-gregory, moises-solana, trevor-taylor, hap-sharp, jim-hall, phil-hill, carel-godin-de-beaufort, giancarlo-baghetti, jo-siffert, chris-amon]
+- lap: 10
+  drivers: [jim-clark, dan-gurney, john-surtees, jack-brabham, richie-ginther, bruce-mclaren, graham-hill, lorenzo-bandini, pedro-rodriguez, jo-bonnier, masten-gregory, moises-solana, trevor-taylor, hap-sharp, jim-hall, phil-hill, carel-godin-de-beaufort, jo-siffert, giancarlo-baghetti]
+- lap: 11
+  drivers: [jim-clark, dan-gurney, john-surtees, jack-brabham, richie-ginther, bruce-mclaren, graham-hill, lorenzo-bandini, pedro-rodriguez, jo-bonnier, masten-gregory, moises-solana, trevor-taylor, hap-sharp, jim-hall, phil-hill, carel-godin-de-beaufort, jo-siffert, giancarlo-baghetti]
+- lap: 12
+  drivers: [jim-clark, dan-gurney, john-surtees, jack-brabham, richie-ginther, bruce-mclaren, lorenzo-bandini, graham-hill, pedro-rodriguez, jo-bonnier, masten-gregory, moises-solana, trevor-taylor, hap-sharp, jim-hall, phil-hill, carel-godin-de-beaufort, jo-siffert, giancarlo-baghetti]
+- lap: 13
+  drivers: [jim-clark, dan-gurney, john-surtees, jack-brabham, richie-ginther, bruce-mclaren, lorenzo-bandini, graham-hill, pedro-rodriguez, masten-gregory, moises-solana, trevor-taylor, hap-sharp, jim-hall, phil-hill, jo-bonnier, carel-godin-de-beaufort, jo-siffert]
+- lap: 14
+  drivers: [jim-clark, dan-gurney, john-surtees, jack-brabham, richie-ginther, bruce-mclaren, lorenzo-bandini, graham-hill, pedro-rodriguez, masten-gregory, moises-solana, trevor-taylor, hap-sharp, jim-hall, jo-bonnier, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 15
+  drivers: [jim-clark, dan-gurney, jack-brabham, john-surtees, richie-ginther, bruce-mclaren, lorenzo-bandini, graham-hill, pedro-rodriguez, masten-gregory, moises-solana, trevor-taylor, hap-sharp, jim-hall, jo-bonnier, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 16
+  drivers: [jim-clark, dan-gurney, jack-brabham, john-surtees, richie-ginther, bruce-mclaren, lorenzo-bandini, graham-hill, pedro-rodriguez, masten-gregory, moises-solana, trevor-taylor, hap-sharp, jo-bonnier, phil-hill, jim-hall, carel-godin-de-beaufort, jo-siffert]
+- lap: 17
+  drivers: [jim-clark, dan-gurney, jack-brabham, john-surtees, richie-ginther, bruce-mclaren, lorenzo-bandini, graham-hill, pedro-rodriguez, masten-gregory, moises-solana, trevor-taylor, hap-sharp, jim-hall, jo-bonnier, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 18
+  drivers: [jim-clark, dan-gurney, jack-brabham, john-surtees, richie-ginther, bruce-mclaren, lorenzo-bandini, graham-hill, pedro-rodriguez, masten-gregory, moises-solana, trevor-taylor, hap-sharp, jim-hall, jo-bonnier, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 19
+  drivers: [jim-clark, dan-gurney, jack-brabham, john-surtees, richie-ginther, bruce-mclaren, lorenzo-bandini, graham-hill, pedro-rodriguez, masten-gregory, moises-solana, trevor-taylor, hap-sharp, jim-hall, jo-bonnier, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 20
+  drivers: [jim-clark, dan-gurney, jack-brabham, richie-ginther, bruce-mclaren, lorenzo-bandini, graham-hill, pedro-rodriguez, masten-gregory, moises-solana, hap-sharp, jim-hall, jo-bonnier, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 21
+  drivers: [jim-clark, dan-gurney, jack-brabham, richie-ginther, bruce-mclaren, lorenzo-bandini, graham-hill, pedro-rodriguez, masten-gregory, moises-solana, hap-sharp, jim-hall, jo-bonnier, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 22
+  drivers: [jim-clark, dan-gurney, jack-brabham, richie-ginther, bruce-mclaren, lorenzo-bandini, graham-hill, pedro-rodriguez, masten-gregory, moises-solana, hap-sharp, jim-hall, jo-bonnier, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 23
+  drivers: [jim-clark, dan-gurney, jack-brabham, richie-ginther, bruce-mclaren, lorenzo-bandini, graham-hill, pedro-rodriguez, masten-gregory, moises-solana, hap-sharp, jim-hall, jo-bonnier, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 24
+  drivers: [jim-clark, dan-gurney, jack-brabham, richie-ginther, bruce-mclaren, lorenzo-bandini, graham-hill, pedro-rodriguez, moises-solana, hap-sharp, jim-hall, jo-bonnier, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 25
+  drivers: [jim-clark, dan-gurney, jack-brabham, richie-ginther, bruce-mclaren, lorenzo-bandini, graham-hill, pedro-rodriguez, moises-solana, hap-sharp, jim-hall, jo-bonnier, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 26
+  drivers: [jim-clark, dan-gurney, jack-brabham, richie-ginther, bruce-mclaren, graham-hill, lorenzo-bandini, pedro-rodriguez, moises-solana, hap-sharp, jim-hall, jo-bonnier, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 27
+  drivers: [jim-clark, dan-gurney, jack-brabham, richie-ginther, bruce-mclaren, graham-hill, lorenzo-bandini, moises-solana, hap-sharp, jim-hall, jo-bonnier, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 28
+  drivers: [jim-clark, dan-gurney, jack-brabham, richie-ginther, bruce-mclaren, graham-hill, lorenzo-bandini, moises-solana, hap-sharp, jim-hall, jo-bonnier, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 29
+  drivers: [jim-clark, dan-gurney, jack-brabham, richie-ginther, bruce-mclaren, graham-hill, lorenzo-bandini, moises-solana, hap-sharp, jim-hall, jo-bonnier, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 30
+  drivers: [jim-clark, dan-gurney, jack-brabham, richie-ginther, graham-hill, lorenzo-bandini, bruce-mclaren, moises-solana, hap-sharp, jim-hall, jo-bonnier, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 31
+  drivers: [jim-clark, dan-gurney, jack-brabham, richie-ginther, graham-hill, lorenzo-bandini, moises-solana, hap-sharp, jim-hall, jo-bonnier, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 32
+  drivers: [jim-clark, dan-gurney, jack-brabham, richie-ginther, graham-hill, lorenzo-bandini, moises-solana, hap-sharp, jim-hall, jo-bonnier, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 33
+  drivers: [jim-clark, dan-gurney, jack-brabham, richie-ginther, graham-hill, lorenzo-bandini, moises-solana, hap-sharp, jo-bonnier, jim-hall, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 34
+  drivers: [jim-clark, jack-brabham, dan-gurney, richie-ginther, graham-hill, lorenzo-bandini, moises-solana, hap-sharp, jo-bonnier, jim-hall, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 35
+  drivers: [jim-clark, jack-brabham, dan-gurney, richie-ginther, graham-hill, lorenzo-bandini, moises-solana, hap-sharp, jo-bonnier, jim-hall, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 36
+  drivers: [jim-clark, jack-brabham, dan-gurney, richie-ginther, graham-hill, lorenzo-bandini, moises-solana, hap-sharp, jo-bonnier, jim-hall, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 37
+  drivers: [jim-clark, jack-brabham, dan-gurney, richie-ginther, graham-hill, moises-solana, hap-sharp, jo-bonnier, jim-hall, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 38
+  drivers: [jim-clark, jack-brabham, dan-gurney, richie-ginther, graham-hill, moises-solana, jo-bonnier, hap-sharp, jim-hall, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 39
+  drivers: [jim-clark, jack-brabham, dan-gurney, richie-ginther, graham-hill, moises-solana, jo-bonnier, hap-sharp, jim-hall, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 40
+  drivers: [jim-clark, jack-brabham, dan-gurney, richie-ginther, graham-hill, moises-solana, jo-bonnier, hap-sharp, jim-hall, phil-hill, carel-godin-de-beaufort, jo-siffert]
+- lap: 41
+  drivers: [jim-clark, jack-brabham, dan-gurney, richie-ginther, graham-hill, moises-solana, jo-bonnier, hap-sharp, jim-hall, carel-godin-de-beaufort, jo-siffert]
+- lap: 42
+  drivers: [jim-clark, jack-brabham, dan-gurney, richie-ginther, graham-hill, jo-bonnier, moises-solana, hap-sharp, jim-hall, carel-godin-de-beaufort, jo-siffert]
+- lap: 43
+  drivers: [jim-clark, jack-brabham, richie-ginther, dan-gurney, graham-hill, jo-bonnier, moises-solana, hap-sharp, jim-hall, carel-godin-de-beaufort, jo-siffert]
+- lap: 44
+  drivers: [jim-clark, jack-brabham, richie-ginther, graham-hill, dan-gurney, jo-bonnier, moises-solana, hap-sharp, jim-hall, carel-godin-de-beaufort, jo-siffert]
+- lap: 45
+  drivers: [jim-clark, jack-brabham, richie-ginther, graham-hill, dan-gurney, jo-bonnier, moises-solana, hap-sharp, jim-hall, carel-godin-de-beaufort, jo-siffert]
+- lap: 46
+  drivers: [jim-clark, jack-brabham, richie-ginther, graham-hill, dan-gurney, jo-bonnier, moises-solana, hap-sharp, jim-hall, carel-godin-de-beaufort, jo-siffert]
+- lap: 47
+  drivers: [jim-clark, jack-brabham, richie-ginther, graham-hill, dan-gurney, jo-bonnier, moises-solana, hap-sharp, jim-hall, carel-godin-de-beaufort, jo-siffert]
+- lap: 48
+  drivers: [jim-clark, jack-brabham, richie-ginther, graham-hill, dan-gurney, jo-bonnier, moises-solana, hap-sharp, jim-hall, jo-siffert, carel-godin-de-beaufort]
+- lap: 49
+  drivers: [jim-clark, jack-brabham, richie-ginther, graham-hill, dan-gurney, jo-bonnier, moises-solana, hap-sharp, jim-hall, jo-siffert, carel-godin-de-beaufort]
+- lap: 50
+  drivers: [jim-clark, jack-brabham, richie-ginther, graham-hill, dan-gurney, jo-bonnier, moises-solana, hap-sharp, jim-hall, jo-siffert, carel-godin-de-beaufort]
+- lap: 51
+  drivers: [jim-clark, jack-brabham, richie-ginther, graham-hill, dan-gurney, jo-bonnier, moises-solana, hap-sharp, jim-hall, jo-siffert, carel-godin-de-beaufort]
+- lap: 52
+  drivers: [jim-clark, jack-brabham, richie-ginther, graham-hill, dan-gurney, jo-bonnier, moises-solana, hap-sharp, jim-hall, jo-siffert, carel-godin-de-beaufort]
+- lap: 53
+  drivers: [jim-clark, jack-brabham, richie-ginther, graham-hill, dan-gurney, jo-bonnier, moises-solana, hap-sharp, jim-hall, jo-siffert, carel-godin-de-beaufort]
+- lap: 54
+  drivers: [jim-clark, jack-brabham, richie-ginther, graham-hill, dan-gurney, jo-bonnier, moises-solana, hap-sharp, jim-hall, jo-siffert, carel-godin-de-beaufort]
+- lap: 55
+  drivers: [jim-clark, jack-brabham, richie-ginther, graham-hill, dan-gurney, jo-bonnier, moises-solana, hap-sharp, jim-hall, jo-siffert, carel-godin-de-beaufort]
+- lap: 56
+  drivers: [jim-clark, jack-brabham, richie-ginther, graham-hill, dan-gurney, jo-bonnier, hap-sharp, moises-solana, jim-hall, jo-siffert, carel-godin-de-beaufort]
+- lap: 57
+  drivers: [jim-clark, jack-brabham, richie-ginther, graham-hill, dan-gurney, jo-bonnier, hap-sharp, moises-solana, jim-hall, jo-siffert, carel-godin-de-beaufort]
+- lap: 58
+  drivers: [jim-clark, jack-brabham, richie-ginther, graham-hill, dan-gurney, jo-bonnier, hap-sharp, jim-hall, jo-siffert, carel-godin-de-beaufort]
+- lap: 59
+  drivers: [jim-clark, jack-brabham, richie-ginther, graham-hill, jo-bonnier, dan-gurney, hap-sharp, jim-hall, jo-siffert]
+- lap: 60
+  drivers: [jim-clark, jack-brabham, richie-ginther, graham-hill, jo-bonnier, dan-gurney, hap-sharp, jim-hall]
+- lap: 61
+  drivers: [jim-clark, jack-brabham, richie-ginther, graham-hill, jo-bonnier, dan-gurney, hap-sharp, jim-hall]
+- lap: 62
+  drivers: [jim-clark, jack-brabham, richie-ginther, graham-hill, jo-bonnier, dan-gurney]
+- lap: 63
+  drivers: [jim-clark, jack-brabham, richie-ginther, graham-hill]
+- lap: 64
+  drivers: [jim-clark, jack-brabham, richie-ginther, graham-hill]
+- lap: 65
+  drivers: [jim-clark, jack-brabham, richie-ginther]

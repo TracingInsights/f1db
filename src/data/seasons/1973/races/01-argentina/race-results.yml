@@ -129,7 +129,7 @@
   driverId: mike-beuttler
   constructorId: march
   engineManufacturerId: ford
-  tyreManufacturerId: goodyear
+  tyreManufacturerId: firestone
   laps: 90
   time:
   timePenalty:
@@ -186,7 +186,7 @@
   constructorId: lotus
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
-  laps: 66
+  laps: 67
   time:
   timePenalty:
   gap:

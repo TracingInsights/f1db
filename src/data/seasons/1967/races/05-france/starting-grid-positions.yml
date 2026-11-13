@@ -107,7 +107,7 @@
   driverId: bob-anderson
   constructorId: brabham
   engineManufacturerId: climax
-  tyreManufacturerId: firestone
+  tyreManufacturerId: dunlop
   gridPenalty:
   time: "1:44.900"
 - position: 15
@@ -115,6 +115,6 @@
   driverId: guy-ligier
   constructorId: cooper
   engineManufacturerId: maserati
-  tyreManufacturerId: dunlop
+  tyreManufacturerId: firestone
   gridPenalty:
   time: "1:45.200"

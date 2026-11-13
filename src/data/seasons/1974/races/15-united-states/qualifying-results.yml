@@ -13,7 +13,7 @@
   driverId: james-hunt
   constructorId: hesketh
   engineManufacturerId: ford
-  tyreManufacturerId: goodyear
+  tyreManufacturerId: firestone
   time: "1:38.995"
   gap: "+0.017"
   interval: "+0.017"
@@ -24,9 +24,9 @@
   constructorId: parnelli
   engineManufacturerId: ford
   tyreManufacturerId: firestone
-  time: "1:39.204"
-  gap: "+0.226"
-  interval: "+0.209"
+  time: "1:39.209"
+  gap: "+0.231"
+  interval: "+0.214"
   laps:
 - position: 4
   driverNumber: 8
@@ -36,7 +36,7 @@
   tyreManufacturerId: goodyear
   time: "1:39.284"
   gap: "+0.306"
-  interval: "+0.080"
+  interval: "+0.075"
   laps:
 - position: 5
   driverNumber: 12
@@ -194,9 +194,9 @@
   constructorId: mclaren
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
-  time: "1:41.370"
-  gap: "+2.392"
-  interval: "+0.175"
+  time: "1:41.300"
+  gap: "+2.322"
+  interval: "+0.105"
   laps:
 - position: 21
   driverNumber: 27
@@ -206,7 +206,7 @@
   tyreManufacturerId: firestone
   time: "1:41.370"
   gap: "+2.392"
-  interval: "+0.000"
+  interval: "+0.070"
   laps:
 - position: 22
   driverNumber: 22

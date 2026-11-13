@@ -87,7 +87,7 @@
   driverId: james-hunt
   constructorId: march
   engineManufacturerId: ford
-  tyreManufacturerId: goodyear
+  tyreManufacturerId: firestone
   laps: 78
   time:
   timePenalty:
@@ -325,7 +325,7 @@
   driverId: mike-beuttler
   constructorId: march
   engineManufacturerId: ford
-  tyreManufacturerId: goodyear
+  tyreManufacturerId: firestone
   laps: 20
   time:
   timePenalty:

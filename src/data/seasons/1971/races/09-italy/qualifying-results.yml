@@ -64,9 +64,9 @@
   constructorId: tyrrell
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
-  time: "1:23.490"
-  gap: "+1.090"
-  interval: "+0.030"
+  time: "1:23.610"
+  gap: "+1.210"
+  interval: "+0.150"
   laps:
 - position: 8
   driverNumber: 4
@@ -76,7 +76,7 @@
   tyreManufacturerId: firestone
   time: "1:23.690"
   gap: "+1.290"
-  interval: "+0.200"
+  interval: "+0.080"
   laps:
 - position: 9
   driverNumber: 11
@@ -84,9 +84,9 @@
   constructorId: brabham
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
-  time: "1:23.750"
-  gap: "+1.350"
-  interval: "+0.060"
+  time: "1:23.730"
+  gap: "+1.330"
+  interval: "+0.040"
   laps:
 - position: 10
   driverNumber: 16
@@ -96,7 +96,7 @@
   tyreManufacturerId: goodyear
   time: "1:23.770"
   gap: "+1.370"
-  interval: "+0.020"
+  interval: "+0.040"
   laps:
 - position: 11
   driverNumber: 18

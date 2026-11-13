@@ -1,0 +1,114 @@
+- lap: 0
+  drivers: [michael-schumacher, juan-pablo-montoya, rubens-barrichello, ralf-schumacher, kimi-raikkonen, david-coulthard, nick-heidfeld, jenson-button, giancarlo-fisichella, mika-salo, heinz-harald-frentzen, jarno-trulli, jacques-villeneuve, felipe-massa, takuma-sato, enrique-bernoldi, pedro-de-la-rosa, olivier-panis, allan-mcnish, eddie-irvine, mark-webber, alex-yoong]
+- lap: 1
+  drivers: [rubens-barrichello, ralf-schumacher, kimi-raikkonen, david-coulthard, nick-heidfeld, jenson-button, jarno-trulli, giancarlo-fisichella, mika-salo, takuma-sato, juan-pablo-montoya, enrique-bernoldi, felipe-massa, allan-mcnish, jacques-villeneuve, pedro-de-la-rosa, olivier-panis, eddie-irvine, alex-yoong, mark-webber, michael-schumacher, heinz-harald-frentzen]
+- lap: 2
+  drivers: [rubens-barrichello, ralf-schumacher, kimi-raikkonen, david-coulthard, nick-heidfeld, jenson-button, jarno-trulli, mika-salo, juan-pablo-montoya, enrique-bernoldi, allan-mcnish, felipe-massa, jacques-villeneuve, olivier-panis, pedro-de-la-rosa, eddie-irvine, alex-yoong, mark-webber, giancarlo-fisichella, takuma-sato, michael-schumacher, heinz-harald-frentzen]
+- lap: 3
+  drivers: [rubens-barrichello, ralf-schumacher, kimi-raikkonen, david-coulthard, nick-heidfeld, jenson-button, juan-pablo-montoya, jarno-trulli, mika-salo, enrique-bernoldi, allan-mcnish, felipe-massa, jacques-villeneuve, olivier-panis, pedro-de-la-rosa, eddie-irvine, alex-yoong, mark-webber, michael-schumacher, takuma-sato, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 4
+  drivers: [rubens-barrichello, ralf-schumacher, kimi-raikkonen, david-coulthard, nick-heidfeld, jenson-button, juan-pablo-montoya, mika-salo, jarno-trulli, enrique-bernoldi, allan-mcnish, felipe-massa, jacques-villeneuve, olivier-panis, pedro-de-la-rosa, eddie-irvine, alex-yoong, mark-webber, michael-schumacher, takuma-sato, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 5
+  drivers: [rubens-barrichello, ralf-schumacher, kimi-raikkonen, david-coulthard, nick-heidfeld, jenson-button, juan-pablo-montoya, mika-salo, jarno-trulli, enrique-bernoldi, allan-mcnish, felipe-massa, jacques-villeneuve, olivier-panis, pedro-de-la-rosa, eddie-irvine, alex-yoong, mark-webber, michael-schumacher, takuma-sato, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 6
+  drivers: [rubens-barrichello, ralf-schumacher, kimi-raikkonen, david-coulthard, nick-heidfeld, jenson-button, juan-pablo-montoya, mika-salo, jarno-trulli, allan-mcnish, enrique-bernoldi, felipe-massa, jacques-villeneuve, olivier-panis, pedro-de-la-rosa, eddie-irvine, alex-yoong, mark-webber, michael-schumacher, takuma-sato, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 7
+  drivers: [rubens-barrichello, ralf-schumacher, kimi-raikkonen, david-coulthard, nick-heidfeld, juan-pablo-montoya, jenson-button, mika-salo, allan-mcnish, jarno-trulli, enrique-bernoldi, felipe-massa, jacques-villeneuve, olivier-panis, eddie-irvine, alex-yoong, michael-schumacher, mark-webber, pedro-de-la-rosa, takuma-sato, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 8
+  drivers: [rubens-barrichello, ralf-schumacher, kimi-raikkonen, david-coulthard, nick-heidfeld, juan-pablo-montoya, jenson-button, mika-salo, allan-mcnish, enrique-bernoldi, felipe-massa, jacques-villeneuve, olivier-panis, jarno-trulli, eddie-irvine, michael-schumacher, alex-yoong, mark-webber, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 9
+  drivers: [rubens-barrichello, ralf-schumacher, kimi-raikkonen, david-coulthard, nick-heidfeld, jenson-button, juan-pablo-montoya, mika-salo, allan-mcnish, enrique-bernoldi, felipe-massa, jacques-villeneuve, olivier-panis, eddie-irvine, michael-schumacher, alex-yoong, mark-webber, jarno-trulli, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 10
+  drivers: [rubens-barrichello, ralf-schumacher, kimi-raikkonen, david-coulthard, nick-heidfeld, jenson-button, mika-salo, allan-mcnish, juan-pablo-montoya, enrique-bernoldi, felipe-massa, jacques-villeneuve, michael-schumacher, eddie-irvine, alex-yoong, mark-webber, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 11
+  drivers: [rubens-barrichello, ralf-schumacher, kimi-raikkonen, david-coulthard, nick-heidfeld, jenson-button, mika-salo, allan-mcnish, juan-pablo-montoya, enrique-bernoldi, felipe-massa, jacques-villeneuve, michael-schumacher, eddie-irvine, alex-yoong, mark-webber, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 12
+  drivers: [rubens-barrichello, ralf-schumacher, kimi-raikkonen, david-coulthard, nick-heidfeld, jenson-button, mika-salo, allan-mcnish, juan-pablo-montoya, enrique-bernoldi, felipe-massa, michael-schumacher, jacques-villeneuve, eddie-irvine, alex-yoong, mark-webber, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 13
+  drivers: [rubens-barrichello, ralf-schumacher, kimi-raikkonen, nick-heidfeld, david-coulthard, jenson-button, mika-salo, allan-mcnish, juan-pablo-montoya, enrique-bernoldi, felipe-massa, michael-schumacher, jacques-villeneuve, eddie-irvine, alex-yoong, mark-webber, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 14
+  drivers: [rubens-barrichello, ralf-schumacher, kimi-raikkonen, nick-heidfeld, jenson-button, mika-salo, david-coulthard, allan-mcnish, juan-pablo-montoya, enrique-bernoldi, michael-schumacher, felipe-massa, jacques-villeneuve, eddie-irvine, alex-yoong, mark-webber, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 15
+  drivers: [rubens-barrichello, ralf-schumacher, kimi-raikkonen, nick-heidfeld, jenson-button, mika-salo, juan-pablo-montoya, allan-mcnish, david-coulthard, enrique-bernoldi, michael-schumacher, felipe-massa, jacques-villeneuve, eddie-irvine, alex-yoong, mark-webber, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 16
+  drivers: [rubens-barrichello, ralf-schumacher, kimi-raikkonen, nick-heidfeld, jenson-button, mika-salo, juan-pablo-montoya, allan-mcnish, michael-schumacher, enrique-bernoldi, felipe-massa, jacques-villeneuve, eddie-irvine, alex-yoong, mark-webber, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 17
+  drivers: [rubens-barrichello, ralf-schumacher, kimi-raikkonen, nick-heidfeld, jenson-button, mika-salo, juan-pablo-montoya, allan-mcnish, michael-schumacher, enrique-bernoldi, felipe-massa, jacques-villeneuve, eddie-irvine, alex-yoong, mark-webber, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 18
+  drivers: [rubens-barrichello, ralf-schumacher, kimi-raikkonen, nick-heidfeld, jenson-button, mika-salo, juan-pablo-montoya, allan-mcnish, michael-schumacher, enrique-bernoldi, felipe-massa, jacques-villeneuve, eddie-irvine, alex-yoong, mark-webber, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 19
+  drivers: [rubens-barrichello, ralf-schumacher, kimi-raikkonen, nick-heidfeld, jenson-button, mika-salo, juan-pablo-montoya, allan-mcnish, michael-schumacher, enrique-bernoldi, felipe-massa, jacques-villeneuve, eddie-irvine, mark-webber, alex-yoong, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 20
+  drivers: [rubens-barrichello, ralf-schumacher, kimi-raikkonen, jenson-button, juan-pablo-montoya, mika-salo, nick-heidfeld, enrique-bernoldi, felipe-massa, jacques-villeneuve, eddie-irvine, michael-schumacher, allan-mcnish, mark-webber, alex-yoong, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 21
+  drivers: [rubens-barrichello, ralf-schumacher, kimi-raikkonen, jenson-button, juan-pablo-montoya, mika-salo, nick-heidfeld, felipe-massa, jacques-villeneuve, eddie-irvine, michael-schumacher, allan-mcnish, mark-webber, alex-yoong, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 22
+  drivers: [ralf-schumacher, kimi-raikkonen, rubens-barrichello, jenson-button, nick-heidfeld, juan-pablo-montoya, felipe-massa, mika-salo, michael-schumacher, jacques-villeneuve, eddie-irvine, allan-mcnish, mark-webber, alex-yoong, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 23
+  drivers: [ralf-schumacher, kimi-raikkonen, rubens-barrichello, jenson-button, nick-heidfeld, juan-pablo-montoya, mika-salo, felipe-massa, michael-schumacher, jacques-villeneuve, eddie-irvine, allan-mcnish, mark-webber, takuma-sato, alex-yoong, pedro-de-la-rosa, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 24
+  drivers: [ralf-schumacher, rubens-barrichello, jenson-button, kimi-raikkonen, nick-heidfeld, juan-pablo-montoya, mika-salo, michael-schumacher, jacques-villeneuve, eddie-irvine, allan-mcnish, felipe-massa, mark-webber, takuma-sato, pedro-de-la-rosa, alex-yoong, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 25
+  drivers: [ralf-schumacher, rubens-barrichello, jenson-button, nick-heidfeld, juan-pablo-montoya, mika-salo, michael-schumacher, jacques-villeneuve, eddie-irvine, allan-mcnish, felipe-massa, mark-webber, takuma-sato, pedro-de-la-rosa, alex-yoong, heinz-harald-frentzen, giancarlo-fisichella]
+- lap: 26
+  drivers: [ralf-schumacher, rubens-barrichello, jenson-button, nick-heidfeld, juan-pablo-montoya, michael-schumacher, eddie-irvine, jacques-villeneuve, allan-mcnish, felipe-massa, mark-webber, takuma-sato, pedro-de-la-rosa, alex-yoong, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 27
+  drivers: [ralf-schumacher, rubens-barrichello, jenson-button, juan-pablo-montoya, nick-heidfeld, michael-schumacher, allan-mcnish, felipe-massa, eddie-irvine, mark-webber, jacques-villeneuve, takuma-sato, pedro-de-la-rosa, alex-yoong, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 28
+  drivers: [ralf-schumacher, rubens-barrichello, jenson-button, juan-pablo-montoya, nick-heidfeld, michael-schumacher, allan-mcnish, felipe-massa, mark-webber, jacques-villeneuve, eddie-irvine, takuma-sato, pedro-de-la-rosa, alex-yoong, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 29
+  drivers: [ralf-schumacher, rubens-barrichello, jenson-button, juan-pablo-montoya, nick-heidfeld, michael-schumacher, allan-mcnish, felipe-massa, mark-webber, jacques-villeneuve, eddie-irvine, takuma-sato, pedro-de-la-rosa, alex-yoong, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 30
+  drivers: [ralf-schumacher, rubens-barrichello, jenson-button, juan-pablo-montoya, nick-heidfeld, michael-schumacher, allan-mcnish, felipe-massa, jacques-villeneuve, mark-webber, pedro-de-la-rosa, eddie-irvine, takuma-sato, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 31
+  drivers: [ralf-schumacher, rubens-barrichello, jenson-button, juan-pablo-montoya, nick-heidfeld, michael-schumacher, allan-mcnish, felipe-massa, jacques-villeneuve, mark-webber, pedro-de-la-rosa, takuma-sato, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 32
+  drivers: [rubens-barrichello, ralf-schumacher, juan-pablo-montoya, jenson-button, nick-heidfeld, michael-schumacher, allan-mcnish, felipe-massa, jacques-villeneuve, pedro-de-la-rosa, mark-webber, takuma-sato, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 33
+  drivers: [rubens-barrichello, ralf-schumacher, juan-pablo-montoya, jenson-button, nick-heidfeld, michael-schumacher, allan-mcnish, felipe-massa, jacques-villeneuve, pedro-de-la-rosa, mark-webber, takuma-sato, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 34
+  drivers: [rubens-barrichello, ralf-schumacher, juan-pablo-montoya, jenson-button, nick-heidfeld, michael-schumacher, allan-mcnish, felipe-massa, jacques-villeneuve, pedro-de-la-rosa, mark-webber, takuma-sato, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 35
+  drivers: [rubens-barrichello, ralf-schumacher, juan-pablo-montoya, jenson-button, nick-heidfeld, michael-schumacher, allan-mcnish, felipe-massa, jacques-villeneuve, pedro-de-la-rosa, takuma-sato, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 36
+  drivers: [ralf-schumacher, rubens-barrichello, juan-pablo-montoya, jenson-button, michael-schumacher, nick-heidfeld, allan-mcnish, felipe-massa, jacques-villeneuve, pedro-de-la-rosa, takuma-sato, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 37
+  drivers: [ralf-schumacher, rubens-barrichello, juan-pablo-montoya, michael-schumacher, jenson-button, nick-heidfeld, allan-mcnish, felipe-massa, jacques-villeneuve, pedro-de-la-rosa, takuma-sato, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 38
+  drivers: [ralf-schumacher, rubens-barrichello, juan-pablo-montoya, michael-schumacher, jenson-button, nick-heidfeld, allan-mcnish, felipe-massa, jacques-villeneuve, pedro-de-la-rosa, takuma-sato, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 39
+  drivers: [ralf-schumacher, rubens-barrichello, juan-pablo-montoya, michael-schumacher, jenson-button, nick-heidfeld, allan-mcnish, felipe-massa, jacques-villeneuve, pedro-de-la-rosa, takuma-sato, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 40
+  drivers: [ralf-schumacher, michael-schumacher, jenson-button, juan-pablo-montoya, nick-heidfeld, allan-mcnish, felipe-massa, jacques-villeneuve, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 41
+  drivers: [ralf-schumacher, jenson-button, juan-pablo-montoya, michael-schumacher, nick-heidfeld, felipe-massa, allan-mcnish, jacques-villeneuve, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 42
+  drivers: [ralf-schumacher, jenson-button, juan-pablo-montoya, michael-schumacher, nick-heidfeld, felipe-massa, allan-mcnish, jacques-villeneuve, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 43
+  drivers: [ralf-schumacher, jenson-button, juan-pablo-montoya, michael-schumacher, nick-heidfeld, felipe-massa, allan-mcnish, jacques-villeneuve, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 44
+  drivers: [ralf-schumacher, juan-pablo-montoya, jenson-button, michael-schumacher, nick-heidfeld, felipe-massa, allan-mcnish, jacques-villeneuve, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 45
+  drivers: [ralf-schumacher, juan-pablo-montoya, jenson-button, michael-schumacher, nick-heidfeld, felipe-massa, allan-mcnish, jacques-villeneuve, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 46
+  drivers: [ralf-schumacher, juan-pablo-montoya, jenson-button, michael-schumacher, nick-heidfeld, felipe-massa, allan-mcnish, jacques-villeneuve, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 47
+  drivers: [ralf-schumacher, juan-pablo-montoya, jenson-button, michael-schumacher, nick-heidfeld, felipe-massa, allan-mcnish, jacques-villeneuve, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 48
+  drivers: [ralf-schumacher, juan-pablo-montoya, jenson-button, michael-schumacher, nick-heidfeld, felipe-massa, allan-mcnish, jacques-villeneuve, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 49
+  drivers: [ralf-schumacher, juan-pablo-montoya, jenson-button, michael-schumacher, nick-heidfeld, felipe-massa, allan-mcnish, jacques-villeneuve, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 50
+  drivers: [ralf-schumacher, juan-pablo-montoya, jenson-button, michael-schumacher, nick-heidfeld, felipe-massa, allan-mcnish, jacques-villeneuve, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 51
+  drivers: [ralf-schumacher, juan-pablo-montoya, jenson-button, michael-schumacher, nick-heidfeld, felipe-massa, allan-mcnish, jacques-villeneuve, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 52
+  drivers: [ralf-schumacher, juan-pablo-montoya, jenson-button, michael-schumacher, nick-heidfeld, felipe-massa, allan-mcnish, jacques-villeneuve, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 53
+  drivers: [ralf-schumacher, juan-pablo-montoya, jenson-button, michael-schumacher, nick-heidfeld, felipe-massa, allan-mcnish, jacques-villeneuve, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen, mika-salo, giancarlo-fisichella]
+- lap: 54
+  drivers: [ralf-schumacher, juan-pablo-montoya, jenson-button, michael-schumacher, nick-heidfeld, felipe-massa, allan-mcnish, jacques-villeneuve, takuma-sato, pedro-de-la-rosa, heinz-harald-frentzen]
+- lap: 55
+  drivers: [ralf-schumacher, juan-pablo-montoya, jenson-button, michael-schumacher, nick-heidfeld, felipe-massa, allan-mcnish, jacques-villeneuve]
+- lap: 56
+  drivers: [ralf-schumacher, juan-pablo-montoya, michael-schumacher, jenson-button]

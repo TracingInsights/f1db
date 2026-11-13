@@ -334,18 +334,18 @@
   reasonRetired: Clutch
   points:
   gridPosition: 24
-- position: DNS
+- position: DNF
   driverNumber: 29
   driverId: pierluigi-martini
   constructorId: minardi
   engineManufacturerId: motori-moderni
   tyreManufacturerId: pirelli
-  laps:
+  laps: 0
   time:
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Fuel pump
   points:
   gridPosition: 23
 - position: DNS
@@ -359,6 +359,6 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Stalled
   points:
   gridPosition: 21

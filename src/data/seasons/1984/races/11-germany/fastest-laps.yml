@@ -209,6 +209,16 @@
   gap: "+6.029"
   interval: "+0.909"
 - position: 22
+  driverNumber: 3
+  driverId: stefan-johansson
+  constructorId: tyrrell
+  engineManufacturerId: ford
+  tyreManufacturerId: goodyear
+  lap: 36
+  time: "2:00.730"
+  gap: "+7.192"
+  interval: "+1.163"
+- position: 23
   driverNumber: 10
   driverId: jonathan-palmer
   constructorId: ram
@@ -217,8 +227,8 @@
   lap: 7
   time: "2:01.116"
   gap: "+7.578"
-  interval: "+1.549"
-- position: 23
+  interval: "+0.386"
+- position: 24
   driverNumber: 9
   driverId: philippe-alliot
   constructorId: ram
@@ -228,7 +238,7 @@
   time: "2:02.203"
   gap: "+8.665"
   interval: "+1.087"
-- position: 24
+- position: 25
   driverNumber: 21
   driverId: huub-rothengatter
   constructorId: spirit
@@ -238,7 +248,7 @@
   time: "2:03.195"
   gap: "+9.657"
   interval: "+0.992"
-- position: 25
+- position: 26
   driverNumber: 17
   driverId: marc-surer
   constructorId: arrows

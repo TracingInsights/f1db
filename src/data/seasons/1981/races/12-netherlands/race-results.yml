@@ -171,7 +171,7 @@
   driverId: eddie-cheever
   constructorId: tyrrell
   engineManufacturerId: ford
-  tyreManufacturerId: avon
+  tyreManufacturerId: goodyear
   laps: 46
   time:
   timePenalty:
@@ -345,7 +345,7 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Accident
   points:
   gridPosition: 13
 - position: DNQ

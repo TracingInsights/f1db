@@ -224,9 +224,9 @@
   constructorId: gordini
   engineManufacturerId: gordini
   tyreManufacturerId: englebert
-  time: "2:12.800"
-  gap: "+12.400"
-  interval: "+1.000"
+  time: "2:12.600"
+  gap: "+12.200"
+  interval: "+0.800"
   laps:
 - position: 24
   driverNumber: 42
@@ -236,7 +236,7 @@
   tyreManufacturerId: dunlop
   time: "2:13.400"
   gap: "+13.000"
-  interval: "+0.600"
+  interval: "+0.800"
   laps:
 - position: 25
   driverNumber: 40

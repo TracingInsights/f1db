@@ -44,9 +44,9 @@
   constructorId: williams
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
-  time: "1:35.358"
-  gap: "+1.891"
-  interval: "+0.296"
+  time: "1:35.359"
+  gap: "+1.892"
+  interval: "+0.297"
   laps:
 - position: 6
   driverNumber: 5
@@ -56,7 +56,7 @@
   tyreManufacturerId: goodyear
   time: "1:35.449"
   gap: "+1.982"
-  interval: "+0.091"
+  interval: "+0.090"
   laps:
 - position: 7
   driverNumber: 7
@@ -163,7 +163,7 @@
   driverId: eddie-cheever
   constructorId: tyrrell
   engineManufacturerId: ford
-  tyreManufacturerId: avon
+  tyreManufacturerId: goodyear
   time: "1:37.160"
   gap: "+3.693"
   interval: "+0.141"

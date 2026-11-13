@@ -1,0 +1,140 @@
+- lap: 0
+  drivers: [alain-prost, ayrton-senna, riccardo-patrese, gerhard-berger, nigel-mansell, thierry-boutsen, stefano-modena, alex-caffi, andrea-de-cesaris, philippe-alliot, pierluigi-martini, derek-warwick, alessandro-nannini, jonathan-palmer, nicola-larini, eddie-cheever, mauricio-gugelmin, stefan-johansson, nelson-piquet, michele-alboreto, ivan-capelli, rene-arnoux, christian-danner, luis-perez-sala, gabriele-tarquini, roberto-moreno]
+- lap: 1
+  drivers: [alain-prost, ayrton-senna, riccardo-patrese, gerhard-berger, thierry-boutsen, andrea-de-cesaris, philippe-alliot, nicola-larini, jonathan-palmer, eddie-cheever, derek-warwick, stefan-johansson, ivan-capelli, mauricio-gugelmin, rene-arnoux, nelson-piquet, gabriele-tarquini, roberto-moreno, christian-danner, luis-perez-sala, alex-caffi]
+- lap: 2
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, gerhard-berger, philippe-alliot, nicola-larini, derek-warwick, jonathan-palmer, eddie-cheever, ivan-capelli, mauricio-gugelmin, rene-arnoux, nelson-piquet, gabriele-tarquini, christian-danner, roberto-moreno, luis-perez-sala, alain-prost, alex-caffi, andrea-de-cesaris, stefan-johansson]
+- lap: 3
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, gerhard-berger, philippe-alliot, jonathan-palmer, nicola-larini, eddie-cheever, derek-warwick, mauricio-gugelmin, ivan-capelli, rene-arnoux, nelson-piquet, gabriele-tarquini, christian-danner, roberto-moreno, luis-perez-sala, alex-caffi, andrea-de-cesaris, stefan-johansson]
+- lap: 4
+  drivers: [riccardo-patrese, thierry-boutsen, gerhard-berger, philippe-alliot, ayrton-senna, nicola-larini, derek-warwick, jonathan-palmer, mauricio-gugelmin, rene-arnoux, nelson-piquet, gabriele-tarquini, christian-danner, ivan-capelli, luis-perez-sala, alex-caffi, roberto-moreno, andrea-de-cesaris, stefan-johansson]
+- lap: 5
+  drivers: [riccardo-patrese, gerhard-berger, thierry-boutsen, philippe-alliot, ayrton-senna, derek-warwick, nicola-larini, rene-arnoux, gabriele-tarquini, christian-danner, mauricio-gugelmin, ivan-capelli, alex-caffi, jonathan-palmer, andrea-de-cesaris, nelson-piquet, luis-perez-sala, roberto-moreno, stefan-johansson]
+- lap: 6
+  drivers: [riccardo-patrese, gerhard-berger, thierry-boutsen, ayrton-senna, philippe-alliot, derek-warwick, nicola-larini, gabriele-tarquini, rene-arnoux, christian-danner, mauricio-gugelmin, ivan-capelli, alex-caffi, andrea-de-cesaris, jonathan-palmer, nelson-piquet, luis-perez-sala, roberto-moreno, stefan-johansson]
+- lap: 7
+  drivers: [riccardo-patrese, thierry-boutsen, ayrton-senna, philippe-alliot, derek-warwick, nicola-larini, rene-arnoux, christian-danner, ivan-capelli, mauricio-gugelmin, alex-caffi, andrea-de-cesaris, jonathan-palmer, nelson-piquet, luis-perez-sala, roberto-moreno, stefan-johansson]
+- lap: 8
+  drivers: [riccardo-patrese, thierry-boutsen, ayrton-senna, philippe-alliot, derek-warwick, nicola-larini, rene-arnoux, christian-danner, ivan-capelli, mauricio-gugelmin, alex-caffi, andrea-de-cesaris, jonathan-palmer, nelson-piquet, luis-perez-sala, roberto-moreno, stefan-johansson]
+- lap: 9
+  drivers: [riccardo-patrese, thierry-boutsen, ayrton-senna, philippe-alliot, derek-warwick, nicola-larini, rene-arnoux, christian-danner, ivan-capelli, mauricio-gugelmin, alex-caffi, andrea-de-cesaris, jonathan-palmer, nelson-piquet, luis-perez-sala, roberto-moreno, stefan-johansson]
+- lap: 10
+  drivers: [riccardo-patrese, thierry-boutsen, ayrton-senna, philippe-alliot, derek-warwick, nicola-larini, rene-arnoux, christian-danner, ivan-capelli, mauricio-gugelmin, alex-caffi, andrea-de-cesaris, jonathan-palmer, nelson-piquet, luis-perez-sala, stefan-johansson, roberto-moreno]
+- lap: 11
+  drivers: [riccardo-patrese, ayrton-senna, philippe-alliot, derek-warwick, nicola-larini, rene-arnoux, christian-danner, mauricio-gugelmin, alex-caffi, andrea-de-cesaris, thierry-boutsen, jonathan-palmer, nelson-piquet, ivan-capelli, luis-perez-sala, roberto-moreno, stefan-johansson]
+- lap: 12
+  drivers: [riccardo-patrese, ayrton-senna, philippe-alliot, derek-warwick, nicola-larini, rene-arnoux, christian-danner, alex-caffi, andrea-de-cesaris, thierry-boutsen, jonathan-palmer, nelson-piquet, ivan-capelli, roberto-moreno, stefan-johansson]
+- lap: 13
+  drivers: [riccardo-patrese, ayrton-senna, philippe-alliot, derek-warwick, nicola-larini, rene-arnoux, christian-danner, alex-caffi, andrea-de-cesaris, thierry-boutsen, jonathan-palmer, nelson-piquet, ivan-capelli, roberto-moreno, stefan-johansson]
+- lap: 14
+  drivers: [riccardo-patrese, ayrton-senna, derek-warwick, philippe-alliot, nicola-larini, rene-arnoux, alex-caffi, andrea-de-cesaris, christian-danner, thierry-boutsen, jonathan-palmer, nelson-piquet, ivan-capelli, roberto-moreno]
+- lap: 15
+  drivers: [riccardo-patrese, ayrton-senna, derek-warwick, nicola-larini, philippe-alliot, alex-caffi, andrea-de-cesaris, rene-arnoux, thierry-boutsen, christian-danner, jonathan-palmer, nelson-piquet, ivan-capelli, roberto-moreno]
+- lap: 16
+  drivers: [riccardo-patrese, ayrton-senna, derek-warwick, nicola-larini, philippe-alliot, alex-caffi, andrea-de-cesaris, thierry-boutsen, rene-arnoux, christian-danner, jonathan-palmer, nelson-piquet, ivan-capelli, roberto-moreno]
+- lap: 17
+  drivers: [riccardo-patrese, ayrton-senna, derek-warwick, alex-caffi, andrea-de-cesaris, nicola-larini, thierry-boutsen, philippe-alliot, rene-arnoux, christian-danner, jonathan-palmer, nelson-piquet, ivan-capelli, roberto-moreno]
+- lap: 18
+  drivers: [riccardo-patrese, ayrton-senna, derek-warwick, alex-caffi, andrea-de-cesaris, nicola-larini, thierry-boutsen, rene-arnoux, christian-danner, nelson-piquet, philippe-alliot, jonathan-palmer, ivan-capelli, roberto-moreno]
+- lap: 19
+  drivers: [riccardo-patrese, ayrton-senna, derek-warwick, andrea-de-cesaris, alex-caffi, nicola-larini, rene-arnoux, christian-danner, nelson-piquet, philippe-alliot, jonathan-palmer, thierry-boutsen, ivan-capelli, roberto-moreno]
+- lap: 20
+  drivers: [riccardo-patrese, ayrton-senna, derek-warwick, andrea-de-cesaris, nicola-larini, alex-caffi, rene-arnoux, christian-danner, nelson-piquet, philippe-alliot, jonathan-palmer, thierry-boutsen, ivan-capelli, roberto-moreno]
+- lap: 21
+  drivers: [riccardo-patrese, derek-warwick, andrea-de-cesaris, nicola-larini, alex-caffi, ayrton-senna, rene-arnoux, christian-danner, philippe-alliot, nelson-piquet, thierry-boutsen, jonathan-palmer, ivan-capelli, roberto-moreno]
+- lap: 22
+  drivers: [riccardo-patrese, derek-warwick, nicola-larini, andrea-de-cesaris, alex-caffi, ayrton-senna, rene-arnoux, christian-danner, philippe-alliot, thierry-boutsen, nelson-piquet, jonathan-palmer, ivan-capelli, roberto-moreno]
+- lap: 23
+  drivers: [riccardo-patrese, derek-warwick, nicola-larini, alex-caffi, ayrton-senna, rene-arnoux, christian-danner, philippe-alliot, andrea-de-cesaris, thierry-boutsen, nelson-piquet, jonathan-palmer, ivan-capelli, roberto-moreno]
+- lap: 24
+  drivers: [riccardo-patrese, derek-warwick, nicola-larini, ayrton-senna, rene-arnoux, philippe-alliot, christian-danner, thierry-boutsen, andrea-de-cesaris, jonathan-palmer, nelson-piquet, alex-caffi, ivan-capelli, roberto-moreno]
+- lap: 25
+  drivers: [riccardo-patrese, derek-warwick, nicola-larini, ayrton-senna, rene-arnoux, philippe-alliot, christian-danner, thierry-boutsen, andrea-de-cesaris, jonathan-palmer, nelson-piquet, alex-caffi, ivan-capelli, roberto-moreno]
+- lap: 26
+  drivers: [riccardo-patrese, derek-warwick, nicola-larini, ayrton-senna, rene-arnoux, philippe-alliot, christian-danner, thierry-boutsen, andrea-de-cesaris, jonathan-palmer, nelson-piquet, alex-caffi, ivan-capelli, roberto-moreno]
+- lap: 27
+  drivers: [riccardo-patrese, derek-warwick, nicola-larini, ayrton-senna, rene-arnoux, christian-danner, thierry-boutsen, andrea-de-cesaris, jonathan-palmer, nelson-piquet, alex-caffi, ivan-capelli, roberto-moreno]
+- lap: 28
+  drivers: [riccardo-patrese, derek-warwick, nicola-larini, ayrton-senna, rene-arnoux, thierry-boutsen, christian-danner, andrea-de-cesaris, jonathan-palmer, nelson-piquet, alex-caffi, ivan-capelli, roberto-moreno]
+- lap: 29
+  drivers: [riccardo-patrese, derek-warwick, nicola-larini, ayrton-senna, thierry-boutsen, rene-arnoux, andrea-de-cesaris, christian-danner, jonathan-palmer, nelson-piquet, alex-caffi, roberto-moreno]
+- lap: 30
+  drivers: [riccardo-patrese, derek-warwick, nicola-larini, ayrton-senna, thierry-boutsen, rene-arnoux, andrea-de-cesaris, christian-danner, jonathan-palmer, nelson-piquet, alex-caffi, roberto-moreno]
+- lap: 31
+  drivers: [riccardo-patrese, derek-warwick, ayrton-senna, nicola-larini, thierry-boutsen, rene-arnoux, andrea-de-cesaris, jonathan-palmer, christian-danner, nelson-piquet, alex-caffi, roberto-moreno]
+- lap: 32
+  drivers: [riccardo-patrese, derek-warwick, ayrton-senna, nicola-larini, thierry-boutsen, rene-arnoux, andrea-de-cesaris, jonathan-palmer, christian-danner, nelson-piquet, alex-caffi, roberto-moreno]
+- lap: 33
+  drivers: [riccardo-patrese, derek-warwick, ayrton-senna, nicola-larini, thierry-boutsen, rene-arnoux, andrea-de-cesaris, jonathan-palmer, christian-danner, nelson-piquet, alex-caffi, roberto-moreno]
+- lap: 34
+  drivers: [riccardo-patrese, derek-warwick, ayrton-senna, thierry-boutsen, andrea-de-cesaris, rene-arnoux, jonathan-palmer, nelson-piquet, christian-danner, alex-caffi, roberto-moreno]
+- lap: 35
+  drivers: [derek-warwick, ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, rene-arnoux, jonathan-palmer, nelson-piquet, christian-danner, alex-caffi, roberto-moreno]
+- lap: 36
+  drivers: [derek-warwick, ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, rene-arnoux, nelson-piquet, christian-danner, alex-caffi, roberto-moreno]
+- lap: 37
+  drivers: [derek-warwick, ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, rene-arnoux, nelson-piquet, christian-danner, alex-caffi, roberto-moreno]
+- lap: 38
+  drivers: [derek-warwick, ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, rene-arnoux, nelson-piquet, christian-danner, alex-caffi, roberto-moreno]
+- lap: 39
+  drivers: [ayrton-senna, derek-warwick, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, rene-arnoux, nelson-piquet, christian-danner, alex-caffi, roberto-moreno]
+- lap: 40
+  drivers: [ayrton-senna, derek-warwick, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, rene-arnoux, nelson-piquet, christian-danner, alex-caffi, roberto-moreno]
+- lap: 41
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, nelson-piquet, rene-arnoux, christian-danner, alex-caffi, roberto-moreno]
+- lap: 42
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, nelson-piquet, rene-arnoux, christian-danner, alex-caffi, roberto-moreno]
+- lap: 43
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, nelson-piquet, rene-arnoux, christian-danner, alex-caffi, roberto-moreno]
+- lap: 44
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, nelson-piquet, rene-arnoux, christian-danner, alex-caffi, roberto-moreno]
+- lap: 45
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, nelson-piquet, rene-arnoux, christian-danner, alex-caffi, roberto-moreno]
+- lap: 46
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, nelson-piquet, rene-arnoux, christian-danner, alex-caffi, roberto-moreno]
+- lap: 47
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, nelson-piquet, rene-arnoux, christian-danner, alex-caffi, roberto-moreno]
+- lap: 48
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, nelson-piquet, rene-arnoux, christian-danner, alex-caffi, roberto-moreno]
+- lap: 49
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, nelson-piquet, rene-arnoux, christian-danner, alex-caffi, roberto-moreno]
+- lap: 50
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, nelson-piquet, rene-arnoux, alex-caffi, christian-danner, roberto-moreno]
+- lap: 51
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, nelson-piquet, rene-arnoux, alex-caffi, christian-danner, roberto-moreno]
+- lap: 52
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, nelson-piquet, rene-arnoux, alex-caffi, christian-danner, roberto-moreno]
+- lap: 53
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, nelson-piquet, rene-arnoux, alex-caffi, christian-danner, roberto-moreno]
+- lap: 54
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, nelson-piquet, rene-arnoux, alex-caffi, christian-danner, roberto-moreno]
+- lap: 55
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, nelson-piquet, rene-arnoux, alex-caffi, christian-danner, roberto-moreno]
+- lap: 56
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, nelson-piquet, rene-arnoux, alex-caffi, christian-danner, roberto-moreno]
+- lap: 57
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, nelson-piquet, rene-arnoux, alex-caffi, christian-danner, roberto-moreno]
+- lap: 58
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, nelson-piquet, rene-arnoux, alex-caffi, christian-danner]
+- lap: 59
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, nelson-piquet, rene-arnoux, alex-caffi, christian-danner]
+- lap: 60
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, nelson-piquet, rene-arnoux, alex-caffi, christian-danner]
+- lap: 61
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, nelson-piquet, rene-arnoux, alex-caffi, christian-danner]
+- lap: 62
+  drivers: [ayrton-senna, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, nelson-piquet, rene-arnoux, alex-caffi, christian-danner]
+- lap: 63
+  drivers: [ayrton-senna, thierry-boutsen, riccardo-patrese, andrea-de-cesaris, nelson-piquet, rene-arnoux, alex-caffi, christian-danner]
+- lap: 64
+  drivers: [ayrton-senna, thierry-boutsen, riccardo-patrese, andrea-de-cesaris, nelson-piquet, rene-arnoux, alex-caffi, christian-danner]
+- lap: 65
+  drivers: [ayrton-senna, thierry-boutsen, riccardo-patrese, andrea-de-cesaris, nelson-piquet, rene-arnoux, alex-caffi, christian-danner]
+- lap: 66
+  drivers: [ayrton-senna, thierry-boutsen, riccardo-patrese, andrea-de-cesaris, nelson-piquet, rene-arnoux, alex-caffi, christian-danner]
+- lap: 67
+  drivers: [thierry-boutsen, riccardo-patrese, andrea-de-cesaris, nelson-piquet, rene-arnoux, alex-caffi]
+- lap: 68
+  drivers: [thierry-boutsen, riccardo-patrese, andrea-de-cesaris, nelson-piquet, rene-arnoux]
+- lap: 69
+  drivers: [thierry-boutsen, riccardo-patrese, andrea-de-cesaris, nelson-piquet]

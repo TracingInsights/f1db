@@ -118,7 +118,7 @@
   engineManufacturerId: ferrari
   tyreManufacturerId: englebert
   sharedCar: true
-  laps:
+  laps: 4
   time:
   timePenalty:
   gap:
@@ -175,7 +175,7 @@
   engineManufacturerId: ferrari
   tyreManufacturerId: englebert
   sharedCar: true
-  laps:
+  laps: 3
   time:
   timePenalty:
   gap:

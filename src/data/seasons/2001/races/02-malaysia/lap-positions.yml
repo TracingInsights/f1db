@@ -1,0 +1,112 @@
+- lap: 0
+  drivers: [michael-schumacher, rubens-barrichello, ralf-schumacher, mika-hakkinen, jarno-trulli, juan-pablo-montoya, jacques-villeneuve, david-coulthard, heinz-harald-frentzen, olivier-panis, nick-heidfeld, eddie-irvine, jean-alesi, kimi-raikkonen, luciano-burti, giancarlo-fisichella, jenson-button, jos-verstappen, gaston-mazzacane, tarso-marques, fernando-alonso, enrique-bernoldi]
+- lap: 1
+  drivers: [michael-schumacher, rubens-barrichello, jarno-trulli, david-coulthard, heinz-harald-frentzen, jos-verstappen, jacques-villeneuve, mika-hakkinen, olivier-panis, nick-heidfeld, jean-alesi, jenson-button, giancarlo-fisichella, enrique-bernoldi, luciano-burti, tarso-marques, gaston-mazzacane, fernando-alonso, eddie-irvine, ralf-schumacher, juan-pablo-montoya]
+- lap: 2
+  drivers: [michael-schumacher, rubens-barrichello, jarno-trulli, david-coulthard, heinz-harald-frentzen, jos-verstappen, jacques-villeneuve, mika-hakkinen, nick-heidfeld, jean-alesi, giancarlo-fisichella, jenson-button, enrique-bernoldi, luciano-burti, tarso-marques, ralf-schumacher, gaston-mazzacane, eddie-irvine, juan-pablo-montoya, fernando-alonso]
+- lap: 3
+  drivers: [jarno-trulli, david-coulthard, rubens-barrichello, heinz-harald-frentzen, jos-verstappen, jacques-villeneuve, michael-schumacher, mika-hakkinen, nick-heidfeld, jean-alesi, enrique-bernoldi, ralf-schumacher, giancarlo-fisichella, gaston-mazzacane, jenson-button, luciano-burti, juan-pablo-montoya, tarso-marques, eddie-irvine, fernando-alonso]
+- lap: 4
+  drivers: [david-coulthard, heinz-harald-frentzen, rubens-barrichello, michael-schumacher, jos-verstappen, jarno-trulli, mika-hakkinen, jean-alesi, ralf-schumacher, gaston-mazzacane, giancarlo-fisichella, jenson-button, luciano-burti, tarso-marques, fernando-alonso]
+- lap: 5
+  drivers: [david-coulthard, jos-verstappen, heinz-harald-frentzen, mika-hakkinen, jarno-trulli, jean-alesi, giancarlo-fisichella, ralf-schumacher, gaston-mazzacane, rubens-barrichello, michael-schumacher, jenson-button, luciano-burti, tarso-marques, fernando-alonso]
+- lap: 6
+  drivers: [david-coulthard, heinz-harald-frentzen, jos-verstappen, mika-hakkinen, jarno-trulli, jean-alesi, giancarlo-fisichella, ralf-schumacher, gaston-mazzacane, rubens-barrichello, michael-schumacher, jenson-button, luciano-burti, tarso-marques, fernando-alonso]
+- lap: 7
+  drivers: [david-coulthard, heinz-harald-frentzen, jos-verstappen, mika-hakkinen, jarno-trulli, jean-alesi, giancarlo-fisichella, ralf-schumacher, gaston-mazzacane, rubens-barrichello, michael-schumacher, jenson-button, luciano-burti, tarso-marques, fernando-alonso]
+- lap: 8
+  drivers: [david-coulthard, heinz-harald-frentzen, jos-verstappen, mika-hakkinen, jarno-trulli, jean-alesi, giancarlo-fisichella, ralf-schumacher, gaston-mazzacane, rubens-barrichello, michael-schumacher, jenson-button, luciano-burti, tarso-marques, fernando-alonso]
+- lap: 9
+  drivers: [david-coulthard, heinz-harald-frentzen, jos-verstappen, mika-hakkinen, jarno-trulli, jean-alesi, giancarlo-fisichella, ralf-schumacher, gaston-mazzacane, rubens-barrichello, michael-schumacher, jenson-button, luciano-burti, tarso-marques, fernando-alonso]
+- lap: 10
+  drivers: [david-coulthard, heinz-harald-frentzen, jos-verstappen, mika-hakkinen, jarno-trulli, jean-alesi, giancarlo-fisichella, ralf-schumacher, gaston-mazzacane, rubens-barrichello, michael-schumacher, jenson-button, luciano-burti, tarso-marques, fernando-alonso]
+- lap: 11
+  drivers: [david-coulthard, jos-verstappen, heinz-harald-frentzen, mika-hakkinen, ralf-schumacher, jarno-trulli, jean-alesi, rubens-barrichello, michael-schumacher, giancarlo-fisichella, jenson-button, gaston-mazzacane, luciano-burti, tarso-marques, fernando-alonso]
+- lap: 12
+  drivers: [david-coulthard, jos-verstappen, mika-hakkinen, ralf-schumacher, heinz-harald-frentzen, michael-schumacher, rubens-barrichello, jarno-trulli, giancarlo-fisichella, jenson-button, jean-alesi, luciano-burti, gaston-mazzacane, tarso-marques, fernando-alonso]
+- lap: 13
+  drivers: [david-coulthard, jos-verstappen, michael-schumacher, mika-hakkinen, ralf-schumacher, rubens-barrichello, heinz-harald-frentzen, jarno-trulli, giancarlo-fisichella, luciano-burti, jean-alesi, gaston-mazzacane, tarso-marques, jenson-button, fernando-alonso]
+- lap: 14
+  drivers: [david-coulthard, jos-verstappen, michael-schumacher, rubens-barrichello, mika-hakkinen, ralf-schumacher, heinz-harald-frentzen, jarno-trulli, giancarlo-fisichella, luciano-burti, jean-alesi, gaston-mazzacane, jenson-button, tarso-marques, fernando-alonso]
+- lap: 15
+  drivers: [david-coulthard, michael-schumacher, jos-verstappen, rubens-barrichello, mika-hakkinen, ralf-schumacher, heinz-harald-frentzen, jarno-trulli, giancarlo-fisichella, luciano-burti, jean-alesi, gaston-mazzacane, jenson-button, tarso-marques, fernando-alonso]
+- lap: 16
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, jos-verstappen, mika-hakkinen, ralf-schumacher, heinz-harald-frentzen, jarno-trulli, giancarlo-fisichella, luciano-burti, jean-alesi, gaston-mazzacane, jenson-button, tarso-marques, fernando-alonso]
+- lap: 17
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, jos-verstappen, mika-hakkinen, ralf-schumacher, heinz-harald-frentzen, jarno-trulli, giancarlo-fisichella, luciano-burti, jean-alesi, gaston-mazzacane, jenson-button, tarso-marques, fernando-alonso]
+- lap: 18
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, jos-verstappen, mika-hakkinen, heinz-harald-frentzen, jarno-trulli, ralf-schumacher, giancarlo-fisichella, luciano-burti, jean-alesi, gaston-mazzacane, jenson-button, tarso-marques, fernando-alonso]
+- lap: 19
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, jos-verstappen, heinz-harald-frentzen, jarno-trulli, giancarlo-fisichella, mika-hakkinen, luciano-burti, jean-alesi, ralf-schumacher, gaston-mazzacane, jenson-button, tarso-marques, fernando-alonso]
+- lap: 20
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, jos-verstappen, heinz-harald-frentzen, jarno-trulli, mika-hakkinen, giancarlo-fisichella, luciano-burti, ralf-schumacher, jean-alesi, gaston-mazzacane, jenson-button, tarso-marques, fernando-alonso]
+- lap: 21
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, jos-verstappen, jarno-trulli, heinz-harald-frentzen, mika-hakkinen, ralf-schumacher, luciano-burti, jean-alesi, gaston-mazzacane, jenson-button, tarso-marques, giancarlo-fisichella, fernando-alonso]
+- lap: 22
+  drivers: [michael-schumacher, david-coulthard, jos-verstappen, rubens-barrichello, jarno-trulli, mika-hakkinen, heinz-harald-frentzen, ralf-schumacher, luciano-burti, jean-alesi, gaston-mazzacane, giancarlo-fisichella, tarso-marques, jenson-button, fernando-alonso]
+- lap: 23
+  drivers: [michael-schumacher, david-coulthard, rubens-barrichello, jarno-trulli, jos-verstappen, mika-hakkinen, heinz-harald-frentzen, ralf-schumacher, luciano-burti, jean-alesi, gaston-mazzacane, giancarlo-fisichella, tarso-marques, jenson-button, fernando-alonso]
+- lap: 24
+  drivers: [michael-schumacher, david-coulthard, rubens-barrichello, jos-verstappen, mika-hakkinen, ralf-schumacher, heinz-harald-frentzen, jarno-trulli, giancarlo-fisichella, gaston-mazzacane, tarso-marques, jean-alesi, luciano-burti, fernando-alonso, jenson-button]
+- lap: 25
+  drivers: [michael-schumacher, david-coulthard, rubens-barrichello, jos-verstappen, mika-hakkinen, ralf-schumacher, heinz-harald-frentzen, jarno-trulli, giancarlo-fisichella, jean-alesi, luciano-burti, tarso-marques, fernando-alonso, gaston-mazzacane, jenson-button]
+- lap: 26
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, jos-verstappen, mika-hakkinen, ralf-schumacher, heinz-harald-frentzen, jarno-trulli, giancarlo-fisichella, jean-alesi, luciano-burti, fernando-alonso, tarso-marques, jenson-button, gaston-mazzacane]
+- lap: 27
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, jos-verstappen, mika-hakkinen, ralf-schumacher, heinz-harald-frentzen, jarno-trulli, giancarlo-fisichella, jean-alesi, luciano-burti, fernando-alonso, tarso-marques, jenson-button, gaston-mazzacane]
+- lap: 28
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, jos-verstappen, ralf-schumacher, mika-hakkinen, heinz-harald-frentzen, jarno-trulli, giancarlo-fisichella, jean-alesi, luciano-burti, fernando-alonso, jenson-button, gaston-mazzacane, tarso-marques]
+- lap: 29
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, jos-verstappen, ralf-schumacher, mika-hakkinen, heinz-harald-frentzen, jarno-trulli, giancarlo-fisichella, jean-alesi, luciano-burti, fernando-alonso, jenson-button, gaston-mazzacane, tarso-marques]
+- lap: 30
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, jos-verstappen, ralf-schumacher, mika-hakkinen, heinz-harald-frentzen, jarno-trulli, giancarlo-fisichella, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso, tarso-marques]
+- lap: 31
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, ralf-schumacher, jos-verstappen, mika-hakkinen, heinz-harald-frentzen, jarno-trulli, giancarlo-fisichella, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso, tarso-marques]
+- lap: 32
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, ralf-schumacher, jos-verstappen, mika-hakkinen, heinz-harald-frentzen, jarno-trulli, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso, tarso-marques]
+- lap: 33
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, ralf-schumacher, jos-verstappen, mika-hakkinen, heinz-harald-frentzen, jarno-trulli, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso, tarso-marques]
+- lap: 34
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, ralf-schumacher, jos-verstappen, mika-hakkinen, heinz-harald-frentzen, jarno-trulli, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso, tarso-marques]
+- lap: 35
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, ralf-schumacher, jos-verstappen, mika-hakkinen, heinz-harald-frentzen, jarno-trulli, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso, tarso-marques]
+- lap: 36
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, ralf-schumacher, jos-verstappen, mika-hakkinen, heinz-harald-frentzen, jarno-trulli, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso, tarso-marques]
+- lap: 37
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, ralf-schumacher, jos-verstappen, mika-hakkinen, heinz-harald-frentzen, jarno-trulli, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso, tarso-marques]
+- lap: 38
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, ralf-schumacher, jos-verstappen, heinz-harald-frentzen, mika-hakkinen, jarno-trulli, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso, tarso-marques]
+- lap: 39
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, jos-verstappen, heinz-harald-frentzen, mika-hakkinen, ralf-schumacher, jarno-trulli, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso, tarso-marques]
+- lap: 40
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, jos-verstappen, heinz-harald-frentzen, mika-hakkinen, ralf-schumacher, jarno-trulli, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso, tarso-marques]
+- lap: 41
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, jos-verstappen, heinz-harald-frentzen, ralf-schumacher, mika-hakkinen, jarno-trulli, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso, tarso-marques]
+- lap: 42
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, jos-verstappen, heinz-harald-frentzen, ralf-schumacher, mika-hakkinen, jarno-trulli, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso, tarso-marques]
+- lap: 43
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, heinz-harald-frentzen, jos-verstappen, ralf-schumacher, mika-hakkinen, jarno-trulli, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso, tarso-marques]
+- lap: 44
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, heinz-harald-frentzen, ralf-schumacher, mika-hakkinen, jos-verstappen, jarno-trulli, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso, tarso-marques]
+- lap: 45
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, heinz-harald-frentzen, ralf-schumacher, mika-hakkinen, jos-verstappen, jarno-trulli, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso, tarso-marques]
+- lap: 46
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, heinz-harald-frentzen, ralf-schumacher, mika-hakkinen, jos-verstappen, jarno-trulli, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso, tarso-marques]
+- lap: 47
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, heinz-harald-frentzen, ralf-schumacher, mika-hakkinen, jos-verstappen, jarno-trulli, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso, tarso-marques]
+- lap: 48
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, heinz-harald-frentzen, ralf-schumacher, mika-hakkinen, jos-verstappen, jarno-trulli, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso, tarso-marques]
+- lap: 49
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, heinz-harald-frentzen, ralf-schumacher, mika-hakkinen, jos-verstappen, jarno-trulli, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso, tarso-marques]
+- lap: 50
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, heinz-harald-frentzen, ralf-schumacher, mika-hakkinen, jos-verstappen, jarno-trulli, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso, tarso-marques]
+- lap: 51
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, heinz-harald-frentzen, ralf-schumacher, mika-hakkinen, jos-verstappen, jarno-trulli, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso, tarso-marques]
+- lap: 52
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, heinz-harald-frentzen, ralf-schumacher, mika-hakkinen, jos-verstappen, jarno-trulli, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane, fernando-alonso]
+- lap: 53
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, heinz-harald-frentzen, ralf-schumacher, mika-hakkinen, jos-verstappen, jarno-trulli, jean-alesi, luciano-burti, jenson-button, gaston-mazzacane]
+- lap: 54
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, heinz-harald-frentzen, ralf-schumacher, mika-hakkinen, jos-verstappen, jarno-trulli, jean-alesi, luciano-burti]
+- lap: 55
+  drivers: [michael-schumacher, rubens-barrichello, david-coulthard, heinz-harald-frentzen, ralf-schumacher, mika-hakkinen, jos-verstappen]

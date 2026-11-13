@@ -404,20 +404,6 @@
   reasonRetired:
   points:
   gridPosition:
-- position: DNQ
-  driverNumber: 39
-  driverId: volker-weidler
-  constructorId: rial
-  engineManufacturerId: ford
-  tyreManufacturerId: goodyear
-  laps:
-  time:
-  timePenalty:
-  gap:
-  interval:
-  reasonRetired:
-  points:
-  gridPosition:
 - position: DNPQ
   driverNumber: 41
   driverId: yannick-dalmas
@@ -542,5 +528,19 @@
   gap:
   interval:
   reasonRetired:
+  points:
+  gridPosition:
+- position: EX
+  driverNumber: 39
+  driverId: volker-weidler
+  constructorId: rial
+  engineManufacturerId: ford
+  tyreManufacturerId: goodyear
+  laps:
+  time:
+  timePenalty:
+  gap:
+  interval:
+  reasonRetired: Push start
   points:
   gridPosition:

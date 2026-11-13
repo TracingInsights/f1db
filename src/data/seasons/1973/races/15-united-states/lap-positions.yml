@@ -1,0 +1,120 @@
+- lap: 0
+  drivers: [ronnie-peterson, carlos-reutemann, emerson-fittipaldi, james-hunt, mike-hailwood, peter-revson, denny-hulme, carlos-pace, jody-scheckter, arturo-merzario, brian-redman, jean-pierre-beltoise, clay-regazzoni, jochen-mass, jean-pierre-jarier, graham-hill, howden-ganley, george-follmer, niki-lauda, jackie-oliver, jacky-ickx, john-watson, wilson-fittipaldi, mike-beuttler, rikky-von-opel]
+- lap: 1
+  drivers: [ronnie-peterson, carlos-reutemann, james-hunt, emerson-fittipaldi, mike-hailwood, denny-hulme, jody-scheckter, jean-pierre-beltoise, carlos-pace, jochen-mass, clay-regazzoni, arturo-merzario, howden-ganley, george-follmer, jean-pierre-jarier, john-watson, niki-lauda, mike-beuttler, jackie-oliver, graham-hill, wilson-fittipaldi, jacky-ickx, peter-revson, brian-redman]
+- lap: 2
+  drivers: [ronnie-peterson, carlos-reutemann, james-hunt, emerson-fittipaldi, mike-hailwood, denny-hulme, jody-scheckter, jean-pierre-beltoise, carlos-pace, jochen-mass, clay-regazzoni, arturo-merzario, howden-ganley, george-follmer, jean-pierre-jarier, niki-lauda, john-watson, jackie-oliver, mike-beuttler, graham-hill, jacky-ickx, peter-revson, wilson-fittipaldi, brian-redman]
+- lap: 3
+  drivers: [ronnie-peterson, carlos-reutemann, james-hunt, emerson-fittipaldi, mike-hailwood, denny-hulme, jody-scheckter, carlos-pace, jochen-mass, jean-pierre-beltoise, clay-regazzoni, arturo-merzario, howden-ganley, jean-pierre-jarier, george-follmer, niki-lauda, john-watson, jackie-oliver, mike-beuttler, graham-hill, peter-revson, jacky-ickx, wilson-fittipaldi, brian-redman]
+- lap: 4
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, mike-hailwood, jody-scheckter, emerson-fittipaldi, carlos-pace, jochen-mass, jean-pierre-beltoise, clay-regazzoni, arturo-merzario, howden-ganley, jean-pierre-jarier, niki-lauda, george-follmer, jackie-oliver, john-watson, mike-beuttler, peter-revson, graham-hill, jacky-ickx, wilson-fittipaldi, brian-redman]
+- lap: 5
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, mike-hailwood, emerson-fittipaldi, carlos-pace, jochen-mass, jean-pierre-beltoise, arturo-merzario, howden-ganley, jean-pierre-jarier, clay-regazzoni, niki-lauda, george-follmer, jackie-oliver, peter-revson, john-watson, mike-beuttler, graham-hill, jacky-ickx, wilson-fittipaldi, brian-redman]
+- lap: 6
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, mike-hailwood, emerson-fittipaldi, carlos-pace, jochen-mass, jean-pierre-beltoise, arturo-merzario, howden-ganley, jean-pierre-jarier, niki-lauda, clay-regazzoni, george-follmer, jackie-oliver, peter-revson, mike-beuttler, jacky-ickx, john-watson, graham-hill, wilson-fittipaldi]
+- lap: 7
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, mike-hailwood, emerson-fittipaldi, carlos-pace, jochen-mass, jean-pierre-beltoise, arturo-merzario, howden-ganley, jean-pierre-jarier, niki-lauda, george-follmer, jackie-oliver, peter-revson, clay-regazzoni, mike-beuttler, jacky-ickx, john-watson, graham-hill, wilson-fittipaldi]
+- lap: 8
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, mike-hailwood, carlos-pace, jochen-mass, jean-pierre-beltoise, arturo-merzario, howden-ganley, jean-pierre-jarier, niki-lauda, george-follmer, peter-revson, jackie-oliver, clay-regazzoni, mike-beuttler, jacky-ickx, graham-hill, wilson-fittipaldi]
+- lap: 9
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, mike-hailwood, carlos-pace, jochen-mass, jean-pierre-beltoise, arturo-merzario, howden-ganley, jean-pierre-jarier, niki-lauda, peter-revson, george-follmer, jackie-oliver, mike-beuttler, clay-regazzoni, jacky-ickx, graham-hill, wilson-fittipaldi]
+- lap: 10
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, mike-hailwood, carlos-pace, jochen-mass, jean-pierre-beltoise, arturo-merzario, jean-pierre-jarier, howden-ganley, niki-lauda, peter-revson, george-follmer, jackie-oliver, mike-beuttler, jacky-ickx, clay-regazzoni, graham-hill, wilson-fittipaldi]
+- lap: 11
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, mike-hailwood, carlos-pace, jochen-mass, jean-pierre-beltoise, arturo-merzario, jean-pierre-jarier, howden-ganley, niki-lauda, peter-revson, jackie-oliver, george-follmer, mike-beuttler, jacky-ickx, clay-regazzoni, graham-hill, wilson-fittipaldi]
+- lap: 12
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, mike-hailwood, carlos-pace, jochen-mass, jean-pierre-beltoise, arturo-merzario, jean-pierre-jarier, niki-lauda, peter-revson, howden-ganley, jackie-oliver, george-follmer, mike-beuttler, jacky-ickx, clay-regazzoni, graham-hill, wilson-fittipaldi]
+- lap: 13
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, mike-hailwood, carlos-pace, jochen-mass, jean-pierre-beltoise, arturo-merzario, jean-pierre-jarier, peter-revson, niki-lauda, jackie-oliver, george-follmer, mike-beuttler, jacky-ickx, clay-regazzoni, graham-hill, wilson-fittipaldi, howden-ganley]
+- lap: 14
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, mike-hailwood, carlos-pace, jochen-mass, jean-pierre-beltoise, arturo-merzario, jean-pierre-jarier, peter-revson, niki-lauda, jackie-oliver, mike-beuttler, jacky-ickx, george-follmer, clay-regazzoni, graham-hill, wilson-fittipaldi, howden-ganley]
+- lap: 15
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, mike-hailwood, carlos-pace, jochen-mass, arturo-merzario, jean-pierre-beltoise, jean-pierre-jarier, peter-revson, niki-lauda, jackie-oliver, mike-beuttler, jacky-ickx, clay-regazzoni, graham-hill, george-follmer, wilson-fittipaldi, howden-ganley]
+- lap: 16
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, mike-hailwood, carlos-pace, jochen-mass, arturo-merzario, jean-pierre-jarier, peter-revson, niki-lauda, jackie-oliver, mike-beuttler, jacky-ickx, clay-regazzoni, graham-hill, jean-pierre-beltoise, george-follmer, wilson-fittipaldi, howden-ganley]
+- lap: 17
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, mike-hailwood, carlos-pace, jochen-mass, arturo-merzario, jean-pierre-jarier, peter-revson, jackie-oliver, mike-beuttler, jacky-ickx, clay-regazzoni, graham-hill, jean-pierre-beltoise, george-follmer, niki-lauda, wilson-fittipaldi, howden-ganley]
+- lap: 18
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, mike-hailwood, carlos-pace, jochen-mass, arturo-merzario, peter-revson, jean-pierre-jarier, mike-beuttler, jackie-oliver, jacky-ickx, clay-regazzoni, graham-hill, jean-pierre-beltoise, george-follmer, howden-ganley, wilson-fittipaldi, niki-lauda]
+- lap: 19
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, carlos-pace, jochen-mass, arturo-merzario, peter-revson, jean-pierre-jarier, mike-beuttler, jackie-oliver, jacky-ickx, clay-regazzoni, graham-hill, jean-pierre-beltoise, george-follmer, mike-hailwood, howden-ganley, wilson-fittipaldi, niki-lauda]
+- lap: 20
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, carlos-pace, jochen-mass, arturo-merzario, peter-revson, jean-pierre-jarier, mike-beuttler, jacky-ickx, clay-regazzoni, jackie-oliver, graham-hill, jean-pierre-beltoise, george-follmer, howden-ganley, wilson-fittipaldi, mike-hailwood, niki-lauda]
+- lap: 21
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, carlos-pace, jochen-mass, arturo-merzario, peter-revson, jean-pierre-jarier, mike-beuttler, jacky-ickx, clay-regazzoni, jackie-oliver, graham-hill, jean-pierre-beltoise, george-follmer, howden-ganley, wilson-fittipaldi, mike-hailwood, niki-lauda]
+- lap: 22
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, carlos-pace, arturo-merzario, jochen-mass, peter-revson, jean-pierre-jarier, mike-beuttler, jacky-ickx, clay-regazzoni, jackie-oliver, jean-pierre-beltoise, graham-hill, george-follmer, howden-ganley, wilson-fittipaldi, mike-hailwood, niki-lauda]
+- lap: 23
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, carlos-pace, arturo-merzario, jochen-mass, peter-revson, jean-pierre-jarier, mike-beuttler, jacky-ickx, clay-regazzoni, jean-pierre-beltoise, jackie-oliver, graham-hill, george-follmer, howden-ganley, wilson-fittipaldi, mike-hailwood, niki-lauda]
+- lap: 24
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, carlos-pace, arturo-merzario, jochen-mass, peter-revson, jean-pierre-jarier, mike-beuttler, jacky-ickx, clay-regazzoni, jean-pierre-beltoise, jackie-oliver, graham-hill, george-follmer, howden-ganley, wilson-fittipaldi, mike-hailwood, niki-lauda]
+- lap: 25
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, carlos-pace, arturo-merzario, jochen-mass, peter-revson, jean-pierre-jarier, mike-beuttler, jacky-ickx, clay-regazzoni, jean-pierre-beltoise, jackie-oliver, graham-hill, george-follmer, howden-ganley, wilson-fittipaldi, mike-hailwood, niki-lauda]
+- lap: 26
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, carlos-pace, arturo-merzario, jochen-mass, peter-revson, jean-pierre-jarier, mike-beuttler, jacky-ickx, clay-regazzoni, jean-pierre-beltoise, jackie-oliver, graham-hill, george-follmer, howden-ganley, wilson-fittipaldi, mike-hailwood, niki-lauda]
+- lap: 27
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, carlos-pace, arturo-merzario, jochen-mass, peter-revson, jean-pierre-jarier, mike-beuttler, jacky-ickx, clay-regazzoni, jean-pierre-beltoise, jackie-oliver, graham-hill, george-follmer, howden-ganley, wilson-fittipaldi, mike-hailwood, niki-lauda]
+- lap: 28
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, carlos-pace, arturo-merzario, jochen-mass, peter-revson, jean-pierre-jarier, mike-beuttler, clay-regazzoni, jacky-ickx, jean-pierre-beltoise, graham-hill, jackie-oliver, george-follmer, howden-ganley, wilson-fittipaldi, mike-hailwood, niki-lauda]
+- lap: 29
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, carlos-pace, arturo-merzario, jochen-mass, peter-revson, jean-pierre-jarier, mike-beuttler, clay-regazzoni, jacky-ickx, jean-pierre-beltoise, graham-hill, jackie-oliver, george-follmer, howden-ganley, wilson-fittipaldi, mike-hailwood, niki-lauda]
+- lap: 30
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, carlos-pace, arturo-merzario, jochen-mass, peter-revson, jean-pierre-jarier, mike-beuttler, jacky-ickx, clay-regazzoni, jean-pierre-beltoise, graham-hill, jackie-oliver, george-follmer, howden-ganley, wilson-fittipaldi, mike-hailwood, niki-lauda]
+- lap: 31
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, carlos-pace, arturo-merzario, jochen-mass, peter-revson, jean-pierre-jarier, mike-beuttler, clay-regazzoni, jacky-ickx, jean-pierre-beltoise, graham-hill, george-follmer, howden-ganley, jackie-oliver, wilson-fittipaldi, mike-hailwood, niki-lauda]
+- lap: 32
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, carlos-pace, arturo-merzario, peter-revson, jochen-mass, jean-pierre-jarier, mike-beuttler, clay-regazzoni, jacky-ickx, jean-pierre-beltoise, graham-hill, george-follmer, howden-ganley, jackie-oliver, wilson-fittipaldi, mike-hailwood, niki-lauda]
+- lap: 33
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, arturo-merzario, peter-revson, jochen-mass, jean-pierre-jarier, mike-beuttler, clay-regazzoni, jacky-ickx, jean-pierre-beltoise, graham-hill, george-follmer, howden-ganley, jackie-oliver, wilson-fittipaldi, mike-hailwood, niki-lauda]
+- lap: 34
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, peter-revson, jochen-mass, arturo-merzario, jean-pierre-jarier, mike-beuttler, jean-pierre-beltoise, jacky-ickx, clay-regazzoni, graham-hill, george-follmer, howden-ganley, jackie-oliver, wilson-fittipaldi, mike-hailwood, niki-lauda]
+- lap: 35
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, peter-revson, jochen-mass, jean-pierre-jarier, arturo-merzario, mike-beuttler, jean-pierre-beltoise, jacky-ickx, clay-regazzoni, george-follmer, howden-ganley, graham-hill, jackie-oliver, wilson-fittipaldi, niki-lauda]
+- lap: 36
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, peter-revson, jean-pierre-jarier, arturo-merzario, mike-beuttler, jean-pierre-beltoise, jacky-ickx, clay-regazzoni, george-follmer, howden-ganley, graham-hill, jackie-oliver, wilson-fittipaldi]
+- lap: 37
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, peter-revson, jean-pierre-jarier, mike-beuttler, jean-pierre-beltoise, jacky-ickx, clay-regazzoni, arturo-merzario, george-follmer, howden-ganley, graham-hill, jackie-oliver, wilson-fittipaldi]
+- lap: 38
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, peter-revson, jean-pierre-jarier, mike-beuttler, jean-pierre-beltoise, jacky-ickx, clay-regazzoni, george-follmer, howden-ganley, graham-hill, arturo-merzario, jackie-oliver, wilson-fittipaldi]
+- lap: 39
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, jody-scheckter, emerson-fittipaldi, peter-revson, jean-pierre-jarier, mike-beuttler, jacky-ickx, jean-pierre-beltoise, clay-regazzoni, howden-ganley, george-follmer, graham-hill, arturo-merzario, jackie-oliver, wilson-fittipaldi]
+- lap: 40
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, emerson-fittipaldi, peter-revson, jean-pierre-jarier, mike-beuttler, jacky-ickx, jean-pierre-beltoise, clay-regazzoni, howden-ganley, george-follmer, graham-hill, arturo-merzario, jackie-oliver, wilson-fittipaldi]
+- lap: 41
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, peter-revson, emerson-fittipaldi, jean-pierre-jarier, jacky-ickx, mike-beuttler, jean-pierre-beltoise, clay-regazzoni, howden-ganley, george-follmer, graham-hill, arturo-merzario, jackie-oliver, wilson-fittipaldi]
+- lap: 42
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, peter-revson, emerson-fittipaldi, jean-pierre-jarier, jacky-ickx, mike-beuttler, jean-pierre-beltoise, clay-regazzoni, howden-ganley, george-follmer, graham-hill, arturo-merzario, jackie-oliver, wilson-fittipaldi]
+- lap: 43
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, peter-revson, emerson-fittipaldi, jean-pierre-jarier, jacky-ickx, mike-beuttler, jean-pierre-beltoise, clay-regazzoni, howden-ganley, george-follmer, graham-hill, arturo-merzario, jackie-oliver, wilson-fittipaldi]
+- lap: 44
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, peter-revson, emerson-fittipaldi, jean-pierre-jarier, jacky-ickx, mike-beuttler, jean-pierre-beltoise, clay-regazzoni, howden-ganley, graham-hill, george-follmer, arturo-merzario, jackie-oliver, wilson-fittipaldi]
+- lap: 45
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, peter-revson, emerson-fittipaldi, jean-pierre-jarier, jacky-ickx, mike-beuttler, jean-pierre-beltoise, clay-regazzoni, howden-ganley, graham-hill, george-follmer, arturo-merzario, jackie-oliver, wilson-fittipaldi]
+- lap: 46
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, peter-revson, emerson-fittipaldi, jean-pierre-jarier, jacky-ickx, mike-beuttler, jean-pierre-beltoise, clay-regazzoni, howden-ganley, graham-hill, george-follmer, arturo-merzario, jackie-oliver, wilson-fittipaldi]
+- lap: 47
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, peter-revson, emerson-fittipaldi, jean-pierre-jarier, jacky-ickx, mike-beuttler, jean-pierre-beltoise, clay-regazzoni, howden-ganley, graham-hill, george-follmer, arturo-merzario, jackie-oliver, wilson-fittipaldi]
+- lap: 48
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, peter-revson, emerson-fittipaldi, jean-pierre-jarier, jacky-ickx, mike-beuttler, jean-pierre-beltoise, clay-regazzoni, howden-ganley, graham-hill, george-follmer, arturo-merzario, jackie-oliver, wilson-fittipaldi]
+- lap: 49
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, peter-revson, emerson-fittipaldi, jean-pierre-jarier, jacky-ickx, mike-beuttler, clay-regazzoni, jean-pierre-beltoise, howden-ganley, graham-hill, george-follmer, jackie-oliver, arturo-merzario, wilson-fittipaldi]
+- lap: 50
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, peter-revson, emerson-fittipaldi, jean-pierre-jarier, jacky-ickx, mike-beuttler, clay-regazzoni, jean-pierre-beltoise, howden-ganley, graham-hill, george-follmer, jackie-oliver, arturo-merzario, wilson-fittipaldi]
+- lap: 51
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, peter-revson, emerson-fittipaldi, jean-pierre-jarier, jacky-ickx, mike-beuttler, clay-regazzoni, jean-pierre-beltoise, howden-ganley, graham-hill, george-follmer, jackie-oliver, arturo-merzario, wilson-fittipaldi]
+- lap: 52
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, peter-revson, emerson-fittipaldi, jean-pierre-jarier, jacky-ickx, mike-beuttler, jean-pierre-beltoise, clay-regazzoni, howden-ganley, graham-hill, george-follmer, jackie-oliver, arturo-merzario, wilson-fittipaldi]
+- lap: 53
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, peter-revson, emerson-fittipaldi, jean-pierre-jarier, jacky-ickx, mike-beuttler, jean-pierre-beltoise, clay-regazzoni, howden-ganley, graham-hill, george-follmer, jackie-oliver, arturo-merzario]
+- lap: 54
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, peter-revson, emerson-fittipaldi, jean-pierre-jarier, jacky-ickx, jean-pierre-beltoise, clay-regazzoni, mike-beuttler, howden-ganley, graham-hill, george-follmer, jackie-oliver, arturo-merzario]
+- lap: 55
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, peter-revson, emerson-fittipaldi, jean-pierre-jarier, jacky-ickx, jean-pierre-beltoise, clay-regazzoni, mike-beuttler, howden-ganley, graham-hill, george-follmer, jackie-oliver, arturo-merzario]
+- lap: 56
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, peter-revson, emerson-fittipaldi, jean-pierre-jarier, jacky-ickx, jean-pierre-beltoise, clay-regazzoni, mike-beuttler, howden-ganley, graham-hill, george-follmer]
+- lap: 57
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, peter-revson, emerson-fittipaldi, jean-pierre-jarier, jacky-ickx, jean-pierre-beltoise, clay-regazzoni, mike-beuttler, howden-ganley, graham-hill, george-follmer]
+- lap: 58
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, peter-revson, emerson-fittipaldi, jacky-ickx, clay-regazzoni, jean-pierre-beltoise, mike-beuttler]
+- lap: 59
+  drivers: [ronnie-peterson, james-hunt, carlos-reutemann, denny-hulme, peter-revson, emerson-fittipaldi]

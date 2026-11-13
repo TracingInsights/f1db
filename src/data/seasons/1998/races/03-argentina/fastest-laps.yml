@@ -24,7 +24,7 @@
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: goodyear
-  lap: 23
+  lap: 53
   time: "1:28.272"
   gap: "+0.093"
   interval: "+0.011"
@@ -34,7 +34,7 @@
   constructorId: mclaren
   engineManufacturerId: mercedes
   tyreManufacturerId: bridgestone
-  lap: 57
+  lap: 58
   time: "1:28.468"
   gap: "+0.289"
   interval: "+0.196"
@@ -44,7 +44,7 @@
   constructorId: benetton
   engineManufacturerId: playlife
   tyreManufacturerId: bridgestone
-  lap: 69
+  lap: 70
   time: "1:28.507"
   gap: "+0.328"
   interval: "+0.039"
@@ -64,7 +64,7 @@
   constructorId: sauber
   engineManufacturerId: petronas
   tyreManufacturerId: goodyear
-  lap: 44
+  lap: 45
   time: "1:29.000"
   gap: "+0.821"
   interval: "+0.067"
@@ -74,7 +74,7 @@
   constructorId: prost
   engineManufacturerId: peugeot
   tyreManufacturerId: bridgestone
-  lap: 57
+  lap: 58
   time: "1:29.201"
   gap: "+1.022"
   interval: "+0.201"
@@ -84,7 +84,7 @@
   constructorId: jordan
   engineManufacturerId: mugen-honda
   tyreManufacturerId: goodyear
-  lap: 46
+  lap: 48
   time: "1:29.310"
   gap: "+1.131"
   interval: "+0.109"
@@ -154,7 +154,7 @@
   constructorId: tyrrell
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
-  lap: 41
+  lap: 42
   time: "1:31.057"
   gap: "+2.878"
   interval: "+0.065"
@@ -204,7 +204,7 @@
   constructorId: tyrrell
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
-  lap: 42
+  lap: 43
   time: "1:33.091"
   gap: "+4.912"
   interval: "+0.283"

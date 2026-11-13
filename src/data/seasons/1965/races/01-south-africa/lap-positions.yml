@@ -1,0 +1,172 @@
+- lap: 0
+  drivers: [jim-clark, john-surtees, jack-brabham, mike-spence, graham-hill, lorenzo-bandini, jo-bonnier, bruce-mclaren, dan-gurney, jochen-rindt, jackie-stewart, bob-anderson, tony-maggs, jo-siffert, frank-gardner, paul-hawkins, peter-de-klerk, john-love, david-prophet, sam-tingle]
+- lap: 1
+  drivers: [jim-clark, mike-spence, jack-brabham, bruce-mclaren, john-surtees, graham-hill, jo-bonnier, lorenzo-bandini, jackie-stewart, bob-anderson, jo-siffert, jochen-rindt, dan-gurney, frank-gardner, paul-hawkins, john-love, peter-de-klerk, tony-maggs, david-prophet, sam-tingle]
+- lap: 2
+  drivers: [jim-clark, mike-spence, jack-brabham, bruce-mclaren, john-surtees, graham-hill, jo-bonnier, lorenzo-bandini, jackie-stewart, jochen-rindt, tony-maggs, dan-gurney, jo-siffert, frank-gardner, paul-hawkins, john-love, david-prophet, peter-de-klerk, sam-tingle, bob-anderson]
+- lap: 3
+  drivers: [jim-clark, mike-spence, jack-brabham, john-surtees, graham-hill, bruce-mclaren, jo-bonnier, lorenzo-bandini, jackie-stewart, tony-maggs, dan-gurney, jochen-rindt, frank-gardner, jo-siffert, paul-hawkins, john-love, david-prophet, peter-de-klerk, sam-tingle, bob-anderson]
+- lap: 4
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, jo-bonnier, lorenzo-bandini, jackie-stewart, tony-maggs, dan-gurney, jochen-rindt, frank-gardner, jo-siffert, paul-hawkins, david-prophet, john-love, peter-de-klerk, sam-tingle, bob-anderson]
+- lap: 5
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, jo-bonnier, lorenzo-bandini, jackie-stewart, tony-maggs, frank-gardner, jochen-rindt, jo-siffert, paul-hawkins, david-prophet, john-love, peter-de-klerk, sam-tingle, bob-anderson, dan-gurney]
+- lap: 6
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jo-bonnier, jackie-stewart, tony-maggs, frank-gardner, jo-siffert, jochen-rindt, paul-hawkins, david-prophet, john-love, peter-de-klerk, sam-tingle, bob-anderson, dan-gurney]
+- lap: 7
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, tony-maggs, frank-gardner, jo-siffert, jochen-rindt, paul-hawkins, jo-bonnier, david-prophet, john-love, peter-de-klerk, sam-tingle, bob-anderson, dan-gurney]
+- lap: 8
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, tony-maggs, frank-gardner, jo-siffert, jochen-rindt, paul-hawkins, jo-bonnier, david-prophet, john-love, peter-de-klerk, sam-tingle, bob-anderson, dan-gurney]
+- lap: 9
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, tony-maggs, jo-siffert, frank-gardner, jochen-rindt, paul-hawkins, david-prophet, john-love, peter-de-klerk, sam-tingle, jo-bonnier, bob-anderson, dan-gurney]
+- lap: 10
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, tony-maggs, jo-siffert, frank-gardner, paul-hawkins, jochen-rindt, david-prophet, john-love, peter-de-klerk, sam-tingle, jo-bonnier, bob-anderson, dan-gurney]
+- lap: 11
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, tony-maggs, jo-siffert, frank-gardner, paul-hawkins, jochen-rindt, david-prophet, john-love, peter-de-klerk, sam-tingle, jo-bonnier, bob-anderson, dan-gurney]
+- lap: 12
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, tony-maggs, jo-siffert, frank-gardner, paul-hawkins, jochen-rindt, david-prophet, john-love, peter-de-klerk, jo-bonnier, sam-tingle, bob-anderson]
+- lap: 13
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, tony-maggs, jo-siffert, frank-gardner, paul-hawkins, jochen-rindt, john-love, peter-de-klerk, david-prophet, jo-bonnier, sam-tingle, bob-anderson]
+- lap: 14
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, tony-maggs, jo-siffert, frank-gardner, paul-hawkins, jochen-rindt, john-love, peter-de-klerk, david-prophet, jo-bonnier, sam-tingle, bob-anderson]
+- lap: 15
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, tony-maggs, jo-siffert, frank-gardner, paul-hawkins, jochen-rindt, john-love, peter-de-klerk, david-prophet, jo-bonnier, sam-tingle, bob-anderson]
+- lap: 16
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, tony-maggs, jo-siffert, frank-gardner, paul-hawkins, jochen-rindt, john-love, peter-de-klerk, david-prophet, jo-bonnier, sam-tingle, bob-anderson]
+- lap: 17
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, tony-maggs, jo-siffert, frank-gardner, paul-hawkins, jochen-rindt, john-love, peter-de-klerk, david-prophet, jo-bonnier, sam-tingle, bob-anderson]
+- lap: 18
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, tony-maggs, jo-siffert, frank-gardner, paul-hawkins, john-love, peter-de-klerk, david-prophet, jo-bonnier, jochen-rindt, sam-tingle, bob-anderson]
+- lap: 19
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, tony-maggs, jo-siffert, frank-gardner, paul-hawkins, john-love, peter-de-klerk, david-prophet, jo-bonnier, sam-tingle, jochen-rindt, bob-anderson]
+- lap: 20
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, tony-maggs, jo-siffert, frank-gardner, paul-hawkins, john-love, peter-de-klerk, david-prophet, jo-bonnier, sam-tingle, jochen-rindt, bob-anderson]
+- lap: 21
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, peter-de-klerk, david-prophet, jo-bonnier, sam-tingle, jochen-rindt, bob-anderson]
+- lap: 22
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, jo-bonnier, sam-tingle, jochen-rindt, bob-anderson]
+- lap: 23
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, jo-bonnier, sam-tingle, jochen-rindt, bob-anderson]
+- lap: 24
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, jo-bonnier, sam-tingle, jochen-rindt, bob-anderson]
+- lap: 25
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, jo-bonnier, sam-tingle, jochen-rindt, bob-anderson]
+- lap: 26
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, jo-bonnier, sam-tingle, jochen-rindt, bob-anderson]
+- lap: 27
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, jo-bonnier, sam-tingle, jochen-rindt, bob-anderson]
+- lap: 28
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, jo-bonnier, sam-tingle, jochen-rindt, bob-anderson]
+- lap: 29
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, jo-bonnier, sam-tingle, jochen-rindt, bob-anderson]
+- lap: 30
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, jo-bonnier, sam-tingle, jochen-rindt, bob-anderson]
+- lap: 31
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, jo-bonnier, sam-tingle, jochen-rindt, bob-anderson]
+- lap: 32
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, jo-bonnier, sam-tingle, jochen-rindt, bob-anderson]
+- lap: 33
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, lorenzo-bandini, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, jo-bonnier, sam-tingle, jochen-rindt, bob-anderson]
+- lap: 34
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, lorenzo-bandini, sam-tingle, jo-bonnier, jochen-rindt, bob-anderson]
+- lap: 35
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, lorenzo-bandini, sam-tingle, jo-bonnier, jochen-rindt, bob-anderson]
+- lap: 36
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, lorenzo-bandini, sam-tingle, jo-bonnier, jochen-rindt, bob-anderson]
+- lap: 37
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, lorenzo-bandini, sam-tingle, jo-bonnier, jochen-rindt, bob-anderson]
+- lap: 38
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, lorenzo-bandini, sam-tingle, jo-bonnier, jochen-rindt, bob-anderson]
+- lap: 39
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, lorenzo-bandini, sam-tingle, jo-bonnier, jochen-rindt, bob-anderson]
+- lap: 40
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, lorenzo-bandini, sam-tingle, jo-bonnier, bob-anderson]
+- lap: 41
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, lorenzo-bandini, sam-tingle, jo-bonnier, bob-anderson]
+- lap: 42
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, lorenzo-bandini, sam-tingle, jo-bonnier, bob-anderson]
+- lap: 43
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, lorenzo-bandini, sam-tingle, bob-anderson]
+- lap: 44
+  drivers: [jim-clark, mike-spence, john-surtees, jack-brabham, graham-hill, bruce-mclaren, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, lorenzo-bandini, sam-tingle, bob-anderson]
+- lap: 45
+  drivers: [jim-clark, mike-spence, john-surtees, graham-hill, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, lorenzo-bandini, sam-tingle, bob-anderson]
+- lap: 46
+  drivers: [jim-clark, mike-spence, john-surtees, graham-hill, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, lorenzo-bandini, sam-tingle, bob-anderson]
+- lap: 47
+  drivers: [jim-clark, mike-spence, john-surtees, graham-hill, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, lorenzo-bandini, sam-tingle, bob-anderson]
+- lap: 48
+  drivers: [jim-clark, mike-spence, john-surtees, graham-hill, bruce-mclaren, jack-brabham, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, lorenzo-bandini, sam-tingle, bob-anderson]
+- lap: 49
+  drivers: [jim-clark, mike-spence, john-surtees, graham-hill, bruce-mclaren, jack-brabham, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, lorenzo-bandini, sam-tingle, bob-anderson]
+- lap: 50
+  drivers: [jim-clark, mike-spence, john-surtees, graham-hill, bruce-mclaren, jack-brabham, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, lorenzo-bandini, sam-tingle, bob-anderson]
+- lap: 51
+  drivers: [jim-clark, mike-spence, john-surtees, graham-hill, bruce-mclaren, jack-brabham, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, lorenzo-bandini, sam-tingle]
+- lap: 52
+  drivers: [jim-clark, mike-spence, john-surtees, graham-hill, bruce-mclaren, jack-brabham, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, lorenzo-bandini, sam-tingle]
+- lap: 53
+  drivers: [jim-clark, mike-spence, john-surtees, graham-hill, bruce-mclaren, jack-brabham, jackie-stewart, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, lorenzo-bandini, sam-tingle]
+- lap: 54
+  drivers: [jim-clark, mike-spence, john-surtees, graham-hill, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, tony-maggs, frank-gardner, paul-hawkins, david-prophet, peter-de-klerk, lorenzo-bandini, sam-tingle]
+- lap: 55
+  drivers: [jim-clark, mike-spence, john-surtees, graham-hill, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, frank-gardner, paul-hawkins, peter-de-klerk, lorenzo-bandini, david-prophet, tony-maggs, sam-tingle]
+- lap: 56
+  drivers: [jim-clark, mike-spence, john-surtees, graham-hill, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, frank-gardner, paul-hawkins, peter-de-klerk, lorenzo-bandini, david-prophet, tony-maggs, sam-tingle]
+- lap: 57
+  drivers: [jim-clark, mike-spence, john-surtees, graham-hill, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, frank-gardner, paul-hawkins, peter-de-klerk, lorenzo-bandini, david-prophet, tony-maggs, sam-tingle]
+- lap: 58
+  drivers: [jim-clark, mike-spence, john-surtees, graham-hill, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, frank-gardner, paul-hawkins, peter-de-klerk, lorenzo-bandini, david-prophet, tony-maggs, sam-tingle]
+- lap: 59
+  drivers: [jim-clark, mike-spence, john-surtees, graham-hill, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, frank-gardner, paul-hawkins, peter-de-klerk, lorenzo-bandini, david-prophet, tony-maggs, sam-tingle]
+- lap: 60
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, paul-hawkins, peter-de-klerk, lorenzo-bandini, david-prophet, tony-maggs, frank-gardner, sam-tingle]
+- lap: 61
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, paul-hawkins, peter-de-klerk, lorenzo-bandini, david-prophet, tony-maggs, frank-gardner, sam-tingle]
+- lap: 62
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, paul-hawkins, peter-de-klerk, lorenzo-bandini, david-prophet, tony-maggs, frank-gardner, sam-tingle]
+- lap: 63
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, paul-hawkins, peter-de-klerk, lorenzo-bandini, david-prophet, tony-maggs, frank-gardner, sam-tingle]
+- lap: 64
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, paul-hawkins, peter-de-klerk, lorenzo-bandini, david-prophet, tony-maggs, frank-gardner, sam-tingle]
+- lap: 65
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, paul-hawkins, peter-de-klerk, lorenzo-bandini, david-prophet, tony-maggs, frank-gardner, sam-tingle]
+- lap: 66
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, paul-hawkins, peter-de-klerk, lorenzo-bandini, david-prophet, tony-maggs, frank-gardner, sam-tingle]
+- lap: 67
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, paul-hawkins, peter-de-klerk, david-prophet, tony-maggs, frank-gardner, sam-tingle]
+- lap: 68
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, paul-hawkins, peter-de-klerk, david-prophet, tony-maggs, frank-gardner, sam-tingle]
+- lap: 69
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, paul-hawkins, peter-de-klerk, david-prophet, tony-maggs, frank-gardner, sam-tingle]
+- lap: 70
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, paul-hawkins, peter-de-klerk, david-prophet, tony-maggs, frank-gardner, sam-tingle]
+- lap: 71
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, paul-hawkins, peter-de-klerk, david-prophet, tony-maggs, frank-gardner, sam-tingle]
+- lap: 72
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, paul-hawkins, peter-de-klerk, tony-maggs, frank-gardner, sam-tingle]
+- lap: 73
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, paul-hawkins, peter-de-klerk, tony-maggs, frank-gardner, sam-tingle]
+- lap: 74
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, paul-hawkins, peter-de-klerk, tony-maggs, frank-gardner]
+- lap: 75
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, paul-hawkins, peter-de-klerk, tony-maggs, frank-gardner]
+- lap: 76
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, paul-hawkins, peter-de-klerk, tony-maggs]
+- lap: 77
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, paul-hawkins, peter-de-klerk, tony-maggs]
+- lap: 78
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, paul-hawkins, peter-de-klerk]
+- lap: 79
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, paul-hawkins, peter-de-klerk]
+- lap: 80
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jack-brabham, jo-siffert, paul-hawkins]
+- lap: 81
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jo-siffert, jack-brabham, paul-hawkins]
+- lap: 82
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jo-siffert]
+- lap: 83
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren, jackie-stewart, jo-siffert]
+- lap: 84
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence, bruce-mclaren]
+- lap: 85
+  drivers: [jim-clark, john-surtees, graham-hill, mike-spence]

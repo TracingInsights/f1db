@@ -175,9 +175,11 @@
   chassis:
     - chassisId: ferrari-158
     - chassisId: ferrari-1512
+    - chassisId: ferrari-156-aero
   engines:
     - engineId: ferrari-205b-15-v8
     - engineId: ferrari-207-15-f12
+    - engineId: ferrari-178-15-v6
   tyreManufacturerId: dunlop
   drivers:
     - driverId: john-surtees

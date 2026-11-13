@@ -1,0 +1,90 @@
+- lap: 0
+  drivers: [mika-hakkinen, jarno-trulli, jenson-button, michael-schumacher, david-coulthard, ralf-schumacher, jacques-villeneuve, heinz-harald-frentzen, johnny-herbert, rubens-barrichello, giancarlo-fisichella, eddie-irvine, ricardo-zonta, nick-heidfeld, pedro-diniz, pedro-de-la-rosa, jean-alesi, mika-salo, alexander-wurz, jos-verstappen, marc-gene, gaston-mazzacane]
+- lap: 1
+  drivers: [mika-hakkinen, jarno-trulli, jenson-button, michael-schumacher, david-coulthard, ralf-schumacher, jacques-villeneuve, heinz-harald-frentzen, johnny-herbert, rubens-barrichello, giancarlo-fisichella, eddie-irvine, ricardo-zonta, nick-heidfeld, pedro-de-la-rosa, pedro-diniz, jean-alesi, mika-salo, alexander-wurz, jos-verstappen, marc-gene, gaston-mazzacane]
+- lap: 2
+  drivers: [mika-hakkinen, jarno-trulli, jenson-button, michael-schumacher, david-coulthard, ralf-schumacher, jacques-villeneuve, heinz-harald-frentzen, rubens-barrichello, johnny-herbert, giancarlo-fisichella, eddie-irvine, ricardo-zonta, nick-heidfeld, pedro-de-la-rosa, jean-alesi, mika-salo, jos-verstappen, alexander-wurz, marc-gene, gaston-mazzacane, pedro-diniz]
+- lap: 3
+  drivers: [mika-hakkinen, jarno-trulli, jenson-button, michael-schumacher, david-coulthard, ralf-schumacher, jacques-villeneuve, heinz-harald-frentzen, rubens-barrichello, johnny-herbert, giancarlo-fisichella, eddie-irvine, ricardo-zonta, nick-heidfeld, jean-alesi, mika-salo, pedro-de-la-rosa, jos-verstappen, alexander-wurz, marc-gene, gaston-mazzacane, pedro-diniz]
+- lap: 4
+  drivers: [mika-hakkinen, jarno-trulli, michael-schumacher, jenson-button, david-coulthard, ralf-schumacher, jacques-villeneuve, heinz-harald-frentzen, rubens-barrichello, johnny-herbert, giancarlo-fisichella, eddie-irvine, ricardo-zonta, nick-heidfeld, mika-salo, jean-alesi, pedro-de-la-rosa, jos-verstappen, alexander-wurz, marc-gene, gaston-mazzacane, pedro-diniz]
+- lap: 5
+  drivers: [mika-hakkinen, michael-schumacher, david-coulthard, ralf-schumacher, jenson-button, jacques-villeneuve, heinz-harald-frentzen, rubens-barrichello, johnny-herbert, giancarlo-fisichella, eddie-irvine, ricardo-zonta, mika-salo, nick-heidfeld, pedro-de-la-rosa, alexander-wurz, jean-alesi, pedro-diniz, jos-verstappen, marc-gene, gaston-mazzacane]
+- lap: 6
+  drivers: [mika-hakkinen, michael-schumacher, david-coulthard, jenson-button, ralf-schumacher, eddie-irvine, jacques-villeneuve, heinz-harald-frentzen, rubens-barrichello, mika-salo, johnny-herbert, giancarlo-fisichella, ricardo-zonta, jean-alesi, pedro-de-la-rosa, pedro-diniz, alexander-wurz, gaston-mazzacane, marc-gene, jos-verstappen, nick-heidfeld]
+- lap: 7
+  drivers: [mika-hakkinen, david-coulthard, jenson-button, michael-schumacher, eddie-irvine, ralf-schumacher, mika-salo, jean-alesi, jacques-villeneuve, heinz-harald-frentzen, rubens-barrichello, pedro-diniz, johnny-herbert, ricardo-zonta, marc-gene, giancarlo-fisichella, jos-verstappen, pedro-de-la-rosa, nick-heidfeld, gaston-mazzacane, alexander-wurz]
+- lap: 8
+  drivers: [mika-hakkinen, michael-schumacher, david-coulthard, ralf-schumacher, jean-alesi, jenson-button, jacques-villeneuve, heinz-harald-frentzen, rubens-barrichello, pedro-diniz, johnny-herbert, eddie-irvine, ricardo-zonta, mika-salo, marc-gene, giancarlo-fisichella, jos-verstappen, pedro-de-la-rosa, nick-heidfeld, alexander-wurz, gaston-mazzacane]
+- lap: 9
+  drivers: [mika-hakkinen, michael-schumacher, ralf-schumacher, jean-alesi, jenson-button, jacques-villeneuve, rubens-barrichello, heinz-harald-frentzen, david-coulthard, pedro-diniz, johnny-herbert, eddie-irvine, ricardo-zonta, mika-salo, marc-gene, jos-verstappen, pedro-de-la-rosa, nick-heidfeld, alexander-wurz, gaston-mazzacane]
+- lap: 10
+  drivers: [mika-hakkinen, michael-schumacher, ralf-schumacher, jean-alesi, jenson-button, jacques-villeneuve, rubens-barrichello, heinz-harald-frentzen, david-coulthard, pedro-diniz, johnny-herbert, eddie-irvine, ricardo-zonta, mika-salo, marc-gene, pedro-de-la-rosa, nick-heidfeld, jos-verstappen, alexander-wurz, gaston-mazzacane]
+- lap: 11
+  drivers: [mika-hakkinen, michael-schumacher, ralf-schumacher, jean-alesi, jenson-button, jacques-villeneuve, rubens-barrichello, heinz-harald-frentzen, david-coulthard, pedro-diniz, johnny-herbert, eddie-irvine, ricardo-zonta, mika-salo, marc-gene, pedro-de-la-rosa, nick-heidfeld, jos-verstappen, alexander-wurz, gaston-mazzacane]
+- lap: 12
+  drivers: [mika-hakkinen, michael-schumacher, ralf-schumacher, jean-alesi, jenson-button, jacques-villeneuve, rubens-barrichello, heinz-harald-frentzen, david-coulthard, pedro-diniz, johnny-herbert, eddie-irvine, ricardo-zonta, mika-salo, marc-gene, pedro-de-la-rosa, nick-heidfeld, alexander-wurz, jos-verstappen, gaston-mazzacane]
+- lap: 13
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, jean-alesi, jenson-button, jacques-villeneuve, rubens-barrichello, heinz-harald-frentzen, david-coulthard, pedro-diniz, johnny-herbert, eddie-irvine, mika-salo, ricardo-zonta, marc-gene, pedro-de-la-rosa, alexander-wurz, jos-verstappen, gaston-mazzacane]
+- lap: 14
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, jean-alesi, jenson-button, jacques-villeneuve, rubens-barrichello, heinz-harald-frentzen, david-coulthard, pedro-diniz, johnny-herbert, eddie-irvine, mika-salo, ricardo-zonta, marc-gene, alexander-wurz, pedro-de-la-rosa, jos-verstappen, gaston-mazzacane]
+- lap: 15
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, jean-alesi, jenson-button, jacques-villeneuve, rubens-barrichello, heinz-harald-frentzen, david-coulthard, pedro-diniz, johnny-herbert, eddie-irvine, mika-salo, ricardo-zonta, marc-gene, alexander-wurz, pedro-de-la-rosa, jos-verstappen, gaston-mazzacane]
+- lap: 16
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, jean-alesi, jenson-button, jacques-villeneuve, rubens-barrichello, heinz-harald-frentzen, david-coulthard, pedro-diniz, johnny-herbert, eddie-irvine, mika-salo, ricardo-zonta, marc-gene, alexander-wurz, pedro-de-la-rosa, jos-verstappen, gaston-mazzacane]
+- lap: 17
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, jean-alesi, jenson-button, jacques-villeneuve, rubens-barrichello, heinz-harald-frentzen, david-coulthard, pedro-diniz, johnny-herbert, eddie-irvine, mika-salo, ricardo-zonta, marc-gene, alexander-wurz, pedro-de-la-rosa, jos-verstappen, gaston-mazzacane]
+- lap: 18
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, jean-alesi, jenson-button, jacques-villeneuve, rubens-barrichello, heinz-harald-frentzen, david-coulthard, pedro-diniz, johnny-herbert, eddie-irvine, mika-salo, ricardo-zonta, marc-gene, alexander-wurz, pedro-de-la-rosa, jos-verstappen, gaston-mazzacane]
+- lap: 19
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, jenson-button, jacques-villeneuve, rubens-barrichello, heinz-harald-frentzen, david-coulthard, pedro-diniz, jean-alesi, johnny-herbert, mika-salo, eddie-irvine, ricardo-zonta, marc-gene, alexander-wurz, pedro-de-la-rosa, jos-verstappen, gaston-mazzacane]
+- lap: 20
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, jenson-button, jacques-villeneuve, heinz-harald-frentzen, david-coulthard, rubens-barrichello, pedro-diniz, jean-alesi, johnny-herbert, mika-salo, eddie-irvine, ricardo-zonta, marc-gene, alexander-wurz, pedro-de-la-rosa, jos-verstappen, gaston-mazzacane]
+- lap: 21
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, jenson-button, jacques-villeneuve, heinz-harald-frentzen, david-coulthard, jean-alesi, pedro-diniz, johnny-herbert, rubens-barrichello, mika-salo, eddie-irvine, ricardo-zonta, marc-gene, alexander-wurz, pedro-de-la-rosa, jos-verstappen, gaston-mazzacane]
+- lap: 22
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, jenson-button, jacques-villeneuve, heinz-harald-frentzen, david-coulthard, jean-alesi, johnny-herbert, rubens-barrichello, eddie-irvine, mika-salo, ricardo-zonta, pedro-diniz, marc-gene, alexander-wurz, pedro-de-la-rosa, jos-verstappen, gaston-mazzacane]
+- lap: 23
+  drivers: [mika-hakkinen, ralf-schumacher, michael-schumacher, jenson-button, jacques-villeneuve, heinz-harald-frentzen, david-coulthard, jean-alesi, rubens-barrichello, johnny-herbert, eddie-irvine, pedro-diniz, mika-salo, ricardo-zonta, marc-gene, alexander-wurz, pedro-de-la-rosa, jos-verstappen, gaston-mazzacane]
+- lap: 24
+  drivers: [mika-hakkinen, ralf-schumacher, michael-schumacher, jenson-button, heinz-harald-frentzen, david-coulthard, jacques-villeneuve, jean-alesi, rubens-barrichello, johnny-herbert, eddie-irvine, pedro-diniz, mika-salo, ricardo-zonta, alexander-wurz, marc-gene, pedro-de-la-rosa, jos-verstappen, gaston-mazzacane]
+- lap: 25
+  drivers: [mika-hakkinen, michael-schumacher, ralf-schumacher, jenson-button, heinz-harald-frentzen, david-coulthard, jean-alesi, rubens-barrichello, johnny-herbert, jacques-villeneuve, eddie-irvine, pedro-diniz, mika-salo, ricardo-zonta, alexander-wurz, pedro-de-la-rosa, marc-gene, gaston-mazzacane, jos-verstappen]
+- lap: 26
+  drivers: [mika-hakkinen, michael-schumacher, jenson-button, ralf-schumacher, heinz-harald-frentzen, david-coulthard, jean-alesi, rubens-barrichello, johnny-herbert, jacques-villeneuve, eddie-irvine, pedro-diniz, mika-salo, ricardo-zonta, pedro-de-la-rosa, marc-gene, gaston-mazzacane, alexander-wurz, jos-verstappen]
+- lap: 27
+  drivers: [mika-hakkinen, michael-schumacher, ralf-schumacher, heinz-harald-frentzen, david-coulthard, jean-alesi, rubens-barrichello, jenson-button, johnny-herbert, jacques-villeneuve, eddie-irvine, pedro-diniz, mika-salo, ricardo-zonta, marc-gene, gaston-mazzacane, alexander-wurz, jos-verstappen, pedro-de-la-rosa]
+- lap: 28
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, heinz-harald-frentzen, david-coulthard, rubens-barrichello, jean-alesi, jenson-button, johnny-herbert, jacques-villeneuve, eddie-irvine, pedro-diniz, mika-salo, ricardo-zonta, marc-gene, alexander-wurz, gaston-mazzacane, jos-verstappen, pedro-de-la-rosa]
+- lap: 29
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, rubens-barrichello, jean-alesi, jenson-button, david-coulthard, heinz-harald-frentzen, jacques-villeneuve, johnny-herbert, eddie-irvine, pedro-diniz, mika-salo, ricardo-zonta, marc-gene, alexander-wurz, jos-verstappen, pedro-de-la-rosa, gaston-mazzacane]
+- lap: 30
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, rubens-barrichello, jean-alesi, jenson-button, david-coulthard, heinz-harald-frentzen, jacques-villeneuve, pedro-diniz, mika-salo, eddie-irvine, johnny-herbert, ricardo-zonta, marc-gene, alexander-wurz, jos-verstappen, pedro-de-la-rosa, gaston-mazzacane]
+- lap: 31
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, rubens-barrichello, jenson-button, jean-alesi, david-coulthard, heinz-harald-frentzen, jacques-villeneuve, pedro-diniz, mika-salo, johnny-herbert, eddie-irvine, ricardo-zonta, marc-gene, alexander-wurz, jos-verstappen, pedro-de-la-rosa, gaston-mazzacane]
+- lap: 32
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, rubens-barrichello, jenson-button, david-coulthard, heinz-harald-frentzen, jacques-villeneuve, jean-alesi, mika-salo, pedro-diniz, johnny-herbert, eddie-irvine, ricardo-zonta, marc-gene, alexander-wurz, jos-verstappen, pedro-de-la-rosa, gaston-mazzacane]
+- lap: 33
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, jenson-button, david-coulthard, heinz-harald-frentzen, jacques-villeneuve, mika-salo, johnny-herbert, eddie-irvine, pedro-diniz, ricardo-zonta, alexander-wurz, marc-gene, jos-verstappen, pedro-de-la-rosa, gaston-mazzacane]
+- lap: 34
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, jenson-button, david-coulthard, heinz-harald-frentzen, jacques-villeneuve, johnny-herbert, mika-salo, eddie-irvine, pedro-diniz, ricardo-zonta, alexander-wurz, marc-gene, jos-verstappen, pedro-de-la-rosa, gaston-mazzacane]
+- lap: 35
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, jenson-button, david-coulthard, heinz-harald-frentzen, jacques-villeneuve, johnny-herbert, mika-salo, eddie-irvine, pedro-diniz, ricardo-zonta, alexander-wurz, marc-gene, jos-verstappen, pedro-de-la-rosa, gaston-mazzacane]
+- lap: 36
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, jenson-button, david-coulthard, heinz-harald-frentzen, jacques-villeneuve, johnny-herbert, mika-salo, eddie-irvine, pedro-diniz, ricardo-zonta, alexander-wurz, marc-gene, jos-verstappen, pedro-de-la-rosa, gaston-mazzacane]
+- lap: 37
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, david-coulthard, jenson-button, heinz-harald-frentzen, jacques-villeneuve, johnny-herbert, mika-salo, eddie-irvine, pedro-diniz, ricardo-zonta, alexander-wurz, marc-gene, jos-verstappen, pedro-de-la-rosa, gaston-mazzacane]
+- lap: 38
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, david-coulthard, jenson-button, heinz-harald-frentzen, jacques-villeneuve, johnny-herbert, mika-salo, eddie-irvine, pedro-diniz, ricardo-zonta, alexander-wurz, marc-gene, jos-verstappen, pedro-de-la-rosa, gaston-mazzacane]
+- lap: 39
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, david-coulthard, jenson-button, heinz-harald-frentzen, jacques-villeneuve, johnny-herbert, mika-salo, eddie-irvine, pedro-diniz, ricardo-zonta, alexander-wurz, marc-gene, jos-verstappen, pedro-de-la-rosa, gaston-mazzacane]
+- lap: 40
+  drivers: [michael-schumacher, mika-hakkinen, ralf-schumacher, david-coulthard, jenson-button, heinz-harald-frentzen, jacques-villeneuve, johnny-herbert, mika-salo, eddie-irvine, pedro-diniz, ricardo-zonta, alexander-wurz, marc-gene, jos-verstappen, pedro-de-la-rosa, gaston-mazzacane]
+- lap: 41
+  drivers: [mika-hakkinen, michael-schumacher, ralf-schumacher, david-coulthard, jenson-button, heinz-harald-frentzen, jacques-villeneuve, johnny-herbert, mika-salo, eddie-irvine, pedro-diniz, ricardo-zonta, alexander-wurz, marc-gene, jos-verstappen, pedro-de-la-rosa, gaston-mazzacane]
+- lap: 42
+  drivers: [mika-hakkinen, michael-schumacher, ralf-schumacher, david-coulthard, jenson-button, heinz-harald-frentzen, jacques-villeneuve, johnny-herbert, mika-salo, eddie-irvine, pedro-diniz, ricardo-zonta, alexander-wurz, marc-gene, jos-verstappen, pedro-de-la-rosa, gaston-mazzacane]
+- lap: 43
+  drivers: [mika-hakkinen, michael-schumacher, ralf-schumacher, david-coulthard, jenson-button, heinz-harald-frentzen, jacques-villeneuve, johnny-herbert, mika-salo, eddie-irvine, pedro-diniz, ricardo-zonta, alexander-wurz, marc-gene, jos-verstappen]
+- lap: 44
+  drivers: [mika-hakkinen, michael-schumacher, ralf-schumacher, david-coulthard, jenson-button, heinz-harald-frentzen, jacques-villeneuve, johnny-herbert, mika-salo, eddie-irvine, pedro-diniz]

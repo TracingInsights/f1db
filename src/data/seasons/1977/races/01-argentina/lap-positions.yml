@@ -1,0 +1,108 @@
+- lap: 0
+  drivers: [james-hunt, john-watson, patrick-depailler, niki-lauda, jochen-mass, carlos-pace, carlos-reutemann, mario-andretti, tom-pryce, jody-scheckter, clay-regazzoni, vittorio-brambilla, ronnie-peterson, jacques-laffite, emerson-fittipaldi, ian-scheckter, hans-binder, ingo-hoffmann, alex-ribeiro, renzo-zorzi]
+- lap: 1
+  drivers: [john-watson, james-hunt, niki-lauda, mario-andretti, jochen-mass, carlos-reutemann, tom-pryce, jody-scheckter, carlos-pace, patrick-depailler, vittorio-brambilla, clay-regazzoni, emerson-fittipaldi, ian-scheckter, hans-binder, alex-ribeiro, renzo-zorzi, jacques-laffite, ingo-hoffmann, ronnie-peterson]
+- lap: 2
+  drivers: [john-watson, james-hunt, niki-lauda, mario-andretti, jochen-mass, carlos-reutemann, tom-pryce, jody-scheckter, carlos-pace, patrick-depailler, vittorio-brambilla, clay-regazzoni, emerson-fittipaldi, ian-scheckter, hans-binder, jacques-laffite, alex-ribeiro, renzo-zorzi, ingo-hoffmann, ronnie-peterson]
+- lap: 3
+  drivers: [john-watson, james-hunt, niki-lauda, mario-andretti, jochen-mass, carlos-reutemann, jody-scheckter, carlos-pace, patrick-depailler, tom-pryce, vittorio-brambilla, clay-regazzoni, emerson-fittipaldi, ian-scheckter, hans-binder, jacques-laffite, alex-ribeiro, ronnie-peterson, ingo-hoffmann]
+- lap: 4
+  drivers: [john-watson, james-hunt, niki-lauda, mario-andretti, jochen-mass, carlos-reutemann, jody-scheckter, carlos-pace, patrick-depailler, tom-pryce, vittorio-brambilla, clay-regazzoni, emerson-fittipaldi, ian-scheckter, hans-binder, jacques-laffite, ronnie-peterson, alex-ribeiro, ingo-hoffmann]
+- lap: 5
+  drivers: [john-watson, james-hunt, niki-lauda, mario-andretti, jochen-mass, carlos-reutemann, jody-scheckter, carlos-pace, patrick-depailler, tom-pryce, vittorio-brambilla, clay-regazzoni, emerson-fittipaldi, ian-scheckter, ronnie-peterson, jacques-laffite, hans-binder, alex-ribeiro, ingo-hoffmann]
+- lap: 6
+  drivers: [john-watson, james-hunt, niki-lauda, mario-andretti, jochen-mass, carlos-reutemann, carlos-pace, jody-scheckter, patrick-depailler, tom-pryce, vittorio-brambilla, clay-regazzoni, emerson-fittipaldi, ian-scheckter, ronnie-peterson, jacques-laffite, hans-binder, alex-ribeiro, ingo-hoffmann]
+- lap: 7
+  drivers: [john-watson, james-hunt, niki-lauda, mario-andretti, jochen-mass, carlos-reutemann, carlos-pace, patrick-depailler, jody-scheckter, tom-pryce, vittorio-brambilla, clay-regazzoni, emerson-fittipaldi, ian-scheckter, ronnie-peterson, jacques-laffite, hans-binder, alex-ribeiro, ingo-hoffmann]
+- lap: 8
+  drivers: [john-watson, james-hunt, niki-lauda, mario-andretti, jochen-mass, carlos-reutemann, carlos-pace, patrick-depailler, jody-scheckter, tom-pryce, vittorio-brambilla, clay-regazzoni, emerson-fittipaldi, ian-scheckter, ronnie-peterson, jacques-laffite, hans-binder, alex-ribeiro, ingo-hoffmann]
+- lap: 9
+  drivers: [john-watson, james-hunt, niki-lauda, mario-andretti, jochen-mass, carlos-pace, carlos-reutemann, patrick-depailler, jody-scheckter, tom-pryce, vittorio-brambilla, clay-regazzoni, emerson-fittipaldi, ian-scheckter, ronnie-peterson, jacques-laffite, hans-binder, alex-ribeiro, ingo-hoffmann]
+- lap: 10
+  drivers: [john-watson, james-hunt, niki-lauda, mario-andretti, jochen-mass, carlos-pace, carlos-reutemann, jody-scheckter, tom-pryce, vittorio-brambilla, clay-regazzoni, emerson-fittipaldi, patrick-depailler, ronnie-peterson, ian-scheckter, hans-binder, alex-ribeiro, ingo-hoffmann, jacques-laffite]
+- lap: 11
+  drivers: [james-hunt, john-watson, mario-andretti, niki-lauda, jochen-mass, carlos-pace, carlos-reutemann, jody-scheckter, tom-pryce, vittorio-brambilla, clay-regazzoni, emerson-fittipaldi, patrick-depailler, ronnie-peterson, ian-scheckter, hans-binder, alex-ribeiro, ingo-hoffmann, jacques-laffite]
+- lap: 12
+  drivers: [james-hunt, john-watson, mario-andretti, jochen-mass, niki-lauda, carlos-pace, jody-scheckter, carlos-reutemann, tom-pryce, vittorio-brambilla, clay-regazzoni, emerson-fittipaldi, patrick-depailler, ronnie-peterson, ian-scheckter, hans-binder, alex-ribeiro, ingo-hoffmann, jacques-laffite]
+- lap: 13
+  drivers: [james-hunt, john-watson, mario-andretti, jochen-mass, niki-lauda, carlos-pace, jody-scheckter, carlos-reutemann, tom-pryce, vittorio-brambilla, clay-regazzoni, emerson-fittipaldi, patrick-depailler, ronnie-peterson, ian-scheckter, hans-binder, alex-ribeiro, ingo-hoffmann, jacques-laffite]
+- lap: 14
+  drivers: [james-hunt, john-watson, mario-andretti, jochen-mass, niki-lauda, carlos-pace, jody-scheckter, carlos-reutemann, tom-pryce, vittorio-brambilla, clay-regazzoni, patrick-depailler, emerson-fittipaldi, ronnie-peterson, ian-scheckter, hans-binder, alex-ribeiro, ingo-hoffmann, jacques-laffite]
+- lap: 15
+  drivers: [james-hunt, john-watson, mario-andretti, jochen-mass, niki-lauda, carlos-pace, jody-scheckter, carlos-reutemann, tom-pryce, clay-regazzoni, vittorio-brambilla, patrick-depailler, emerson-fittipaldi, ronnie-peterson, ian-scheckter, hans-binder, alex-ribeiro, ingo-hoffmann, jacques-laffite]
+- lap: 16
+  drivers: [james-hunt, john-watson, mario-andretti, jochen-mass, carlos-pace, niki-lauda, jody-scheckter, carlos-reutemann, tom-pryce, clay-regazzoni, vittorio-brambilla, patrick-depailler, ronnie-peterson, emerson-fittipaldi, ian-scheckter, hans-binder, alex-ribeiro, ingo-hoffmann, jacques-laffite]
+- lap: 17
+  drivers: [james-hunt, john-watson, mario-andretti, jochen-mass, carlos-pace, niki-lauda, jody-scheckter, carlos-reutemann, tom-pryce, clay-regazzoni, patrick-depailler, vittorio-brambilla, ronnie-peterson, emerson-fittipaldi, ian-scheckter, hans-binder, alex-ribeiro, ingo-hoffmann, jacques-laffite]
+- lap: 18
+  drivers: [james-hunt, john-watson, mario-andretti, jochen-mass, carlos-pace, niki-lauda, jody-scheckter, carlos-reutemann, tom-pryce, clay-regazzoni, patrick-depailler, vittorio-brambilla, ronnie-peterson, emerson-fittipaldi, ian-scheckter, alex-ribeiro, ingo-hoffmann, hans-binder, jacques-laffite]
+- lap: 19
+  drivers: [james-hunt, john-watson, mario-andretti, jochen-mass, carlos-pace, niki-lauda, jody-scheckter, carlos-reutemann, tom-pryce, clay-regazzoni, patrick-depailler, ronnie-peterson, vittorio-brambilla, emerson-fittipaldi, ian-scheckter, alex-ribeiro, ingo-hoffmann, jacques-laffite]
+- lap: 20
+  drivers: [james-hunt, john-watson, mario-andretti, jochen-mass, carlos-pace, jody-scheckter, niki-lauda, carlos-reutemann, tom-pryce, patrick-depailler, clay-regazzoni, ronnie-peterson, vittorio-brambilla, emerson-fittipaldi, ian-scheckter, alex-ribeiro, ingo-hoffmann, jacques-laffite]
+- lap: 21
+  drivers: [james-hunt, john-watson, jochen-mass, mario-andretti, carlos-pace, jody-scheckter, carlos-reutemann, tom-pryce, patrick-depailler, clay-regazzoni, ronnie-peterson, emerson-fittipaldi, vittorio-brambilla, ian-scheckter, ingo-hoffmann, alex-ribeiro, jacques-laffite]
+- lap: 22
+  drivers: [james-hunt, john-watson, jochen-mass, mario-andretti, carlos-pace, jody-scheckter, carlos-reutemann, tom-pryce, patrick-depailler, clay-regazzoni, ronnie-peterson, emerson-fittipaldi, vittorio-brambilla, ian-scheckter, ingo-hoffmann, alex-ribeiro, jacques-laffite]
+- lap: 23
+  drivers: [james-hunt, john-watson, jochen-mass, mario-andretti, carlos-pace, jody-scheckter, carlos-reutemann, tom-pryce, patrick-depailler, clay-regazzoni, ronnie-peterson, emerson-fittipaldi, vittorio-brambilla, ian-scheckter, alex-ribeiro, jacques-laffite]
+- lap: 24
+  drivers: [james-hunt, john-watson, jochen-mass, mario-andretti, carlos-pace, jody-scheckter, patrick-depailler, clay-regazzoni, ronnie-peterson, emerson-fittipaldi, vittorio-brambilla, carlos-reutemann, tom-pryce, ian-scheckter, alex-ribeiro, jacques-laffite]
+- lap: 25
+  drivers: [james-hunt, john-watson, jochen-mass, carlos-pace, mario-andretti, jody-scheckter, patrick-depailler, clay-regazzoni, ronnie-peterson, emerson-fittipaldi, vittorio-brambilla, ian-scheckter, carlos-reutemann, alex-ribeiro, tom-pryce, jacques-laffite]
+- lap: 26
+  drivers: [james-hunt, john-watson, jochen-mass, carlos-pace, mario-andretti, jody-scheckter, patrick-depailler, clay-regazzoni, ronnie-peterson, emerson-fittipaldi, vittorio-brambilla, carlos-reutemann, ian-scheckter, alex-ribeiro, tom-pryce, jacques-laffite]
+- lap: 27
+  drivers: [james-hunt, john-watson, jochen-mass, carlos-pace, mario-andretti, jody-scheckter, patrick-depailler, clay-regazzoni, ronnie-peterson, emerson-fittipaldi, vittorio-brambilla, carlos-reutemann, ian-scheckter, alex-ribeiro, tom-pryce, jacques-laffite]
+- lap: 28
+  drivers: [james-hunt, john-watson, jochen-mass, carlos-pace, mario-andretti, jody-scheckter, patrick-depailler, clay-regazzoni, ronnie-peterson, emerson-fittipaldi, vittorio-brambilla, carlos-reutemann, ian-scheckter, alex-ribeiro, tom-pryce, jacques-laffite]
+- lap: 29
+  drivers: [james-hunt, john-watson, carlos-pace, mario-andretti, jody-scheckter, clay-regazzoni, patrick-depailler, emerson-fittipaldi, vittorio-brambilla, carlos-reutemann, ian-scheckter, alex-ribeiro, tom-pryce, jacques-laffite]
+- lap: 30
+  drivers: [james-hunt, john-watson, carlos-pace, mario-andretti, jody-scheckter, clay-regazzoni, emerson-fittipaldi, vittorio-brambilla, patrick-depailler, carlos-reutemann, ian-scheckter, alex-ribeiro, tom-pryce, jacques-laffite]
+- lap: 31
+  drivers: [james-hunt, john-watson, carlos-pace, mario-andretti, jody-scheckter, clay-regazzoni, emerson-fittipaldi, vittorio-brambilla, carlos-reutemann, patrick-depailler, ian-scheckter, alex-ribeiro, tom-pryce, jacques-laffite]
+- lap: 32
+  drivers: [john-watson, carlos-pace, mario-andretti, jody-scheckter, clay-regazzoni, emerson-fittipaldi, vittorio-brambilla, carlos-reutemann, patrick-depailler, ian-scheckter, alex-ribeiro, tom-pryce, jacques-laffite]
+- lap: 33
+  drivers: [john-watson, carlos-pace, mario-andretti, jody-scheckter, clay-regazzoni, emerson-fittipaldi, vittorio-brambilla, carlos-reutemann, ian-scheckter, alex-ribeiro, tom-pryce, jacques-laffite]
+- lap: 34
+  drivers: [john-watson, carlos-pace, mario-andretti, jody-scheckter, clay-regazzoni, emerson-fittipaldi, vittorio-brambilla, carlos-reutemann, ian-scheckter, alex-ribeiro, tom-pryce, jacques-laffite]
+- lap: 35
+  drivers: [carlos-pace, john-watson, mario-andretti, jody-scheckter, clay-regazzoni, emerson-fittipaldi, vittorio-brambilla, carlos-reutemann, ian-scheckter, alex-ribeiro, tom-pryce, jacques-laffite]
+- lap: 36
+  drivers: [carlos-pace, john-watson, mario-andretti, jody-scheckter, clay-regazzoni, emerson-fittipaldi, carlos-reutemann, vittorio-brambilla, ian-scheckter, alex-ribeiro, tom-pryce, jacques-laffite]
+- lap: 37
+  drivers: [carlos-pace, john-watson, mario-andretti, jody-scheckter, clay-regazzoni, emerson-fittipaldi, carlos-reutemann, vittorio-brambilla, ian-scheckter, alex-ribeiro, tom-pryce, jacques-laffite]
+- lap: 38
+  drivers: [carlos-pace, john-watson, jody-scheckter, mario-andretti, clay-regazzoni, emerson-fittipaldi, carlos-reutemann, vittorio-brambilla, ian-scheckter, alex-ribeiro, tom-pryce]
+- lap: 39
+  drivers: [carlos-pace, john-watson, jody-scheckter, mario-andretti, clay-regazzoni, emerson-fittipaldi, carlos-reutemann, vittorio-brambilla, ian-scheckter, alex-ribeiro, tom-pryce]
+- lap: 40
+  drivers: [carlos-pace, john-watson, jody-scheckter, mario-andretti, emerson-fittipaldi, carlos-reutemann, vittorio-brambilla, clay-regazzoni, ian-scheckter, tom-pryce]
+- lap: 41
+  drivers: [carlos-pace, john-watson, jody-scheckter, mario-andretti, emerson-fittipaldi, carlos-reutemann, vittorio-brambilla, clay-regazzoni, ian-scheckter, tom-pryce]
+- lap: 42
+  drivers: [carlos-pace, jody-scheckter, mario-andretti, emerson-fittipaldi, carlos-reutemann, vittorio-brambilla, clay-regazzoni, ian-scheckter, tom-pryce]
+- lap: 43
+  drivers: [carlos-pace, jody-scheckter, mario-andretti, emerson-fittipaldi, carlos-reutemann, vittorio-brambilla, clay-regazzoni, ian-scheckter, tom-pryce]
+- lap: 44
+  drivers: [carlos-pace, jody-scheckter, mario-andretti, emerson-fittipaldi, carlos-reutemann, vittorio-brambilla, ian-scheckter, clay-regazzoni, tom-pryce]
+- lap: 45
+  drivers: [carlos-pace, jody-scheckter, mario-andretti, emerson-fittipaldi, carlos-reutemann, vittorio-brambilla, ian-scheckter, clay-regazzoni, tom-pryce]
+- lap: 46
+  drivers: [carlos-pace, jody-scheckter, mario-andretti, emerson-fittipaldi, carlos-reutemann, vittorio-brambilla, clay-regazzoni]
+- lap: 47
+  drivers: [carlos-pace, jody-scheckter, mario-andretti, emerson-fittipaldi, carlos-reutemann, vittorio-brambilla, clay-regazzoni]
+- lap: 48
+  drivers: [jody-scheckter, carlos-pace, mario-andretti, emerson-fittipaldi, carlos-reutemann, clay-regazzoni, vittorio-brambilla]
+- lap: 49
+  drivers: [jody-scheckter, carlos-pace, mario-andretti, emerson-fittipaldi, carlos-reutemann, clay-regazzoni]
+- lap: 50
+  drivers: [jody-scheckter, carlos-pace, mario-andretti, emerson-fittipaldi, carlos-reutemann, clay-regazzoni]
+- lap: 51
+  drivers: [jody-scheckter, mario-andretti, carlos-pace, carlos-reutemann, emerson-fittipaldi, clay-regazzoni]
+- lap: 52
+  drivers: [jody-scheckter, carlos-pace, carlos-reutemann, emerson-fittipaldi]
+- lap: 53
+  drivers: [jody-scheckter, carlos-pace, carlos-reutemann, emerson-fittipaldi]

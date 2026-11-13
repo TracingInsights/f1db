@@ -334,13 +334,13 @@
   reasonRetired: Collision
   points:
   gridPosition: 16
-- position: DNF
+- position: DNS
   driverNumber: 24
   driverId: alessandro-nannini
   constructorId: minardi
   engineManufacturerId: motori-moderni
   tyreManufacturerId: pirelli
-  laps: 0
+  laps:
   time:
   timePenalty:
   gap:

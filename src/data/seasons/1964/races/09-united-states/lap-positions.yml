@@ -1,0 +1,222 @@
+- lap: 0
+  drivers: ["1:jim-clark", john-surtees, dan-gurney, graham-hill, bruce-mclaren, "2:mike-spence", jack-brabham, lorenzo-bandini, jo-bonnier, innes-ireland, chris-amon, jo-siffert, richie-ginther, ronnie-bucknum, trevor-taylor, mike-hailwood, walt-hansgen, hap-sharp, phil-hill]
+- lap: 1
+  drivers: [john-surtees, "2:mike-spence", graham-hill, "1:jim-clark", jack-brabham, innes-ireland, dan-gurney, bruce-mclaren, jo-bonnier, lorenzo-bandini, chris-amon, jo-siffert, ronnie-bucknum, mike-hailwood, phil-hill, richie-ginther, trevor-taylor, walt-hansgen, hap-sharp]
+- lap: 2
+  drivers: [john-surtees, "2:mike-spence", graham-hill, "1:jim-clark", dan-gurney, jack-brabham, innes-ireland, bruce-mclaren, jo-bonnier, lorenzo-bandini, chris-amon, jo-siffert, ronnie-bucknum, mike-hailwood, phil-hill, walt-hansgen, richie-ginther, trevor-taylor, hap-sharp]
+- lap: 3
+  drivers: [john-surtees, "2:mike-spence", graham-hill, "1:jim-clark", dan-gurney, jack-brabham, bruce-mclaren, jo-bonnier, lorenzo-bandini, chris-amon, jo-siffert, ronnie-bucknum, mike-hailwood, phil-hill, walt-hansgen, richie-ginther, trevor-taylor, hap-sharp]
+- lap: 4
+  drivers: [john-surtees, "2:mike-spence", graham-hill, "1:jim-clark", dan-gurney, jack-brabham, bruce-mclaren, jo-bonnier, lorenzo-bandini, chris-amon, jo-siffert, ronnie-bucknum, mike-hailwood, walt-hansgen, phil-hill, richie-ginther, trevor-taylor, hap-sharp]
+- lap: 5
+  drivers: [john-surtees, graham-hill, "2:mike-spence", "1:jim-clark", dan-gurney, jack-brabham, bruce-mclaren, jo-bonnier, lorenzo-bandini, chris-amon, jo-siffert, ronnie-bucknum, mike-hailwood, walt-hansgen, richie-ginther, trevor-taylor, hap-sharp]
+- lap: 6
+  drivers: [john-surtees, "1:jim-clark", graham-hill, "2:mike-spence", dan-gurney, jack-brabham, bruce-mclaren, jo-bonnier, lorenzo-bandini, chris-amon, jo-siffert, mike-hailwood, ronnie-bucknum, walt-hansgen, richie-ginther, trevor-taylor, hap-sharp]
+- lap: 7
+  drivers: [john-surtees, "1:jim-clark", graham-hill, dan-gurney, "2:mike-spence", jack-brabham, bruce-mclaren, jo-bonnier, lorenzo-bandini, chris-amon, jo-siffert, mike-hailwood, ronnie-bucknum, walt-hansgen, richie-ginther, trevor-taylor, hap-sharp]
+- lap: 8
+  drivers: [john-surtees, "1:jim-clark", graham-hill, dan-gurney, "2:mike-spence", jack-brabham, bruce-mclaren, jo-bonnier, lorenzo-bandini, chris-amon, jo-siffert, mike-hailwood, ronnie-bucknum, walt-hansgen, richie-ginther, trevor-taylor, hap-sharp]
+- lap: 9
+  drivers: [john-surtees, "1:jim-clark", graham-hill, dan-gurney, "2:mike-spence", bruce-mclaren, jack-brabham, jo-bonnier, lorenzo-bandini, chris-amon, jo-siffert, mike-hailwood, ronnie-bucknum, walt-hansgen, richie-ginther, trevor-taylor, hap-sharp]
+- lap: 10
+  drivers: [john-surtees, "1:jim-clark", graham-hill, dan-gurney, "2:mike-spence", bruce-mclaren, jack-brabham, jo-bonnier, lorenzo-bandini, chris-amon, jo-siffert, mike-hailwood, ronnie-bucknum, walt-hansgen, richie-ginther, trevor-taylor, hap-sharp]
+- lap: 11
+  drivers: [john-surtees, "1:jim-clark", graham-hill, dan-gurney, "2:mike-spence", bruce-mclaren, jack-brabham, jo-bonnier, lorenzo-bandini, chris-amon, jo-siffert, mike-hailwood, ronnie-bucknum, walt-hansgen, richie-ginther, trevor-taylor, hap-sharp]
+- lap: 12
+  drivers: [john-surtees, "1:jim-clark", graham-hill, dan-gurney, "2:mike-spence", bruce-mclaren, jack-brabham, jo-bonnier, lorenzo-bandini, chris-amon, jo-siffert, mike-hailwood, ronnie-bucknum, walt-hansgen, richie-ginther, trevor-taylor, hap-sharp]
+- lap: 13
+  drivers: ["1:jim-clark", john-surtees, graham-hill, dan-gurney, "2:mike-spence", bruce-mclaren, jack-brabham, lorenzo-bandini, jo-bonnier, chris-amon, jo-siffert, mike-hailwood, ronnie-bucknum, walt-hansgen, richie-ginther, trevor-taylor, hap-sharp]
+- lap: 14
+  drivers: ["1:jim-clark", john-surtees, graham-hill, dan-gurney, "2:mike-spence", bruce-mclaren, jack-brabham, lorenzo-bandini, jo-bonnier, chris-amon, jo-siffert, mike-hailwood, ronnie-bucknum, walt-hansgen, richie-ginther, trevor-taylor, hap-sharp]
+- lap: 15
+  drivers: ["1:jim-clark", john-surtees, graham-hill, dan-gurney, "2:mike-spence", bruce-mclaren, lorenzo-bandini, jo-bonnier, chris-amon, jo-siffert, mike-hailwood, ronnie-bucknum, walt-hansgen, richie-ginther, trevor-taylor, hap-sharp]
+- lap: 16
+  drivers: ["1:jim-clark", john-surtees, graham-hill, dan-gurney, "2:mike-spence", bruce-mclaren, lorenzo-bandini, jo-bonnier, chris-amon, jo-siffert, mike-hailwood, ronnie-bucknum, walt-hansgen, richie-ginther, trevor-taylor, hap-sharp]
+- lap: 17
+  drivers: ["1:jim-clark", john-surtees, graham-hill, dan-gurney, "2:mike-spence", bruce-mclaren, lorenzo-bandini, jo-bonnier, chris-amon, jo-siffert, mike-hailwood, walt-hansgen, ronnie-bucknum, richie-ginther, trevor-taylor, hap-sharp]
+- lap: 18
+  drivers: ["1:jim-clark", john-surtees, graham-hill, dan-gurney, "2:mike-spence", lorenzo-bandini, jo-bonnier, chris-amon, jo-siffert, mike-hailwood, walt-hansgen, ronnie-bucknum, richie-ginther, trevor-taylor, bruce-mclaren, hap-sharp]
+- lap: 19
+  drivers: ["1:jim-clark", john-surtees, graham-hill, dan-gurney, "2:mike-spence", lorenzo-bandini, jo-bonnier, chris-amon, jo-siffert, mike-hailwood, walt-hansgen, ronnie-bucknum, richie-ginther, trevor-taylor, bruce-mclaren, hap-sharp]
+- lap: 20
+  drivers: ["1:jim-clark", john-surtees, graham-hill, dan-gurney, "2:mike-spence", lorenzo-bandini, jo-bonnier, chris-amon, jo-siffert, mike-hailwood, walt-hansgen, ronnie-bucknum, richie-ginther, trevor-taylor, bruce-mclaren, hap-sharp]
+- lap: 21
+  drivers: ["1:jim-clark", john-surtees, graham-hill, dan-gurney, "2:mike-spence", lorenzo-bandini, jo-bonnier, chris-amon, jo-siffert, mike-hailwood, walt-hansgen, ronnie-bucknum, richie-ginther, trevor-taylor, bruce-mclaren, hap-sharp]
+- lap: 22
+  drivers: ["1:jim-clark", john-surtees, graham-hill, dan-gurney, "2:mike-spence", lorenzo-bandini, jo-bonnier, chris-amon, jo-siffert, mike-hailwood, walt-hansgen, ronnie-bucknum, richie-ginther, trevor-taylor, bruce-mclaren, hap-sharp]
+- lap: 23
+  drivers: ["1:jim-clark", john-surtees, graham-hill, dan-gurney, "2:mike-spence", lorenzo-bandini, jo-bonnier, chris-amon, jo-siffert, mike-hailwood, walt-hansgen, ronnie-bucknum, richie-ginther, trevor-taylor, bruce-mclaren, hap-sharp]
+- lap: 24
+  drivers: ["1:jim-clark", john-surtees, graham-hill, dan-gurney, "2:mike-spence", lorenzo-bandini, jo-bonnier, chris-amon, jo-siffert, mike-hailwood, walt-hansgen, ronnie-bucknum, richie-ginther, trevor-taylor, bruce-mclaren, hap-sharp]
+- lap: 25
+  drivers: ["1:jim-clark", john-surtees, graham-hill, dan-gurney, "2:mike-spence", lorenzo-bandini, chris-amon, jo-bonnier, jo-siffert, mike-hailwood, walt-hansgen, ronnie-bucknum, richie-ginther, trevor-taylor, bruce-mclaren, hap-sharp]
+- lap: 26
+  drivers: ["1:jim-clark", john-surtees, graham-hill, dan-gurney, "2:mike-spence", lorenzo-bandini, chris-amon, jo-bonnier, jo-siffert, mike-hailwood, walt-hansgen, richie-ginther, ronnie-bucknum, trevor-taylor, bruce-mclaren, hap-sharp]
+- lap: 27
+  drivers: ["1:jim-clark", john-surtees, graham-hill, dan-gurney, "2:mike-spence", lorenzo-bandini, chris-amon, jo-siffert, jo-bonnier, mike-hailwood, walt-hansgen, richie-ginther, ronnie-bucknum, trevor-taylor, bruce-mclaren, hap-sharp]
+- lap: 28
+  drivers: ["1:jim-clark", john-surtees, graham-hill, dan-gurney, "2:mike-spence", lorenzo-bandini, chris-amon, jo-siffert, jo-bonnier, mike-hailwood, walt-hansgen, richie-ginther, ronnie-bucknum, trevor-taylor, hap-sharp]
+- lap: 29
+  drivers: ["1:jim-clark", john-surtees, graham-hill, dan-gurney, "2:mike-spence", lorenzo-bandini, chris-amon, jo-siffert, jo-bonnier, walt-hansgen, mike-hailwood, richie-ginther, ronnie-bucknum, trevor-taylor, hap-sharp]
+- lap: 30
+  drivers: ["1:jim-clark", john-surtees, graham-hill, dan-gurney, "2:mike-spence", lorenzo-bandini, chris-amon, jo-siffert, jo-bonnier, walt-hansgen, mike-hailwood, richie-ginther, ronnie-bucknum, trevor-taylor, hap-sharp]
+- lap: 31
+  drivers: ["1:jim-clark", graham-hill, john-surtees, dan-gurney, "2:mike-spence", lorenzo-bandini, chris-amon, jo-siffert, jo-bonnier, walt-hansgen, mike-hailwood, richie-ginther, ronnie-bucknum, trevor-taylor, hap-sharp]
+- lap: 32
+  drivers: ["1:jim-clark", graham-hill, john-surtees, dan-gurney, "2:mike-spence", lorenzo-bandini, chris-amon, jo-siffert, jo-bonnier, walt-hansgen, mike-hailwood, richie-ginther, ronnie-bucknum, trevor-taylor, hap-sharp]
+- lap: 33
+  drivers: ["1:jim-clark", john-surtees, graham-hill, dan-gurney, "2:mike-spence", lorenzo-bandini, chris-amon, jo-siffert, jo-bonnier, walt-hansgen, mike-hailwood, richie-ginther, ronnie-bucknum, trevor-taylor, hap-sharp]
+- lap: 34
+  drivers: ["1:jim-clark", john-surtees, graham-hill, dan-gurney, "2:mike-spence", lorenzo-bandini, chris-amon, jo-siffert, jo-bonnier, walt-hansgen, mike-hailwood, richie-ginther, ronnie-bucknum, trevor-taylor, hap-sharp]
+- lap: 35
+  drivers: ["1:jim-clark", graham-hill, john-surtees, dan-gurney, "2:mike-spence", lorenzo-bandini, chris-amon, jo-siffert, jo-bonnier, walt-hansgen, mike-hailwood, richie-ginther, ronnie-bucknum, trevor-taylor, hap-sharp]
+- lap: 36
+  drivers: ["1:jim-clark", graham-hill, john-surtees, dan-gurney, "2:mike-spence", lorenzo-bandini, chris-amon, jo-siffert, jo-bonnier, walt-hansgen, mike-hailwood, ronnie-bucknum, richie-ginther, trevor-taylor, hap-sharp]
+- lap: 37
+  drivers: ["1:jim-clark", john-surtees, graham-hill, dan-gurney, "2:mike-spence", lorenzo-bandini, chris-amon, jo-siffert, jo-bonnier, mike-hailwood, walt-hansgen, ronnie-bucknum, richie-ginther, trevor-taylor, hap-sharp]
+- lap: 38
+  drivers: ["1:jim-clark", graham-hill, john-surtees, dan-gurney, "2:mike-spence", lorenzo-bandini, chris-amon, jo-siffert, mike-hailwood, walt-hansgen, ronnie-bucknum, richie-ginther, trevor-taylor, hap-sharp]
+- lap: 39
+  drivers: ["1:jim-clark", graham-hill, john-surtees, dan-gurney, "2:mike-spence", lorenzo-bandini, chris-amon, jo-siffert, mike-hailwood, walt-hansgen, richie-ginther, ronnie-bucknum, trevor-taylor, hap-sharp]
+- lap: 40
+  drivers: ["1:jim-clark", graham-hill, john-surtees, dan-gurney, "2:mike-spence", lorenzo-bandini, chris-amon, jo-siffert, mike-hailwood, walt-hansgen, richie-ginther, ronnie-bucknum, trevor-taylor, hap-sharp]
+- lap: 41
+  drivers: ["1:jim-clark", john-surtees, graham-hill, dan-gurney, "2:mike-spence", lorenzo-bandini, chris-amon, jo-siffert, mike-hailwood, walt-hansgen, richie-ginther, ronnie-bucknum, trevor-taylor, hap-sharp]
+- lap: 42
+  drivers: ["1:jim-clark", graham-hill, john-surtees, dan-gurney, "2:mike-spence", lorenzo-bandini, chris-amon, jo-siffert, mike-hailwood, walt-hansgen, richie-ginther, ronnie-bucknum, trevor-taylor, hap-sharp]
+- lap: 43
+  drivers: ["1:jim-clark", graham-hill, john-surtees, dan-gurney, "2:mike-spence", lorenzo-bandini, chris-amon, jo-siffert, mike-hailwood, walt-hansgen, richie-ginther, ronnie-bucknum, trevor-taylor, hap-sharp]
+- lap: 44
+  drivers: [john-surtees, graham-hill, dan-gurney, "1:jim-clark", "2:mike-spence", lorenzo-bandini, chris-amon, jo-siffert, mike-hailwood, walt-hansgen, richie-ginther, ronnie-bucknum, trevor-taylor, hap-sharp]
+- lap: 45
+  drivers: [graham-hill, john-surtees, dan-gurney, "2:mike-spence", lorenzo-bandini, chris-amon, jo-siffert, mike-hailwood, walt-hansgen, richie-ginther, ronnie-bucknum, trevor-taylor, "1:jim-clark", hap-sharp]
+- lap: 46
+  drivers: [graham-hill, john-surtees, dan-gurney, "2:mike-spence", lorenzo-bandini, chris-amon, jo-siffert, mike-hailwood, walt-hansgen, richie-ginther, ronnie-bucknum, trevor-taylor, "1:jim-clark", hap-sharp]
+- lap: 47
+  drivers: [graham-hill, dan-gurney, john-surtees, "2:mike-spence", lorenzo-bandini, chris-amon, jo-siffert, mike-hailwood, walt-hansgen, richie-ginther, ronnie-bucknum, trevor-taylor, "1:jim-clark", hap-sharp]
+- lap: 48
+  drivers: [graham-hill, dan-gurney, john-surtees, "2:mike-spence", lorenzo-bandini, jo-siffert, mike-hailwood, walt-hansgen, richie-ginther, ronnie-bucknum, trevor-taylor, "1:jim-clark", hap-sharp]
+- lap: 49
+  drivers: [graham-hill, dan-gurney, john-surtees, "2:mike-spence", lorenzo-bandini, jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, ronnie-bucknum, trevor-taylor, "1:jim-clark", hap-sharp]
+- lap: 50
+  drivers: [graham-hill, john-surtees, dan-gurney, "2:mike-spence", lorenzo-bandini, jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor, "1:mike-spence", ronnie-bucknum, hap-sharp]
+- lap: 51
+  drivers: [graham-hill, john-surtees, dan-gurney, "2:mike-spence", lorenzo-bandini, jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor, "1:mike-spence", hap-sharp]
+- lap: 52
+  drivers: [graham-hill, john-surtees, dan-gurney, "2:mike-spence", lorenzo-bandini, jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor, "1:mike-spence", hap-sharp]
+- lap: 53
+  drivers: [graham-hill, john-surtees, dan-gurney, "2:mike-spence", lorenzo-bandini, jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor, "1:mike-spence", hap-sharp]
+- lap: 54
+  drivers: [graham-hill, john-surtees, dan-gurney, "2:mike-spence", lorenzo-bandini, jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor, "1:mike-spence", hap-sharp]
+- lap: 55
+  drivers: [graham-hill, john-surtees, dan-gurney, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor, lorenzo-bandini, hap-sharp]
+- lap: 56
+  drivers: [graham-hill, john-surtees, dan-gurney, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor, lorenzo-bandini, hap-sharp]
+- lap: 57
+  drivers: [graham-hill, john-surtees, dan-gurney, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor, lorenzo-bandini, hap-sharp]
+- lap: 58
+  drivers: [graham-hill, john-surtees, dan-gurney, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor, lorenzo-bandini, hap-sharp]
+- lap: 59
+  drivers: [graham-hill, john-surtees, dan-gurney, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor, hap-sharp]
+- lap: 60
+  drivers: [graham-hill, john-surtees, dan-gurney, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor, hap-sharp]
+- lap: 61
+  drivers: [graham-hill, john-surtees, dan-gurney, "2:jim-clark", jo-siffert, richie-ginther, mike-hailwood, walt-hansgen, trevor-taylor, hap-sharp]
+- lap: 62
+  drivers: [graham-hill, dan-gurney, john-surtees, "2:jim-clark", jo-siffert, richie-ginther, mike-hailwood, walt-hansgen, trevor-taylor, hap-sharp]
+- lap: 63
+  drivers: [graham-hill, dan-gurney, john-surtees, "2:jim-clark", jo-siffert, richie-ginther, mike-hailwood, walt-hansgen, trevor-taylor, hap-sharp]
+- lap: 64
+  drivers: [graham-hill, dan-gurney, john-surtees, "2:jim-clark", jo-siffert, richie-ginther, mike-hailwood, walt-hansgen, trevor-taylor, hap-sharp]
+- lap: 65
+  drivers: [graham-hill, dan-gurney, john-surtees, "2:jim-clark", jo-siffert, richie-ginther, mike-hailwood, walt-hansgen, trevor-taylor, hap-sharp]
+- lap: 66
+  drivers: [graham-hill, dan-gurney, john-surtees, "2:jim-clark", jo-siffert, richie-ginther, mike-hailwood, walt-hansgen, trevor-taylor]
+- lap: 67
+  drivers: [graham-hill, john-surtees, dan-gurney, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 68
+  drivers: [graham-hill, dan-gurney, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 69
+  drivers: [graham-hill, dan-gurney, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 70
+  drivers: [graham-hill, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 71
+  drivers: [graham-hill, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 72
+  drivers: [graham-hill, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 73
+  drivers: [graham-hill, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 74
+  drivers: [graham-hill, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 75
+  drivers: [graham-hill, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 76
+  drivers: [graham-hill, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 77
+  drivers: [graham-hill, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 78
+  drivers: [graham-hill, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 79
+  drivers: [graham-hill, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 80
+  drivers: [graham-hill, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 81
+  drivers: [graham-hill, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 82
+  drivers: [graham-hill, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 83
+  drivers: [graham-hill, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 84
+  drivers: [graham-hill, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 85
+  drivers: [graham-hill, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 86
+  drivers: [graham-hill, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 87
+  drivers: [graham-hill, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 88
+  drivers: [graham-hill, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 89
+  drivers: [graham-hill, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 90
+  drivers: [graham-hill, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 91
+  drivers: [graham-hill, john-surtees, "2:jim-clark", jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 92
+  drivers: [graham-hill, john-surtees, jo-siffert, "2:jim-clark", mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 93
+  drivers: [graham-hill, john-surtees, jo-siffert, "2:jim-clark", mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 94
+  drivers: [graham-hill, john-surtees, jo-siffert, "2:jim-clark", mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 95
+  drivers: [graham-hill, john-surtees, jo-siffert, "2:jim-clark", mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 96
+  drivers: [graham-hill, john-surtees, jo-siffert, "2:jim-clark", mike-hailwood, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 97
+  drivers: [graham-hill, john-surtees, jo-siffert, mike-hailwood, "2:jim-clark", richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 98
+  drivers: [graham-hill, john-surtees, jo-siffert, mike-hailwood, richie-ginther, "2:jim-clark", walt-hansgen, trevor-taylor]
+- lap: 99
+  drivers: [graham-hill, john-surtees, jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, "2:jim-clark", trevor-taylor]
+- lap: 100
+  drivers: [graham-hill, john-surtees, jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, "2:jim-clark", trevor-taylor]
+- lap: 101
+  drivers: [graham-hill, john-surtees, jo-siffert, mike-hailwood, richie-ginther, walt-hansgen, "2:jim-clark", trevor-taylor]
+- lap: 102
+  drivers: [graham-hill, john-surtees, jo-siffert, richie-ginther, walt-hansgen, trevor-taylor, "2:jim-clark"]
+- lap: 103
+  drivers: [graham-hill, john-surtees, jo-siffert, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 104
+  drivers: [graham-hill, john-surtees, jo-siffert, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 105
+  drivers: [graham-hill, john-surtees, jo-siffert, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 106
+  drivers: [graham-hill, john-surtees, jo-siffert, richie-ginther, walt-hansgen, trevor-taylor]
+- lap: 107
+  drivers: [graham-hill, john-surtees, jo-siffert, richie-ginther, walt-hansgen]
+- lap: 108
+  drivers: [graham-hill, john-surtees, jo-siffert]
+- lap: 109
+  drivers: [graham-hill, john-surtees, jo-siffert]
+- lap: 110
+  drivers: [graham-hill, john-surtees]

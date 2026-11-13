@@ -132,7 +132,7 @@
   constructorId: mclaren
   engineManufacturerId: mercedes
   tyreManufacturerId: michelin
-  gridPenalty:
+  gridPenalty: 10
   time: "2:02.309"
 - position: 18
   driverNumber: 10

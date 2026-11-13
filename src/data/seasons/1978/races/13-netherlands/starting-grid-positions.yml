@@ -191,6 +191,14 @@
   gridPenalty:
   time: "1:20.470"
 - position: 25
+  driverNumber: 18
+  driverId: rupert-keegan
+  constructorId: surtees
+  engineManufacturerId: ford
+  tyreManufacturerId: goodyear
+  gridPenalty:
+  time: "1:20.520"
+- position: 26
   driverNumber: 29
   driverId: nelson-piquet
   constructorId: mclaren
@@ -198,7 +206,7 @@
   tyreManufacturerId: goodyear
   gridPenalty:
   time: "1:20.640"
-- position: 26
+- position: 27
   driverNumber: 37
   driverId: arturo-merzario
   constructorId: merzario

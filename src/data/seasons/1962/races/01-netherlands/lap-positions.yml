@@ -1,0 +1,162 @@
+- lap: 0
+  drivers: [john-surtees, graham-hill, jim-clark, jack-brabham, bruce-mclaren, innes-ireland, richie-ginther, dan-gurney, phil-hill, trevor-taylor, ricardo-rodriguez, giancarlo-baghetti, jo-bonnier, carel-godin-de-beaufort, tony-maggs, masten-gregory, roy-salvadori, ben-pon, jackie-lewis, wolfgang-seidel]
+- lap: 1
+  drivers: [jim-clark, bruce-mclaren, graham-hill, dan-gurney, john-surtees, phil-hill, innes-ireland, ricardo-rodriguez, trevor-taylor, jack-brabham, giancarlo-baghetti, masten-gregory, tony-maggs, jo-bonnier, ben-pon, jackie-lewis, roy-salvadori, richie-ginther, carel-godin-de-beaufort, wolfgang-seidel]
+- lap: 2
+  drivers: [jim-clark, graham-hill, dan-gurney, john-surtees, innes-ireland, phil-hill, bruce-mclaren, ricardo-rodriguez, trevor-taylor, jack-brabham, giancarlo-baghetti, tony-maggs, masten-gregory, jo-bonnier, jackie-lewis, carel-godin-de-beaufort, ben-pon, richie-ginther, roy-salvadori, wolfgang-seidel]
+- lap: 3
+  drivers: [jim-clark, graham-hill, dan-gurney, john-surtees, innes-ireland, bruce-mclaren, phil-hill, trevor-taylor, jack-brabham, ricardo-rodriguez, giancarlo-baghetti, tony-maggs, masten-gregory, jo-bonnier, jackie-lewis, carel-godin-de-beaufort, richie-ginther, roy-salvadori, wolfgang-seidel]
+- lap: 4
+  drivers: [jim-clark, graham-hill, dan-gurney, john-surtees, bruce-mclaren, innes-ireland, phil-hill, trevor-taylor, giancarlo-baghetti, jo-bonnier, masten-gregory, tony-maggs, jackie-lewis, carel-godin-de-beaufort, richie-ginther, roy-salvadori, jack-brabham, wolfgang-seidel, ricardo-rodriguez]
+- lap: 5
+  drivers: [jim-clark, graham-hill, dan-gurney, bruce-mclaren, innes-ireland, john-surtees, trevor-taylor, phil-hill, giancarlo-baghetti, jo-bonnier, masten-gregory, tony-maggs, jackie-lewis, carel-godin-de-beaufort, richie-ginther, roy-salvadori, wolfgang-seidel, ricardo-rodriguez]
+- lap: 6
+  drivers: [jim-clark, graham-hill, dan-gurney, bruce-mclaren, innes-ireland, trevor-taylor, john-surtees, phil-hill, giancarlo-baghetti, jo-bonnier, masten-gregory, tony-maggs, jackie-lewis, carel-godin-de-beaufort, richie-ginther, roy-salvadori, ricardo-rodriguez, wolfgang-seidel]
+- lap: 7
+  drivers: [jim-clark, graham-hill, dan-gurney, bruce-mclaren, innes-ireland, trevor-taylor, john-surtees, phil-hill, giancarlo-baghetti, masten-gregory, jo-bonnier, tony-maggs, jackie-lewis, carel-godin-de-beaufort, richie-ginther, roy-salvadori, ricardo-rodriguez, wolfgang-seidel]
+- lap: 8
+  drivers: [jim-clark, graham-hill, dan-gurney, bruce-mclaren, innes-ireland, trevor-taylor, phil-hill, john-surtees, giancarlo-baghetti, masten-gregory, tony-maggs, jo-bonnier, jackie-lewis, carel-godin-de-beaufort, richie-ginther, roy-salvadori, ricardo-rodriguez, wolfgang-seidel]
+- lap: 9
+  drivers: [jim-clark, graham-hill, dan-gurney, bruce-mclaren, innes-ireland, phil-hill, trevor-taylor, giancarlo-baghetti, masten-gregory, tony-maggs, jo-bonnier, jackie-lewis, carel-godin-de-beaufort, richie-ginther, roy-salvadori, ricardo-rodriguez, wolfgang-seidel]
+- lap: 10
+  drivers: [jim-clark, graham-hill, dan-gurney, bruce-mclaren, innes-ireland, phil-hill, trevor-taylor, giancarlo-baghetti, masten-gregory, tony-maggs, jo-bonnier, jackie-lewis, carel-godin-de-beaufort, richie-ginther, roy-salvadori, ricardo-rodriguez, wolfgang-seidel]
+- lap: 11
+  drivers: [jim-clark, graham-hill, bruce-mclaren, innes-ireland, phil-hill, trevor-taylor, giancarlo-baghetti, masten-gregory, tony-maggs, jo-bonnier, jackie-lewis, carel-godin-de-beaufort, richie-ginther, roy-salvadori, dan-gurney, ricardo-rodriguez, wolfgang-seidel]
+- lap: 12
+  drivers: [graham-hill, bruce-mclaren, innes-ireland, phil-hill, trevor-taylor, giancarlo-baghetti, masten-gregory, tony-maggs, jo-bonnier, jackie-lewis, jim-clark, carel-godin-de-beaufort, richie-ginther, roy-salvadori, ricardo-rodriguez, dan-gurney, wolfgang-seidel]
+- lap: 13
+  drivers: [graham-hill, bruce-mclaren, phil-hill, innes-ireland, trevor-taylor, giancarlo-baghetti, masten-gregory, tony-maggs, jo-bonnier, jackie-lewis, carel-godin-de-beaufort, richie-ginther, ricardo-rodriguez, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 14
+  drivers: [graham-hill, bruce-mclaren, phil-hill, innes-ireland, trevor-taylor, giancarlo-baghetti, masten-gregory, tony-maggs, jo-bonnier, jackie-lewis, carel-godin-de-beaufort, richie-ginther, ricardo-rodriguez, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 15
+  drivers: [graham-hill, bruce-mclaren, phil-hill, innes-ireland, trevor-taylor, giancarlo-baghetti, masten-gregory, tony-maggs, jo-bonnier, jackie-lewis, carel-godin-de-beaufort, richie-ginther, ricardo-rodriguez, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 16
+  drivers: [graham-hill, bruce-mclaren, phil-hill, innes-ireland, trevor-taylor, giancarlo-baghetti, masten-gregory, tony-maggs, jo-bonnier, jackie-lewis, richie-ginther, carel-godin-de-beaufort, ricardo-rodriguez, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 17
+  drivers: [graham-hill, bruce-mclaren, phil-hill, innes-ireland, trevor-taylor, giancarlo-baghetti, masten-gregory, tony-maggs, jo-bonnier, jackie-lewis, richie-ginther, carel-godin-de-beaufort, ricardo-rodriguez, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 18
+  drivers: [graham-hill, bruce-mclaren, phil-hill, innes-ireland, trevor-taylor, giancarlo-baghetti, masten-gregory, tony-maggs, jo-bonnier, jackie-lewis, richie-ginther, carel-godin-de-beaufort, ricardo-rodriguez, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 19
+  drivers: [graham-hill, bruce-mclaren, phil-hill, innes-ireland, trevor-taylor, giancarlo-baghetti, masten-gregory, tony-maggs, jackie-lewis, jo-bonnier, richie-ginther, carel-godin-de-beaufort, ricardo-rodriguez, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 20
+  drivers: [graham-hill, bruce-mclaren, phil-hill, innes-ireland, trevor-taylor, giancarlo-baghetti, masten-gregory, tony-maggs, jackie-lewis, jo-bonnier, richie-ginther, carel-godin-de-beaufort, ricardo-rodriguez, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 21
+  drivers: [graham-hill, bruce-mclaren, phil-hill, innes-ireland, trevor-taylor, giancarlo-baghetti, tony-maggs, masten-gregory, jackie-lewis, richie-ginther, carel-godin-de-beaufort, ricardo-rodriguez, jo-bonnier, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 22
+  drivers: [graham-hill, phil-hill, innes-ireland, trevor-taylor, giancarlo-baghetti, masten-gregory, tony-maggs, jackie-lewis, richie-ginther, carel-godin-de-beaufort, ricardo-rodriguez, jo-bonnier, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 23
+  drivers: [graham-hill, phil-hill, innes-ireland, trevor-taylor, giancarlo-baghetti, masten-gregory, tony-maggs, jackie-lewis, richie-ginther, carel-godin-de-beaufort, ricardo-rodriguez, jo-bonnier, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 24
+  drivers: [graham-hill, phil-hill, innes-ireland, trevor-taylor, giancarlo-baghetti, masten-gregory, tony-maggs, jackie-lewis, richie-ginther, carel-godin-de-beaufort, ricardo-rodriguez, jo-bonnier, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 25
+  drivers: [graham-hill, phil-hill, innes-ireland, trevor-taylor, giancarlo-baghetti, masten-gregory, tony-maggs, jackie-lewis, richie-ginther, carel-godin-de-beaufort, ricardo-rodriguez, jo-bonnier, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 26
+  drivers: [graham-hill, phil-hill, innes-ireland, trevor-taylor, giancarlo-baghetti, masten-gregory, tony-maggs, jackie-lewis, richie-ginther, carel-godin-de-beaufort, ricardo-rodriguez, jo-bonnier, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 27
+  drivers: [graham-hill, phil-hill, innes-ireland, trevor-taylor, giancarlo-baghetti, masten-gregory, tony-maggs, jackie-lewis, richie-ginther, carel-godin-de-beaufort, ricardo-rodriguez, jo-bonnier, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 28
+  drivers: [graham-hill, phil-hill, innes-ireland, trevor-taylor, giancarlo-baghetti, masten-gregory, tony-maggs, jackie-lewis, richie-ginther, carel-godin-de-beaufort, ricardo-rodriguez, jo-bonnier, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 29
+  drivers: [graham-hill, phil-hill, innes-ireland, trevor-taylor, giancarlo-baghetti, masten-gregory, tony-maggs, jackie-lewis, richie-ginther, carel-godin-de-beaufort, ricardo-rodriguez, jo-bonnier, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 30
+  drivers: [graham-hill, phil-hill, innes-ireland, trevor-taylor, giancarlo-baghetti, masten-gregory, tony-maggs, jackie-lewis, richie-ginther, carel-godin-de-beaufort, ricardo-rodriguez, jo-bonnier, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 31
+  drivers: [graham-hill, phil-hill, innes-ireland, giancarlo-baghetti, trevor-taylor, masten-gregory, tony-maggs, richie-ginther, jackie-lewis, carel-godin-de-beaufort, ricardo-rodriguez, jo-bonnier, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 32
+  drivers: [graham-hill, phil-hill, innes-ireland, trevor-taylor, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, jackie-lewis, carel-godin-de-beaufort, ricardo-rodriguez, jo-bonnier, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 33
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, jackie-lewis, carel-godin-de-beaufort, ricardo-rodriguez, jo-bonnier, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 34
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, jackie-lewis, carel-godin-de-beaufort, ricardo-rodriguez, jo-bonnier, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 35
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, jackie-lewis, carel-godin-de-beaufort, ricardo-rodriguez, jo-bonnier, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 36
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, jackie-lewis, carel-godin-de-beaufort, ricardo-rodriguez, jo-bonnier, dan-gurney, jim-clark, wolfgang-seidel]
+- lap: 37
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, carel-godin-de-beaufort, ricardo-rodriguez, jo-bonnier, dan-gurney, jackie-lewis, jim-clark, wolfgang-seidel]
+- lap: 38
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, carel-godin-de-beaufort, ricardo-rodriguez, jo-bonnier, dan-gurney, jackie-lewis, jim-clark, wolfgang-seidel]
+- lap: 39
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, carel-godin-de-beaufort, ricardo-rodriguez, jo-bonnier, dan-gurney, jackie-lewis, jim-clark, wolfgang-seidel]
+- lap: 40
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, dan-gurney, jackie-lewis, jim-clark, wolfgang-seidel]
+- lap: 41
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, dan-gurney, jackie-lewis, jim-clark, wolfgang-seidel]
+- lap: 42
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, dan-gurney, jackie-lewis, jim-clark, wolfgang-seidel]
+- lap: 43
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, dan-gurney, jackie-lewis, jim-clark, wolfgang-seidel]
+- lap: 44
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, dan-gurney, jackie-lewis, jim-clark, wolfgang-seidel]
+- lap: 45
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, dan-gurney, jackie-lewis, jim-clark, wolfgang-seidel]
+- lap: 46
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, dan-gurney, jackie-lewis, jim-clark, wolfgang-seidel]
+- lap: 47
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, dan-gurney, jackie-lewis, jim-clark, wolfgang-seidel]
+- lap: 48
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark, wolfgang-seidel]
+- lap: 49
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark, wolfgang-seidel]
+- lap: 50
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark, wolfgang-seidel]
+- lap: 51
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark, wolfgang-seidel]
+- lap: 52
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark, wolfgang-seidel]
+- lap: 53
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark]
+- lap: 54
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, masten-gregory, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark]
+- lap: 55
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark]
+- lap: 56
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark]
+- lap: 57
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark]
+- lap: 58
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark]
+- lap: 59
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark]
+- lap: 60
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark]
+- lap: 61
+  drivers: [graham-hill, phil-hill, trevor-taylor, innes-ireland, giancarlo-baghetti, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark]
+- lap: 62
+  drivers: [graham-hill, trevor-taylor, phil-hill, giancarlo-baghetti, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark]
+- lap: 63
+  drivers: [graham-hill, trevor-taylor, phil-hill, giancarlo-baghetti, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark]
+- lap: 64
+  drivers: [graham-hill, trevor-taylor, phil-hill, giancarlo-baghetti, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark]
+- lap: 65
+  drivers: [graham-hill, trevor-taylor, phil-hill, giancarlo-baghetti, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark]
+- lap: 66
+  drivers: [graham-hill, trevor-taylor, phil-hill, giancarlo-baghetti, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark]
+- lap: 67
+  drivers: [graham-hill, trevor-taylor, phil-hill, giancarlo-baghetti, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark]
+- lap: 68
+  drivers: [graham-hill, trevor-taylor, phil-hill, giancarlo-baghetti, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark]
+- lap: 69
+  drivers: [graham-hill, trevor-taylor, phil-hill, giancarlo-baghetti, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark]
+- lap: 70
+  drivers: [graham-hill, trevor-taylor, phil-hill, giancarlo-baghetti, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier, jackie-lewis, jim-clark]
+- lap: 71
+  drivers: [graham-hill, trevor-taylor, phil-hill, giancarlo-baghetti, tony-maggs, richie-ginther, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier]
+- lap: 72
+  drivers: [graham-hill, trevor-taylor, phil-hill, giancarlo-baghetti, tony-maggs, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier]
+- lap: 73
+  drivers: [graham-hill, trevor-taylor, phil-hill, giancarlo-baghetti, tony-maggs, ricardo-rodriguez, carel-godin-de-beaufort, jo-bonnier]
+- lap: 74
+  drivers: [graham-hill, trevor-taylor, phil-hill, giancarlo-baghetti, tony-maggs, carel-godin-de-beaufort, jo-bonnier]
+- lap: 75
+  drivers: [graham-hill, trevor-taylor, phil-hill, giancarlo-baghetti, tony-maggs, carel-godin-de-beaufort, jo-bonnier]
+- lap: 76
+  drivers: [graham-hill, trevor-taylor, phil-hill, giancarlo-baghetti, tony-maggs, carel-godin-de-beaufort]
+- lap: 77
+  drivers: [graham-hill, trevor-taylor, phil-hill, giancarlo-baghetti, tony-maggs]
+- lap: 78
+  drivers: [graham-hill, trevor-taylor, phil-hill, giancarlo-baghetti, tony-maggs]
+- lap: 79
+  drivers: [graham-hill, trevor-taylor, phil-hill, giancarlo-baghetti]
+- lap: 80
+  drivers: [graham-hill, trevor-taylor, phil-hill]

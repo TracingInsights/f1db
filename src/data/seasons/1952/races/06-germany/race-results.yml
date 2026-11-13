@@ -3,7 +3,7 @@
   driverId: alberto-ascari
   constructorId: ferrari
   engineManufacturerId: ferrari
-  tyreManufacturerId: pirelli
+  tyreManufacturerId: englebert
   laps: 18
   time: "3:06:13.300"
   timePenalty:
@@ -18,7 +18,7 @@
   driverId: nino-farina
   constructorId: ferrari
   engineManufacturerId: ferrari
-  tyreManufacturerId: pirelli
+  tyreManufacturerId: englebert
   laps: 18
   time: "3:06:27.400"
   timePenalty:
@@ -46,7 +46,7 @@
   driverId: piero-taruffi
   constructorId: ferrari
   engineManufacturerId: ferrari
-  tyreManufacturerId: pirelli
+  tyreManufacturerId: englebert
   laps: 17
   time:
   timePenalty:
@@ -214,7 +214,7 @@
   driverId: marcel-balsa
   constructorId: balsa
   engineManufacturerId: bmw
-  tyreManufacturerId: dunlop
+  tyreManufacturerId: englebert
   laps: 5
   time:
   timePenalty:

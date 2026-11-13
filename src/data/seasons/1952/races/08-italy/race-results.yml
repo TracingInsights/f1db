@@ -219,7 +219,7 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired: Suspension
+  reasonRetired: Engine
   points:
   gridPosition: 9
 - position: DNF
@@ -485,6 +485,6 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Engine
   points:
   gridPosition:

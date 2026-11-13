@@ -88,7 +88,9 @@
   engines:
     - engineId: climax-fpf-20-l4
     - engineId: climax-fpf-15-l4
-  tyreManufacturerId: dunlop
+  tyreManufacturers:
+    - tyreManufacturerId: dunlop
+    - tyreManufacturerId: avon
   drivers:
     - driverId: jack-brabham
       rounds: 2,4,7
@@ -288,7 +290,9 @@
   countryId: united-states-of-america
   constructorId: kurtis-kraft
   engineManufacturerId: offenhauser
-  chassisId: kurtis-kraft-kk500g
+  chassis:
+    - chassisId: kurtis-kraft-kk500g
+    - chassisId: kurtis-kraft-kk500c
   engineId: offenhauser-45-l4
   tyreManufacturerId: firestone
   drivers:
@@ -403,9 +407,9 @@
       rounds: 3
 - entrantId: pete-salemi
   countryId: united-states-of-america
-  constructorId: kuzma
+  constructorId: kurtis-kraft
   engineManufacturerId: offenhauser
-  chassisId: kuzma-indy-roadster
+  chassisId: kurtis-kraft-kk500c
   engineId: offenhauser-45-l4
   tyreManufacturerId: firestone
   driverId: chuck-weyant
@@ -503,7 +507,9 @@
   countryId: italy
   constructorId: ferrari
   engineManufacturerId: ferrari
-  chassisId: ferrari-801
+  chassis:
+    - chassisId: ferrari-d50
+    - chassisId: ferrari-801
   engineId: ferrari-ds50-25-v8
   tyreManufacturers:
     - tyreManufacturerId: pirelli

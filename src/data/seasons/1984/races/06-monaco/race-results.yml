@@ -268,7 +268,7 @@
   driverNumber: 17
   driverId: marc-surer
   constructorId: arrows
-  engineManufacturerId: bmw
+  engineManufacturerId: ford
   tyreManufacturerId: goodyear
   laps:
   time:
@@ -354,7 +354,7 @@
   constructorId: tyrrell
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
-  laps:
+  laps: 31
   time:
   timePenalty:
   gap:
@@ -362,7 +362,7 @@
   reasonRetired: Car underweight
   points:
   gridPosition:
-- position: DSQ
+- position: DNQ
   driverNumber: 3
   driverId: martin-brundle
   constructorId: tyrrell

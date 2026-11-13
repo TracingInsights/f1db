@@ -136,8 +136,12 @@
   countryId: france
   constructorId: gordini
   engineManufacturerId: gordini
-  chassisId: gordini-t16
-  engineId: gordini-23-25-l6
+  chassis:
+    - chassisId: gordini-t16
+    - chassisId: gordini-t32
+  engines:
+    - engineId: gordini-23-25-l6
+    - engineId: gordini-25-25-l8
   tyreManufacturerId: englebert
   drivers:
     - driverId: elie-bayol
@@ -494,7 +498,9 @@
   engineManufacturerId: lancia
   chassisId: lancia-d50
   engineId: lancia-ds50-25-v8
-  tyreManufacturerId: pirelli
+  tyreManufacturers:
+    - tyreManufacturerId: pirelli
+    - tyreManufacturerId: englebert
   drivers:
     - driverId: alberto-ascari
       rounds: 1-2

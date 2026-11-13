@@ -76,7 +76,7 @@
   tyreManufacturerId: pirelli
   laps: 19
   time: "29:28.822"
-  timePenalty:
+  timePenalty: "5.000"
   gap: "+13.777"
   interval: "+0.138"
   reasonRetired:
@@ -289,20 +289,20 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Engine
   points:
-  gridPosition: 22
+  gridPosition: PL
 - position: DSQ
   driverNumber: 5
   driverId: gabriel-bortoleto
   constructorId: audi
   engineManufacturerId: audi
   tyreManufacturerId: pirelli
-  laps:
+  laps: 19
   time:
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Illegal engine intake pressure
   points:
   gridPosition: 11

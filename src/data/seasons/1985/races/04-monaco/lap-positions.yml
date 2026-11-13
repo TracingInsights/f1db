@@ -1,0 +1,158 @@
+- lap: 0
+  drivers: [ayrton-senna, nigel-mansell, michele-alboreto, eddie-cheever, alain-prost, thierry-boutsen, keke-rosberg, andrea-de-cesaris, elio-de-angelis, derek-warwick, gerhard-berger, riccardo-patrese, nelson-piquet, niki-lauda, stefan-johansson, jacques-laffite, patrick-tambay, martin-brundle, jonathan-palmer, teo-fabi]
+- lap: 1
+  drivers: [ayrton-senna, nigel-mansell, michele-alboreto, alain-prost, eddie-cheever, elio-de-angelis, thierry-boutsen, keke-rosberg, andrea-de-cesaris, derek-warwick, riccardo-patrese, niki-lauda, nelson-piquet, jacques-laffite, martin-brundle, teo-fabi, jonathan-palmer, stefan-johansson]
+- lap: 2
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, nigel-mansell, eddie-cheever, elio-de-angelis, thierry-boutsen, keke-rosberg, andrea-de-cesaris, derek-warwick, riccardo-patrese, niki-lauda, nelson-piquet, jacques-laffite, martin-brundle, teo-fabi, jonathan-palmer]
+- lap: 3
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, eddie-cheever, nigel-mansell, elio-de-angelis, keke-rosberg, thierry-boutsen, andrea-de-cesaris, derek-warwick, riccardo-patrese, niki-lauda, nelson-piquet, jacques-laffite, martin-brundle, teo-fabi, jonathan-palmer]
+- lap: 4
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, eddie-cheever, nigel-mansell, elio-de-angelis, keke-rosberg, thierry-boutsen, andrea-de-cesaris, derek-warwick, riccardo-patrese, niki-lauda, nelson-piquet, jacques-laffite, martin-brundle, teo-fabi, jonathan-palmer]
+- lap: 5
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, eddie-cheever, elio-de-angelis, keke-rosberg, nigel-mansell, thierry-boutsen, andrea-de-cesaris, derek-warwick, riccardo-patrese, niki-lauda, nelson-piquet, jacques-laffite, teo-fabi, martin-brundle, jonathan-palmer]
+- lap: 6
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, eddie-cheever, elio-de-angelis, keke-rosberg, nigel-mansell, thierry-boutsen, andrea-de-cesaris, derek-warwick, riccardo-patrese, niki-lauda, nelson-piquet, jacques-laffite, teo-fabi, martin-brundle, jonathan-palmer]
+- lap: 7
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, elio-de-angelis, keke-rosberg, eddie-cheever, nigel-mansell, thierry-boutsen, andrea-de-cesaris, derek-warwick, riccardo-patrese, niki-lauda, nelson-piquet, jacques-laffite, teo-fabi, martin-brundle, jonathan-palmer]
+- lap: 8
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, elio-de-angelis, keke-rosberg, nigel-mansell, thierry-boutsen, andrea-de-cesaris, derek-warwick, riccardo-patrese, niki-lauda, nelson-piquet, jacques-laffite, teo-fabi, martin-brundle, jonathan-palmer, eddie-cheever]
+- lap: 9
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, elio-de-angelis, keke-rosberg, nigel-mansell, thierry-boutsen, andrea-de-cesaris, derek-warwick, riccardo-patrese, niki-lauda, nelson-piquet, jacques-laffite, teo-fabi, martin-brundle, jonathan-palmer, eddie-cheever]
+- lap: 10
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, elio-de-angelis, keke-rosberg, nigel-mansell, thierry-boutsen, andrea-de-cesaris, derek-warwick, riccardo-patrese, niki-lauda, nelson-piquet, jacques-laffite, teo-fabi, martin-brundle, jonathan-palmer, eddie-cheever]
+- lap: 11
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, elio-de-angelis, keke-rosberg, nigel-mansell, thierry-boutsen, andrea-de-cesaris, derek-warwick, niki-lauda, riccardo-patrese, nelson-piquet, jacques-laffite, teo-fabi, martin-brundle, jonathan-palmer]
+- lap: 12
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, elio-de-angelis, keke-rosberg, nigel-mansell, thierry-boutsen, andrea-de-cesaris, derek-warwick, niki-lauda, riccardo-patrese, nelson-piquet, jacques-laffite, teo-fabi, martin-brundle, jonathan-palmer]
+- lap: 13
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, elio-de-angelis, keke-rosberg, nigel-mansell, andrea-de-cesaris, derek-warwick, niki-lauda, riccardo-patrese, nelson-piquet, jacques-laffite, teo-fabi, martin-brundle, thierry-boutsen, jonathan-palmer]
+- lap: 14
+  drivers: [michele-alboreto, alain-prost, elio-de-angelis, keke-rosberg, nigel-mansell, andrea-de-cesaris, derek-warwick, niki-lauda, riccardo-patrese, nelson-piquet, jacques-laffite, teo-fabi, martin-brundle, thierry-boutsen, jonathan-palmer]
+- lap: 15
+  drivers: [michele-alboreto, alain-prost, elio-de-angelis, keke-rosberg, nigel-mansell, andrea-de-cesaris, derek-warwick, niki-lauda, riccardo-patrese, nelson-piquet, jacques-laffite, teo-fabi, martin-brundle, thierry-boutsen, jonathan-palmer]
+- lap: 16
+  drivers: [michele-alboreto, alain-prost, elio-de-angelis, keke-rosberg, nigel-mansell, andrea-de-cesaris, derek-warwick, niki-lauda, riccardo-patrese, nelson-piquet, jacques-laffite, teo-fabi, martin-brundle, thierry-boutsen, jonathan-palmer]
+- lap: 17
+  drivers: [michele-alboreto, alain-prost, elio-de-angelis, keke-rosberg, andrea-de-cesaris, nigel-mansell, derek-warwick, niki-lauda, martin-brundle, thierry-boutsen, jonathan-palmer, jacques-laffite]
+- lap: 18
+  drivers: [alain-prost, michele-alboreto, elio-de-angelis, keke-rosberg, andrea-de-cesaris, derek-warwick, nigel-mansell, martin-brundle, thierry-boutsen, jacques-laffite, jonathan-palmer]
+- lap: 19
+  drivers: [alain-prost, michele-alboreto, elio-de-angelis, keke-rosberg, andrea-de-cesaris, derek-warwick, nigel-mansell, martin-brundle, thierry-boutsen, jacques-laffite, jonathan-palmer]
+- lap: 20
+  drivers: [alain-prost, michele-alboreto, elio-de-angelis, keke-rosberg, andrea-de-cesaris, derek-warwick, nigel-mansell, martin-brundle, thierry-boutsen, jacques-laffite, jonathan-palmer]
+- lap: 21
+  drivers: [alain-prost, michele-alboreto, elio-de-angelis, keke-rosberg, andrea-de-cesaris, derek-warwick, nigel-mansell, martin-brundle, thierry-boutsen, jacques-laffite, jonathan-palmer]
+- lap: 22
+  drivers: [alain-prost, michele-alboreto, elio-de-angelis, keke-rosberg, andrea-de-cesaris, derek-warwick, nigel-mansell, martin-brundle, thierry-boutsen, jacques-laffite, jonathan-palmer]
+- lap: 23
+  drivers: [alain-prost, michele-alboreto, elio-de-angelis, keke-rosberg, andrea-de-cesaris, derek-warwick, nigel-mansell, martin-brundle, thierry-boutsen, jacques-laffite, jonathan-palmer]
+- lap: 24
+  drivers: [michele-alboreto, alain-prost, elio-de-angelis, keke-rosberg, andrea-de-cesaris, derek-warwick, nigel-mansell, martin-brundle, thierry-boutsen, jacques-laffite, jonathan-palmer]
+- lap: 25
+  drivers: [michele-alboreto, alain-prost, elio-de-angelis, keke-rosberg, andrea-de-cesaris, derek-warwick, nigel-mansell, martin-brundle, thierry-boutsen, jacques-laffite, jonathan-palmer]
+- lap: 26
+  drivers: [michele-alboreto, alain-prost, elio-de-angelis, keke-rosberg, andrea-de-cesaris, derek-warwick, nigel-mansell, thierry-boutsen, jacques-laffite, jonathan-palmer, martin-brundle]
+- lap: 27
+  drivers: [michele-alboreto, alain-prost, elio-de-angelis, keke-rosberg, andrea-de-cesaris, derek-warwick, nigel-mansell, thierry-boutsen, jacques-laffite, jonathan-palmer, martin-brundle]
+- lap: 28
+  drivers: [michele-alboreto, alain-prost, elio-de-angelis, keke-rosberg, andrea-de-cesaris, derek-warwick, nigel-mansell, thierry-boutsen, jacques-laffite, jonathan-palmer, martin-brundle]
+- lap: 29
+  drivers: [michele-alboreto, alain-prost, elio-de-angelis, keke-rosberg, andrea-de-cesaris, derek-warwick, nigel-mansell, thierry-boutsen, jacques-laffite, jonathan-palmer, martin-brundle]
+- lap: 30
+  drivers: [michele-alboreto, alain-prost, elio-de-angelis, keke-rosberg, andrea-de-cesaris, derek-warwick, nigel-mansell, thierry-boutsen, jacques-laffite, jonathan-palmer, martin-brundle]
+- lap: 31
+  drivers: [michele-alboreto, alain-prost, elio-de-angelis, andrea-de-cesaris, derek-warwick, keke-rosberg, nigel-mansell, thierry-boutsen, jacques-laffite, jonathan-palmer, martin-brundle]
+- lap: 32
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, keke-rosberg, nigel-mansell, thierry-boutsen, jacques-laffite, jonathan-palmer, martin-brundle]
+- lap: 33
+  drivers: [alain-prost, elio-de-angelis, andrea-de-cesaris, michele-alboreto, derek-warwick, keke-rosberg, nigel-mansell, thierry-boutsen, jacques-laffite, jonathan-palmer, martin-brundle]
+- lap: 34
+  drivers: [alain-prost, elio-de-angelis, andrea-de-cesaris, michele-alboreto, derek-warwick, keke-rosberg, nigel-mansell, jacques-laffite, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 35
+  drivers: [alain-prost, elio-de-angelis, andrea-de-cesaris, michele-alboreto, derek-warwick, keke-rosberg, nigel-mansell, jacques-laffite, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 36
+  drivers: [alain-prost, elio-de-angelis, andrea-de-cesaris, michele-alboreto, derek-warwick, keke-rosberg, nigel-mansell, jacques-laffite, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 37
+  drivers: [alain-prost, elio-de-angelis, andrea-de-cesaris, michele-alboreto, derek-warwick, keke-rosberg, nigel-mansell, jacques-laffite, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 38
+  drivers: [alain-prost, elio-de-angelis, andrea-de-cesaris, michele-alboreto, derek-warwick, keke-rosberg, nigel-mansell, jacques-laffite, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 39
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, keke-rosberg, nigel-mansell, jacques-laffite, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 40
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, keke-rosberg, nigel-mansell, jacques-laffite, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 41
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, keke-rosberg, nigel-mansell, jacques-laffite, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 42
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, keke-rosberg, nigel-mansell, jacques-laffite, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 43
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, keke-rosberg, nigel-mansell, jacques-laffite, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 44
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, keke-rosberg, nigel-mansell, jacques-laffite, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 45
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, keke-rosberg, nigel-mansell, jacques-laffite, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 46
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, keke-rosberg, nigel-mansell, jacques-laffite, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 47
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, nigel-mansell, keke-rosberg, jacques-laffite, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 48
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, nigel-mansell, keke-rosberg, jacques-laffite, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 49
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, nigel-mansell, keke-rosberg, jacques-laffite, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 50
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, nigel-mansell, keke-rosberg, jacques-laffite, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 51
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 52
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 53
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 54
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 55
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 56
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 57
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 58
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 59
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 60
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 61
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 62
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 63
+  drivers: [alain-prost, elio-de-angelis, michele-alboreto, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 64
+  drivers: [alain-prost, michele-alboreto, elio-de-angelis, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 65
+  drivers: [alain-prost, michele-alboreto, elio-de-angelis, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 66
+  drivers: [alain-prost, michele-alboreto, elio-de-angelis, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 67
+  drivers: [alain-prost, michele-alboreto, elio-de-angelis, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 68
+  drivers: [alain-prost, michele-alboreto, elio-de-angelis, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 69
+  drivers: [alain-prost, michele-alboreto, elio-de-angelis, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, jonathan-palmer, martin-brundle]
+- lap: 70
+  drivers: [alain-prost, michele-alboreto, elio-de-angelis, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, martin-brundle, jonathan-palmer]
+- lap: 71
+  drivers: [alain-prost, michele-alboreto, elio-de-angelis, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, martin-brundle, jonathan-palmer]
+- lap: 72
+  drivers: [alain-prost, michele-alboreto, elio-de-angelis, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, martin-brundle, jonathan-palmer]
+- lap: 73
+  drivers: [alain-prost, michele-alboreto, elio-de-angelis, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, martin-brundle, jonathan-palmer]
+- lap: 74
+  drivers: [alain-prost, michele-alboreto, elio-de-angelis, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen, martin-brundle, jonathan-palmer]
+- lap: 75
+  drivers: [alain-prost, michele-alboreto, elio-de-angelis, andrea-de-cesaris, derek-warwick, nigel-mansell, jacques-laffite, keke-rosberg, thierry-boutsen]
+- lap: 76
+  drivers: [alain-prost, michele-alboreto, elio-de-angelis, andrea-de-cesaris, derek-warwick, jacques-laffite, nigel-mansell, keke-rosberg, thierry-boutsen]
+- lap: 77
+  drivers: [alain-prost, michele-alboreto, elio-de-angelis, andrea-de-cesaris, derek-warwick, jacques-laffite, nigel-mansell]
+- lap: 78
+  drivers: [alain-prost, michele-alboreto, elio-de-angelis]

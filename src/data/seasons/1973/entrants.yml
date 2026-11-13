@@ -52,7 +52,9 @@
     - chassisId: march-721g
     - chassisId: march-731
   engineId: ford-cosworth-dfv-30-v8
-  tyreManufacturerId: goodyear
+  tyreManufacturers:
+    - tyreManufacturerId: goodyear
+    - tyreManufacturerId: firestone
   driverId: mike-beuttler
   rounds: 1-7,9-15
 - entrantId: elf-team-tyrrell
@@ -114,7 +116,7 @@
   engineManufacturerId: ford
   chassisId: march-731
   engineId: ford-cosworth-dfv-30-v8
-  tyreManufacturerId: goodyear
+  tyreManufacturerId: firestone
   driverId: james-hunt
   rounds: 6,8-10,12-15
 - entrantId: hexagon-of-highgate
@@ -172,6 +174,7 @@
   chassis:
     - chassisId: brm-p160c
     - chassisId: brm-p160d
+    - chassisId: brm-p160e
   engineId: brm-p142-30-v12
   tyreManufacturerId: firestone
   drivers:

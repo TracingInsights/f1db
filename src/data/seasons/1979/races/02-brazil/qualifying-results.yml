@@ -84,9 +84,9 @@
   constructorId: fittipaldi
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
-  time: "2:26.250"
-  gap: "+3.180"
-  interval: "+1.090"
+  time: "2:26.350"
+  gap: "+3.280"
+  interval: "+1.190"
   laps:
 - position: 10
   driverNumber: 20
@@ -96,7 +96,7 @@
   tyreManufacturerId: goodyear
   time: "2:26.370"
   gap: "+3.300"
-  interval: "+0.120"
+  interval: "+0.020"
   laps:
 - position: 11
   driverNumber: 16

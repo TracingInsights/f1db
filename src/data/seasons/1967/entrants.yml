@@ -37,7 +37,7 @@
   engineManufacturerId: brm
   chassisId: brm-p261
   engineId: brm-p60-21-v8
-  tyreManufacturerId: firestone
+  tyreManufacturerId: goodyear
   driverId: david-hobbs
   rounds: 6,8
 - entrantId: brabham-racing-organisation
@@ -126,7 +126,9 @@
   engineManufacturerId: climax
   chassisId: brabham-bt11
   engineId: climax-fpf-28-l4
-  tyreManufacturerId: firestone
+  tyreManufacturers:
+    - tyreManufacturerId: firestone
+    - tyreManufacturerId: dunlop
   driverId: bob-anderson
   rounds: 1-6
 - entrantId: ecurie-ford-france
@@ -154,7 +156,9 @@
       engineManufacturerId: maserati
       chassisId: cooper-t81
       engineId: maserati-9-f1-30-v12
-      tyreManufacturerId: dunlop
+      tyreManufacturers:
+        - tyreManufacturerId: dunlop
+        - tyreManufacturerId: firestone
       driverId: guy-ligier
       rounds: 4-5
     - constructorId: brabham
@@ -208,7 +212,7 @@
   engineManufacturerId: climax
   chassisId: brabham-bt11
   engineId: climax-fpf-28-l4
-  tyreManufacturerId: firestone
+  tyreManufacturerId: dunlop
   driverId: luki-botha
   rounds: 1
 - entrantId: matra-sports
@@ -259,7 +263,7 @@
     - constructorId: lotus
       engineManufacturerId: brm
       chassisId: lotus-25
-      engineId: brm-p60-21-v8
+      engineId: brm-p60-20-v8
       tyreManufacturerId: firestone
       drivers:
         - driverId: piers-courage
@@ -272,7 +276,8 @@
         - chassisId: brm-p261
         - chassisId: brm-p83
       engines:
-        - engineId: brm-p60-21-v8
+        - engineId: brm-p111-21-v8
+        - engineId: brm-p60-20-v8
         - engineId: brm-p75-30-h16
       tyreManufacturerId: firestone
       drivers:
@@ -307,7 +312,7 @@
   engineManufacturerId: ford
   chassisId: brabham-bt23
   engineId: ford-cosworth-fva-16-l4
-  tyreManufacturerId: dunlop
+  tyreManufacturerId: firestone
   driverId: alan-rees
   rounds: 7
 - entrantId: sam-tingle

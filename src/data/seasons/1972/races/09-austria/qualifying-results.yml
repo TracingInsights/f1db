@@ -144,9 +144,9 @@
   constructorId: brabham
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
-  time: "1:38.350"
-  gap: "+2.380"
-  interval: "+0.210"
+  time: "1:38.250"
+  gap: "+2.280"
+  interval: "+0.110"
   laps:
 - position: 16
   driverNumber: 6
@@ -156,7 +156,7 @@
   tyreManufacturerId: firestone
   time: "1:38.480"
   gap: "+2.510"
-  interval: "+0.130"
+  interval: "+0.230"
   laps:
 - position: 17
   driverNumber: 27

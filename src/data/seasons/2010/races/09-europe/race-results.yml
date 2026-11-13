@@ -48,7 +48,7 @@
   tyreManufacturerId: bridgestone
   laps: 57
   time: "1:40:55.198"
-  timePenalty:
+  timePenalty: "5.000"
   gap: "+25.627"
   interval: "+12.969"
   reasonRetired:
@@ -188,7 +188,7 @@
   tyreManufacturerId: bridgestone
   laps: 57
   time: "1:41:17.858"
-  timePenalty:
+  timePenalty: "5.000"
   gap: "+48.287"
   interval: "+0.048"
   reasonRetired:

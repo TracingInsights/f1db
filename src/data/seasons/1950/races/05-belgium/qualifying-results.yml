@@ -49,21 +49,21 @@
   interval: "+0.000"
   laps:
 - position: 6
-  driverNumber: 16
-  driverId: philippe-etancelin
-  constructorId: talbot-lago
-  engineManufacturerId: talbot-lago
-  tyreManufacturerId: dunlop
-  time: "4:49.000"
-  gap: "+12.000"
-  interval: "+2.000"
-  laps:
-- position: 7
   driverNumber: 4
   driverId: alberto-ascari
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
+  time: "4:49.000"
+  gap: "+12.000"
+  interval: "+2.000"
+  laps:
+- position: 7
+  driverNumber: 16
+  driverId: philippe-etancelin
+  constructorId: talbot-lago
+  engineManufacturerId: talbot-lago
+  tyreManufacturerId: dunlop
   time: "4:52.000"
   gap: "+15.000"
   interval: "+3.000"

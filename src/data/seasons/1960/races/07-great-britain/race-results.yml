@@ -200,10 +200,10 @@
   constructorId: cooper
   engineManufacturerId: castellotti
   tyreManufacturerId: dunlop
-  laps: 68
+  laps: 70
   time:
   timePenalty:
-  gap: "+9 laps"
+  gap: "+7 laps"
   interval:
   reasonRetired:
   points:
@@ -214,10 +214,10 @@
   constructorId: lotus
   engineManufacturerId: climax
   tyreManufacturerId: dunlop
-  laps: 68
+  laps: 70
   time:
   timePenalty:
-  gap: "+9 laps"
+  gap: "+7 laps"
   interval:
   reasonRetired:
   points:
@@ -242,7 +242,7 @@
   constructorId: cooper
   engineManufacturerId: climax
   tyreManufacturerId: dunlop
-  laps: 60
+  laps: 62
   time:
   timePenalty:
   gap:
@@ -298,7 +298,7 @@
   constructorId: cooper
   engineManufacturerId: climax
   tyreManufacturerId: dunlop
-  laps: 44
+  laps: 46
   time:
   timePenalty:
   gap:

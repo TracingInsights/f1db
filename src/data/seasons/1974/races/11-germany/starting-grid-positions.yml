@@ -99,7 +99,7 @@
   driverId: james-hunt
   constructorId: hesketh
   engineManufacturerId: ford
-  tyreManufacturerId: goodyear
+  tyreManufacturerId: firestone
   gridPenalty:
   time: "7:10.400"
 - position: 14
@@ -173,7 +173,7 @@
   engineManufacturerId: ford
   tyreManufacturerId: firestone
   gridPenalty:
-  time: "7:20.810"
+  time: "7:20.700"
 - position: 23
   driverNumber: 10
   driverId: vittorio-brambilla
@@ -181,7 +181,7 @@
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
   gridPenalty:
-  time: "7:20.880"
+  time: "7:20.800"
 - position: 24
   driverNumber: 15
   driverId: henri-pescarolo

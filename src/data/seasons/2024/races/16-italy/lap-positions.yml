@@ -1,0 +1,108 @@
+- lap: 0
+  drivers: [lando-norris, oscar-piastri, george-russell, charles-leclerc, carlos-sainz-jr, lewis-hamilton, max-verstappen, sergio-perez, alexander-albon, nico-hulkenberg, fernando-alonso, daniel-ricciardo, kevin-magnussen, pierre-gasly, esteban-ocon, yuki-tsunoda, lance-stroll, franco-colapinto, valtteri-bottas, guanyu-zhou]
+- lap: 1
+  drivers: [oscar-piastri, charles-leclerc, lando-norris, carlos-sainz-jr, lewis-hamilton, max-verstappen, george-russell, sergio-perez, alexander-albon, fernando-alonso, daniel-ricciardo, kevin-magnussen, pierre-gasly, yuki-tsunoda, esteban-ocon, nico-hulkenberg, lance-stroll, franco-colapinto, valtteri-bottas, guanyu-zhou]
+- lap: 2
+  drivers: [oscar-piastri, charles-leclerc, lando-norris, carlos-sainz-jr, lewis-hamilton, max-verstappen, george-russell, sergio-perez, alexander-albon, fernando-alonso, daniel-ricciardo, kevin-magnussen, pierre-gasly, esteban-ocon, yuki-tsunoda, nico-hulkenberg, franco-colapinto, lance-stroll, valtteri-bottas, guanyu-zhou]
+- lap: 3
+  drivers: [oscar-piastri, charles-leclerc, lando-norris, carlos-sainz-jr, lewis-hamilton, max-verstappen, george-russell, sergio-perez, alexander-albon, fernando-alonso, daniel-ricciardo, kevin-magnussen, pierre-gasly, esteban-ocon, yuki-tsunoda, nico-hulkenberg, franco-colapinto, lance-stroll, valtteri-bottas, guanyu-zhou]
+- lap: 4
+  drivers: [oscar-piastri, charles-leclerc, lando-norris, carlos-sainz-jr, lewis-hamilton, max-verstappen, george-russell, sergio-perez, alexander-albon, fernando-alonso, daniel-ricciardo, kevin-magnussen, pierre-gasly, esteban-ocon, yuki-tsunoda, nico-hulkenberg, franco-colapinto, lance-stroll, valtteri-bottas, guanyu-zhou]
+- lap: 5
+  drivers: [oscar-piastri, charles-leclerc, lando-norris, carlos-sainz-jr, lewis-hamilton, max-verstappen, george-russell, sergio-perez, alexander-albon, fernando-alonso, daniel-ricciardo, kevin-magnussen, pierre-gasly, esteban-ocon, franco-colapinto, lance-stroll, valtteri-bottas, nico-hulkenberg, yuki-tsunoda, guanyu-zhou]
+- lap: 6
+  drivers: [oscar-piastri, charles-leclerc, lando-norris, carlos-sainz-jr, lewis-hamilton, max-verstappen, george-russell, sergio-perez, alexander-albon, fernando-alonso, daniel-ricciardo, kevin-magnussen, pierre-gasly, esteban-ocon, franco-colapinto, lance-stroll, valtteri-bottas, guanyu-zhou, yuki-tsunoda, nico-hulkenberg]
+- lap: 7
+  drivers: [oscar-piastri, charles-leclerc, lando-norris, carlos-sainz-jr, lewis-hamilton, max-verstappen, george-russell, sergio-perez, alexander-albon, fernando-alonso, daniel-ricciardo, kevin-magnussen, pierre-gasly, esteban-ocon, lance-stroll, franco-colapinto, valtteri-bottas, guanyu-zhou, yuki-tsunoda, nico-hulkenberg]
+- lap: 8
+  drivers: [oscar-piastri, charles-leclerc, lando-norris, carlos-sainz-jr, lewis-hamilton, max-verstappen, george-russell, sergio-perez, alexander-albon, fernando-alonso, daniel-ricciardo, kevin-magnussen, pierre-gasly, esteban-ocon, lance-stroll, franco-colapinto, valtteri-bottas, guanyu-zhou, nico-hulkenberg]
+- lap: 9
+  drivers: [oscar-piastri, charles-leclerc, lando-norris, carlos-sainz-jr, lewis-hamilton, max-verstappen, george-russell, sergio-perez, alexander-albon, fernando-alonso, daniel-ricciardo, kevin-magnussen, esteban-ocon, pierre-gasly, lance-stroll, franco-colapinto, valtteri-bottas, guanyu-zhou, nico-hulkenberg]
+- lap: 10
+  drivers: [oscar-piastri, charles-leclerc, lando-norris, carlos-sainz-jr, lewis-hamilton, max-verstappen, george-russell, sergio-perez, alexander-albon, fernando-alonso, daniel-ricciardo, kevin-magnussen, esteban-ocon, lance-stroll, franco-colapinto, valtteri-bottas, pierre-gasly, guanyu-zhou, nico-hulkenberg]
+- lap: 11
+  drivers: [oscar-piastri, charles-leclerc, lando-norris, carlos-sainz-jr, lewis-hamilton, max-verstappen, sergio-perez, george-russell, alexander-albon, fernando-alonso, kevin-magnussen, esteban-ocon, lance-stroll, daniel-ricciardo, franco-colapinto, valtteri-bottas, guanyu-zhou, pierre-gasly, nico-hulkenberg]
+- lap: 12
+  drivers: [oscar-piastri, charles-leclerc, lando-norris, carlos-sainz-jr, lewis-hamilton, max-verstappen, sergio-perez, alexander-albon, kevin-magnussen, esteban-ocon, fernando-alonso, lance-stroll, franco-colapinto, valtteri-bottas, guanyu-zhou, george-russell, pierre-gasly, daniel-ricciardo, nico-hulkenberg]
+- lap: 13
+  drivers: [oscar-piastri, charles-leclerc, lando-norris, carlos-sainz-jr, lewis-hamilton, max-verstappen, sergio-perez, alexander-albon, kevin-magnussen, esteban-ocon, lance-stroll, franco-colapinto, valtteri-bottas, guanyu-zhou, fernando-alonso, george-russell, pierre-gasly, daniel-ricciardo, nico-hulkenberg]
+- lap: 14
+  drivers: [oscar-piastri, charles-leclerc, carlos-sainz-jr, lando-norris, lewis-hamilton, max-verstappen, sergio-perez, alexander-albon, esteban-ocon, lance-stroll, kevin-magnussen, franco-colapinto, valtteri-bottas, guanyu-zhou, george-russell, fernando-alonso, pierre-gasly, daniel-ricciardo, nico-hulkenberg]
+- lap: 15
+  drivers: [oscar-piastri, carlos-sainz-jr, charles-leclerc, max-verstappen, sergio-perez, lewis-hamilton, alexander-albon, lando-norris, esteban-ocon, lance-stroll, franco-colapinto, valtteri-bottas, guanyu-zhou, george-russell, fernando-alonso, pierre-gasly, kevin-magnussen, daniel-ricciardo, nico-hulkenberg]
+- lap: 16
+  drivers: [oscar-piastri, carlos-sainz-jr, max-verstappen, sergio-perez, alexander-albon, lando-norris, charles-leclerc, esteban-ocon, lance-stroll, lewis-hamilton, valtteri-bottas, franco-colapinto, george-russell, fernando-alonso, pierre-gasly, kevin-magnussen, daniel-ricciardo, nico-hulkenberg, guanyu-zhou]
+- lap: 17
+  drivers: [carlos-sainz-jr, max-verstappen, sergio-perez, oscar-piastri, lando-norris, charles-leclerc, alexander-albon, esteban-ocon, lance-stroll, lewis-hamilton, valtteri-bottas, george-russell, fernando-alonso, pierre-gasly, kevin-magnussen, daniel-ricciardo, franco-colapinto, nico-hulkenberg, guanyu-zhou]
+- lap: 18
+  drivers: [carlos-sainz-jr, max-verstappen, sergio-perez, oscar-piastri, lando-norris, charles-leclerc, esteban-ocon, lewis-hamilton, lance-stroll, valtteri-bottas, george-russell, fernando-alonso, alexander-albon, pierre-gasly, kevin-magnussen, daniel-ricciardo, franco-colapinto, nico-hulkenberg, guanyu-zhou]
+- lap: 19
+  drivers: [max-verstappen, carlos-sainz-jr, sergio-perez, oscar-piastri, lando-norris, charles-leclerc, esteban-ocon, lewis-hamilton, valtteri-bottas, lance-stroll, george-russell, fernando-alonso, alexander-albon, pierre-gasly, kevin-magnussen, daniel-ricciardo, franco-colapinto, nico-hulkenberg, guanyu-zhou]
+- lap: 20
+  drivers: [max-verstappen, sergio-perez, oscar-piastri, lando-norris, charles-leclerc, carlos-sainz-jr, lewis-hamilton, esteban-ocon, valtteri-bottas, george-russell, fernando-alonso, alexander-albon, pierre-gasly, kevin-magnussen, daniel-ricciardo, franco-colapinto, lance-stroll, nico-hulkenberg, guanyu-zhou]
+- lap: 21
+  drivers: [max-verstappen, sergio-perez, oscar-piastri, lando-norris, charles-leclerc, carlos-sainz-jr, lewis-hamilton, esteban-ocon, george-russell, valtteri-bottas, fernando-alonso, alexander-albon, pierre-gasly, kevin-magnussen, daniel-ricciardo, franco-colapinto, lance-stroll, nico-hulkenberg, guanyu-zhou]
+- lap: 22
+  drivers: [sergio-perez, max-verstappen, oscar-piastri, lando-norris, charles-leclerc, carlos-sainz-jr, lewis-hamilton, esteban-ocon, george-russell, fernando-alonso, valtteri-bottas, alexander-albon, pierre-gasly, kevin-magnussen, daniel-ricciardo, franco-colapinto, lance-stroll, nico-hulkenberg, guanyu-zhou]
+- lap: 23
+  drivers: [oscar-piastri, lando-norris, charles-leclerc, sergio-perez, carlos-sainz-jr, lewis-hamilton, esteban-ocon, max-verstappen, george-russell, fernando-alonso, valtteri-bottas, alexander-albon, kevin-magnussen, pierre-gasly, daniel-ricciardo, franco-colapinto, lance-stroll, nico-hulkenberg, guanyu-zhou]
+- lap: 24
+  drivers: [oscar-piastri, lando-norris, charles-leclerc, carlos-sainz-jr, lewis-hamilton, max-verstappen, esteban-ocon, sergio-perez, george-russell, fernando-alonso, valtteri-bottas, alexander-albon, kevin-magnussen, pierre-gasly, daniel-ricciardo, franco-colapinto, lance-stroll, nico-hulkenberg, guanyu-zhou]
+- lap: 25
+  drivers: [oscar-piastri, lando-norris, charles-leclerc, carlos-sainz-jr, lewis-hamilton, max-verstappen, sergio-perez, george-russell, esteban-ocon, fernando-alonso, alexander-albon, valtteri-bottas, kevin-magnussen, pierre-gasly, daniel-ricciardo, franco-colapinto, lance-stroll, nico-hulkenberg, guanyu-zhou]
+- lap: 26
+  drivers: [oscar-piastri, lando-norris, charles-leclerc, carlos-sainz-jr, lewis-hamilton, max-verstappen, sergio-perez, george-russell, esteban-ocon, fernando-alonso, alexander-albon, kevin-magnussen, valtteri-bottas, pierre-gasly, daniel-ricciardo, franco-colapinto, lance-stroll, nico-hulkenberg, guanyu-zhou]
+- lap: 27
+  drivers: [oscar-piastri, lando-norris, charles-leclerc, carlos-sainz-jr, lewis-hamilton, max-verstappen, sergio-perez, george-russell, fernando-alonso, esteban-ocon, alexander-albon, kevin-magnussen, valtteri-bottas, daniel-ricciardo, pierre-gasly, franco-colapinto, lance-stroll, nico-hulkenberg, guanyu-zhou]
+- lap: 28
+  drivers: [oscar-piastri, lando-norris, charles-leclerc, carlos-sainz-jr, lewis-hamilton, max-verstappen, sergio-perez, george-russell, fernando-alonso, esteban-ocon, alexander-albon, kevin-magnussen, valtteri-bottas, daniel-ricciardo, pierre-gasly, franco-colapinto, lance-stroll, nico-hulkenberg, guanyu-zhou]
+- lap: 29
+  drivers: [oscar-piastri, lando-norris, charles-leclerc, carlos-sainz-jr, lewis-hamilton, max-verstappen, sergio-perez, george-russell, fernando-alonso, esteban-ocon, alexander-albon, kevin-magnussen, daniel-ricciardo, valtteri-bottas, pierre-gasly, franco-colapinto, lance-stroll, nico-hulkenberg, guanyu-zhou]
+- lap: 30
+  drivers: [oscar-piastri, lando-norris, charles-leclerc, carlos-sainz-jr, lewis-hamilton, max-verstappen, sergio-perez, george-russell, fernando-alonso, esteban-ocon, alexander-albon, kevin-magnussen, daniel-ricciardo, valtteri-bottas, franco-colapinto, lance-stroll, pierre-gasly, nico-hulkenberg, guanyu-zhou]
+- lap: 31
+  drivers: [oscar-piastri, lando-norris, charles-leclerc, carlos-sainz-jr, lewis-hamilton, max-verstappen, sergio-perez, george-russell, fernando-alonso, alexander-albon, kevin-magnussen, esteban-ocon, daniel-ricciardo, valtteri-bottas, franco-colapinto, lance-stroll, nico-hulkenberg, guanyu-zhou, pierre-gasly]
+- lap: 32
+  drivers: [oscar-piastri, charles-leclerc, lando-norris, carlos-sainz-jr, lewis-hamilton, max-verstappen, sergio-perez, george-russell, fernando-alonso, alexander-albon, kevin-magnussen, daniel-ricciardo, franco-colapinto, lance-stroll, valtteri-bottas, esteban-ocon, nico-hulkenberg, guanyu-zhou, pierre-gasly]
+- lap: 33
+  drivers: [oscar-piastri, charles-leclerc, carlos-sainz-jr, lewis-hamilton, max-verstappen, lando-norris, sergio-perez, george-russell, fernando-alonso, kevin-magnussen, alexander-albon, daniel-ricciardo, franco-colapinto, lance-stroll, valtteri-bottas, esteban-ocon, guanyu-zhou, pierre-gasly, nico-hulkenberg]
+- lap: 34
+  drivers: [oscar-piastri, charles-leclerc, carlos-sainz-jr, lewis-hamilton, max-verstappen, lando-norris, sergio-perez, fernando-alonso, kevin-magnussen, alexander-albon, daniel-ricciardo, george-russell, franco-colapinto, lance-stroll, esteban-ocon, guanyu-zhou, pierre-gasly, valtteri-bottas, nico-hulkenberg]
+- lap: 35
+  drivers: [oscar-piastri, charles-leclerc, carlos-sainz-jr, lewis-hamilton, max-verstappen, lando-norris, sergio-perez, kevin-magnussen, fernando-alonso, alexander-albon, george-russell, daniel-ricciardo, franco-colapinto, lance-stroll, esteban-ocon, guanyu-zhou, pierre-gasly, valtteri-bottas, nico-hulkenberg]
+- lap: 36
+  drivers: [oscar-piastri, charles-leclerc, carlos-sainz-jr, lewis-hamilton, max-verstappen, lando-norris, kevin-magnussen, alexander-albon, sergio-perez, george-russell, daniel-ricciardo, franco-colapinto, lance-stroll, fernando-alonso, esteban-ocon, guanyu-zhou, pierre-gasly, valtteri-bottas, nico-hulkenberg]
+- lap: 37
+  drivers: [oscar-piastri, charles-leclerc, carlos-sainz-jr, lewis-hamilton, max-verstappen, lando-norris, kevin-magnussen, sergio-perez, george-russell, alexander-albon, daniel-ricciardo, franco-colapinto, fernando-alonso, esteban-ocon, guanyu-zhou, pierre-gasly, lance-stroll, valtteri-bottas, nico-hulkenberg]
+- lap: 38
+  drivers: [oscar-piastri, charles-leclerc, carlos-sainz-jr, max-verstappen, lando-norris, lewis-hamilton, kevin-magnussen, george-russell, sergio-perez, alexander-albon, daniel-ricciardo, franco-colapinto, fernando-alonso, esteban-ocon, guanyu-zhou, lance-stroll, pierre-gasly, valtteri-bottas, nico-hulkenberg]
+- lap: 39
+  drivers: [charles-leclerc, carlos-sainz-jr, oscar-piastri, max-verstappen, lando-norris, lewis-hamilton, kevin-magnussen, george-russell, sergio-perez, alexander-albon, daniel-ricciardo, franco-colapinto, fernando-alonso, esteban-ocon, guanyu-zhou, lance-stroll, pierre-gasly, valtteri-bottas, nico-hulkenberg]
+- lap: 40
+  drivers: [charles-leclerc, carlos-sainz-jr, oscar-piastri, max-verstappen, lando-norris, lewis-hamilton, kevin-magnussen, george-russell, sergio-perez, alexander-albon, daniel-ricciardo, franco-colapinto, fernando-alonso, esteban-ocon, guanyu-zhou, lance-stroll, pierre-gasly, valtteri-bottas, nico-hulkenberg]
+- lap: 41
+  drivers: [charles-leclerc, carlos-sainz-jr, oscar-piastri, lando-norris, max-verstappen, lewis-hamilton, kevin-magnussen, george-russell, sergio-perez, alexander-albon, daniel-ricciardo, franco-colapinto, fernando-alonso, esteban-ocon, lance-stroll, guanyu-zhou, pierre-gasly, valtteri-bottas, nico-hulkenberg]
+- lap: 42
+  drivers: [charles-leclerc, carlos-sainz-jr, oscar-piastri, lando-norris, lewis-hamilton, max-verstappen, george-russell, kevin-magnussen, sergio-perez, alexander-albon, daniel-ricciardo, franco-colapinto, fernando-alonso, esteban-ocon, lance-stroll, pierre-gasly, guanyu-zhou, valtteri-bottas, nico-hulkenberg]
+- lap: 43
+  drivers: [charles-leclerc, carlos-sainz-jr, oscar-piastri, lando-norris, lewis-hamilton, max-verstappen, george-russell, kevin-magnussen, sergio-perez, alexander-albon, daniel-ricciardo, fernando-alonso, franco-colapinto, esteban-ocon, lance-stroll, pierre-gasly, guanyu-zhou, valtteri-bottas, nico-hulkenberg]
+- lap: 44
+  drivers: [charles-leclerc, carlos-sainz-jr, oscar-piastri, lando-norris, lewis-hamilton, max-verstappen, george-russell, sergio-perez, kevin-magnussen, alexander-albon, daniel-ricciardo, fernando-alonso, franco-colapinto, esteban-ocon, lance-stroll, pierre-gasly, guanyu-zhou, valtteri-bottas, nico-hulkenberg]
+- lap: 45
+  drivers: [charles-leclerc, oscar-piastri, carlos-sainz-jr, lando-norris, lewis-hamilton, max-verstappen, george-russell, sergio-perez, kevin-magnussen, alexander-albon, daniel-ricciardo, fernando-alonso, franco-colapinto, esteban-ocon, lance-stroll, pierre-gasly, guanyu-zhou, valtteri-bottas, nico-hulkenberg]
+- lap: 46
+  drivers: [charles-leclerc, oscar-piastri, carlos-sainz-jr, lando-norris, lewis-hamilton, max-verstappen, george-russell, sergio-perez, kevin-magnussen, alexander-albon, fernando-alonso, daniel-ricciardo, franco-colapinto, esteban-ocon, lance-stroll, pierre-gasly, guanyu-zhou, valtteri-bottas, nico-hulkenberg]
+- lap: 47
+  drivers: [charles-leclerc, oscar-piastri, carlos-sainz-jr, lando-norris, lewis-hamilton, max-verstappen, george-russell, sergio-perez, kevin-magnussen, alexander-albon, fernando-alonso, daniel-ricciardo, franco-colapinto, esteban-ocon, lance-stroll, pierre-gasly, valtteri-bottas, guanyu-zhou, nico-hulkenberg]
+- lap: 48
+  drivers: [charles-leclerc, oscar-piastri, lando-norris, carlos-sainz-jr, lewis-hamilton, max-verstappen, george-russell, sergio-perez, kevin-magnussen, alexander-albon, fernando-alonso, daniel-ricciardo, franco-colapinto, esteban-ocon, lance-stroll, pierre-gasly, valtteri-bottas, guanyu-zhou, nico-hulkenberg]
+- lap: 49
+  drivers: [charles-leclerc, oscar-piastri, lando-norris, carlos-sainz-jr, lewis-hamilton, max-verstappen, george-russell, sergio-perez, kevin-magnussen, alexander-albon, fernando-alonso, daniel-ricciardo, franco-colapinto, esteban-ocon, lance-stroll, pierre-gasly, valtteri-bottas, nico-hulkenberg, guanyu-zhou]
+- lap: 50
+  drivers: [charles-leclerc, oscar-piastri, lando-norris, carlos-sainz-jr, lewis-hamilton, max-verstappen, george-russell, sergio-perez, kevin-magnussen, alexander-albon, fernando-alonso, daniel-ricciardo, franco-colapinto, esteban-ocon, lance-stroll, pierre-gasly, valtteri-bottas, nico-hulkenberg, guanyu-zhou]
+- lap: 51
+  drivers: [charles-leclerc, oscar-piastri, lando-norris, carlos-sainz-jr, lewis-hamilton, max-verstappen, george-russell, sergio-perez, kevin-magnussen, alexander-albon, fernando-alonso, daniel-ricciardo, franco-colapinto, esteban-ocon, pierre-gasly, valtteri-bottas, nico-hulkenberg, guanyu-zhou, lance-stroll]
+- lap: 52
+  drivers: [charles-leclerc, oscar-piastri, lando-norris, carlos-sainz-jr, lewis-hamilton, max-verstappen, george-russell, sergio-perez, kevin-magnussen, alexander-albon, fernando-alonso, daniel-ricciardo, franco-colapinto, esteban-ocon, pierre-gasly, valtteri-bottas, nico-hulkenberg, guanyu-zhou, lance-stroll]
+- lap: 53
+  drivers: [charles-leclerc, oscar-piastri, lando-norris, carlos-sainz-jr, lewis-hamilton, max-verstappen, george-russell, sergio-perez, kevin-magnussen, alexander-albon, fernando-alonso, daniel-ricciardo, franco-colapinto]

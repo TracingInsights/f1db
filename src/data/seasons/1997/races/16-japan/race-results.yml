@@ -138,7 +138,7 @@
   reasonRetired: Engine
   points:
   gridPosition: 11
-- position: 12
+- position: 11
   driverNumber: 1
   driverId: damon-hill
   constructorId: arrows
@@ -152,7 +152,7 @@
   reasonRetired:
   points:
   gridPosition: 17
-- position: 13
+- position: 12
   driverNumber: 2
   driverId: pedro-diniz
   constructorId: arrows
@@ -166,7 +166,7 @@
   reasonRetired:
   points:
   gridPosition: 16
-- position: 14
+- position: 13
   driverNumber: 18
   driverId: jos-verstappen
   constructorId: tyrrell

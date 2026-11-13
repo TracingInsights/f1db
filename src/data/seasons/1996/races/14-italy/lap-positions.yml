@@ -1,0 +1,108 @@
+- lap: 0
+  drivers: [damon-hill, jacques-villeneuve, michael-schumacher, mika-hakkinen, david-coulthard, jean-alesi, eddie-irvine, gerhard-berger, martin-brundle, rubens-barrichello, olivier-panis, johnny-herbert, heinz-harald-frentzen, pedro-diniz, jos-verstappen, ukyo-katayama, mika-salo, pedro-lamy, ricardo-rosset, giovanni-lavaggi]
+- lap: 1
+  drivers: [damon-hill, jean-alesi, mika-hakkinen, jacques-villeneuve, david-coulthard, michael-schumacher, gerhard-berger, eddie-irvine, johnny-herbert, martin-brundle, pedro-diniz, rubens-barrichello, heinz-harald-frentzen, jos-verstappen, ukyo-katayama, mika-salo, olivier-panis, ricardo-rosset, pedro-lamy, giovanni-lavaggi]
+- lap: 2
+  drivers: [damon-hill, jean-alesi, mika-hakkinen, michael-schumacher, jacques-villeneuve, gerhard-berger, eddie-irvine, johnny-herbert, martin-brundle, rubens-barrichello, heinz-harald-frentzen, jos-verstappen, pedro-diniz, ukyo-katayama, olivier-panis, mika-salo, ricardo-rosset, giovanni-lavaggi, pedro-lamy]
+- lap: 3
+  drivers: [damon-hill, jean-alesi, mika-hakkinen, michael-schumacher, jacques-villeneuve, gerhard-berger, eddie-irvine, martin-brundle, johnny-herbert, rubens-barrichello, heinz-harald-frentzen, jos-verstappen, pedro-diniz, mika-salo, ricardo-rosset, giovanni-lavaggi, pedro-lamy, ukyo-katayama]
+- lap: 4
+  drivers: [damon-hill, jean-alesi, michael-schumacher, jacques-villeneuve, gerhard-berger, eddie-irvine, martin-brundle, rubens-barrichello, johnny-herbert, heinz-harald-frentzen, jos-verstappen, pedro-diniz, mika-salo, ricardo-rosset, giovanni-lavaggi, pedro-lamy, mika-hakkinen, ukyo-katayama]
+- lap: 5
+  drivers: [damon-hill, jean-alesi, michael-schumacher, jacques-villeneuve, eddie-irvine, martin-brundle, rubens-barrichello, johnny-herbert, heinz-harald-frentzen, jos-verstappen, pedro-diniz, mika-salo, ricardo-rosset, mika-hakkinen, pedro-lamy, giovanni-lavaggi, ukyo-katayama]
+- lap: 6
+  drivers: [jean-alesi, michael-schumacher, eddie-irvine, jacques-villeneuve, martin-brundle, rubens-barrichello, johnny-herbert, heinz-harald-frentzen, jos-verstappen, pedro-diniz, mika-salo, ricardo-rosset, mika-hakkinen, pedro-lamy, ukyo-katayama]
+- lap: 7
+  drivers: [jean-alesi, michael-schumacher, eddie-irvine, jacques-villeneuve, martin-brundle, rubens-barrichello, johnny-herbert, heinz-harald-frentzen, jos-verstappen, pedro-diniz, mika-salo, mika-hakkinen, ricardo-rosset, pedro-lamy, ukyo-katayama]
+- lap: 8
+  drivers: [jean-alesi, michael-schumacher, eddie-irvine, jacques-villeneuve, martin-brundle, rubens-barrichello, johnny-herbert, jos-verstappen, pedro-diniz, mika-salo, mika-hakkinen, ricardo-rosset, pedro-lamy, ukyo-katayama]
+- lap: 9
+  drivers: [jean-alesi, michael-schumacher, eddie-irvine, jacques-villeneuve, martin-brundle, rubens-barrichello, johnny-herbert, jos-verstappen, pedro-diniz, mika-salo, mika-hakkinen, ricardo-rosset, pedro-lamy, ukyo-katayama]
+- lap: 10
+  drivers: [jean-alesi, michael-schumacher, eddie-irvine, jacques-villeneuve, martin-brundle, rubens-barrichello, johnny-herbert, jos-verstappen, pedro-diniz, mika-hakkinen, ricardo-rosset, pedro-lamy, ukyo-katayama]
+- lap: 11
+  drivers: [jean-alesi, michael-schumacher, eddie-irvine, martin-brundle, rubens-barrichello, johnny-herbert, jos-verstappen, pedro-diniz, mika-hakkinen, jacques-villeneuve, ricardo-rosset, pedro-lamy, ukyo-katayama]
+- lap: 12
+  drivers: [jean-alesi, michael-schumacher, eddie-irvine, martin-brundle, rubens-barrichello, johnny-herbert, jos-verstappen, pedro-diniz, mika-hakkinen, jacques-villeneuve, ricardo-rosset, pedro-lamy, ukyo-katayama]
+- lap: 13
+  drivers: [jean-alesi, michael-schumacher, eddie-irvine, martin-brundle, rubens-barrichello, johnny-herbert, jos-verstappen, pedro-diniz, mika-hakkinen, jacques-villeneuve, ricardo-rosset, ukyo-katayama]
+- lap: 14
+  drivers: [jean-alesi, michael-schumacher, eddie-irvine, martin-brundle, rubens-barrichello, johnny-herbert, jos-verstappen, pedro-diniz, mika-hakkinen, jacques-villeneuve, ricardo-rosset, ukyo-katayama]
+- lap: 15
+  drivers: [jean-alesi, michael-schumacher, eddie-irvine, martin-brundle, rubens-barrichello, johnny-herbert, pedro-diniz, mika-hakkinen, jos-verstappen, jacques-villeneuve, ricardo-rosset, ukyo-katayama]
+- lap: 16
+  drivers: [jean-alesi, michael-schumacher, eddie-irvine, martin-brundle, rubens-barrichello, johnny-herbert, pedro-diniz, mika-hakkinen, jos-verstappen, jacques-villeneuve, ricardo-rosset, ukyo-katayama]
+- lap: 17
+  drivers: [jean-alesi, michael-schumacher, eddie-irvine, martin-brundle, rubens-barrichello, johnny-herbert, pedro-diniz, mika-hakkinen, jacques-villeneuve, jos-verstappen, ricardo-rosset, ukyo-katayama]
+- lap: 18
+  drivers: [jean-alesi, michael-schumacher, eddie-irvine, martin-brundle, rubens-barrichello, pedro-diniz, johnny-herbert, mika-hakkinen, jacques-villeneuve, jos-verstappen, ricardo-rosset, ukyo-katayama]
+- lap: 19
+  drivers: [jean-alesi, michael-schumacher, eddie-irvine, martin-brundle, rubens-barrichello, pedro-diniz, mika-hakkinen, johnny-herbert, jacques-villeneuve, jos-verstappen, ricardo-rosset, ukyo-katayama]
+- lap: 20
+  drivers: [jean-alesi, michael-schumacher, eddie-irvine, martin-brundle, rubens-barrichello, pedro-diniz, mika-hakkinen, johnny-herbert, jacques-villeneuve, jos-verstappen, ricardo-rosset, ukyo-katayama]
+- lap: 21
+  drivers: [jean-alesi, michael-schumacher, eddie-irvine, martin-brundle, rubens-barrichello, pedro-diniz, mika-hakkinen, johnny-herbert, jacques-villeneuve, jos-verstappen, ricardo-rosset, ukyo-katayama]
+- lap: 22
+  drivers: [jean-alesi, michael-schumacher, eddie-irvine, martin-brundle, rubens-barrichello, pedro-diniz, mika-hakkinen, johnny-herbert, jacques-villeneuve, jos-verstappen, ricardo-rosset, ukyo-katayama]
+- lap: 23
+  drivers: [jean-alesi, michael-schumacher, eddie-irvine, martin-brundle, rubens-barrichello, pedro-diniz, mika-hakkinen, johnny-herbert, jacques-villeneuve, jos-verstappen, ricardo-rosset, ukyo-katayama]
+- lap: 24
+  drivers: [jean-alesi, michael-schumacher, martin-brundle, rubens-barrichello, pedro-diniz, mika-hakkinen, johnny-herbert, jacques-villeneuve, jos-verstappen, ricardo-rosset, ukyo-katayama]
+- lap: 25
+  drivers: [jean-alesi, michael-schumacher, martin-brundle, rubens-barrichello, pedro-diniz, mika-hakkinen, johnny-herbert, jos-verstappen, jacques-villeneuve, ricardo-rosset, ukyo-katayama]
+- lap: 26
+  drivers: [jean-alesi, michael-schumacher, martin-brundle, rubens-barrichello, mika-hakkinen, johnny-herbert, pedro-diniz, jos-verstappen, jacques-villeneuve, ricardo-rosset, ukyo-katayama]
+- lap: 27
+  drivers: [jean-alesi, michael-schumacher, rubens-barrichello, mika-hakkinen, johnny-herbert, martin-brundle, pedro-diniz, jos-verstappen, jacques-villeneuve, ricardo-rosset, ukyo-katayama]
+- lap: 28
+  drivers: [jean-alesi, michael-schumacher, rubens-barrichello, mika-hakkinen, johnny-herbert, martin-brundle, pedro-diniz, jos-verstappen, jacques-villeneuve, ricardo-rosset, ukyo-katayama]
+- lap: 29
+  drivers: [jean-alesi, michael-schumacher, rubens-barrichello, mika-hakkinen, martin-brundle, pedro-diniz, johnny-herbert, jos-verstappen, jacques-villeneuve, ricardo-rosset, ukyo-katayama]
+- lap: 30
+  drivers: [jean-alesi, michael-schumacher, rubens-barrichello, mika-hakkinen, martin-brundle, pedro-diniz, johnny-herbert, jos-verstappen, jacques-villeneuve, ricardo-rosset, ukyo-katayama]
+- lap: 31
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, rubens-barrichello, martin-brundle, pedro-diniz, johnny-herbert, jos-verstappen, jacques-villeneuve, ricardo-rosset, ukyo-katayama]
+- lap: 32
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, rubens-barrichello, pedro-diniz, johnny-herbert, jos-verstappen, jacques-villeneuve, ricardo-rosset, ukyo-katayama]
+- lap: 33
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, rubens-barrichello, pedro-diniz, johnny-herbert, jos-verstappen, jacques-villeneuve, ricardo-rosset, ukyo-katayama]
+- lap: 34
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, rubens-barrichello, pedro-diniz, johnny-herbert, jacques-villeneuve, jos-verstappen, ricardo-rosset, ukyo-katayama]
+- lap: 35
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, rubens-barrichello, pedro-diniz, johnny-herbert, jacques-villeneuve, jos-verstappen, ricardo-rosset, ukyo-katayama]
+- lap: 36
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, rubens-barrichello, pedro-diniz, johnny-herbert, jacques-villeneuve, jos-verstappen, ricardo-rosset, ukyo-katayama]
+- lap: 37
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, rubens-barrichello, pedro-diniz, johnny-herbert, jacques-villeneuve, jos-verstappen, ukyo-katayama]
+- lap: 38
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, rubens-barrichello, pedro-diniz, johnny-herbert, jacques-villeneuve, jos-verstappen, ukyo-katayama]
+- lap: 39
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, rubens-barrichello, pedro-diniz, johnny-herbert, jacques-villeneuve, jos-verstappen, ukyo-katayama]
+- lap: 40
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, rubens-barrichello, pedro-diniz, johnny-herbert, jacques-villeneuve, jos-verstappen, ukyo-katayama]
+- lap: 41
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, rubens-barrichello, pedro-diniz, johnny-herbert, jacques-villeneuve, jos-verstappen, ukyo-katayama]
+- lap: 42
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, rubens-barrichello, pedro-diniz, johnny-herbert, jacques-villeneuve, jos-verstappen, ukyo-katayama]
+- lap: 43
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, rubens-barrichello, pedro-diniz, johnny-herbert, jacques-villeneuve, jos-verstappen, ukyo-katayama]
+- lap: 44
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, rubens-barrichello, pedro-diniz, johnny-herbert, jacques-villeneuve, jos-verstappen, ukyo-katayama]
+- lap: 45
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, rubens-barrichello, pedro-diniz, johnny-herbert, jacques-villeneuve, jos-verstappen, ukyo-katayama]
+- lap: 46
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, rubens-barrichello, pedro-diniz, johnny-herbert, jacques-villeneuve, jos-verstappen, ukyo-katayama]
+- lap: 47
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, rubens-barrichello, pedro-diniz, johnny-herbert, jacques-villeneuve, jos-verstappen, ukyo-katayama]
+- lap: 48
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, rubens-barrichello, pedro-diniz, johnny-herbert, jacques-villeneuve, jos-verstappen, ukyo-katayama]
+- lap: 49
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, rubens-barrichello, pedro-diniz, johnny-herbert, jacques-villeneuve, jos-verstappen, ukyo-katayama]
+- lap: 50
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, rubens-barrichello, pedro-diniz, johnny-herbert, jacques-villeneuve, jos-verstappen, ukyo-katayama]
+- lap: 51
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, rubens-barrichello, pedro-diniz, johnny-herbert, jacques-villeneuve, jos-verstappen, ukyo-katayama]
+- lap: 52
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, rubens-barrichello, pedro-diniz, jacques-villeneuve, jos-verstappen]
+- lap: 53
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, martin-brundle, rubens-barrichello]

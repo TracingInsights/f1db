@@ -17,6 +17,7 @@ import com.f1db.plugin.reader.databind.StartingGridPositionMixIn
 import com.f1db.plugin.schema.single.DriverOfTheDayResult
 import com.f1db.plugin.schema.single.F1db
 import com.f1db.plugin.schema.single.FastestLap
+import com.f1db.plugin.schema.single.LapPosition
 import com.f1db.plugin.schema.single.PitStop
 import com.f1db.plugin.schema.single.PracticeResult
 import com.f1db.plugin.schema.single.QualifyingResult
@@ -124,6 +125,9 @@ class F1DBReader(
                 race.raceResults = readValues(raceDir, "race-results.yml")
                 race.fastestLaps = readValues(raceDir, "fastest-laps.yml")
                 race.pitStops = readValues(raceDir, "pit-stops.yml")
+                race.sprintFastestLaps = readValues(raceDir, "sprint-fastest-laps.yml")
+                race.lapPositions = readLapPositions(raceDir, "lap-positions.yml", race.raceResults)
+                race.sprintLapPositions = readLapPositions(raceDir, "sprint-lap-positions.yml", race.sprintRaceResults)
                 race.driverOfTheDayResults = readValues(raceDir, "driver-of-the-day-results.yml")
                 race.driverStandings = readValues(raceDir, "driver-standings.yml")
                 race.constructorStandings = readValues(raceDir, "constructor-standings.yml")
@@ -524,6 +528,12 @@ class F1DBReader(
                 // Enrich fastest laps.
 
                 race.fastestLaps?.forEachIndexed { index, fastestLap ->
+                    fastestLap.positionDisplayOrder = index + 1
+                }
+
+                // Enrich sprint fastest laps.
+
+                race.sprintFastestLaps?.forEachIndexed { index, fastestLap ->
                     fastestLap.positionDisplayOrder = index + 1
                 }
 
@@ -1103,6 +1113,44 @@ class F1DBReader(
 
     private inline fun <reified T : Any> readValue(parent: File, path: String): T {
         return mapper.readValue(File(parent, path))
+    }
+
+    /**
+     * Reads a compact lap positions file: a list of `{lap: <n>, drivers: [<driverId> | "<driverNumber>:<driverId>", ...]}`
+     * rows (running order at the end of each lap) and expands it to one [LapPosition] per driver and lap, taking the car
+     * (number, constructor, engine, tyre) from the matching race (or sprint race) result.
+     */
+    private fun readLapPositions(raceDir: File, path: String, results: List<RaceResult>?): List<LapPosition>? {
+        val file = File(raceDir, path)
+        if (!file.exists()) {
+            return null
+        }
+        val rows = mapper.readValue(file, List::class.java) ?: return emptyList()
+        val lapPositions = mutableListOf<LapPosition>()
+        rows.forEach { row ->
+            val map = row as Map<*, *>
+            val lap = (map["lap"] as Number).toInt()
+            val drivers = map["drivers"] as List<*>
+            drivers.forEachIndexed { index, entry ->
+                val key = entry.toString()
+                val driverNumber = if (key.contains(':')) key.substringBefore(':') else null
+                val driverId = key.substringAfter(':')
+                val matches = results?.filter { it.driverId == driverId && (driverNumber == null || it.driverNumber == driverNumber) } ?: emptyList()
+                check(matches.size == 1) { "${file.path}: lap $lap: '$key' matches ${matches.size} result rows" }
+                val result = matches.first()
+                val lapPosition = LapPosition()
+                lapPosition.positionDisplayOrder = lapPositions.size + 1
+                lapPosition.lap = lap
+                lapPosition.positionNumber = index + 1
+                lapPosition.driverNumber = result.driverNumber
+                lapPosition.driverId = result.driverId
+                lapPosition.constructorId = result.constructorId
+                lapPosition.engineManufacturerId = result.engineManufacturerId
+                lapPosition.tyreManufacturerId = result.tyreManufacturerId
+                lapPositions.add(lapPosition)
+            }
+        }
+        return lapPositions
     }
 
     private inline fun <reified T : Any> readValues(path: String): List<T>? {

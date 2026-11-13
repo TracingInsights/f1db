@@ -430,7 +430,7 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Entry deposit not paid
   points:
   gridPosition:
 - position: EX
@@ -444,6 +444,6 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Entry deposit not paid
   points:
   gridPosition:

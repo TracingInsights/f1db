@@ -88,10 +88,10 @@
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: englebert
-  laps: 97
+  laps: 95
   time:
   timePenalty:
-  gap: "+3 laps"
+  gap: "+5 laps"
   interval:
   reasonRetired:
   points:

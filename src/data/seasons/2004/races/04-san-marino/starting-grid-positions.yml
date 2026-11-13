@@ -148,7 +148,7 @@
   constructorId: minardi
   engineManufacturerId: cosworth
   tyreManufacturerId: bridgestone
-  gridPenalty:
+  gridPenalty: 10
   time: "1:46.299"
 - position: 20
   driverNumber: 6
@@ -156,5 +156,5 @@
   constructorId: mclaren
   engineManufacturerId: mercedes
   tyreManufacturerId: michelin
-  gridPenalty:
+  gridPenalty: 10
   time:

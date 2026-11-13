@@ -47,7 +47,7 @@
   engineManufacturerId: alfa-romeo
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 50
   time:
   timePenalty:
   gap:
@@ -304,7 +304,7 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Engine
   points:
   gridPosition: 8
 - position: DNS
@@ -332,7 +332,7 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Accident
   points:
   gridPosition:
 - position: DNS

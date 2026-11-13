@@ -104,7 +104,7 @@
   tyreManufacturerId: pirelli
   laps: 69
   time:
-  timePenalty:
+  timePenalty: "60.000"
   gap: "+1 lap"
   interval:
   reasonRetired:
@@ -334,13 +334,13 @@
   reasonRetired: Turbo
   points:
   gridPosition: 18
-- position: DNS
+- position: DNF
   driverNumber: 7
   driverId: nelson-piquet
   constructorId: brabham
   engineManufacturerId: bmw
   tyreManufacturerId: pirelli
-  laps:
+  laps: 0
   time:
   timePenalty:
   gap:

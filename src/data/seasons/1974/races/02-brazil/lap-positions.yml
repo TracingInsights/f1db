@@ -1,0 +1,66 @@
+- lap: 0
+  drivers: [emerson-fittipaldi, carlos-reutemann, niki-lauda, ronnie-peterson, jacky-ickx, peter-revson, mike-hailwood, clay-regazzoni, arturo-merzario, jochen-mass, denny-hulme, carlos-pace, hans-joachim-stuck, jody-scheckter, john-watson, patrick-depailler, jean-pierre-beltoise, james-hunt, jean-pierre-jarier, howden-ganley, graham-hill, henri-pescarolo, francois-migault, richard-robarts, guy-edwards]
+- lap: 1
+  drivers: [carlos-reutemann, ronnie-peterson, emerson-fittipaldi, clay-regazzoni, jacky-ickx, peter-revson, jochen-mass, denny-hulme, carlos-pace, niki-lauda, jody-scheckter, james-hunt, patrick-depailler, mike-hailwood, john-watson, jean-pierre-jarier, henri-pescarolo, jean-pierre-beltoise, hans-joachim-stuck, richard-robarts, howden-ganley, guy-edwards, graham-hill, francois-migault, arturo-merzario]
+- lap: 2
+  drivers: [carlos-reutemann, ronnie-peterson, emerson-fittipaldi, clay-regazzoni, jacky-ickx, peter-revson, jochen-mass, carlos-pace, jody-scheckter, james-hunt, niki-lauda, mike-hailwood, denny-hulme, patrick-depailler, hans-joachim-stuck, jean-pierre-jarier, henri-pescarolo, jean-pierre-beltoise, richard-robarts, graham-hill, guy-edwards, francois-migault, john-watson, howden-ganley, arturo-merzario]
+- lap: 3
+  drivers: [carlos-reutemann, ronnie-peterson, emerson-fittipaldi, clay-regazzoni, jacky-ickx, peter-revson, carlos-pace, jochen-mass, jody-scheckter, james-hunt, mike-hailwood, denny-hulme, patrick-depailler, hans-joachim-stuck, jean-pierre-jarier, henri-pescarolo, jean-pierre-beltoise, richard-robarts, graham-hill, francois-migault, guy-edwards, arturo-merzario, john-watson, howden-ganley, niki-lauda]
+- lap: 4
+  drivers: [ronnie-peterson, emerson-fittipaldi, carlos-reutemann, clay-regazzoni, jacky-ickx, peter-revson, carlos-pace, jochen-mass, jody-scheckter, james-hunt, mike-hailwood, denny-hulme, hans-joachim-stuck, patrick-depailler, jean-pierre-jarier, henri-pescarolo, jean-pierre-beltoise, richard-robarts, graham-hill, francois-migault, arturo-merzario, john-watson, howden-ganley]
+- lap: 5
+  drivers: [ronnie-peterson, emerson-fittipaldi, carlos-reutemann, clay-regazzoni, jacky-ickx, peter-revson, carlos-pace, jochen-mass, jody-scheckter, mike-hailwood, denny-hulme, james-hunt, hans-joachim-stuck, patrick-depailler, jean-pierre-jarier, henri-pescarolo, jean-pierre-beltoise, richard-robarts, graham-hill, francois-migault, arturo-merzario, john-watson, howden-ganley]
+- lap: 6
+  drivers: [ronnie-peterson, emerson-fittipaldi, carlos-reutemann, clay-regazzoni, jacky-ickx, peter-revson, carlos-pace, jochen-mass, mike-hailwood, jody-scheckter, denny-hulme, james-hunt, hans-joachim-stuck, patrick-depailler, henri-pescarolo, jean-pierre-beltoise, graham-hill, richard-robarts, jean-pierre-jarier, francois-migault, arturo-merzario, john-watson, howden-ganley]
+- lap: 7
+  drivers: [ronnie-peterson, emerson-fittipaldi, carlos-reutemann, clay-regazzoni, jacky-ickx, peter-revson, carlos-pace, mike-hailwood, jochen-mass, jody-scheckter, denny-hulme, hans-joachim-stuck, james-hunt, patrick-depailler, henri-pescarolo, jean-pierre-beltoise, graham-hill, richard-robarts, jean-pierre-jarier, francois-migault, arturo-merzario, john-watson, howden-ganley]
+- lap: 8
+  drivers: [ronnie-peterson, emerson-fittipaldi, carlos-reutemann, clay-regazzoni, jacky-ickx, peter-revson, carlos-pace, mike-hailwood, jody-scheckter, jochen-mass, denny-hulme, james-hunt, hans-joachim-stuck, patrick-depailler, henri-pescarolo, jean-pierre-beltoise, graham-hill, richard-robarts, jean-pierre-jarier, francois-migault, arturo-merzario, john-watson, howden-ganley]
+- lap: 9
+  drivers: [ronnie-peterson, emerson-fittipaldi, clay-regazzoni, carlos-reutemann, jacky-ickx, peter-revson, carlos-pace, mike-hailwood, jody-scheckter, denny-hulme, jochen-mass, james-hunt, hans-joachim-stuck, patrick-depailler, henri-pescarolo, jean-pierre-beltoise, graham-hill, richard-robarts, jean-pierre-jarier, francois-migault, arturo-merzario, john-watson, howden-ganley]
+- lap: 10
+  drivers: [ronnie-peterson, emerson-fittipaldi, clay-regazzoni, jacky-ickx, carlos-reutemann, peter-revson, carlos-pace, mike-hailwood, jody-scheckter, denny-hulme, jochen-mass, james-hunt, hans-joachim-stuck, patrick-depailler, henri-pescarolo, jean-pierre-beltoise, graham-hill, richard-robarts, jean-pierre-jarier, francois-migault, arturo-merzario, john-watson]
+- lap: 11
+  drivers: [ronnie-peterson, emerson-fittipaldi, clay-regazzoni, jacky-ickx, carlos-reutemann, carlos-pace, mike-hailwood, denny-hulme, jody-scheckter, james-hunt, jochen-mass, hans-joachim-stuck, patrick-depailler, henri-pescarolo, jean-pierre-beltoise, graham-hill, richard-robarts, jean-pierre-jarier, arturo-merzario, francois-migault, john-watson, peter-revson]
+- lap: 12
+  drivers: [ronnie-peterson, emerson-fittipaldi, clay-regazzoni, jacky-ickx, carlos-pace, carlos-reutemann, mike-hailwood, denny-hulme, jody-scheckter, james-hunt, hans-joachim-stuck, jochen-mass, patrick-depailler, henri-pescarolo, jean-pierre-beltoise, graham-hill, richard-robarts, jean-pierre-jarier, arturo-merzario, francois-migault, john-watson]
+- lap: 13
+  drivers: [ronnie-peterson, emerson-fittipaldi, clay-regazzoni, jacky-ickx, carlos-pace, carlos-reutemann, mike-hailwood, denny-hulme, jody-scheckter, james-hunt, hans-joachim-stuck, jochen-mass, patrick-depailler, henri-pescarolo, jean-pierre-beltoise, graham-hill, richard-robarts, jean-pierre-jarier, arturo-merzario, francois-migault, john-watson]
+- lap: 14
+  drivers: [ronnie-peterson, emerson-fittipaldi, clay-regazzoni, jacky-ickx, carlos-pace, mike-hailwood, carlos-reutemann, denny-hulme, jody-scheckter, james-hunt, hans-joachim-stuck, jochen-mass, patrick-depailler, henri-pescarolo, jean-pierre-beltoise, graham-hill, richard-robarts, jean-pierre-jarier, arturo-merzario, francois-migault, john-watson]
+- lap: 15
+  drivers: [ronnie-peterson, emerson-fittipaldi, clay-regazzoni, jacky-ickx, carlos-pace, mike-hailwood, carlos-reutemann, denny-hulme, jody-scheckter, james-hunt, hans-joachim-stuck, jochen-mass, patrick-depailler, henri-pescarolo, jean-pierre-beltoise, graham-hill, richard-robarts, jean-pierre-jarier, arturo-merzario, francois-migault, john-watson]
+- lap: 16
+  drivers: [emerson-fittipaldi, ronnie-peterson, clay-regazzoni, jacky-ickx, carlos-pace, mike-hailwood, carlos-reutemann, denny-hulme, jody-scheckter, hans-joachim-stuck, james-hunt, patrick-depailler, jochen-mass, henri-pescarolo, jean-pierre-beltoise, graham-hill, richard-robarts, jean-pierre-jarier, arturo-merzario, francois-migault, john-watson]
+- lap: 17
+  drivers: [emerson-fittipaldi, ronnie-peterson, clay-regazzoni, jacky-ickx, carlos-pace, mike-hailwood, carlos-reutemann, denny-hulme, jody-scheckter, hans-joachim-stuck, james-hunt, patrick-depailler, jochen-mass, henri-pescarolo, jean-pierre-beltoise, graham-hill, richard-robarts, jean-pierre-jarier, arturo-merzario, francois-migault, john-watson]
+- lap: 18
+  drivers: [emerson-fittipaldi, ronnie-peterson, clay-regazzoni, jacky-ickx, carlos-pace, mike-hailwood, carlos-reutemann, jody-scheckter, hans-joachim-stuck, denny-hulme, james-hunt, patrick-depailler, jochen-mass, jean-pierre-beltoise, graham-hill, henri-pescarolo, richard-robarts, jean-pierre-jarier, arturo-merzario, francois-migault, john-watson]
+- lap: 19
+  drivers: [emerson-fittipaldi, ronnie-peterson, clay-regazzoni, jacky-ickx, carlos-pace, mike-hailwood, carlos-reutemann, jody-scheckter, hans-joachim-stuck, james-hunt, patrick-depailler, jochen-mass, denny-hulme, jean-pierre-beltoise, graham-hill, henri-pescarolo, richard-robarts, jean-pierre-jarier, arturo-merzario, francois-migault, john-watson]
+- lap: 20
+  drivers: [emerson-fittipaldi, clay-regazzoni, jacky-ickx, carlos-pace, mike-hailwood, carlos-reutemann, jody-scheckter, hans-joachim-stuck, james-hunt, ronnie-peterson, patrick-depailler, jochen-mass, jean-pierre-beltoise, graham-hill, henri-pescarolo, richard-robarts, denny-hulme, jean-pierre-jarier, arturo-merzario, john-watson, francois-migault]
+- lap: 21
+  drivers: [emerson-fittipaldi, clay-regazzoni, jacky-ickx, carlos-pace, mike-hailwood, carlos-reutemann, jody-scheckter, hans-joachim-stuck, ronnie-peterson, james-hunt, patrick-depailler, jean-pierre-beltoise, graham-hill, henri-pescarolo, jochen-mass, richard-robarts, denny-hulme, jean-pierre-jarier, john-watson, francois-migault]
+- lap: 22
+  drivers: [emerson-fittipaldi, clay-regazzoni, jacky-ickx, carlos-pace, mike-hailwood, carlos-reutemann, hans-joachim-stuck, jody-scheckter, ronnie-peterson, james-hunt, patrick-depailler, jean-pierre-beltoise, graham-hill, henri-pescarolo, richard-robarts, denny-hulme, john-watson, jean-pierre-jarier, francois-migault, jochen-mass]
+- lap: 23
+  drivers: [emerson-fittipaldi, clay-regazzoni, jacky-ickx, carlos-pace, mike-hailwood, carlos-reutemann, hans-joachim-stuck, ronnie-peterson, jody-scheckter, james-hunt, patrick-depailler, jean-pierre-beltoise, graham-hill, henri-pescarolo, denny-hulme, richard-robarts, john-watson, francois-migault, jochen-mass]
+- lap: 24
+  drivers: [emerson-fittipaldi, clay-regazzoni, jacky-ickx, carlos-pace, mike-hailwood, carlos-reutemann, ronnie-peterson, hans-joachim-stuck, jody-scheckter, james-hunt, patrick-depailler, jean-pierre-beltoise, graham-hill, henri-pescarolo, denny-hulme, richard-robarts, john-watson, francois-migault, jochen-mass]
+- lap: 25
+  drivers: [emerson-fittipaldi, clay-regazzoni, jacky-ickx, carlos-pace, mike-hailwood, carlos-reutemann, ronnie-peterson, jody-scheckter, james-hunt, patrick-depailler, jean-pierre-beltoise, graham-hill, henri-pescarolo, denny-hulme, richard-robarts, john-watson, francois-migault, jochen-mass]
+- lap: 26
+  drivers: [emerson-fittipaldi, clay-regazzoni, jacky-ickx, carlos-pace, mike-hailwood, carlos-reutemann, ronnie-peterson, jody-scheckter, james-hunt, patrick-depailler, jean-pierre-beltoise, graham-hill, henri-pescarolo, denny-hulme, richard-robarts, john-watson, francois-migault, jochen-mass]
+- lap: 27
+  drivers: [emerson-fittipaldi, clay-regazzoni, jacky-ickx, carlos-pace, mike-hailwood, carlos-reutemann, ronnie-peterson, james-hunt, patrick-depailler, jody-scheckter, jean-pierre-beltoise, graham-hill, henri-pescarolo, denny-hulme, richard-robarts, john-watson, francois-migault, jochen-mass]
+- lap: 28
+  drivers: [emerson-fittipaldi, clay-regazzoni, jacky-ickx, carlos-pace, mike-hailwood, carlos-reutemann, ronnie-peterson, james-hunt, patrick-depailler, jody-scheckter, jean-pierre-beltoise, graham-hill, denny-hulme, henri-pescarolo, richard-robarts, francois-migault, jochen-mass]
+- lap: 29
+  drivers: [emerson-fittipaldi, clay-regazzoni, jacky-ickx, carlos-pace, mike-hailwood, ronnie-peterson, carlos-reutemann, james-hunt, patrick-depailler, jody-scheckter, jean-pierre-beltoise, graham-hill, denny-hulme, henri-pescarolo, richard-robarts, francois-migault, jochen-mass]
+- lap: 30
+  drivers: [emerson-fittipaldi, clay-regazzoni, jacky-ickx, carlos-pace, mike-hailwood, ronnie-peterson, carlos-reutemann, james-hunt, patrick-depailler, graham-hill, jean-pierre-beltoise, jody-scheckter, denny-hulme, henri-pescarolo, richard-robarts, francois-migault, jochen-mass]
+- lap: 31
+  drivers: [emerson-fittipaldi, clay-regazzoni, jacky-ickx, carlos-pace, mike-hailwood, ronnie-peterson, carlos-reutemann, patrick-depailler, james-hunt, jean-pierre-beltoise, graham-hill, denny-hulme, jody-scheckter]
+- lap: 32
+  drivers: [emerson-fittipaldi, clay-regazzoni]

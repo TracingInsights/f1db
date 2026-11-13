@@ -1,0 +1,182 @@
+- lap: 0
+  drivers: [stirling-moss, juan-manuel-fangio, jean-behra, karl-kling, piero-taruffi, roberto-mieres, "30:harry-schell", andre-simon, luigi-musso, "20:eugenio-castellotti", robert-manzon, mike-hawthorn, maurice-trintignant, tony-rolt, ken-wharton, lance-macklin, kenneth-mcalpine, hermano-da-silva-ramos, leslie-marr, roy-salvadori, horace-gould, mike-sparken, peter-collins, jack-brabham]
+- lap: 1
+  drivers: [juan-manuel-fangio, stirling-moss, jean-behra, roberto-mieres, karl-kling, piero-taruffi, luigi-musso, "20:eugenio-castellotti", maurice-trintignant, mike-hawthorn, peter-collins, roy-salvadori, robert-manzon, hermano-da-silva-ramos, lance-macklin, horace-gould, mike-sparken, tony-rolt, "30:harry-schell", kenneth-mcalpine, leslie-marr, ken-wharton, jack-brabham, andre-simon]
+- lap: 2
+  drivers: [juan-manuel-fangio, stirling-moss, jean-behra, karl-kling, piero-taruffi, roberto-mieres, luigi-musso, maurice-trintignant, "20:eugenio-castellotti", mike-hawthorn, peter-collins, robert-manzon, hermano-da-silva-ramos, roy-salvadori, tony-rolt, "30:harry-schell", mike-sparken, lance-macklin, kenneth-mcalpine, horace-gould, leslie-marr, ken-wharton, jack-brabham, andre-simon]
+- lap: 3
+  drivers: [stirling-moss, juan-manuel-fangio, jean-behra, roberto-mieres, karl-kling, piero-taruffi, luigi-musso, maurice-trintignant, mike-hawthorn, peter-collins, robert-manzon, "20:eugenio-castellotti", hermano-da-silva-ramos, "30:harry-schell", roy-salvadori, tony-rolt, mike-sparken, lance-macklin, kenneth-mcalpine, horace-gould, leslie-marr, ken-wharton, jack-brabham, andre-simon]
+- lap: 4
+  drivers: [stirling-moss, juan-manuel-fangio, jean-behra, karl-kling, roberto-mieres, piero-taruffi, luigi-musso, mike-hawthorn, maurice-trintignant, peter-collins, robert-manzon, "20:eugenio-castellotti", "30:harry-schell", hermano-da-silva-ramos, tony-rolt, roy-salvadori, mike-sparken, lance-macklin, kenneth-mcalpine, horace-gould, leslie-marr, ken-wharton, jack-brabham, andre-simon]
+- lap: 5
+  drivers: [stirling-moss, juan-manuel-fangio, jean-behra, karl-kling, roberto-mieres, piero-taruffi, luigi-musso, mike-hawthorn, peter-collins, maurice-trintignant, "30:harry-schell", "20:eugenio-castellotti", hermano-da-silva-ramos, tony-rolt, roy-salvadori, lance-macklin, mike-sparken, kenneth-mcalpine, leslie-marr, ken-wharton, horace-gould, jack-brabham, andre-simon]
+- lap: 6
+  drivers: [stirling-moss, juan-manuel-fangio, jean-behra, karl-kling, roberto-mieres, piero-taruffi, luigi-musso, mike-hawthorn, peter-collins, maurice-trintignant, "30:harry-schell", "20:eugenio-castellotti", hermano-da-silva-ramos, tony-rolt, roy-salvadori, lance-macklin, mike-sparken, kenneth-mcalpine, leslie-marr, ken-wharton, horace-gould, jack-brabham, andre-simon]
+- lap: 7
+  drivers: [stirling-moss, juan-manuel-fangio, jean-behra, karl-kling, roberto-mieres, piero-taruffi, luigi-musso, mike-hawthorn, peter-collins, maurice-trintignant, "30:harry-schell", "20:eugenio-castellotti", hermano-da-silva-ramos, tony-rolt, roy-salvadori, lance-macklin, mike-sparken, kenneth-mcalpine, leslie-marr, ken-wharton, horace-gould, jack-brabham, andre-simon]
+- lap: 8
+  drivers: [stirling-moss, juan-manuel-fangio, jean-behra, karl-kling, roberto-mieres, piero-taruffi, luigi-musso, mike-hawthorn, peter-collins, maurice-trintignant, "30:harry-schell", "20:eugenio-castellotti", tony-rolt, hermano-da-silva-ramos, roy-salvadori, lance-macklin, mike-sparken, kenneth-mcalpine, leslie-marr, ken-wharton, horace-gould, jack-brabham, andre-simon]
+- lap: 9
+  drivers: [stirling-moss, juan-manuel-fangio, jean-behra, karl-kling, roberto-mieres, piero-taruffi, luigi-musso, mike-hawthorn, peter-collins, maurice-trintignant, "30:harry-schell", "20:eugenio-castellotti", tony-rolt, roy-salvadori, hermano-da-silva-ramos, lance-macklin, mike-sparken, kenneth-mcalpine, leslie-marr, ken-wharton, horace-gould, jack-brabham, andre-simon]
+- lap: 10
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, piero-taruffi, luigi-musso, mike-hawthorn, peter-collins, maurice-trintignant, "30:harry-schell", tony-rolt, roy-salvadori, hermano-da-silva-ramos, lance-macklin, mike-sparken, kenneth-mcalpine, leslie-marr, ken-wharton, horace-gould, "20:eugenio-castellotti", jack-brabham]
+- lap: 11
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, luigi-musso, piero-taruffi, mike-hawthorn, peter-collins, "30:harry-schell", maurice-trintignant, tony-rolt, roy-salvadori, hermano-da-silva-ramos, lance-macklin, mike-sparken, kenneth-mcalpine, leslie-marr, ken-wharton, horace-gould, "20:eugenio-castellotti", jack-brabham]
+- lap: 12
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, luigi-musso, piero-taruffi, mike-hawthorn, peter-collins, "30:harry-schell", maurice-trintignant, roy-salvadori, hermano-da-silva-ramos, lance-macklin, mike-sparken, leslie-marr, kenneth-mcalpine, ken-wharton, horace-gould, "20:eugenio-castellotti", jack-brabham, tony-rolt]
+- lap: 13
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, luigi-musso, piero-taruffi, mike-hawthorn, peter-collins, "30:harry-schell", maurice-trintignant, roy-salvadori, hermano-da-silva-ramos, lance-macklin, mike-sparken, leslie-marr, kenneth-mcalpine, ken-wharton, horace-gould, "20:eugenio-castellotti", jack-brabham, tony-rolt]
+- lap: 14
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, luigi-musso, piero-taruffi, peter-collins, mike-hawthorn, "30:harry-schell", maurice-trintignant, roy-salvadori, hermano-da-silva-ramos, lance-macklin, leslie-marr, mike-sparken, ken-wharton, kenneth-mcalpine, horace-gould, "20:eugenio-castellotti", jack-brabham, tony-rolt]
+- lap: 15
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, luigi-musso, piero-taruffi, peter-collins, mike-hawthorn, "30:harry-schell", maurice-trintignant, roy-salvadori, lance-macklin, leslie-marr, mike-sparken, ken-wharton, kenneth-mcalpine, hermano-da-silva-ramos, horace-gould, "20:eugenio-castellotti", jack-brabham, tony-rolt]
+- lap: 16
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, luigi-musso, piero-taruffi, peter-collins, "30:harry-schell", mike-hawthorn, maurice-trintignant, roy-salvadori, lance-macklin, leslie-marr, mike-sparken, ken-wharton, kenneth-mcalpine, hermano-da-silva-ramos, horace-gould, "20:eugenio-castellotti", jack-brabham, tony-rolt]
+- lap: 17
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, luigi-musso, piero-taruffi, peter-collins, "30:harry-schell", mike-hawthorn, maurice-trintignant, roy-salvadori, lance-macklin, leslie-marr, mike-sparken, kenneth-mcalpine, hermano-da-silva-ramos, ken-wharton, horace-gould, jack-brabham, tony-rolt]
+- lap: 18
+  drivers: [juan-manuel-fangio, stirling-moss, roberto-mieres, karl-kling, luigi-musso, piero-taruffi, peter-collins, "30:harry-schell", mike-hawthorn, maurice-trintignant, roy-salvadori, lance-macklin, mike-sparken, kenneth-mcalpine, leslie-marr, hermano-da-silva-ramos, ken-wharton, jack-brabham, horace-gould, tony-rolt]
+- lap: 19
+  drivers: [juan-manuel-fangio, stirling-moss, roberto-mieres, karl-kling, luigi-musso, piero-taruffi, peter-collins, "30:harry-schell", mike-hawthorn, maurice-trintignant, roy-salvadori, lance-macklin, mike-sparken, kenneth-mcalpine, hermano-da-silva-ramos, ken-wharton, jack-brabham, horace-gould, tony-rolt]
+- lap: 20
+  drivers: [juan-manuel-fangio, stirling-moss, karl-kling, roberto-mieres, piero-taruffi, luigi-musso, peter-collins, "30:harry-schell", mike-hawthorn, maurice-trintignant, roy-salvadori, lance-macklin, mike-sparken, kenneth-mcalpine, hermano-da-silva-ramos, ken-wharton, jack-brabham, horace-gould]
+- lap: 21
+  drivers: [juan-manuel-fangio, stirling-moss, karl-kling, roberto-mieres, piero-taruffi, luigi-musso, peter-collins, mike-hawthorn, maurice-trintignant, roy-salvadori, lance-macklin, mike-sparken, kenneth-mcalpine, hermano-da-silva-ramos, ken-wharton, jack-brabham, horace-gould]
+- lap: 22
+  drivers: [juan-manuel-fangio, stirling-moss, karl-kling, roberto-mieres, piero-taruffi, luigi-musso, peter-collins, mike-hawthorn, maurice-trintignant, roy-salvadori, lance-macklin, mike-sparken, kenneth-mcalpine, hermano-da-silva-ramos, ken-wharton, jack-brabham, horace-gould]
+- lap: 23
+  drivers: [juan-manuel-fangio, stirling-moss, karl-kling, roberto-mieres, piero-taruffi, luigi-musso, peter-collins, mike-hawthorn, maurice-trintignant, lance-macklin, roy-salvadori, mike-sparken, hermano-da-silva-ramos, kenneth-mcalpine, ken-wharton, jack-brabham]
+- lap: 24
+  drivers: [juan-manuel-fangio, stirling-moss, karl-kling, roberto-mieres, piero-taruffi, luigi-musso, peter-collins, mike-hawthorn, maurice-trintignant, lance-macklin, mike-sparken, hermano-da-silva-ramos, ken-wharton, kenneth-mcalpine, jack-brabham]
+- lap: 25
+  drivers: [juan-manuel-fangio, stirling-moss, karl-kling, roberto-mieres, piero-taruffi, luigi-musso, peter-collins, mike-hawthorn, maurice-trintignant, lance-macklin, mike-sparken, hermano-da-silva-ramos, ken-wharton, kenneth-mcalpine, jack-brabham]
+- lap: 26
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, piero-taruffi, luigi-musso, peter-collins, mike-hawthorn, maurice-trintignant, lance-macklin, mike-sparken, hermano-da-silva-ramos, ken-wharton, kenneth-mcalpine, jack-brabham]
+- lap: 27
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, piero-taruffi, luigi-musso, peter-collins, mike-hawthorn, maurice-trintignant, lance-macklin, mike-sparken, ken-wharton, kenneth-mcalpine, jack-brabham]
+- lap: 28
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, piero-taruffi, luigi-musso, peter-collins, mike-hawthorn, maurice-trintignant, lance-macklin, mike-sparken, ken-wharton, jack-brabham, kenneth-mcalpine]
+- lap: 29
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, piero-taruffi, luigi-musso, peter-collins, mike-hawthorn, maurice-trintignant, lance-macklin, mike-sparken, ken-wharton, jack-brabham, kenneth-mcalpine]
+- lap: 30
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, piero-taruffi, luigi-musso, mike-hawthorn, maurice-trintignant, lance-macklin, ken-wharton, mike-sparken, jack-brabham, kenneth-mcalpine]
+- lap: 31
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, piero-taruffi, luigi-musso, mike-hawthorn, maurice-trintignant, lance-macklin, ken-wharton, mike-sparken]
+- lap: 32
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, luigi-musso, piero-taruffi, mike-hawthorn, maurice-trintignant, lance-macklin, ken-wharton, mike-sparken]
+- lap: 33
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, piero-taruffi, luigi-musso, mike-hawthorn, maurice-trintignant, lance-macklin, mike-sparken, ken-wharton]
+- lap: 34
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, piero-taruffi, luigi-musso, mike-hawthorn, maurice-trintignant, lance-macklin, mike-sparken, ken-wharton]
+- lap: 35
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, piero-taruffi, luigi-musso, mike-hawthorn, maurice-trintignant, lance-macklin, mike-sparken, ken-wharton]
+- lap: 36
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, luigi-musso, piero-taruffi, mike-hawthorn, maurice-trintignant, lance-macklin, mike-sparken, ken-wharton]
+- lap: 37
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, luigi-musso, piero-taruffi, mike-hawthorn, maurice-trintignant, lance-macklin, mike-sparken, ken-wharton]
+- lap: 38
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, luigi-musso, piero-taruffi, mike-hawthorn, maurice-trintignant, lance-macklin, mike-sparken, ken-wharton]
+- lap: 39
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, luigi-musso, piero-taruffi, mike-hawthorn, maurice-trintignant, lance-macklin, mike-sparken, ken-wharton]
+- lap: 40
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, luigi-musso, piero-taruffi, mike-hawthorn, maurice-trintignant, lance-macklin, mike-sparken, ken-wharton]
+- lap: 41
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, luigi-musso, piero-taruffi, mike-hawthorn, maurice-trintignant, lance-macklin, mike-sparken, ken-wharton]
+- lap: 42
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, luigi-musso, piero-taruffi, mike-hawthorn, maurice-trintignant, lance-macklin, mike-sparken, ken-wharton]
+- lap: 43
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, luigi-musso, piero-taruffi, mike-hawthorn, maurice-trintignant, lance-macklin, mike-sparken, ken-wharton]
+- lap: 44
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, luigi-musso, piero-taruffi, mike-hawthorn, maurice-trintignant, mike-sparken, lance-macklin, ken-wharton]
+- lap: 45
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, luigi-musso, piero-taruffi, mike-hawthorn, maurice-trintignant, mike-sparken, lance-macklin, ken-wharton]
+- lap: 46
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, luigi-musso, piero-taruffi, mike-hawthorn, maurice-trintignant, mike-sparken, lance-macklin, ken-wharton]
+- lap: 47
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, roberto-mieres, luigi-musso, piero-taruffi, mike-hawthorn, maurice-trintignant, mike-sparken, lance-macklin, ken-wharton]
+- lap: 48
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, luigi-musso, piero-taruffi, mike-hawthorn, maurice-trintignant, mike-sparken, lance-macklin, ken-wharton]
+- lap: 49
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, luigi-musso, piero-taruffi, maurice-trintignant, mike-hawthorn, mike-sparken, lance-macklin, ken-wharton]
+- lap: 50
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, luigi-musso, piero-taruffi, maurice-trintignant, mike-hawthorn, mike-sparken, lance-macklin, ken-wharton]
+- lap: 51
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, luigi-musso, piero-taruffi, maurice-trintignant, mike-hawthorn, mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 52
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, luigi-musso, piero-taruffi, maurice-trintignant, mike-hawthorn, mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 53
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, luigi-musso, piero-taruffi, mike-hawthorn, maurice-trintignant, mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 54
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, luigi-musso, piero-taruffi, mike-hawthorn, maurice-trintignant, mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 55
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, luigi-musso, piero-taruffi, mike-hawthorn, maurice-trintignant, mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 56
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, mike-hawthorn, maurice-trintignant, mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 57
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, mike-hawthorn, maurice-trintignant, mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 58
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, mike-hawthorn, maurice-trintignant, mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 59
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, mike-hawthorn, maurice-trintignant, mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 60
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, mike-hawthorn, mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 61
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti", mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 62
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti", mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 63
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti", mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 64
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti", mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 65
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti", mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 66
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti", mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 67
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti", mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 68
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti", mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 69
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti", mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 70
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti", mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 71
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti", mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 72
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti", mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 73
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti", mike-sparken, lance-macklin, "28:harry-schell"]
+- lap: 74
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti", mike-sparken, lance-macklin]
+- lap: 75
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti", mike-sparken, lance-macklin]
+- lap: 76
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti", mike-sparken, lance-macklin]
+- lap: 77
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti", mike-sparken, lance-macklin]
+- lap: 78
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti", mike-sparken, lance-macklin]
+- lap: 79
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti", mike-sparken, lance-macklin]
+- lap: 80
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti", mike-sparken]
+- lap: 81
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti", mike-sparken]
+- lap: 82
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti"]
+- lap: 83
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti"]
+- lap: 84
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti"]
+- lap: 85
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti"]
+- lap: 86
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti"]
+- lap: 87
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso, "16:eugenio-castellotti"]
+- lap: 88
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso]
+- lap: 89
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling, piero-taruffi, luigi-musso]
+- lap: 90
+  drivers: [stirling-moss, juan-manuel-fangio, karl-kling]

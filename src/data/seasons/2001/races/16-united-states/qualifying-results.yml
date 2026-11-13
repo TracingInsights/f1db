@@ -9,16 +9,6 @@
   interval:
   laps: 9
 - position: 2
-  driverNumber: 3
-  driverId: mika-hakkinen
-  constructorId: mclaren
-  engineManufacturerId: mercedes
-  tyreManufacturerId: bridgestone
-  time: "1:11.945"
-  gap: "+0.237"
-  interval: "+0.237"
-  laps: 11
-- position: 3
   driverNumber: 5
   driverId: ralf-schumacher
   constructorId: williams
@@ -26,9 +16,9 @@
   tyreManufacturerId: michelin
   time: "1:11.986"
   gap: "+0.278"
-  interval: "+0.041"
+  interval: "+0.278"
   laps: 11
-- position: 4
+- position: 3
   driverNumber: 6
   driverId: juan-pablo-montoya
   constructorId: williams
@@ -38,6 +28,16 @@
   gap: "+0.544"
   interval: "+0.266"
   laps: 11
+- position: 4
+  driverNumber: 3
+  driverId: mika-hakkinen
+  constructorId: mclaren
+  engineManufacturerId: mercedes
+  tyreManufacturerId: bridgestone
+  time: "1:12.309"
+  gap: "+0.601"
+  interval: "+0.057"
+  laps: 11
 - position: 5
   driverNumber: 2
   driverId: rubens-barrichello
@@ -46,7 +46,7 @@
   tyreManufacturerId: bridgestone
   time: "1:12.327"
   gap: "+0.619"
-  interval: "+0.075"
+  interval: "+0.018"
   laps: 12
 - position: 6
   driverNumber: 16

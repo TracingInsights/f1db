@@ -419,20 +419,6 @@
   points:
   gridPosition:
 - position: DNPQ
-  driverNumber: 34
-  driverId: nicola-larini
-  constructorId: modena
-  engineManufacturerId: lamborghini
-  tyreManufacturerId: goodyear
-  laps:
-  time:
-  timePenalty:
-  gap:
-  interval:
-  reasonRetired:
-  points:
-  gridPosition:
-- position: DNPQ
   driverNumber: 35
   driverId: eric-van-de-poele
   constructorId: modena
@@ -472,5 +458,19 @@
   gap:
   interval:
   reasonRetired:
+  points:
+  gridPosition:
+- position: EX
+  driverNumber: 34
+  driverId: nicola-larini
+  constructorId: modena
+  engineManufacturerId: lamborghini
+  tyreManufacturerId: goodyear
+  laps:
+  time:
+  timePenalty:
+  gap:
+  interval:
+  reasonRetired: Illegal rear wing
   points:
   gridPosition:

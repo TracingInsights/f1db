@@ -354,7 +354,7 @@
   constructorId: tyrrell
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
-  laps:
+  laps: 68
   time:
   timePenalty:
   gap:
@@ -376,7 +376,7 @@
   reasonRetired: Technical infringements
   points:
   gridPosition:
-- position: DNS
+- position: DNQ
   driverNumber: 20
   driverId: johnny-cecotto
   constructorId: toleman

@@ -166,20 +166,6 @@
   reasonRetired:
   points:
   gridPosition: 22
-- position: NC
-  driverNumber: 18
-  driverId: eddie-cheever
-  constructorId: arrows
-  engineManufacturerId: megatron
-  tyreManufacturerId: goodyear
-  laps: 52
-  time:
-  timePenalty:
-  gap: "+9 laps"
-  interval:
-  reasonRetired:
-  points:
-  gridPosition: 14
 - position: DNF
   driverNumber: 12
   driverId: ayrton-senna
@@ -292,6 +278,20 @@
   reasonRetired: Turbo
   points:
   gridPosition: 4
+- position: DNF
+  driverNumber: 18
+  driverId: eddie-cheever
+  constructorId: arrows
+  engineManufacturerId: megatron
+  tyreManufacturerId: goodyear
+  laps: 52
+  time:
+  timePenalty:
+  gap: "+9 laps"
+  interval:
+  reasonRetired: Overheating
+  points:
+  gridPosition: 14
 - position: DSQ
   driverNumber: 23
   driverId: adrian-campos
@@ -317,6 +317,6 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Engine
   points:
   gridPosition: 23

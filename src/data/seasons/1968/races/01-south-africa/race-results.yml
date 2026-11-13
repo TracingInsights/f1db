@@ -130,10 +130,10 @@
   constructorId: brabham
   engineManufacturerId: climax
   tyreManufacturerId: firestone
-  laps: 70
+  laps: 71
   time:
   timePenalty:
-  gap: "+10 laps"
+  gap: "+9 laps"
   interval:
   reasonRetired:
   points:
@@ -172,7 +172,7 @@
   constructorId: cooper
   engineManufacturerId: maserati
   tyreManufacturerId: firestone
-  laps: 47
+  laps: 46
   time:
   timePenalty:
   gap:

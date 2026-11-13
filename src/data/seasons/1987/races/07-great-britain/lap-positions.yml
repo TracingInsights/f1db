@@ -1,0 +1,132 @@
+- lap: 0
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, thierry-boutsen, teo-fabi, michele-alboreto, gerhard-berger, andrea-de-cesaris, stefan-johansson, riccardo-patrese, satoru-nakajima, derek-warwick, eddie-cheever, alessandro-nannini, rene-arnoux, martin-brundle, christian-danner, adrian-campos, alex-caffi, philippe-alliot, philippe-streiff, jonathan-palmer, ivan-capelli, pascal-fabre]
+- lap: 1
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, thierry-boutsen, michele-alboreto, teo-fabi, andrea-de-cesaris, satoru-nakajima, stefan-johansson, derek-warwick, gerhard-berger, eddie-cheever, riccardo-patrese, martin-brundle, rene-arnoux, alex-caffi, ivan-capelli, philippe-alliot, adrian-campos, jonathan-palmer, christian-danner, philippe-streiff, pascal-fabre, alessandro-nannini]
+- lap: 2
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, thierry-boutsen, michele-alboreto, teo-fabi, andrea-de-cesaris, satoru-nakajima, stefan-johansson, derek-warwick, eddie-cheever, gerhard-berger, riccardo-patrese, martin-brundle, rene-arnoux, alex-caffi, ivan-capelli, philippe-alliot, adrian-campos, christian-danner, jonathan-palmer, philippe-streiff, pascal-fabre, alessandro-nannini]
+- lap: 3
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, michele-alboreto, thierry-boutsen, teo-fabi, andrea-de-cesaris, stefan-johansson, satoru-nakajima, derek-warwick, eddie-cheever, gerhard-berger, riccardo-patrese, martin-brundle, rene-arnoux, alex-caffi, ivan-capelli, philippe-alliot, adrian-campos, christian-danner, jonathan-palmer, philippe-streiff, pascal-fabre, alessandro-nannini]
+- lap: 4
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, michele-alboreto, thierry-boutsen, andrea-de-cesaris, stefan-johansson, satoru-nakajima, teo-fabi, derek-warwick, gerhard-berger, eddie-cheever, riccardo-patrese, martin-brundle, alex-caffi, philippe-alliot, adrian-campos, jonathan-palmer, philippe-streiff, christian-danner, pascal-fabre, alessandro-nannini]
+- lap: 5
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, thierry-boutsen, stefan-johansson, andrea-de-cesaris, satoru-nakajima, derek-warwick, gerhard-berger, eddie-cheever, riccardo-patrese, teo-fabi, martin-brundle, alex-caffi, philippe-alliot, adrian-campos, jonathan-palmer, philippe-streiff, christian-danner, pascal-fabre, alessandro-nannini]
+- lap: 6
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, thierry-boutsen, stefan-johansson, andrea-de-cesaris, satoru-nakajima, gerhard-berger, derek-warwick, eddie-cheever, riccardo-patrese, teo-fabi, martin-brundle, alex-caffi, philippe-alliot, adrian-campos, jonathan-palmer, philippe-streiff, christian-danner, pascal-fabre, alessandro-nannini]
+- lap: 7
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, thierry-boutsen, stefan-johansson, andrea-de-cesaris, satoru-nakajima, gerhard-berger, derek-warwick, eddie-cheever, riccardo-patrese, teo-fabi, martin-brundle, alex-caffi, philippe-alliot, adrian-campos, jonathan-palmer, philippe-streiff, christian-danner, pascal-fabre, alessandro-nannini]
+- lap: 8
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, stefan-johansson, thierry-boutsen, andrea-de-cesaris, satoru-nakajima, derek-warwick, eddie-cheever, riccardo-patrese, teo-fabi, martin-brundle, alex-caffi, adrian-campos, jonathan-palmer, philippe-streiff, christian-danner, pascal-fabre, alessandro-nannini]
+- lap: 9
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, stefan-johansson, thierry-boutsen, satoru-nakajima, derek-warwick, eddie-cheever, riccardo-patrese, teo-fabi, martin-brundle, alex-caffi, adrian-campos, jonathan-palmer, philippe-streiff, christian-danner, pascal-fabre, alessandro-nannini]
+- lap: 10
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, stefan-johansson, thierry-boutsen, satoru-nakajima, derek-warwick, eddie-cheever, riccardo-patrese, teo-fabi, martin-brundle, alex-caffi, adrian-campos, jonathan-palmer, philippe-streiff, christian-danner, pascal-fabre, alessandro-nannini]
+- lap: 11
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, stefan-johansson, thierry-boutsen, satoru-nakajima, derek-warwick, riccardo-patrese, eddie-cheever, teo-fabi, martin-brundle, alex-caffi, adrian-campos, jonathan-palmer, philippe-streiff, christian-danner, pascal-fabre]
+- lap: 12
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, stefan-johansson, thierry-boutsen, satoru-nakajima, derek-warwick, riccardo-patrese, eddie-cheever, teo-fabi, martin-brundle, alex-caffi, adrian-campos, philippe-streiff, jonathan-palmer, christian-danner, pascal-fabre]
+- lap: 13
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, stefan-johansson, thierry-boutsen, satoru-nakajima, derek-warwick, riccardo-patrese, eddie-cheever, teo-fabi, martin-brundle, alex-caffi, adrian-campos, philippe-streiff, jonathan-palmer, christian-danner, pascal-fabre]
+- lap: 14
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, stefan-johansson, thierry-boutsen, satoru-nakajima, riccardo-patrese, derek-warwick, eddie-cheever, teo-fabi, martin-brundle, alex-caffi, adrian-campos, philippe-streiff, jonathan-palmer, christian-danner, pascal-fabre]
+- lap: 15
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, stefan-johansson, satoru-nakajima, riccardo-patrese, thierry-boutsen, derek-warwick, eddie-cheever, teo-fabi, martin-brundle, alex-caffi, adrian-campos, philippe-streiff, jonathan-palmer, christian-danner, pascal-fabre]
+- lap: 16
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, stefan-johansson, riccardo-patrese, satoru-nakajima, thierry-boutsen, derek-warwick, eddie-cheever, teo-fabi, martin-brundle, alex-caffi, adrian-campos, philippe-streiff, jonathan-palmer, christian-danner, pascal-fabre]
+- lap: 17
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, stefan-johansson, riccardo-patrese, satoru-nakajima, thierry-boutsen, derek-warwick, eddie-cheever, teo-fabi, martin-brundle, alex-caffi, adrian-campos, philippe-streiff, jonathan-palmer, christian-danner, pascal-fabre]
+- lap: 18
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, stefan-johansson, riccardo-patrese, satoru-nakajima, thierry-boutsen, derek-warwick, eddie-cheever, teo-fabi, martin-brundle, alex-caffi, adrian-campos, philippe-streiff, jonathan-palmer, christian-danner, pascal-fabre]
+- lap: 19
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, riccardo-patrese, satoru-nakajima, thierry-boutsen, derek-warwick, eddie-cheever, teo-fabi, martin-brundle, alex-caffi, adrian-campos, philippe-streiff, jonathan-palmer, christian-danner, pascal-fabre]
+- lap: 20
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, riccardo-patrese, satoru-nakajima, thierry-boutsen, derek-warwick, eddie-cheever, teo-fabi, martin-brundle, alex-caffi, adrian-campos, philippe-streiff, jonathan-palmer, christian-danner, pascal-fabre]
+- lap: 21
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, riccardo-patrese, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, martin-brundle, alex-caffi, adrian-campos, philippe-streiff, jonathan-palmer, christian-danner, pascal-fabre]
+- lap: 22
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, riccardo-patrese, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, martin-brundle, alex-caffi, adrian-campos, philippe-streiff, jonathan-palmer, christian-danner, pascal-fabre]
+- lap: 23
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, riccardo-patrese, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, martin-brundle, alex-caffi, adrian-campos, philippe-streiff, jonathan-palmer, christian-danner, pascal-fabre]
+- lap: 24
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, riccardo-patrese, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, martin-brundle, alex-caffi, adrian-campos, philippe-streiff, jonathan-palmer, christian-danner, pascal-fabre]
+- lap: 25
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, riccardo-patrese, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, martin-brundle, alex-caffi, adrian-campos, philippe-streiff, jonathan-palmer, christian-danner, pascal-fabre]
+- lap: 26
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, riccardo-patrese, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, martin-brundle, alex-caffi, adrian-campos, philippe-streiff, jonathan-palmer, christian-danner, pascal-fabre]
+- lap: 27
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, riccardo-patrese, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, martin-brundle, alex-caffi, adrian-campos, philippe-streiff, jonathan-palmer, christian-danner, pascal-fabre]
+- lap: 28
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, riccardo-patrese, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, martin-brundle, alex-caffi, adrian-campos, philippe-streiff, jonathan-palmer, christian-danner, pascal-fabre]
+- lap: 29
+  drivers: [nelson-piquet, nigel-mansell, alain-prost, ayrton-senna, michele-alboreto, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, martin-brundle, alex-caffi, adrian-campos, philippe-streiff, jonathan-palmer, christian-danner, pascal-fabre]
+- lap: 30
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, michele-alboreto, alain-prost, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, martin-brundle, alex-caffi, adrian-campos, philippe-streiff, jonathan-palmer, christian-danner, pascal-fabre]
+- lap: 31
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, michele-alboreto, alain-prost, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, martin-brundle, alex-caffi, adrian-campos, philippe-streiff, jonathan-palmer, christian-danner, pascal-fabre]
+- lap: 32
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, michele-alboreto, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, martin-brundle, alex-caffi, adrian-campos, philippe-streiff, jonathan-palmer, pascal-fabre, christian-danner]
+- lap: 33
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, michele-alboreto, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, martin-brundle, adrian-campos, philippe-streiff, jonathan-palmer, pascal-fabre]
+- lap: 34
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, michele-alboreto, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, martin-brundle, philippe-streiff, jonathan-palmer, adrian-campos, pascal-fabre]
+- lap: 35
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, michele-alboreto, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, martin-brundle, philippe-streiff, jonathan-palmer, pascal-fabre]
+- lap: 36
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, michele-alboreto, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, martin-brundle, philippe-streiff, jonathan-palmer, pascal-fabre]
+- lap: 37
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, michele-alboreto, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, martin-brundle, philippe-streiff, jonathan-palmer, pascal-fabre]
+- lap: 38
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, michele-alboreto, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, martin-brundle, philippe-streiff, jonathan-palmer, pascal-fabre]
+- lap: 39
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, michele-alboreto, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, martin-brundle, philippe-streiff, jonathan-palmer, pascal-fabre]
+- lap: 40
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, michele-alboreto, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, philippe-streiff, jonathan-palmer, pascal-fabre, martin-brundle]
+- lap: 41
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, michele-alboreto, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, philippe-streiff, jonathan-palmer, pascal-fabre, martin-brundle]
+- lap: 42
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, michele-alboreto, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, philippe-streiff, jonathan-palmer, pascal-fabre, martin-brundle]
+- lap: 43
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, michele-alboreto, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, philippe-streiff, jonathan-palmer, pascal-fabre, martin-brundle]
+- lap: 44
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, michele-alboreto, satoru-nakajima, derek-warwick, eddie-cheever, thierry-boutsen, teo-fabi, philippe-streiff, jonathan-palmer, pascal-fabre, martin-brundle]
+- lap: 45
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, michele-alboreto, satoru-nakajima, derek-warwick, thierry-boutsen, teo-fabi, eddie-cheever, jonathan-palmer, philippe-streiff, pascal-fabre, martin-brundle]
+- lap: 46
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, satoru-nakajima, derek-warwick, michele-alboreto, thierry-boutsen, teo-fabi, jonathan-palmer, philippe-streiff, pascal-fabre, martin-brundle]
+- lap: 47
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, satoru-nakajima, derek-warwick, thierry-boutsen, teo-fabi, michele-alboreto, jonathan-palmer, philippe-streiff, pascal-fabre, martin-brundle]
+- lap: 48
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, satoru-nakajima, derek-warwick, thierry-boutsen, teo-fabi, michele-alboreto, jonathan-palmer, philippe-streiff, pascal-fabre, martin-brundle]
+- lap: 49
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, satoru-nakajima, derek-warwick, thierry-boutsen, teo-fabi, michele-alboreto, jonathan-palmer, philippe-streiff, pascal-fabre, martin-brundle]
+- lap: 50
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, satoru-nakajima, derek-warwick, thierry-boutsen, teo-fabi, michele-alboreto, jonathan-palmer, philippe-streiff, pascal-fabre, martin-brundle]
+- lap: 51
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, satoru-nakajima, derek-warwick, teo-fabi, thierry-boutsen, michele-alboreto, jonathan-palmer, philippe-streiff, pascal-fabre, martin-brundle]
+- lap: 52
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, satoru-nakajima, derek-warwick, teo-fabi, michele-alboreto, thierry-boutsen, jonathan-palmer, philippe-streiff, pascal-fabre, martin-brundle]
+- lap: 53
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, alain-prost, satoru-nakajima, derek-warwick, teo-fabi, thierry-boutsen, jonathan-palmer, philippe-streiff, pascal-fabre, martin-brundle]
+- lap: 54
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, satoru-nakajima, derek-warwick, teo-fabi, thierry-boutsen, jonathan-palmer, philippe-streiff, pascal-fabre, martin-brundle]
+- lap: 55
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, satoru-nakajima, derek-warwick, teo-fabi, thierry-boutsen, jonathan-palmer, philippe-streiff, pascal-fabre]
+- lap: 56
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, satoru-nakajima, derek-warwick, teo-fabi, thierry-boutsen, jonathan-palmer, philippe-streiff, pascal-fabre]
+- lap: 57
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, satoru-nakajima, derek-warwick, teo-fabi, thierry-boutsen, jonathan-palmer, pascal-fabre, philippe-streiff]
+- lap: 58
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, satoru-nakajima, derek-warwick, teo-fabi, thierry-boutsen, jonathan-palmer, pascal-fabre]
+- lap: 59
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, satoru-nakajima, derek-warwick, teo-fabi, thierry-boutsen, jonathan-palmer, pascal-fabre]
+- lap: 60
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, satoru-nakajima, derek-warwick, teo-fabi, thierry-boutsen, jonathan-palmer]
+- lap: 61
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, satoru-nakajima, derek-warwick, teo-fabi, thierry-boutsen]
+- lap: 62
+  drivers: [nelson-piquet, nigel-mansell, ayrton-senna, satoru-nakajima, derek-warwick, teo-fabi, thierry-boutsen]
+- lap: 63
+  drivers: [nigel-mansell, nelson-piquet, ayrton-senna, satoru-nakajima, derek-warwick, teo-fabi]
+- lap: 64
+  drivers: [nigel-mansell, nelson-piquet, ayrton-senna]
+- lap: 65
+  drivers: [nigel-mansell, nelson-piquet]

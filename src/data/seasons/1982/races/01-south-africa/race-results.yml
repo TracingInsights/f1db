@@ -19,10 +19,10 @@
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
   laps: 77
-  time: "1:32:23.351"
+  time: "1:32:23.347"
   timePenalty:
-  gap: "+14.950"
-  interval: "+14.950"
+  gap: "+14.946"
+  interval: "+14.946"
   reasonRetired:
   points: 6
   gridPosition: 8
@@ -36,7 +36,7 @@
   time: "1:32:36.301"
   timePenalty:
   gap: "+27.900"
-  interval: "+12.950"
+  interval: "+12.954"
   reasonRetired:
   points: 4
   gridPosition: 1
@@ -47,10 +47,10 @@
   engineManufacturerId: ford
   tyreManufacturerId: michelin
   laps: 77
-  time: "1:32:40.511"
+  time: "1:32:40.514"
   timePenalty:
-  gap: "+32.110"
-  interval: "+4.210"
+  gap: "+32.113"
+  interval: "+4.213"
   reasonRetired:
   points: 3
   gridPosition: 13
@@ -64,7 +64,7 @@
   time: "1:32:54.541"
   timePenalty:
   gap: "+46.140"
-  interval: "+14.030"
+  interval: "+14.027"
   reasonRetired:
   points: 2
   gridPosition: 7
@@ -75,10 +75,10 @@
   engineManufacturerId: ford
   tyreManufacturerId: michelin
   laps: 77
-  time: "1:32:59.391"
+  time: "1:32:59.394"
   timePenalty:
-  gap: "+50.990"
-  interval: "+4.850"
+  gap: "+50.993"
+  interval: "+4.853"
   reasonRetired:
   points: 1
   gridPosition: 9
@@ -415,6 +415,6 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Engine
   points:
   gridPosition:

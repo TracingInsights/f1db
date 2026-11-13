@@ -73,7 +73,7 @@
   driverId: jack-brabham
   constructorId: cooper
   engineManufacturerId: climax
-  tyreManufacturerId: dunlop
+  tyreManufacturerId: avon
   laps: 100
   time:
   timePenalty:
@@ -103,7 +103,7 @@
   engineManufacturerId: ferrari
   tyreManufacturerId: englebert
   sharedCar: true
-  laps:
+  laps: 3
   time:
   timePenalty:
   gap:
@@ -132,7 +132,7 @@
   engineManufacturerId: maserati
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 22
   time:
   timePenalty:
   gap:

@@ -105,7 +105,7 @@
     - driverId: david-walker
       rounds: 1-9,12
     - driverId: emerson-fittipaldi
-      rounds: 1-12
+      rounds: 1-9,11-12
     - driverId: reine-wisell
       rounds: 11-12
 - entrantId: lucky-strike-racing
@@ -273,6 +273,15 @@
       tyreManufacturerId: goodyear
       driverId: henri-pescarolo
       rounds: 7
+- entrantId: world-wide-racing
+  countryId: united-kingdom
+  constructorId: lotus
+  engineManufacturerId: ford
+  chassisId: lotus-72d
+  engineId: ford-cosworth-dfv-30-v8
+  tyreManufacturerId: firestone
+  driverId: emerson-fittipaldi
+  rounds: 10
 - entrantId: yardley-team-mclaren
   countryId: united-kingdom
   constructorId: mclaren

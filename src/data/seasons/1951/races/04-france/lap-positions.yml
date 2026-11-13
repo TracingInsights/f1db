@@ -1,0 +1,156 @@
+- lap: 0
+  drivers: ["4:juan-manuel-fangio", nino-farina, "12:alberto-ascari", luigi-villoresi, consalvo-sanesi, jose-froilan-gonzalez, "8:luigi-fagioli", louis-chiron, reg-parnell, philippe-etancelin, yves-giraud-cabantous, johnny-claes, louis-rosier, eugene-chaboud, onofre-marimon, emmanuel-de-graffenried, aldo-gordini, maurice-trintignant, guy-mairesse, peter-whitehead, andre-simon, harry-schell, robert-manzon]
+- lap: 1
+  drivers: ["12:alberto-ascari", "4:juan-manuel-fangio", luigi-villoresi, consalvo-sanesi, jose-froilan-gonzalez, nino-farina, reg-parnell, maurice-trintignant, "8:luigi-fagioli", andre-simon, onofre-marimon, robert-manzon, louis-rosier, louis-chiron, yves-giraud-cabantous, philippe-etancelin, aldo-gordini, harry-schell, eugene-chaboud, guy-mairesse, johnny-claes, emmanuel-de-graffenried, peter-whitehead]
+- lap: 2
+  drivers: ["12:alberto-ascari", "4:juan-manuel-fangio", luigi-villoresi, consalvo-sanesi, jose-froilan-gonzalez, nino-farina, "8:luigi-fagioli", reg-parnell, andre-simon, robert-manzon, louis-rosier, onofre-marimon, louis-chiron, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, harry-schell, aldo-gordini, guy-mairesse, johnny-claes, maurice-trintignant]
+- lap: 3
+  drivers: ["12:alberto-ascari", "4:juan-manuel-fangio", luigi-villoresi, consalvo-sanesi, jose-froilan-gonzalez, nino-farina, "8:luigi-fagioli", reg-parnell, andre-simon, robert-manzon, louis-rosier, louis-chiron, philippe-etancelin, yves-giraud-cabantous, eugene-chaboud, harry-schell, johnny-claes, aldo-gordini, guy-mairesse, maurice-trintignant]
+- lap: 4
+  drivers: ["12:alberto-ascari", "4:juan-manuel-fangio", luigi-villoresi, nino-farina, jose-froilan-gonzalez, "8:luigi-fagioli", reg-parnell, consalvo-sanesi, andre-simon, louis-chiron, philippe-etancelin, yves-giraud-cabantous, louis-rosier, eugene-chaboud, johnny-claes, harry-schell, aldo-gordini, guy-mairesse, maurice-trintignant]
+- lap: 5
+  drivers: ["12:alberto-ascari", "4:juan-manuel-fangio", luigi-villoresi, nino-farina, jose-froilan-gonzalez, "8:luigi-fagioli", reg-parnell, andre-simon, philippe-etancelin, louis-chiron, louis-rosier, yves-giraud-cabantous, eugene-chaboud, harry-schell, johnny-claes, aldo-gordini, guy-mairesse, consalvo-sanesi, maurice-trintignant]
+- lap: 6
+  drivers: ["12:alberto-ascari", "4:juan-manuel-fangio", luigi-villoresi, nino-farina, jose-froilan-gonzalez, "8:luigi-fagioli", reg-parnell, andre-simon, philippe-etancelin, louis-chiron, louis-rosier, yves-giraud-cabantous, eugene-chaboud, harry-schell, johnny-claes, guy-mairesse, aldo-gordini, consalvo-sanesi, maurice-trintignant]
+- lap: 7
+  drivers: ["12:alberto-ascari", "4:juan-manuel-fangio", luigi-villoresi, nino-farina, jose-froilan-gonzalez, "8:luigi-fagioli", reg-parnell, philippe-etancelin, louis-rosier, louis-chiron, yves-giraud-cabantous, eugene-chaboud, andre-simon, johnny-claes, harry-schell, aldo-gordini, guy-mairesse, consalvo-sanesi, maurice-trintignant]
+- lap: 8
+  drivers: ["12:alberto-ascari", "4:juan-manuel-fangio", luigi-villoresi, nino-farina, jose-froilan-gonzalez, "8:luigi-fagioli", reg-parnell, louis-rosier, philippe-etancelin, louis-chiron, yves-giraud-cabantous, eugene-chaboud, johnny-claes, harry-schell, guy-mairesse, consalvo-sanesi, maurice-trintignant, aldo-gordini]
+- lap: 9
+  drivers: ["4:juan-manuel-fangio", "12:alberto-ascari", nino-farina, luigi-villoresi, jose-froilan-gonzalez, "8:luigi-fagioli", reg-parnell, louis-rosier, philippe-etancelin, louis-chiron, yves-giraud-cabantous, eugene-chaboud, johnny-claes, harry-schell, guy-mairesse, consalvo-sanesi, maurice-trintignant, aldo-gordini]
+- lap: 10
+  drivers: [nino-farina, luigi-villoresi, "4:juan-manuel-fangio", jose-froilan-gonzalez, "12:alberto-ascari", "8:luigi-fagioli", reg-parnell, louis-rosier, louis-chiron, philippe-etancelin, yves-giraud-cabantous, eugene-chaboud, johnny-claes, harry-schell, guy-mairesse, consalvo-sanesi, maurice-trintignant, aldo-gordini]
+- lap: 11
+  drivers: [nino-farina, luigi-villoresi, jose-froilan-gonzalez, "8:luigi-fagioli", "4:juan-manuel-fangio", reg-parnell, louis-rosier, louis-chiron, philippe-etancelin, yves-giraud-cabantous, eugene-chaboud, johnny-claes, harry-schell, guy-mairesse, consalvo-sanesi, maurice-trintignant, aldo-gordini]
+- lap: 12
+  drivers: [nino-farina, luigi-villoresi, jose-froilan-gonzalez, "8:luigi-fagioli", "4:juan-manuel-fangio", reg-parnell, louis-rosier, louis-chiron, philippe-etancelin, yves-giraud-cabantous, eugene-chaboud, johnny-claes, harry-schell, guy-mairesse, consalvo-sanesi, aldo-gordini]
+- lap: 13
+  drivers: [nino-farina, luigi-villoresi, jose-froilan-gonzalez, "8:luigi-fagioli", "4:juan-manuel-fangio", reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, harry-schell, guy-mairesse, consalvo-sanesi, aldo-gordini]
+- lap: 14
+  drivers: [nino-farina, luigi-villoresi, jose-froilan-gonzalez, "8:luigi-fagioli", reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, harry-schell, guy-mairesse, "4:juan-manuel-fangio", consalvo-sanesi, aldo-gordini]
+- lap: 15
+  drivers: [nino-farina, luigi-villoresi, jose-froilan-gonzalez, "8:luigi-fagioli", reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, harry-schell, guy-mairesse, consalvo-sanesi, "4:juan-manuel-fangio", aldo-gordini]
+- lap: 16
+  drivers: [nino-farina, luigi-villoresi, "8:luigi-fagioli", jose-froilan-gonzalez, reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, harry-schell, guy-mairesse, consalvo-sanesi, "4:luigi-fagioli", aldo-gordini]
+- lap: 17
+  drivers: [nino-farina, luigi-villoresi, "8:luigi-fagioli", jose-froilan-gonzalez, reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, harry-schell, guy-mairesse, consalvo-sanesi, "4:luigi-fagioli", aldo-gordini]
+- lap: 18
+  drivers: [nino-farina, luigi-villoresi, "8:luigi-fagioli", jose-froilan-gonzalez, reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, harry-schell, guy-mairesse, consalvo-sanesi, "4:luigi-fagioli", aldo-gordini]
+- lap: 19
+  drivers: [nino-farina, luigi-villoresi, "8:luigi-fagioli", jose-froilan-gonzalez, reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, guy-mairesse, consalvo-sanesi, harry-schell, "4:luigi-fagioli", aldo-gordini]
+- lap: 20
+  drivers: [nino-farina, luigi-villoresi, "8:luigi-fagioli", jose-froilan-gonzalez, reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, guy-mairesse, consalvo-sanesi, harry-schell, "4:luigi-fagioli", aldo-gordini]
+- lap: 21
+  drivers: [nino-farina, "8:juan-manuel-fangio", jose-froilan-gonzalez, luigi-villoresi, reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, guy-mairesse, consalvo-sanesi, harry-schell, "4:luigi-fagioli", aldo-gordini]
+- lap: 22
+  drivers: [nino-farina, jose-froilan-gonzalez, "8:juan-manuel-fangio", luigi-villoresi, reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, guy-mairesse, consalvo-sanesi, harry-schell, "4:luigi-fagioli", aldo-gordini]
+- lap: 23
+  drivers: [nino-farina, jose-froilan-gonzalez, "8:juan-manuel-fangio", luigi-villoresi, reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, guy-mairesse, consalvo-sanesi, harry-schell, "4:luigi-fagioli", aldo-gordini]
+- lap: 24
+  drivers: [nino-farina, jose-froilan-gonzalez, "8:juan-manuel-fangio", luigi-villoresi, reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, guy-mairesse, consalvo-sanesi, harry-schell, "4:luigi-fagioli", aldo-gordini]
+- lap: 25
+  drivers: [nino-farina, jose-froilan-gonzalez, luigi-villoresi, "8:juan-manuel-fangio", reg-parnell, louis-chiron, louis-rosier, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, guy-mairesse, consalvo-sanesi, "4:luigi-fagioli", aldo-gordini]
+- lap: 26
+  drivers: [nino-farina, jose-froilan-gonzalez, luigi-villoresi, "8:juan-manuel-fangio", reg-parnell, louis-chiron, louis-rosier, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, guy-mairesse, consalvo-sanesi, "4:luigi-fagioli", aldo-gordini]
+- lap: 27
+  drivers: [nino-farina, jose-froilan-gonzalez, luigi-villoresi, "8:juan-manuel-fangio", reg-parnell, louis-chiron, louis-rosier, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, guy-mairesse, consalvo-sanesi, "4:luigi-fagioli", aldo-gordini]
+- lap: 28
+  drivers: [nino-farina, jose-froilan-gonzalez, luigi-villoresi, "8:juan-manuel-fangio", reg-parnell, louis-chiron, louis-rosier, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, guy-mairesse, consalvo-sanesi, "4:luigi-fagioli"]
+- lap: 29
+  drivers: [nino-farina, jose-froilan-gonzalez, luigi-villoresi, "8:juan-manuel-fangio", reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, guy-mairesse, consalvo-sanesi, "4:luigi-fagioli"]
+- lap: 30
+  drivers: [nino-farina, jose-froilan-gonzalez, luigi-villoresi, "8:juan-manuel-fangio", reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, guy-mairesse, consalvo-sanesi, "4:luigi-fagioli"]
+- lap: 31
+  drivers: [nino-farina, jose-froilan-gonzalez, luigi-villoresi, "8:juan-manuel-fangio", reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, guy-mairesse, consalvo-sanesi, "4:luigi-fagioli"]
+- lap: 32
+  drivers: [nino-farina, jose-froilan-gonzalez, luigi-villoresi, "8:juan-manuel-fangio", reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, guy-mairesse, consalvo-sanesi, "4:luigi-fagioli"]
+- lap: 33
+  drivers: [nino-farina, jose-froilan-gonzalez, luigi-villoresi, "8:juan-manuel-fangio", reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, guy-mairesse, consalvo-sanesi, "4:luigi-fagioli"]
+- lap: 34
+  drivers: [nino-farina, jose-froilan-gonzalez, "8:juan-manuel-fangio", luigi-villoresi, reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, guy-mairesse, consalvo-sanesi, "4:luigi-fagioli"]
+- lap: 35
+  drivers: [nino-farina, jose-froilan-gonzalez, "8:juan-manuel-fangio", luigi-villoresi, reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, guy-mairesse, consalvo-sanesi, "4:luigi-fagioli"]
+- lap: 36
+  drivers: [nino-farina, "14:alberto-ascari", "8:juan-manuel-fangio", luigi-villoresi, reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, philippe-etancelin, eugene-chaboud, johnny-claes, guy-mairesse, consalvo-sanesi, "4:luigi-fagioli"]
+- lap: 37
+  drivers: [nino-farina, "8:juan-manuel-fangio", "14:alberto-ascari", luigi-villoresi, reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, eugene-chaboud, philippe-etancelin, johnny-claes, guy-mairesse, consalvo-sanesi, "4:luigi-fagioli"]
+- lap: 38
+  drivers: [nino-farina, "8:juan-manuel-fangio", "14:alberto-ascari", luigi-villoresi, reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, eugene-chaboud, johnny-claes, guy-mairesse, consalvo-sanesi, "4:luigi-fagioli"]
+- lap: 39
+  drivers: [nino-farina, "8:juan-manuel-fangio", "14:alberto-ascari", luigi-villoresi, reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, johnny-claes, eugene-chaboud, guy-mairesse, consalvo-sanesi, "4:luigi-fagioli"]
+- lap: 40
+  drivers: [nino-farina, "8:juan-manuel-fangio", "14:alberto-ascari", luigi-villoresi, reg-parnell, louis-rosier, louis-chiron, yves-giraud-cabantous, johnny-claes, eugene-chaboud, guy-mairesse, consalvo-sanesi, "4:luigi-fagioli"]
+- lap: 41
+  drivers: [nino-farina, "8:juan-manuel-fangio", "14:alberto-ascari", luigi-villoresi, reg-parnell, louis-chiron, louis-rosier, yves-giraud-cabantous, johnny-claes, eugene-chaboud, guy-mairesse, consalvo-sanesi, "4:luigi-fagioli"]
+- lap: 42
+  drivers: [nino-farina, "8:juan-manuel-fangio", "14:alberto-ascari", luigi-villoresi, reg-parnell, louis-chiron, louis-rosier, yves-giraud-cabantous, johnny-claes, eugene-chaboud, consalvo-sanesi, guy-mairesse, "4:luigi-fagioli"]
+- lap: 43
+  drivers: [nino-farina, "8:juan-manuel-fangio", "14:alberto-ascari", luigi-villoresi, reg-parnell, louis-chiron, louis-rosier, yves-giraud-cabantous, eugene-chaboud, johnny-claes, consalvo-sanesi, guy-mairesse, "4:luigi-fagioli"]
+- lap: 44
+  drivers: [nino-farina, "14:alberto-ascari", "8:juan-manuel-fangio", luigi-villoresi, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, johnny-claes, consalvo-sanesi, guy-mairesse, "4:luigi-fagioli"]
+- lap: 45
+  drivers: ["14:alberto-ascari", "8:juan-manuel-fangio", nino-farina, luigi-villoresi, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, johnny-claes, consalvo-sanesi, guy-mairesse, "4:luigi-fagioli"]
+- lap: 46
+  drivers: ["14:alberto-ascari", "8:juan-manuel-fangio", nino-farina, luigi-villoresi, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, johnny-claes, consalvo-sanesi, guy-mairesse, "4:luigi-fagioli"]
+- lap: 47
+  drivers: ["14:alberto-ascari", "8:juan-manuel-fangio", nino-farina, luigi-villoresi, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, johnny-claes, consalvo-sanesi, guy-mairesse, "4:luigi-fagioli"]
+- lap: 48
+  drivers: ["14:alberto-ascari", "8:juan-manuel-fangio", nino-farina, luigi-villoresi, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, johnny-claes, consalvo-sanesi, guy-mairesse, "4:luigi-fagioli"]
+- lap: 49
+  drivers: ["14:alberto-ascari", "8:juan-manuel-fangio", nino-farina, luigi-villoresi, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, johnny-claes, consalvo-sanesi, guy-mairesse, "4:luigi-fagioli"]
+- lap: 50
+  drivers: ["14:alberto-ascari", "8:juan-manuel-fangio", nino-farina, luigi-villoresi, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, johnny-claes, consalvo-sanesi, guy-mairesse, "4:luigi-fagioli"]
+- lap: 51
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", nino-farina, luigi-villoresi, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, johnny-claes, consalvo-sanesi, guy-mairesse, "4:luigi-fagioli"]
+- lap: 52
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", nino-farina, luigi-villoresi, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, johnny-claes, consalvo-sanesi, guy-mairesse, "4:luigi-fagioli"]
+- lap: 53
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", nino-farina, luigi-villoresi, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, johnny-claes, consalvo-sanesi, guy-mairesse, "4:luigi-fagioli"]
+- lap: 54
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", nino-farina, luigi-villoresi, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, johnny-claes, consalvo-sanesi, guy-mairesse, "4:luigi-fagioli"]
+- lap: 55
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", nino-farina, luigi-villoresi, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, consalvo-sanesi, guy-mairesse, "4:luigi-fagioli"]
+- lap: 56
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", nino-farina, luigi-villoresi, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, guy-mairesse, consalvo-sanesi]
+- lap: 57
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", nino-farina, luigi-villoresi, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, guy-mairesse, consalvo-sanesi]
+- lap: 58
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", nino-farina, luigi-villoresi, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, guy-mairesse, consalvo-sanesi]
+- lap: 59
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", nino-farina, luigi-villoresi, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, guy-mairesse]
+- lap: 60
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", nino-farina, luigi-villoresi, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, guy-mairesse]
+- lap: 61
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", nino-farina, luigi-villoresi, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, guy-mairesse]
+- lap: 62
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", nino-farina, luigi-villoresi, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, guy-mairesse]
+- lap: 63
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", nino-farina, luigi-villoresi, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, guy-mairesse]
+- lap: 64
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", luigi-villoresi, nino-farina, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, guy-mairesse]
+- lap: 65
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", luigi-villoresi, nino-farina, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, guy-mairesse]
+- lap: 66
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", luigi-villoresi, nino-farina, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud, guy-mairesse]
+- lap: 67
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", luigi-villoresi, nino-farina, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud]
+- lap: 68
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", luigi-villoresi, nino-farina, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud]
+- lap: 69
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", luigi-villoresi, nino-farina, reg-parnell, louis-chiron, yves-giraud-cabantous, eugene-chaboud]
+- lap: 70
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", luigi-villoresi, reg-parnell, nino-farina, louis-chiron, yves-giraud-cabantous]
+- lap: 71
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", luigi-villoresi, reg-parnell, nino-farina, louis-chiron, yves-giraud-cabantous]
+- lap: 72
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", luigi-villoresi, reg-parnell, nino-farina]
+- lap: 73
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", luigi-villoresi, reg-parnell, nino-farina]
+- lap: 74
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari", luigi-villoresi]
+- lap: 75
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari"]
+- lap: 76
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari"]
+- lap: 77
+  drivers: ["8:juan-manuel-fangio", "14:alberto-ascari"]

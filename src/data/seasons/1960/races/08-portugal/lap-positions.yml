@@ -1,0 +1,112 @@
+- lap: 0
+  drivers: [john-surtees, dan-gurney, jack-brabham, stirling-moss, graham-hill, bruce-mclaren, innes-ireland, jim-clark, wolfgang-von-trips, phil-hill, masten-gregory, tony-brooks, jo-bonnier, olivier-gendebien, mario-de-araujo-cabral]
+- lap: 1
+  drivers: [dan-gurney, jack-brabham, stirling-moss, john-surtees, innes-ireland, graham-hill, phil-hill, bruce-mclaren, jo-bonnier, tony-brooks, jim-clark, masten-gregory, mario-de-araujo-cabral, olivier-gendebien, wolfgang-von-trips]
+- lap: 2
+  drivers: [dan-gurney, stirling-moss, john-surtees, phil-hill, graham-hill, jo-bonnier, bruce-mclaren, jack-brabham, tony-brooks, jim-clark, masten-gregory, mario-de-araujo-cabral, olivier-gendebien, innes-ireland, wolfgang-von-trips]
+- lap: 3
+  drivers: [dan-gurney, john-surtees, stirling-moss, phil-hill, graham-hill, jo-bonnier, bruce-mclaren, jack-brabham, tony-brooks, jim-clark, masten-gregory, olivier-gendebien, mario-de-araujo-cabral, wolfgang-von-trips, innes-ireland]
+- lap: 4
+  drivers: [dan-gurney, stirling-moss, john-surtees, phil-hill, jo-bonnier, graham-hill, bruce-mclaren, jack-brabham, tony-brooks, jim-clark, masten-gregory, olivier-gendebien, mario-de-araujo-cabral, wolfgang-von-trips, innes-ireland]
+- lap: 5
+  drivers: [dan-gurney, john-surtees, stirling-moss, phil-hill, graham-hill, jack-brabham, bruce-mclaren, jo-bonnier, tony-brooks, jim-clark, masten-gregory, olivier-gendebien, mario-de-araujo-cabral, wolfgang-von-trips, innes-ireland]
+- lap: 6
+  drivers: [dan-gurney, john-surtees, stirling-moss, phil-hill, graham-hill, jack-brabham, bruce-mclaren, tony-brooks, jim-clark, jo-bonnier, masten-gregory, olivier-gendebien, mario-de-araujo-cabral, wolfgang-von-trips, innes-ireland]
+- lap: 7
+  drivers: [dan-gurney, john-surtees, stirling-moss, phil-hill, graham-hill, jack-brabham, bruce-mclaren, tony-brooks, jim-clark, masten-gregory, olivier-gendebien, mario-de-araujo-cabral, wolfgang-von-trips, innes-ireland]
+- lap: 8
+  drivers: [dan-gurney, john-surtees, stirling-moss, phil-hill, jack-brabham, graham-hill, bruce-mclaren, tony-brooks, jim-clark, masten-gregory, olivier-gendebien, mario-de-araujo-cabral, wolfgang-von-trips, innes-ireland]
+- lap: 9
+  drivers: [dan-gurney, john-surtees, stirling-moss, phil-hill, jack-brabham, bruce-mclaren, tony-brooks, jim-clark, olivier-gendebien, masten-gregory, mario-de-araujo-cabral, wolfgang-von-trips, innes-ireland]
+- lap: 10
+  drivers: [dan-gurney, john-surtees, stirling-moss, phil-hill, jack-brabham, bruce-mclaren, tony-brooks, jim-clark, olivier-gendebien, masten-gregory, mario-de-araujo-cabral, wolfgang-von-trips, innes-ireland]
+- lap: 11
+  drivers: [john-surtees, stirling-moss, phil-hill, jack-brabham, dan-gurney, bruce-mclaren, tony-brooks, jim-clark, olivier-gendebien, masten-gregory, mario-de-araujo-cabral, wolfgang-von-trips, innes-ireland]
+- lap: 12
+  drivers: [john-surtees, stirling-moss, phil-hill, jack-brabham, dan-gurney, bruce-mclaren, tony-brooks, jim-clark, olivier-gendebien, masten-gregory, mario-de-araujo-cabral, wolfgang-von-trips, innes-ireland]
+- lap: 13
+  drivers: [john-surtees, stirling-moss, phil-hill, jack-brabham, bruce-mclaren, dan-gurney, tony-brooks, jim-clark, olivier-gendebien, masten-gregory, mario-de-araujo-cabral, wolfgang-von-trips, innes-ireland]
+- lap: 14
+  drivers: [john-surtees, stirling-moss, phil-hill, jack-brabham, bruce-mclaren, dan-gurney, tony-brooks, jim-clark, olivier-gendebien, masten-gregory, wolfgang-von-trips, mario-de-araujo-cabral, innes-ireland]
+- lap: 15
+  drivers: [john-surtees, stirling-moss, phil-hill, jack-brabham, bruce-mclaren, dan-gurney, tony-brooks, jim-clark, olivier-gendebien, masten-gregory, wolfgang-von-trips, mario-de-araujo-cabral, innes-ireland]
+- lap: 16
+  drivers: [john-surtees, stirling-moss, phil-hill, jack-brabham, bruce-mclaren, dan-gurney, tony-brooks, jim-clark, olivier-gendebien, wolfgang-von-trips, masten-gregory, mario-de-araujo-cabral, innes-ireland]
+- lap: 17
+  drivers: [john-surtees, stirling-moss, phil-hill, jack-brabham, bruce-mclaren, tony-brooks, dan-gurney, jim-clark, olivier-gendebien, wolfgang-von-trips, masten-gregory, mario-de-araujo-cabral, innes-ireland]
+- lap: 18
+  drivers: [john-surtees, stirling-moss, phil-hill, jack-brabham, bruce-mclaren, tony-brooks, dan-gurney, jim-clark, olivier-gendebien, wolfgang-von-trips, masten-gregory, mario-de-araujo-cabral, innes-ireland]
+- lap: 19
+  drivers: [john-surtees, stirling-moss, phil-hill, jack-brabham, bruce-mclaren, tony-brooks, dan-gurney, jim-clark, wolfgang-von-trips, olivier-gendebien, masten-gregory, mario-de-araujo-cabral, innes-ireland]
+- lap: 20
+  drivers: [john-surtees, phil-hill, jack-brabham, bruce-mclaren, stirling-moss, tony-brooks, dan-gurney, jim-clark, wolfgang-von-trips, olivier-gendebien, masten-gregory, mario-de-araujo-cabral, innes-ireland]
+- lap: 21
+  drivers: [john-surtees, phil-hill, jack-brabham, bruce-mclaren, tony-brooks, dan-gurney, jim-clark, wolfgang-von-trips, stirling-moss, olivier-gendebien, masten-gregory, mario-de-araujo-cabral, innes-ireland]
+- lap: 22
+  drivers: [john-surtees, phil-hill, jack-brabham, bruce-mclaren, tony-brooks, dan-gurney, jim-clark, wolfgang-von-trips, stirling-moss, olivier-gendebien, mario-de-araujo-cabral, innes-ireland]
+- lap: 23
+  drivers: [john-surtees, phil-hill, jack-brabham, bruce-mclaren, tony-brooks, dan-gurney, jim-clark, wolfgang-von-trips, stirling-moss, olivier-gendebien, mario-de-araujo-cabral, innes-ireland]
+- lap: 24
+  drivers: [john-surtees, phil-hill, jack-brabham, bruce-mclaren, tony-brooks, dan-gurney, jim-clark, wolfgang-von-trips, stirling-moss, olivier-gendebien, mario-de-araujo-cabral, innes-ireland]
+- lap: 25
+  drivers: [john-surtees, jack-brabham, phil-hill, bruce-mclaren, tony-brooks, jim-clark, wolfgang-von-trips, stirling-moss, olivier-gendebien, mario-de-araujo-cabral, innes-ireland]
+- lap: 26
+  drivers: [john-surtees, phil-hill, jack-brabham, bruce-mclaren, tony-brooks, jim-clark, wolfgang-von-trips, olivier-gendebien, stirling-moss, mario-de-araujo-cabral, innes-ireland]
+- lap: 27
+  drivers: [john-surtees, phil-hill, jack-brabham, bruce-mclaren, tony-brooks, jim-clark, wolfgang-von-trips, olivier-gendebien, stirling-moss, mario-de-araujo-cabral, innes-ireland]
+- lap: 28
+  drivers: [john-surtees, phil-hill, jack-brabham, bruce-mclaren, tony-brooks, jim-clark, wolfgang-von-trips, olivier-gendebien, stirling-moss, mario-de-araujo-cabral, innes-ireland]
+- lap: 29
+  drivers: [john-surtees, jack-brabham, bruce-mclaren, tony-brooks, jim-clark, wolfgang-von-trips, olivier-gendebien, stirling-moss, mario-de-araujo-cabral, phil-hill, innes-ireland]
+- lap: 30
+  drivers: [john-surtees, jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips, tony-brooks, stirling-moss, mario-de-araujo-cabral, olivier-gendebien, innes-ireland]
+- lap: 31
+  drivers: [john-surtees, jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips, stirling-moss, tony-brooks, mario-de-araujo-cabral, olivier-gendebien, innes-ireland]
+- lap: 32
+  drivers: [john-surtees, jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips, stirling-moss, tony-brooks, mario-de-araujo-cabral, innes-ireland, olivier-gendebien]
+- lap: 33
+  drivers: [john-surtees, jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips, stirling-moss, tony-brooks, mario-de-araujo-cabral, innes-ireland, olivier-gendebien]
+- lap: 34
+  drivers: [john-surtees, jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips, stirling-moss, tony-brooks, mario-de-araujo-cabral, innes-ireland, olivier-gendebien]
+- lap: 35
+  drivers: [john-surtees, jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips, stirling-moss, tony-brooks, mario-de-araujo-cabral, innes-ireland, olivier-gendebien]
+- lap: 36
+  drivers: [jack-brabham, john-surtees, bruce-mclaren, jim-clark, wolfgang-von-trips, stirling-moss, mario-de-araujo-cabral, tony-brooks, innes-ireland, olivier-gendebien]
+- lap: 37
+  drivers: [jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips, stirling-moss, tony-brooks, mario-de-araujo-cabral, innes-ireland, olivier-gendebien]
+- lap: 38
+  drivers: [jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips, stirling-moss, tony-brooks, innes-ireland, olivier-gendebien]
+- lap: 39
+  drivers: [jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips, stirling-moss, tony-brooks, innes-ireland, olivier-gendebien]
+- lap: 40
+  drivers: [jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips, stirling-moss, tony-brooks, innes-ireland, olivier-gendebien]
+- lap: 41
+  drivers: [jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips, stirling-moss, tony-brooks, innes-ireland, olivier-gendebien]
+- lap: 42
+  drivers: [jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips, stirling-moss, tony-brooks, innes-ireland, olivier-gendebien]
+- lap: 43
+  drivers: [jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips, stirling-moss, tony-brooks, innes-ireland, olivier-gendebien]
+- lap: 44
+  drivers: [jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips, stirling-moss, tony-brooks, innes-ireland, olivier-gendebien]
+- lap: 45
+  drivers: [jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips, stirling-moss, tony-brooks, innes-ireland, olivier-gendebien]
+- lap: 46
+  drivers: [jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips, stirling-moss, tony-brooks, innes-ireland, olivier-gendebien]
+- lap: 47
+  drivers: [jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips, stirling-moss, tony-brooks, innes-ireland]
+- lap: 48
+  drivers: [jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips, stirling-moss, tony-brooks, innes-ireland]
+- lap: 49
+  drivers: [jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips, stirling-moss, tony-brooks]
+- lap: 50
+  drivers: [jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips, stirling-moss]
+- lap: 51
+  drivers: [jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips]
+- lap: 52
+  drivers: [jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips]
+- lap: 53
+  drivers: [jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips]
+- lap: 54
+  drivers: [jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips]
+- lap: 55
+  drivers: [jack-brabham, bruce-mclaren, jim-clark, wolfgang-von-trips]

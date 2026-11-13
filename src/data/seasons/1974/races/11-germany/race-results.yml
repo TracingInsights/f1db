@@ -213,8 +213,8 @@
   driverId: james-hunt
   constructorId: hesketh
   engineManufacturerId: ford
-  tyreManufacturerId: goodyear
-  laps: 11
+  tyreManufacturerId: firestone
+  laps: 10
   time:
   timePenalty:
   gap:
@@ -429,7 +429,7 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Illness
   points:
   gridPosition:
 - position: DNQ
@@ -443,6 +443,6 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Accident
   points:
   gridPosition:

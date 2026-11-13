@@ -75,7 +75,7 @@
   engineManufacturerId: talbot-lago
   tyreManufacturerId: dunlop
   sharedCar: true
-  laps:
+  laps: 29
   time:
   timePenalty:
   gap:
@@ -104,7 +104,7 @@
   engineManufacturerId: talbot-lago
   tyreManufacturerId: dunlop
   sharedCar: true
-  laps:
+  laps: 28
   time:
   timePenalty:
   gap:
@@ -292,5 +292,33 @@
   gap:
   interval:
   reasonRetired: Practice only
+  points:
+  gridPosition:
+- position: DNS
+  driverNumber: 8
+  driverId: luigi-villoresi
+  constructorId: ferrari
+  engineManufacturerId: ferrari
+  tyreManufacturerId: pirelli
+  laps:
+  time:
+  timePenalty:
+  gap:
+  interval:
+  reasonRetired: Withdrew
+  points:
+  gridPosition:
+- position: DNS
+  driverNumber: 10
+  driverId: alberto-ascari
+  constructorId: ferrari
+  engineManufacturerId: ferrari
+  tyreManufacturerId: pirelli
+  laps:
+  time:
+  timePenalty:
+  gap:
+  interval:
+  reasonRetired: Withdrew
   points:
   gridPosition:

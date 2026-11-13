@@ -1,0 +1,102 @@
+- lap: 0
+  drivers: [lewis-hamilton, valtteri-bottas, max-verstappen, charles-leclerc, sergio-perez, pierre-gasly, lando-norris, yuki-tsunoda, esteban-ocon, antonio-giovinazzi, daniel-ricciardo, kimi-raikkonen, fernando-alonso, george-russell, carlos-sainz-jr, nicholas-latifi, sebastian-vettel, lance-stroll, mick-schumacher, nikita-mazepin]
+- lap: 1
+  drivers: [lewis-hamilton, valtteri-bottas, max-verstappen, charles-leclerc, sergio-perez, lando-norris, esteban-ocon, pierre-gasly, daniel-ricciardo, antonio-giovinazzi, fernando-alonso, yuki-tsunoda, carlos-sainz-jr, kimi-raikkonen, sebastian-vettel, lance-stroll, george-russell, mick-schumacher, nicholas-latifi, nikita-mazepin]
+- lap: 2
+  drivers: [lewis-hamilton, valtteri-bottas, max-verstappen, charles-leclerc, sergio-perez, lando-norris, esteban-ocon, pierre-gasly, daniel-ricciardo, fernando-alonso, antonio-giovinazzi, yuki-tsunoda, carlos-sainz-jr, kimi-raikkonen, sebastian-vettel, lance-stroll, george-russell, mick-schumacher, nicholas-latifi, nikita-mazepin]
+- lap: 3
+  drivers: [lewis-hamilton, valtteri-bottas, max-verstappen, charles-leclerc, sergio-perez, lando-norris, esteban-ocon, pierre-gasly, daniel-ricciardo, fernando-alonso, antonio-giovinazzi, yuki-tsunoda, carlos-sainz-jr, kimi-raikkonen, sebastian-vettel, george-russell, lance-stroll, mick-schumacher, nicholas-latifi, nikita-mazepin]
+- lap: 4
+  drivers: [lewis-hamilton, valtteri-bottas, max-verstappen, charles-leclerc, sergio-perez, lando-norris, esteban-ocon, pierre-gasly, daniel-ricciardo, fernando-alonso, antonio-giovinazzi, carlos-sainz-jr, yuki-tsunoda, kimi-raikkonen, sebastian-vettel, lance-stroll, george-russell, mick-schumacher, nicholas-latifi, nikita-mazepin]
+- lap: 5
+  drivers: [lewis-hamilton, valtteri-bottas, max-verstappen, charles-leclerc, sergio-perez, lando-norris, esteban-ocon, pierre-gasly, daniel-ricciardo, fernando-alonso, antonio-giovinazzi, carlos-sainz-jr, yuki-tsunoda, kimi-raikkonen, sebastian-vettel, lance-stroll, george-russell, mick-schumacher, nicholas-latifi, nikita-mazepin]
+- lap: 6
+  drivers: [lewis-hamilton, valtteri-bottas, max-verstappen, charles-leclerc, sergio-perez, lando-norris, esteban-ocon, pierre-gasly, daniel-ricciardo, fernando-alonso, antonio-giovinazzi, carlos-sainz-jr, yuki-tsunoda, kimi-raikkonen, sebastian-vettel, lance-stroll, george-russell, mick-schumacher, nicholas-latifi, nikita-mazepin]
+- lap: 7
+  drivers: [lewis-hamilton, valtteri-bottas, max-verstappen, charles-leclerc, sergio-perez, lando-norris, esteban-ocon, pierre-gasly, daniel-ricciardo, antonio-giovinazzi, fernando-alonso, carlos-sainz-jr, yuki-tsunoda, kimi-raikkonen, sebastian-vettel, lance-stroll, george-russell, mick-schumacher, nicholas-latifi, nikita-mazepin]
+- lap: 8
+  drivers: [lewis-hamilton, valtteri-bottas, max-verstappen, charles-leclerc, sergio-perez, lando-norris, esteban-ocon, daniel-ricciardo, pierre-gasly, antonio-giovinazzi, carlos-sainz-jr, fernando-alonso, yuki-tsunoda, kimi-raikkonen, sebastian-vettel, lance-stroll, george-russell, mick-schumacher, nicholas-latifi, nikita-mazepin]
+- lap: 9
+  drivers: [lewis-hamilton, valtteri-bottas, max-verstappen, charles-leclerc, sergio-perez, lando-norris, esteban-ocon, daniel-ricciardo, pierre-gasly, antonio-giovinazzi, carlos-sainz-jr, fernando-alonso, yuki-tsunoda, kimi-raikkonen, sebastian-vettel, lance-stroll, george-russell, nicholas-latifi, nikita-mazepin]
+- lap: 10
+  drivers: [lewis-hamilton, max-verstappen, valtteri-bottas, charles-leclerc, sergio-perez, esteban-ocon, lando-norris, daniel-ricciardo, pierre-gasly, carlos-sainz-jr, antonio-giovinazzi, yuki-tsunoda, fernando-alonso, kimi-raikkonen, sebastian-vettel, nicholas-latifi, nikita-mazepin, george-russell, lance-stroll]
+- lap: 11
+  drivers: [max-verstappen, lewis-hamilton, valtteri-bottas, esteban-ocon, daniel-ricciardo, charles-leclerc, pierre-gasly, sergio-perez, carlos-sainz-jr, antonio-giovinazzi, yuki-tsunoda, kimi-raikkonen, sebastian-vettel, lando-norris, fernando-alonso, nikita-mazepin, george-russell, lance-stroll, nicholas-latifi]
+- lap: 12
+  drivers: [max-verstappen, lewis-hamilton, valtteri-bottas, esteban-ocon, daniel-ricciardo, charles-leclerc, pierre-gasly, sergio-perez, carlos-sainz-jr, antonio-giovinazzi, yuki-tsunoda, kimi-raikkonen, sebastian-vettel, lando-norris, fernando-alonso, nikita-mazepin, george-russell, lance-stroll, nicholas-latifi]
+- lap: 13
+  drivers: [max-verstappen, lewis-hamilton, valtteri-bottas, esteban-ocon, daniel-ricciardo, charles-leclerc, pierre-gasly, sergio-perez, carlos-sainz-jr, antonio-giovinazzi, yuki-tsunoda, kimi-raikkonen, sebastian-vettel, lando-norris, fernando-alonso, nikita-mazepin, george-russell, lance-stroll, nicholas-latifi]
+- lap: 14
+  drivers: [max-verstappen, lewis-hamilton, valtteri-bottas, esteban-ocon, daniel-ricciardo, charles-leclerc, pierre-gasly, sergio-perez, carlos-sainz-jr, antonio-giovinazzi, yuki-tsunoda, kimi-raikkonen, sebastian-vettel, lando-norris, fernando-alonso, nikita-mazepin, george-russell, lance-stroll, nicholas-latifi]
+- lap: 15
+  drivers: [max-verstappen, esteban-ocon, lewis-hamilton, daniel-ricciardo, valtteri-bottas, pierre-gasly, charles-leclerc, antonio-giovinazzi, carlos-sainz-jr, sebastian-vettel, kimi-raikkonen, yuki-tsunoda, fernando-alonso, lance-stroll, nicholas-latifi, lando-norris]
+- lap: 16
+  drivers: [esteban-ocon, lewis-hamilton, max-verstappen, daniel-ricciardo, valtteri-bottas, pierre-gasly, charles-leclerc, antonio-giovinazzi, carlos-sainz-jr, sebastian-vettel, kimi-raikkonen, yuki-tsunoda, fernando-alonso, lance-stroll, nicholas-latifi, lando-norris]
+- lap: 17
+  drivers: [max-verstappen, esteban-ocon, lewis-hamilton, daniel-ricciardo, valtteri-bottas, pierre-gasly, antonio-giovinazzi, sebastian-vettel, yuki-tsunoda, charles-leclerc, carlos-sainz-jr, lance-stroll, kimi-raikkonen, fernando-alonso, lando-norris, nicholas-latifi]
+- lap: 18
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, daniel-ricciardo, valtteri-bottas, pierre-gasly, antonio-giovinazzi, sebastian-vettel, yuki-tsunoda, charles-leclerc, carlos-sainz-jr, lance-stroll, kimi-raikkonen, fernando-alonso, lando-norris, nicholas-latifi]
+- lap: 19
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, daniel-ricciardo, valtteri-bottas, pierre-gasly, antonio-giovinazzi, sebastian-vettel, yuki-tsunoda, charles-leclerc, carlos-sainz-jr, lance-stroll, kimi-raikkonen, fernando-alonso, lando-norris, nicholas-latifi]
+- lap: 20
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, daniel-ricciardo, valtteri-bottas, pierre-gasly, antonio-giovinazzi, sebastian-vettel, yuki-tsunoda, charles-leclerc, carlos-sainz-jr, lance-stroll, kimi-raikkonen, fernando-alonso, lando-norris, nicholas-latifi]
+- lap: 21
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, daniel-ricciardo, valtteri-bottas, pierre-gasly, antonio-giovinazzi, sebastian-vettel, yuki-tsunoda, charles-leclerc, carlos-sainz-jr, lance-stroll, kimi-raikkonen, fernando-alonso, lando-norris, nicholas-latifi]
+- lap: 22
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, daniel-ricciardo, valtteri-bottas, pierre-gasly, antonio-giovinazzi, sebastian-vettel, yuki-tsunoda, charles-leclerc, carlos-sainz-jr, lance-stroll, kimi-raikkonen, fernando-alonso, lando-norris, nicholas-latifi]
+- lap: 23
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, daniel-ricciardo, valtteri-bottas, pierre-gasly, antonio-giovinazzi, charles-leclerc, carlos-sainz-jr, lance-stroll, sebastian-vettel, kimi-raikkonen, fernando-alonso, lando-norris, nicholas-latifi, yuki-tsunoda]
+- lap: 24
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, daniel-ricciardo, valtteri-bottas, pierre-gasly, antonio-giovinazzi, carlos-sainz-jr, charles-leclerc, lance-stroll, sebastian-vettel, kimi-raikkonen, fernando-alonso, lando-norris, nicholas-latifi, yuki-tsunoda]
+- lap: 25
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, daniel-ricciardo, valtteri-bottas, pierre-gasly, antonio-giovinazzi, carlos-sainz-jr, charles-leclerc, lance-stroll, sebastian-vettel, kimi-raikkonen, lando-norris, nicholas-latifi, fernando-alonso, yuki-tsunoda]
+- lap: 26
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, daniel-ricciardo, valtteri-bottas, pierre-gasly, antonio-giovinazzi, carlos-sainz-jr, charles-leclerc, lance-stroll, lando-norris, nicholas-latifi, sebastian-vettel, fernando-alonso, kimi-raikkonen, yuki-tsunoda]
+- lap: 27
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, daniel-ricciardo, valtteri-bottas, pierre-gasly, antonio-giovinazzi, carlos-sainz-jr, charles-leclerc, lance-stroll, lando-norris, nicholas-latifi, sebastian-vettel, fernando-alonso, kimi-raikkonen, yuki-tsunoda]
+- lap: 28
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, daniel-ricciardo, valtteri-bottas, pierre-gasly, antonio-giovinazzi, carlos-sainz-jr, charles-leclerc, lance-stroll, lando-norris, nicholas-latifi, sebastian-vettel, fernando-alonso, kimi-raikkonen, yuki-tsunoda]
+- lap: 29
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, daniel-ricciardo, valtteri-bottas, pierre-gasly, antonio-giovinazzi, carlos-sainz-jr, charles-leclerc, lance-stroll, lando-norris, nicholas-latifi, sebastian-vettel, fernando-alonso, kimi-raikkonen, yuki-tsunoda]
+- lap: 30
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, daniel-ricciardo, valtteri-bottas, pierre-gasly, antonio-giovinazzi, carlos-sainz-jr, charles-leclerc, lance-stroll, lando-norris, nicholas-latifi, sebastian-vettel, fernando-alonso, kimi-raikkonen, yuki-tsunoda]
+- lap: 31
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, daniel-ricciardo, valtteri-bottas, pierre-gasly, antonio-giovinazzi, carlos-sainz-jr, charles-leclerc, lance-stroll, lando-norris, nicholas-latifi, sebastian-vettel, fernando-alonso, kimi-raikkonen, yuki-tsunoda]
+- lap: 32
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, daniel-ricciardo, valtteri-bottas, pierre-gasly, antonio-giovinazzi, carlos-sainz-jr, charles-leclerc, lance-stroll, lando-norris, nicholas-latifi, sebastian-vettel, fernando-alonso, kimi-raikkonen, yuki-tsunoda]
+- lap: 33
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, daniel-ricciardo, valtteri-bottas, pierre-gasly, antonio-giovinazzi, carlos-sainz-jr, charles-leclerc, lance-stroll, lando-norris, nicholas-latifi, sebastian-vettel, fernando-alonso, kimi-raikkonen, yuki-tsunoda]
+- lap: 34
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, daniel-ricciardo, valtteri-bottas, pierre-gasly, antonio-giovinazzi, carlos-sainz-jr, charles-leclerc, lance-stroll, lando-norris, nicholas-latifi, fernando-alonso, sebastian-vettel, kimi-raikkonen, yuki-tsunoda]
+- lap: 35
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, daniel-ricciardo, valtteri-bottas, pierre-gasly, antonio-giovinazzi, carlos-sainz-jr, charles-leclerc, lance-stroll, lando-norris, nicholas-latifi, fernando-alonso, sebastian-vettel, kimi-raikkonen, yuki-tsunoda]
+- lap: 36
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, daniel-ricciardo, valtteri-bottas, pierre-gasly, antonio-giovinazzi, carlos-sainz-jr, charles-leclerc, lance-stroll, lando-norris, nicholas-latifi, fernando-alonso, sebastian-vettel, kimi-raikkonen, yuki-tsunoda]
+- lap: 37
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, daniel-ricciardo, valtteri-bottas, pierre-gasly, antonio-giovinazzi, carlos-sainz-jr, charles-leclerc, lando-norris, lance-stroll, nicholas-latifi, fernando-alonso, sebastian-vettel, kimi-raikkonen, yuki-tsunoda]
+- lap: 38
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, daniel-ricciardo, valtteri-bottas, pierre-gasly, carlos-sainz-jr, antonio-giovinazzi, charles-leclerc, lando-norris, lance-stroll, nicholas-latifi, fernando-alonso, sebastian-vettel, kimi-raikkonen, yuki-tsunoda]
+- lap: 39
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, daniel-ricciardo, valtteri-bottas, pierre-gasly, carlos-sainz-jr, charles-leclerc, antonio-giovinazzi, lando-norris, lance-stroll, nicholas-latifi, fernando-alonso, sebastian-vettel, kimi-raikkonen, yuki-tsunoda]
+- lap: 40
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, valtteri-bottas, daniel-ricciardo, pierre-gasly, carlos-sainz-jr, charles-leclerc, antonio-giovinazzi, lando-norris, lance-stroll, nicholas-latifi, fernando-alonso, sebastian-vettel, kimi-raikkonen, yuki-tsunoda]
+- lap: 41
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, valtteri-bottas, daniel-ricciardo, pierre-gasly, carlos-sainz-jr, charles-leclerc, antonio-giovinazzi, lando-norris, lance-stroll, nicholas-latifi, fernando-alonso, sebastian-vettel, yuki-tsunoda, kimi-raikkonen]
+- lap: 42
+  drivers: [max-verstappen, lewis-hamilton, esteban-ocon, valtteri-bottas, daniel-ricciardo, pierre-gasly, carlos-sainz-jr, charles-leclerc, antonio-giovinazzi, lando-norris, lance-stroll, nicholas-latifi, fernando-alonso, sebastian-vettel, yuki-tsunoda, kimi-raikkonen]
+- lap: 43
+  drivers: [lewis-hamilton, max-verstappen, esteban-ocon, valtteri-bottas, daniel-ricciardo, pierre-gasly, carlos-sainz-jr, charles-leclerc, antonio-giovinazzi, lando-norris, lance-stroll, nicholas-latifi, fernando-alonso, sebastian-vettel, yuki-tsunoda, kimi-raikkonen]
+- lap: 44
+  drivers: [lewis-hamilton, max-verstappen, esteban-ocon, valtteri-bottas, daniel-ricciardo, pierre-gasly, carlos-sainz-jr, charles-leclerc, antonio-giovinazzi, lando-norris, lance-stroll, nicholas-latifi, fernando-alonso, sebastian-vettel, yuki-tsunoda, kimi-raikkonen]
+- lap: 45
+  drivers: [lewis-hamilton, max-verstappen, esteban-ocon, valtteri-bottas, daniel-ricciardo, pierre-gasly, carlos-sainz-jr, charles-leclerc, antonio-giovinazzi, lando-norris, lance-stroll, nicholas-latifi, fernando-alonso, yuki-tsunoda, kimi-raikkonen]
+- lap: 46
+  drivers: [lewis-hamilton, max-verstappen, esteban-ocon, valtteri-bottas, daniel-ricciardo, pierre-gasly, carlos-sainz-jr, charles-leclerc, antonio-giovinazzi, lando-norris, lance-stroll, nicholas-latifi, fernando-alonso, yuki-tsunoda, kimi-raikkonen]
+- lap: 47
+  drivers: [lewis-hamilton, max-verstappen, esteban-ocon, valtteri-bottas, daniel-ricciardo, pierre-gasly, carlos-sainz-jr, charles-leclerc, antonio-giovinazzi, lando-norris, lance-stroll, nicholas-latifi, fernando-alonso, yuki-tsunoda, kimi-raikkonen]
+- lap: 48
+  drivers: [lewis-hamilton, max-verstappen, esteban-ocon, valtteri-bottas, daniel-ricciardo, pierre-gasly, carlos-sainz-jr, charles-leclerc, antonio-giovinazzi, lando-norris, lance-stroll, nicholas-latifi, fernando-alonso, yuki-tsunoda, kimi-raikkonen]
+- lap: 49
+  drivers: [lewis-hamilton, max-verstappen, esteban-ocon, valtteri-bottas, daniel-ricciardo, pierre-gasly, charles-leclerc, carlos-sainz-jr, antonio-giovinazzi, lando-norris, lance-stroll, nicholas-latifi, yuki-tsunoda, fernando-alonso, kimi-raikkonen]
+- lap: 50
+  drivers: [lewis-hamilton, max-verstappen, valtteri-bottas, esteban-ocon, daniel-ricciardo, pierre-gasly, charles-leclerc, carlos-sainz-jr, antonio-giovinazzi, lando-norris, lance-stroll, nicholas-latifi]

@@ -154,9 +154,9 @@
   constructorId: brm
   engineManufacturerId: brm
   tyreManufacturerId: dunlop
-  time: "1:28.800"
-  gap: "+4.800"
-  interval: "+1.300"
+  time: "1:27.800"
+  gap: "+3.800"
+  interval: "+0.300"
   laps:
 - position: 17
   driverNumber: 10
@@ -166,7 +166,7 @@
   tyreManufacturerId: goodyear
   time: "1:26.300"
   gap: "+2.300"
-  interval: "-2.500"
+  interval: "-1.500"
   laps:
 - position: 18
   driverNumber: 6

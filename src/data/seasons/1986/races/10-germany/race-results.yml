@@ -180,20 +180,6 @@
   reasonRetired: Turbo
   points:
   gridPosition: 17
-- position: NC
-  driverNumber: 29
-  driverId: huub-rothengatter
-  constructorId: zakspeed
-  engineManufacturerId: zakspeed
-  tyreManufacturerId: goodyear
-  laps: 38
-  time:
-  timePenalty:
-  gap: "+6 laps"
-  interval:
-  reasonRetired:
-  points:
-  gridPosition: 24
 - position: DNF
   driverNumber: 14
   driverId: jonathan-palmer
@@ -362,3 +348,17 @@
   reasonRetired: Collision
   points:
   gridPosition: 9
+- position: DNF
+  driverNumber: 29
+  driverId: huub-rothengatter
+  constructorId: zakspeed
+  engineManufacturerId: zakspeed
+  tyreManufacturerId: goodyear
+  laps: 38
+  time:
+  timePenalty:
+  gap: "+6 laps"
+  interval:
+  reasonRetired: Gearbox
+  points:
+  gridPosition: 24

@@ -229,14 +229,16 @@
   constructors:
     - constructorId: lotus
       engineManufacturerId: brm
-      chassisId: lotus-33
+      chassis:
+        - chassisId: lotus-25
+        - chassisId: lotus-33
       engineId: brm-p60-20-v8
       tyreManufacturerId: firestone
       driverId: mike-spence
       rounds: 1-9
     - constructorId: ferrari
       engineManufacturerId: ferrari
-      chassisId: ferrari-246
+      chassisId: ferrari-246-tasman
       engineId: ferrari-228-24-v6
       tyreManufacturerId: firestone
       driverId: giancarlo-baghetti
@@ -275,7 +277,7 @@
   constructorId: ferrari
   engineManufacturerId: ferrari
   chassis:
-    - chassisId: ferrari-246
+    - chassisId: ferrari-246-tasman
     - chassisId: ferrari-312-66
   engines:
     - engineId: ferrari-228-24-v6

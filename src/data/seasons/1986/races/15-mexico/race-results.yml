@@ -334,13 +334,13 @@
   reasonRetired: Engine
   points:
   gridPosition: 9
-- position: DNS
+- position: DNF
   driverNumber: 16
   driverId: patrick-tambay
   constructorId: lola
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
-  laps:
+  laps: 0
   time:
   timePenalty:
   gap:
@@ -359,6 +359,6 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Accident
   points:
   gridPosition: 23

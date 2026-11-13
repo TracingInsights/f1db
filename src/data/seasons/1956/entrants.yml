@@ -97,12 +97,14 @@
   engineManufacturerId: alta
   chassisId: connaught-b
   engineId: alta-gp-25-l4
-  tyreManufacturerId: pirelli
+  tyreManufacturers:
+    - tyreManufacturerId: pirelli
+    - tyreManufacturerId: avon
   drivers:
     - driverId: desmond-titterington
       rounds: 6
     - driverId: archie-scott-brown
-      rounds: 6
+      rounds: 6,8
     - driverId: jack-fairman
       rounds: 6,8
     - driverId: les-leston
@@ -264,15 +266,6 @@
   engineId: offenhauser-45-l4
   tyreManufacturerId: firestone
   driverId: andy-linden
-  rounds: 3
-- entrantId: harry-dunn
-  countryId: united-states-of-america
-  constructorId: kurtis-kraft
-  engineManufacturerId: offenhauser
-  chassisId: kurtis-kraft-kk500b
-  engineId: offenhauser-45-l4
-  tyreManufacturerId: firestone
-  driverId: al-keller
   rounds: 3
 - entrantId: hh-johnson
   countryId: united-states-of-america
@@ -436,7 +429,9 @@
       engineManufacturerId: maserati
       chassisId: maserati-250f
       engineId: maserati-250f1-25-l6
-      tyreManufacturerId: dunlop
+      tyreManufacturers:
+        - tyreManufacturerId: dunlop
+        - tyreManufacturerId: pirelli
       driverId: mike-hawthorn
       rounds: 1
     - constructorId: brm
@@ -545,8 +540,12 @@
   countryId: italy
   constructorId: ferrari
   engineManufacturerId: ferrari
-  chassisId: ferrari-555
-  engineId: ferrari-555-25-l4
+  chassis:
+    - chassisId: ferrari-d50
+    - chassisId: ferrari-555
+  engines:
+    - engineId: ferrari-ds50-25-v8
+    - engineId: ferrari-555-25-l4
   tyreManufacturers:
     - tyreManufacturerId: englebert
     - tyreManufacturerId: pirelli

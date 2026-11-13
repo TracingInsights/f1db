@@ -148,7 +148,7 @@
   constructorId: williams
   engineManufacturerId: cosworth
   tyreManufacturerId: bridgestone
-  gridPenalty:
+  gridPenalty: 10
   time: "1:18.272"
 - position: 20
   driverNumber: 23
@@ -172,5 +172,5 @@
   constructorId: toro-rosso
   engineManufacturerId: cosworth
   tyreManufacturerId: michelin
-  gridPenalty:
+  gridPenalty: 10
   time: "1:17.164"

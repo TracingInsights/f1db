@@ -362,13 +362,13 @@
   reasonRetired: Alternator
   points:
   gridPosition: 24
-- position: DNS
+- position: DNF
   driverNumber: 25
   driverId: andrea-de-cesaris
   constructorId: ligier
   engineManufacturerId: renault
   tyreManufacturerId: pirelli
-  laps:
+  laps: 0
   time:
   timePenalty:
   gap:

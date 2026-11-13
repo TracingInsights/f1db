@@ -3,7 +3,7 @@
   driverId: alberto-ascari
   constructorId: ferrari
   engineManufacturerId: ferrari
-  tyreManufacturerId: pirelli
+  tyreManufacturerId: englebert
   time: "10:04.400"
   gap:
   interval:
@@ -13,7 +13,7 @@
   driverId: nino-farina
   constructorId: ferrari
   engineManufacturerId: ferrari
-  tyreManufacturerId: pirelli
+  tyreManufacturerId: englebert
   time: "10:07.300"
   gap: "+2.900"
   interval: "+2.900"
@@ -43,7 +43,7 @@
   driverId: piero-taruffi
   constructorId: ferrari
   engineManufacturerId: ferrari
-  tyreManufacturerId: pirelli
+  tyreManufacturerId: englebert
   time: "10:26.300"
   gap: "+21.900"
   interval: "+1.000"
@@ -243,7 +243,7 @@
   driverId: marcel-balsa
   constructorId: balsa
   engineManufacturerId: bmw
-  tyreManufacturerId: dunlop
+  tyreManufacturerId: englebert
   time:
   gap:
   interval:
@@ -268,6 +268,16 @@
   gap:
   interval:
   laps:
+- position: 28
+  driverNumber: 133
+  driverId: willi-krakau
+  constructorId: afm
+  engineManufacturerId: bmw
+  tyreManufacturerId: dunlop
+  time:
+  gap:
+  interval:
+  laps:
 - position: 29
   driverNumber: 135
   driverId: ernst-klodwig
@@ -288,11 +298,41 @@
   gap:
   interval:
   laps:
+- position: 31
+  driverNumber: 131
+  driverId: ludwig-fischer
+  constructorId: afm
+  engineManufacturerId: bmw
+  tyreManufacturerId: dunlop
+  time:
+  gap:
+  interval:
+  laps:
 - position: 32
   driverNumber: 113
   driverId: johnny-claes
   constructorId: hwm
   engineManufacturerId: alta
+  tyreManufacturerId: dunlop
+  time:
+  gap:
+  interval:
+  laps:
+- position: 33
+  driverNumber: 111
+  driverId: peter-collins
+  constructorId: hwm
+  engineManufacturerId: alta
+  tyreManufacturerId: dunlop
+  time:
+  gap:
+  interval:
+  laps:
+- position: 34
+  driverNumber: 134
+  driverId: harry-merkel
+  constructorId: krakau
+  engineManufacturerId: bmw
   tyreManufacturerId: dunlop
   time:
   gap:

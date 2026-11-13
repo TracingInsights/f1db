@@ -94,9 +94,9 @@
   constructorId: maserati
   engineManufacturerId: maserati
   tyreManufacturerId: pirelli
-  time: "9:45.000"
-  gap: "+19.400"
-  interval: "+0.000"
+  time: "9:51.500"
+  gap: "+25.900"
+  interval: "+6.500"
   laps:
 - position: 11
   driverNumber: 17
@@ -106,7 +106,7 @@
   tyreManufacturerId: pirelli
   time: "10:00.000"
   gap: "+34.400"
-  interval: "+15.000"
+  interval: "+8.500"
   laps:
 - position: 12
   driverNumber: 21

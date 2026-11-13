@@ -1,0 +1,110 @@
+- lap: 0
+  drivers: [john-watson, mario-andretti, niki-lauda, james-hunt, ronnie-peterson, patrick-tambay, jody-scheckter, carlos-reutemann, gilles-villeneuve, jacques-laffite, jean-pierre-jabouille, riccardo-patrese, patrick-depailler, alan-jones, emerson-fittipaldi, didier-pironi, clay-regazzoni, rene-arnoux, vittorio-brambilla, hans-joachim-stuck, rolf-stommelen, bruno-giacomelli, rupert-keegan, brett-lunger, jochen-mass, keke-rosberg]
+- lap: 1
+  drivers: [mario-andretti, john-watson, patrick-tambay, niki-lauda, ronnie-peterson, james-hunt, alan-jones, jacques-laffite, jody-scheckter, riccardo-patrese, carlos-reutemann, didier-pironi, gilles-villeneuve, patrick-depailler, rene-arnoux, hans-joachim-stuck, vittorio-brambilla, bruno-giacomelli, keke-rosberg, jochen-mass, emerson-fittipaldi, jean-pierre-jabouille, rupert-keegan, clay-regazzoni, rolf-stommelen, brett-lunger]
+- lap: 2
+  drivers: [mario-andretti, john-watson, patrick-tambay, niki-lauda, ronnie-peterson, james-hunt, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, carlos-reutemann, didier-pironi, gilles-villeneuve, patrick-depailler, hans-joachim-stuck, vittorio-brambilla, bruno-giacomelli, jochen-mass, rene-arnoux, emerson-fittipaldi, keke-rosberg, rupert-keegan, rolf-stommelen, brett-lunger, clay-regazzoni]
+- lap: 3
+  drivers: [mario-andretti, john-watson, niki-lauda, patrick-tambay, ronnie-peterson, james-hunt, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, carlos-reutemann, didier-pironi, gilles-villeneuve, patrick-depailler, hans-joachim-stuck, vittorio-brambilla, jochen-mass, bruno-giacomelli, rene-arnoux, emerson-fittipaldi, keke-rosberg, rupert-keegan, rolf-stommelen, brett-lunger, clay-regazzoni]
+- lap: 4
+  drivers: [mario-andretti, john-watson, niki-lauda, patrick-tambay, ronnie-peterson, james-hunt, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, carlos-reutemann, didier-pironi, gilles-villeneuve, patrick-depailler, hans-joachim-stuck, jochen-mass, vittorio-brambilla, bruno-giacomelli, emerson-fittipaldi, rene-arnoux, rupert-keegan, keke-rosberg, rolf-stommelen, brett-lunger, clay-regazzoni]
+- lap: 5
+  drivers: [mario-andretti, john-watson, niki-lauda, ronnie-peterson, patrick-tambay, james-hunt, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, carlos-reutemann, didier-pironi, patrick-depailler, gilles-villeneuve, hans-joachim-stuck, jochen-mass, vittorio-brambilla, emerson-fittipaldi, bruno-giacomelli, rene-arnoux, rupert-keegan, keke-rosberg, rolf-stommelen, brett-lunger]
+- lap: 6
+  drivers: [mario-andretti, john-watson, niki-lauda, ronnie-peterson, patrick-tambay, james-hunt, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, patrick-depailler, carlos-reutemann, gilles-villeneuve, hans-joachim-stuck, jochen-mass, vittorio-brambilla, emerson-fittipaldi, bruno-giacomelli, rene-arnoux, rupert-keegan, keke-rosberg, rolf-stommelen, brett-lunger]
+- lap: 7
+  drivers: [mario-andretti, john-watson, niki-lauda, ronnie-peterson, patrick-tambay, james-hunt, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, patrick-depailler, carlos-reutemann, gilles-villeneuve, hans-joachim-stuck, jochen-mass, emerson-fittipaldi, vittorio-brambilla, bruno-giacomelli, rene-arnoux, rupert-keegan, rolf-stommelen, keke-rosberg, brett-lunger]
+- lap: 8
+  drivers: [mario-andretti, niki-lauda, ronnie-peterson, john-watson, patrick-tambay, james-hunt, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, patrick-depailler, carlos-reutemann, gilles-villeneuve, hans-joachim-stuck, jochen-mass, emerson-fittipaldi, vittorio-brambilla, bruno-giacomelli, rene-arnoux, rupert-keegan, rolf-stommelen, keke-rosberg, brett-lunger]
+- lap: 9
+  drivers: [mario-andretti, niki-lauda, ronnie-peterson, john-watson, patrick-tambay, james-hunt, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, patrick-depailler, carlos-reutemann, gilles-villeneuve, hans-joachim-stuck, jochen-mass, emerson-fittipaldi, vittorio-brambilla, bruno-giacomelli, rene-arnoux, rupert-keegan, rolf-stommelen, brett-lunger, keke-rosberg]
+- lap: 10
+  drivers: [mario-andretti, ronnie-peterson, john-watson, patrick-tambay, james-hunt, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, patrick-depailler, didier-pironi, niki-lauda, hans-joachim-stuck, jochen-mass, emerson-fittipaldi, gilles-villeneuve, vittorio-brambilla, bruno-giacomelli, rene-arnoux, rupert-keegan, brett-lunger, rolf-stommelen, keke-rosberg, carlos-reutemann]
+- lap: 11
+  drivers: [mario-andretti, ronnie-peterson, john-watson, james-hunt, alan-jones, jody-scheckter, jacques-laffite, patrick-tambay, riccardo-patrese, didier-pironi, hans-joachim-stuck, emerson-fittipaldi, jochen-mass, gilles-villeneuve, vittorio-brambilla, bruno-giacomelli, rene-arnoux, rupert-keegan, brett-lunger, rolf-stommelen, keke-rosberg, carlos-reutemann]
+- lap: 12
+  drivers: [mario-andretti, ronnie-peterson, john-watson, james-hunt, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, hans-joachim-stuck, emerson-fittipaldi, jochen-mass, vittorio-brambilla, bruno-giacomelli, rene-arnoux, rupert-keegan, brett-lunger, rolf-stommelen, patrick-tambay, keke-rosberg, carlos-reutemann, gilles-villeneuve]
+- lap: 13
+  drivers: [mario-andretti, ronnie-peterson, john-watson, james-hunt, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, emerson-fittipaldi, hans-joachim-stuck, jochen-mass, bruno-giacomelli, vittorio-brambilla, rene-arnoux, rupert-keegan, brett-lunger, rolf-stommelen, patrick-tambay, keke-rosberg, carlos-reutemann, gilles-villeneuve]
+- lap: 14
+  drivers: [mario-andretti, ronnie-peterson, john-watson, james-hunt, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, emerson-fittipaldi, hans-joachim-stuck, jochen-mass, vittorio-brambilla, bruno-giacomelli, rene-arnoux, rupert-keegan, brett-lunger, patrick-tambay, rolf-stommelen, keke-rosberg, carlos-reutemann, gilles-villeneuve]
+- lap: 15
+  drivers: [mario-andretti, ronnie-peterson, john-watson, james-hunt, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, emerson-fittipaldi, hans-joachim-stuck, jochen-mass, vittorio-brambilla, bruno-giacomelli, rene-arnoux, rupert-keegan, brett-lunger, patrick-tambay, rolf-stommelen, keke-rosberg, carlos-reutemann, gilles-villeneuve]
+- lap: 16
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, emerson-fittipaldi, hans-joachim-stuck, jochen-mass, vittorio-brambilla, bruno-giacomelli, rene-arnoux, rupert-keegan, brett-lunger, patrick-tambay, rolf-stommelen, keke-rosberg, carlos-reutemann, gilles-villeneuve]
+- lap: 17
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, emerson-fittipaldi, hans-joachim-stuck, jochen-mass, vittorio-brambilla, bruno-giacomelli, rupert-keegan, brett-lunger, rene-arnoux, patrick-tambay, rolf-stommelen, keke-rosberg, carlos-reutemann, gilles-villeneuve]
+- lap: 18
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, emerson-fittipaldi, hans-joachim-stuck, jochen-mass, vittorio-brambilla, bruno-giacomelli, patrick-tambay, rupert-keegan, brett-lunger, rene-arnoux, rolf-stommelen, keke-rosberg, carlos-reutemann, gilles-villeneuve]
+- lap: 19
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, emerson-fittipaldi, hans-joachim-stuck, jochen-mass, patrick-tambay, vittorio-brambilla, bruno-giacomelli, rupert-keegan, brett-lunger, rene-arnoux, rolf-stommelen, keke-rosberg, gilles-villeneuve, carlos-reutemann]
+- lap: 20
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, emerson-fittipaldi, hans-joachim-stuck, jochen-mass, patrick-tambay, vittorio-brambilla, bruno-giacomelli, rupert-keegan, brett-lunger, rene-arnoux, rolf-stommelen, keke-rosberg, gilles-villeneuve, carlos-reutemann]
+- lap: 21
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, emerson-fittipaldi, hans-joachim-stuck, jochen-mass, patrick-tambay, bruno-giacomelli, rupert-keegan, brett-lunger, rene-arnoux, rolf-stommelen, vittorio-brambilla, gilles-villeneuve, keke-rosberg, carlos-reutemann]
+- lap: 22
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, emerson-fittipaldi, hans-joachim-stuck, jochen-mass, patrick-tambay, bruno-giacomelli, rupert-keegan, brett-lunger, rene-arnoux, rolf-stommelen, vittorio-brambilla, gilles-villeneuve, keke-rosberg, carlos-reutemann]
+- lap: 23
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, emerson-fittipaldi, hans-joachim-stuck, patrick-tambay, jochen-mass, bruno-giacomelli, brett-lunger, rupert-keegan, rene-arnoux, rolf-stommelen, vittorio-brambilla, gilles-villeneuve, keke-rosberg, carlos-reutemann]
+- lap: 24
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, emerson-fittipaldi, hans-joachim-stuck, patrick-tambay, jochen-mass, bruno-giacomelli, brett-lunger, rupert-keegan, rene-arnoux, rolf-stommelen, vittorio-brambilla, gilles-villeneuve, keke-rosberg, carlos-reutemann]
+- lap: 25
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, emerson-fittipaldi, hans-joachim-stuck, patrick-tambay, jochen-mass, brett-lunger, rupert-keegan, rene-arnoux, rolf-stommelen, vittorio-brambilla, bruno-giacomelli, gilles-villeneuve, keke-rosberg, carlos-reutemann]
+- lap: 26
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, emerson-fittipaldi, hans-joachim-stuck, patrick-tambay, jochen-mass, brett-lunger, rupert-keegan, rene-arnoux, rolf-stommelen, vittorio-brambilla, bruno-giacomelli, keke-rosberg, gilles-villeneuve, carlos-reutemann]
+- lap: 27
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, emerson-fittipaldi, patrick-tambay, hans-joachim-stuck, jochen-mass, brett-lunger, rupert-keegan, rene-arnoux, rolf-stommelen, vittorio-brambilla, bruno-giacomelli, keke-rosberg, gilles-villeneuve, carlos-reutemann]
+- lap: 28
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, emerson-fittipaldi, patrick-tambay, hans-joachim-stuck, jochen-mass, brett-lunger, rene-arnoux, rupert-keegan, rolf-stommelen, vittorio-brambilla, bruno-giacomelli, keke-rosberg, gilles-villeneuve, carlos-reutemann]
+- lap: 29
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, emerson-fittipaldi, patrick-tambay, hans-joachim-stuck, jochen-mass, brett-lunger, rene-arnoux, rupert-keegan, rolf-stommelen, vittorio-brambilla, keke-rosberg, gilles-villeneuve, carlos-reutemann]
+- lap: 30
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, emerson-fittipaldi, patrick-tambay, hans-joachim-stuck, jochen-mass, brett-lunger, rene-arnoux, rupert-keegan, rolf-stommelen, vittorio-brambilla, keke-rosberg, gilles-villeneuve, carlos-reutemann]
+- lap: 31
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, emerson-fittipaldi, patrick-tambay, hans-joachim-stuck, jochen-mass, brett-lunger, rene-arnoux, rupert-keegan, rolf-stommelen, vittorio-brambilla, gilles-villeneuve, keke-rosberg, carlos-reutemann]
+- lap: 32
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, emerson-fittipaldi, didier-pironi, patrick-tambay, hans-joachim-stuck, jochen-mass, brett-lunger, rene-arnoux, rupert-keegan, rolf-stommelen, vittorio-brambilla, gilles-villeneuve, keke-rosberg, carlos-reutemann]
+- lap: 33
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, emerson-fittipaldi, didier-pironi, patrick-tambay, hans-joachim-stuck, jochen-mass, brett-lunger, rene-arnoux, rupert-keegan, rolf-stommelen, vittorio-brambilla, gilles-villeneuve, keke-rosberg, carlos-reutemann]
+- lap: 34
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, emerson-fittipaldi, didier-pironi, patrick-tambay, hans-joachim-stuck, jochen-mass, brett-lunger, rene-arnoux, rupert-keegan, rolf-stommelen, vittorio-brambilla, gilles-villeneuve, keke-rosberg, carlos-reutemann]
+- lap: 35
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, emerson-fittipaldi, didier-pironi, patrick-tambay, hans-joachim-stuck, jochen-mass, brett-lunger, rene-arnoux, rupert-keegan, rolf-stommelen, vittorio-brambilla, gilles-villeneuve, keke-rosberg, carlos-reutemann]
+- lap: 36
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, emerson-fittipaldi, didier-pironi, patrick-tambay, hans-joachim-stuck, jochen-mass, brett-lunger, rene-arnoux, rupert-keegan, rolf-stommelen, gilles-villeneuve, vittorio-brambilla, keke-rosberg, carlos-reutemann]
+- lap: 37
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, emerson-fittipaldi, didier-pironi, patrick-tambay, hans-joachim-stuck, jochen-mass, brett-lunger, rene-arnoux, rupert-keegan, rolf-stommelen, gilles-villeneuve, vittorio-brambilla, keke-rosberg, carlos-reutemann]
+- lap: 38
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, emerson-fittipaldi, riccardo-patrese, didier-pironi, patrick-tambay, hans-joachim-stuck, jochen-mass, brett-lunger, rene-arnoux, rupert-keegan, rolf-stommelen, gilles-villeneuve, vittorio-brambilla, keke-rosberg, carlos-reutemann]
+- lap: 39
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, emerson-fittipaldi, riccardo-patrese, didier-pironi, patrick-tambay, hans-joachim-stuck, jochen-mass, brett-lunger, rene-arnoux, rupert-keegan, rolf-stommelen, gilles-villeneuve, vittorio-brambilla, keke-rosberg, carlos-reutemann]
+- lap: 40
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, emerson-fittipaldi, riccardo-patrese, didier-pironi, patrick-tambay, hans-joachim-stuck, jochen-mass, brett-lunger, rene-arnoux, rupert-keegan, rolf-stommelen, gilles-villeneuve, vittorio-brambilla, keke-rosberg, carlos-reutemann]
+- lap: 41
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, emerson-fittipaldi, riccardo-patrese, didier-pironi, patrick-tambay, hans-joachim-stuck, jochen-mass, brett-lunger, rene-arnoux, gilles-villeneuve, rolf-stommelen, keke-rosberg, vittorio-brambilla, carlos-reutemann]
+- lap: 42
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, emerson-fittipaldi, riccardo-patrese, didier-pironi, patrick-tambay, hans-joachim-stuck, jochen-mass, brett-lunger, rene-arnoux, gilles-villeneuve, rolf-stommelen, keke-rosberg, vittorio-brambilla, carlos-reutemann]
+- lap: 43
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, emerson-fittipaldi, riccardo-patrese, didier-pironi, patrick-tambay, hans-joachim-stuck, brett-lunger, jochen-mass, rene-arnoux, gilles-villeneuve, rolf-stommelen, keke-rosberg, vittorio-brambilla, carlos-reutemann]
+- lap: 44
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, patrick-tambay, hans-joachim-stuck, brett-lunger, jochen-mass, rene-arnoux, gilles-villeneuve, rolf-stommelen, keke-rosberg, vittorio-brambilla, carlos-reutemann]
+- lap: 45
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, patrick-tambay, hans-joachim-stuck, brett-lunger, jochen-mass, rene-arnoux, gilles-villeneuve, rolf-stommelen, keke-rosberg, vittorio-brambilla, carlos-reutemann]
+- lap: 46
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, patrick-tambay, hans-joachim-stuck, jochen-mass, rene-arnoux, gilles-villeneuve, rolf-stommelen, keke-rosberg, vittorio-brambilla, carlos-reutemann]
+- lap: 47
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, patrick-tambay, hans-joachim-stuck, jochen-mass, gilles-villeneuve, rene-arnoux, rolf-stommelen, keke-rosberg, vittorio-brambilla, carlos-reutemann]
+- lap: 48
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, patrick-tambay, hans-joachim-stuck, gilles-villeneuve, jochen-mass, rene-arnoux, rolf-stommelen, keke-rosberg, vittorio-brambilla, carlos-reutemann]
+- lap: 49
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, patrick-tambay, hans-joachim-stuck, gilles-villeneuve, jochen-mass, rene-arnoux, rolf-stommelen, keke-rosberg, vittorio-brambilla, carlos-reutemann]
+- lap: 50
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, patrick-tambay, hans-joachim-stuck, gilles-villeneuve, jochen-mass, rene-arnoux, rolf-stommelen, keke-rosberg, vittorio-brambilla]
+- lap: 51
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, didier-pironi, patrick-tambay, hans-joachim-stuck, gilles-villeneuve, jochen-mass, rene-arnoux, rolf-stommelen, keke-rosberg, vittorio-brambilla]
+- lap: 52
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, patrick-tambay, didier-pironi, hans-joachim-stuck, gilles-villeneuve, jochen-mass, rene-arnoux, rolf-stommelen, keke-rosberg, vittorio-brambilla]
+- lap: 53
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, patrick-tambay, didier-pironi, hans-joachim-stuck, gilles-villeneuve, jochen-mass, rene-arnoux, rolf-stommelen]
+- lap: 54
+  drivers: [mario-andretti, ronnie-peterson, james-hunt, john-watson, alan-jones, jody-scheckter, jacques-laffite, riccardo-patrese, patrick-tambay, didier-pironi]

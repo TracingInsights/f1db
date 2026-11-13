@@ -1,0 +1,132 @@
+- lap: 0
+  drivers: ["32:juan-manuel-fangio", alberto-ascari, nino-farina, maurice-trintignant, onofre-marimon, luigi-villoresi, mike-hawthorn, emmanuel-de-graffenried, ken-wharton, "30:felice-bonetto", hermann-lang, jean-behra, jacques-swaters, louis-rosier, lance-macklin, paul-frere, peter-hirt, albert-scherrer, max-de-terra, chico-landi]
+- lap: 1
+  drivers: [alberto-ascari, "32:juan-manuel-fangio", mike-hawthorn, onofre-marimon, luigi-villoresi, "30:felice-bonetto", nino-farina, emmanuel-de-graffenried, maurice-trintignant, ken-wharton, lance-macklin, hermann-lang, chico-landi, jean-behra, peter-hirt, paul-frere, max-de-terra, albert-scherrer]
+- lap: 2
+  drivers: [alberto-ascari, "32:juan-manuel-fangio", mike-hawthorn, onofre-marimon, luigi-villoresi, "30:felice-bonetto", nino-farina, maurice-trintignant, emmanuel-de-graffenried, ken-wharton, hermann-lang, lance-macklin, chico-landi, jean-behra, peter-hirt, max-de-terra, albert-scherrer]
+- lap: 3
+  drivers: [alberto-ascari, "32:juan-manuel-fangio", mike-hawthorn, onofre-marimon, luigi-villoresi, "30:felice-bonetto", nino-farina, maurice-trintignant, emmanuel-de-graffenried, hermann-lang, ken-wharton, lance-macklin, jean-behra, chico-landi, peter-hirt, max-de-terra, albert-scherrer]
+- lap: 4
+  drivers: [alberto-ascari, "32:juan-manuel-fangio", mike-hawthorn, onofre-marimon, luigi-villoresi, "30:felice-bonetto", nino-farina, maurice-trintignant, emmanuel-de-graffenried, hermann-lang, ken-wharton, jean-behra, chico-landi, lance-macklin, peter-hirt, albert-scherrer, max-de-terra]
+- lap: 5
+  drivers: [alberto-ascari, "32:juan-manuel-fangio", mike-hawthorn, luigi-villoresi, "30:felice-bonetto", nino-farina, onofre-marimon, maurice-trintignant, hermann-lang, emmanuel-de-graffenried, ken-wharton, jean-behra, chico-landi, lance-macklin, peter-hirt, albert-scherrer, max-de-terra]
+- lap: 6
+  drivers: [alberto-ascari, "32:juan-manuel-fangio", mike-hawthorn, luigi-villoresi, nino-farina, "30:felice-bonetto", onofre-marimon, maurice-trintignant, hermann-lang, emmanuel-de-graffenried, ken-wharton, jean-behra, chico-landi, lance-macklin, peter-hirt, albert-scherrer, max-de-terra]
+- lap: 7
+  drivers: [alberto-ascari, "32:juan-manuel-fangio", nino-farina, mike-hawthorn, luigi-villoresi, "30:felice-bonetto", onofre-marimon, maurice-trintignant, hermann-lang, emmanuel-de-graffenried, ken-wharton, jean-behra, chico-landi, lance-macklin, peter-hirt, albert-scherrer, max-de-terra]
+- lap: 8
+  drivers: [alberto-ascari, "32:juan-manuel-fangio", nino-farina, mike-hawthorn, luigi-villoresi, "30:felice-bonetto", onofre-marimon, maurice-trintignant, hermann-lang, emmanuel-de-graffenried, ken-wharton, jean-behra, chico-landi, lance-macklin, peter-hirt, albert-scherrer, max-de-terra]
+- lap: 9
+  drivers: [alberto-ascari, "32:juan-manuel-fangio", nino-farina, mike-hawthorn, luigi-villoresi, "30:felice-bonetto", onofre-marimon, maurice-trintignant, hermann-lang, emmanuel-de-graffenried, ken-wharton, jean-behra, chico-landi, lance-macklin, peter-hirt, albert-scherrer, max-de-terra]
+- lap: 10
+  drivers: [alberto-ascari, nino-farina, "32:juan-manuel-fangio", mike-hawthorn, luigi-villoresi, "30:felice-bonetto", onofre-marimon, maurice-trintignant, hermann-lang, emmanuel-de-graffenried, ken-wharton, jean-behra, chico-landi, lance-macklin, peter-hirt, albert-scherrer, max-de-terra]
+- lap: 11
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, luigi-villoresi, onofre-marimon, "32:juan-manuel-fangio", "30:felice-bonetto", maurice-trintignant, hermann-lang, ken-wharton, emmanuel-de-graffenried, jean-behra, lance-macklin, chico-landi, peter-hirt, albert-scherrer, max-de-terra]
+- lap: 12
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, luigi-villoresi, onofre-marimon, "32:juan-manuel-fangio", maurice-trintignant, hermann-lang, "30:felice-bonetto", ken-wharton, emmanuel-de-graffenried, jean-behra, lance-macklin, chico-landi, peter-hirt, albert-scherrer, max-de-terra]
+- lap: 13
+  drivers: [alberto-ascari, nino-farina, luigi-villoresi, mike-hawthorn, onofre-marimon, "30:felice-bonetto", maurice-trintignant, hermann-lang, "32:juan-manuel-fangio", ken-wharton, emmanuel-de-graffenried, jean-behra, lance-macklin, chico-landi, peter-hirt, albert-scherrer, max-de-terra]
+- lap: 14
+  drivers: [alberto-ascari, nino-farina, luigi-villoresi, mike-hawthorn, onofre-marimon, "30:felice-bonetto", maurice-trintignant, hermann-lang, "32:juan-manuel-fangio", ken-wharton, emmanuel-de-graffenried, jean-behra, lance-macklin, chico-landi, peter-hirt, albert-scherrer, max-de-terra]
+- lap: 15
+  drivers: [alberto-ascari, nino-farina, luigi-villoresi, mike-hawthorn, onofre-marimon, "30:felice-bonetto", maurice-trintignant, hermann-lang, "32:juan-manuel-fangio", ken-wharton, emmanuel-de-graffenried, jean-behra, lance-macklin, chico-landi, peter-hirt, albert-scherrer, max-de-terra]
+- lap: 16
+  drivers: [alberto-ascari, nino-farina, luigi-villoresi, mike-hawthorn, onofre-marimon, "30:felice-bonetto", maurice-trintignant, "32:juan-manuel-fangio", hermann-lang, ken-wharton, emmanuel-de-graffenried, jean-behra, lance-macklin, chico-landi, peter-hirt, albert-scherrer, max-de-terra]
+- lap: 17
+  drivers: [alberto-ascari, nino-farina, luigi-villoresi, mike-hawthorn, onofre-marimon, "30:felice-bonetto", maurice-trintignant, "32:juan-manuel-fangio", hermann-lang, ken-wharton, emmanuel-de-graffenried, jean-behra, lance-macklin, chico-landi, peter-hirt, albert-scherrer, max-de-terra]
+- lap: 18
+  drivers: [alberto-ascari, nino-farina, luigi-villoresi, mike-hawthorn, onofre-marimon, "30:felice-bonetto", maurice-trintignant, "32:juan-manuel-fangio", hermann-lang, ken-wharton, emmanuel-de-graffenried, jean-behra, lance-macklin, chico-landi, albert-scherrer, max-de-terra]
+- lap: 19
+  drivers: [alberto-ascari, nino-farina, luigi-villoresi, mike-hawthorn, onofre-marimon, "30:felice-bonetto", maurice-trintignant, "32:juan-manuel-fangio", ken-wharton, emmanuel-de-graffenried, hermann-lang, jean-behra, lance-macklin, chico-landi, albert-scherrer, max-de-terra]
+- lap: 20
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, luigi-villoresi, onofre-marimon, "30:felice-bonetto", "32:juan-manuel-fangio", maurice-trintignant, ken-wharton, emmanuel-de-graffenried, hermann-lang, jean-behra, lance-macklin, chico-landi, albert-scherrer, max-de-terra]
+- lap: 21
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, onofre-marimon, "30:felice-bonetto", luigi-villoresi, "32:juan-manuel-fangio", maurice-trintignant, ken-wharton, hermann-lang, emmanuel-de-graffenried, jean-behra, lance-macklin, chico-landi, albert-scherrer, max-de-terra]
+- lap: 22
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, onofre-marimon, "30:felice-bonetto", luigi-villoresi, "32:juan-manuel-fangio", maurice-trintignant, ken-wharton, emmanuel-de-graffenried, hermann-lang, jean-behra, lance-macklin, chico-landi, albert-scherrer, max-de-terra]
+- lap: 23
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, onofre-marimon, "30:felice-bonetto", "32:juan-manuel-fangio", luigi-villoresi, maurice-trintignant, ken-wharton, hermann-lang, emmanuel-de-graffenried, jean-behra, lance-macklin, chico-landi, albert-scherrer, max-de-terra]
+- lap: 24
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, onofre-marimon, "30:felice-bonetto", "32:juan-manuel-fangio", luigi-villoresi, maurice-trintignant, ken-wharton, hermann-lang, emmanuel-de-graffenried, jean-behra, lance-macklin, chico-landi, albert-scherrer, max-de-terra]
+- lap: 25
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, onofre-marimon, "30:felice-bonetto", "32:juan-manuel-fangio", luigi-villoresi, maurice-trintignant, ken-wharton, hermann-lang, emmanuel-de-graffenried, jean-behra, lance-macklin, chico-landi, albert-scherrer, max-de-terra]
+- lap: 26
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, onofre-marimon, "30:felice-bonetto", "32:juan-manuel-fangio", luigi-villoresi, maurice-trintignant, ken-wharton, hermann-lang, emmanuel-de-graffenried, jean-behra, lance-macklin, chico-landi, albert-scherrer, max-de-terra]
+- lap: 27
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, onofre-marimon, "30:felice-bonetto", "32:juan-manuel-fangio", luigi-villoresi, maurice-trintignant, ken-wharton, hermann-lang, emmanuel-de-graffenried, jean-behra, lance-macklin, chico-landi, albert-scherrer, max-de-terra]
+- lap: 28
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, onofre-marimon, "32:juan-manuel-fangio", "30:felice-bonetto", luigi-villoresi, maurice-trintignant, ken-wharton, hermann-lang, emmanuel-de-graffenried, jean-behra, lance-macklin, chico-landi, max-de-terra, albert-scherrer]
+- lap: 29
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, onofre-marimon, "30:felice-bonetto", luigi-villoresi, maurice-trintignant, "32:juan-manuel-fangio", ken-wharton, hermann-lang, emmanuel-de-graffenried, jean-behra, lance-macklin, chico-landi, max-de-terra, albert-scherrer]
+- lap: 30
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, onofre-marimon, "32:felice-bonetto", luigi-villoresi, maurice-trintignant, ken-wharton, hermann-lang, emmanuel-de-graffenried, jean-behra, chico-landi, max-de-terra, albert-scherrer]
+- lap: 31
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, onofre-marimon, "32:felice-bonetto", luigi-villoresi, maurice-trintignant, hermann-lang, ken-wharton, emmanuel-de-graffenried, jean-behra, chico-landi, max-de-terra, albert-scherrer]
+- lap: 32
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, onofre-marimon, luigi-villoresi, "32:felice-bonetto", maurice-trintignant, hermann-lang, ken-wharton, emmanuel-de-graffenried, jean-behra, chico-landi, max-de-terra, albert-scherrer]
+- lap: 33
+  drivers: [alberto-ascari, nino-farina, onofre-marimon, mike-hawthorn, luigi-villoresi, "32:felice-bonetto", maurice-trintignant, hermann-lang, ken-wharton, emmanuel-de-graffenried, jean-behra, chico-landi, max-de-terra, albert-scherrer]
+- lap: 34
+  drivers: [alberto-ascari, nino-farina, onofre-marimon, mike-hawthorn, "32:felice-bonetto", luigi-villoresi, maurice-trintignant, hermann-lang, ken-wharton, emmanuel-de-graffenried, jean-behra, chico-landi, max-de-terra, albert-scherrer]
+- lap: 35
+  drivers: [alberto-ascari, nino-farina, onofre-marimon, mike-hawthorn, "32:felice-bonetto", maurice-trintignant, luigi-villoresi, hermann-lang, ken-wharton, emmanuel-de-graffenried, jean-behra, chico-landi, max-de-terra, albert-scherrer]
+- lap: 36
+  drivers: [alberto-ascari, nino-farina, onofre-marimon, mike-hawthorn, "32:felice-bonetto", maurice-trintignant, luigi-villoresi, hermann-lang, ken-wharton, emmanuel-de-graffenried, jean-behra, chico-landi, max-de-terra, albert-scherrer]
+- lap: 37
+  drivers: [alberto-ascari, nino-farina, onofre-marimon, mike-hawthorn, "32:felice-bonetto", maurice-trintignant, luigi-villoresi, hermann-lang, ken-wharton, emmanuel-de-graffenried, jean-behra, chico-landi, max-de-terra, albert-scherrer]
+- lap: 38
+  drivers: [alberto-ascari, nino-farina, onofre-marimon, mike-hawthorn, "32:felice-bonetto", maurice-trintignant, luigi-villoresi, hermann-lang, ken-wharton, emmanuel-de-graffenried, chico-landi, max-de-terra, albert-scherrer]
+- lap: 39
+  drivers: [alberto-ascari, nino-farina, onofre-marimon, mike-hawthorn, "32:felice-bonetto", maurice-trintignant, luigi-villoresi, hermann-lang, ken-wharton, emmanuel-de-graffenried, chico-landi, max-de-terra, albert-scherrer]
+- lap: 40
+  drivers: [alberto-ascari, nino-farina, onofre-marimon, mike-hawthorn, "32:felice-bonetto", maurice-trintignant, luigi-villoresi, hermann-lang, ken-wharton, emmanuel-de-graffenried, chico-landi, max-de-terra, albert-scherrer]
+- lap: 41
+  drivers: [nino-farina, onofre-marimon, mike-hawthorn, alberto-ascari, "32:felice-bonetto", maurice-trintignant, luigi-villoresi, hermann-lang, ken-wharton, emmanuel-de-graffenried, chico-landi, max-de-terra, albert-scherrer]
+- lap: 42
+  drivers: [nino-farina, onofre-marimon, mike-hawthorn, alberto-ascari, "32:felice-bonetto", maurice-trintignant, luigi-villoresi, hermann-lang, ken-wharton, emmanuel-de-graffenried, chico-landi, max-de-terra, albert-scherrer]
+- lap: 43
+  drivers: [nino-farina, onofre-marimon, mike-hawthorn, alberto-ascari, "32:felice-bonetto", maurice-trintignant, luigi-villoresi, hermann-lang, ken-wharton, emmanuel-de-graffenried, chico-landi, max-de-terra, albert-scherrer]
+- lap: 44
+  drivers: [nino-farina, onofre-marimon, mike-hawthorn, alberto-ascari, "32:felice-bonetto", luigi-villoresi, hermann-lang, ken-wharton, emmanuel-de-graffenried, chico-landi, max-de-terra, albert-scherrer]
+- lap: 45
+  drivers: [nino-farina, mike-hawthorn, onofre-marimon, alberto-ascari, "32:felice-bonetto", luigi-villoresi, hermann-lang, ken-wharton, emmanuel-de-graffenried, chico-landi, max-de-terra, albert-scherrer]
+- lap: 46
+  drivers: [nino-farina, mike-hawthorn, onofre-marimon, alberto-ascari, "32:felice-bonetto", luigi-villoresi, hermann-lang, ken-wharton, emmanuel-de-graffenried, chico-landi, max-de-terra, albert-scherrer]
+- lap: 47
+  drivers: [nino-farina, mike-hawthorn, alberto-ascari, "32:felice-bonetto", luigi-villoresi, hermann-lang, ken-wharton, emmanuel-de-graffenried, chico-landi, max-de-terra, albert-scherrer]
+- lap: 48
+  drivers: [nino-farina, mike-hawthorn, alberto-ascari, "32:felice-bonetto", luigi-villoresi, hermann-lang, emmanuel-de-graffenried, ken-wharton, chico-landi, max-de-terra, albert-scherrer]
+- lap: 49
+  drivers: [nino-farina, mike-hawthorn, alberto-ascari, "32:felice-bonetto", luigi-villoresi, hermann-lang, ken-wharton, emmanuel-de-graffenried, chico-landi, max-de-terra, albert-scherrer]
+- lap: 50
+  drivers: [nino-farina, mike-hawthorn, alberto-ascari, "32:felice-bonetto", hermann-lang, luigi-villoresi, ken-wharton, chico-landi, max-de-terra]
+- lap: 51
+  drivers: [nino-farina, mike-hawthorn, alberto-ascari, "32:felice-bonetto", hermann-lang, luigi-villoresi, ken-wharton, chico-landi, max-de-terra]
+- lap: 52
+  drivers: [nino-farina, alberto-ascari, mike-hawthorn, "32:felice-bonetto", hermann-lang, luigi-villoresi, ken-wharton, chico-landi]
+- lap: 53
+  drivers: [nino-farina, alberto-ascari, mike-hawthorn, "32:felice-bonetto", hermann-lang, luigi-villoresi, ken-wharton, chico-landi]
+- lap: 54
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, "32:felice-bonetto", hermann-lang, luigi-villoresi, ken-wharton, chico-landi]
+- lap: 55
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, "32:felice-bonetto", hermann-lang, luigi-villoresi, ken-wharton]
+- lap: 56
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, "32:felice-bonetto", luigi-villoresi, hermann-lang, ken-wharton]
+- lap: 57
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, "32:felice-bonetto", hermann-lang, luigi-villoresi, ken-wharton]
+- lap: 58
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, "32:felice-bonetto", hermann-lang, luigi-villoresi, ken-wharton]
+- lap: 59
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, "32:felice-bonetto", hermann-lang, luigi-villoresi, ken-wharton]
+- lap: 60
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, "32:felice-bonetto", hermann-lang, luigi-villoresi, ken-wharton]
+- lap: 61
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, "32:felice-bonetto", hermann-lang, luigi-villoresi, ken-wharton]
+- lap: 62
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, "32:felice-bonetto", hermann-lang, luigi-villoresi, ken-wharton]
+- lap: 63
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, "32:felice-bonetto"]
+- lap: 64
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn, "32:felice-bonetto"]
+- lap: 65
+  drivers: [alberto-ascari, nino-farina, mike-hawthorn]

@@ -33,7 +33,7 @@
   constructorId: simca-gordini
   engineManufacturerId: gordini
   chassisId: simca-gordini-t11
-  engineId: gordini-15c-15-l4-s
+  engineId: gordini-1500-15-l4
   tyreManufacturerId: englebert
   driverId: max-de-terra
   rounds: 1
@@ -157,7 +157,7 @@
   constructorId: kurtis-kraft
   engineManufacturerId: cummins
   chassisId: kurtis-kraft-347
-  engineId: cummins-30-l6-s
+  engineId: cummins-l6-t
   tyreManufacturerId: firestone
   driverId: fred-agabashian
   rounds: 2
@@ -421,7 +421,7 @@
   countryId: united-states-of-america
   constructorId: kurtis-kraft
   engineManufacturerId: offenhauser
-  chassisId: kurtis-kraft-kk500
+  chassisId: kurtis-kraft-kk500a
   engineId: offenhauser-45-l4
   tyreManufacturerId: firestone
   driverId: bill-vukovich
@@ -566,7 +566,7 @@
   engineManufacturerId: bmw
   chassisId: balsa-special
   engineId: bmw-328-20-l6
-  tyreManufacturerId: dunlop
+  tyreManufacturerId: englebert
   driverId: marcel-balsa
   rounds: 6
 - entrantId: mel-wiggers
@@ -697,6 +697,7 @@
   tyreManufacturers:
     - tyreManufacturerId: firestone
     - tyreManufacturerId: pirelli
+    - tyreManufacturerId: englebert
   drivers:
     - driverId: andre-simon
       rounds: 1,8

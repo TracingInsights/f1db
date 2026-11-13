@@ -43,10 +43,10 @@
   driverId: james-hunt
   constructorId: march
   engineManufacturerId: ford
-  tyreManufacturerId: goodyear
+  tyreManufacturerId: firestone
   time: "1:40.520"
   gap: "+0.863"
-  interval: "+0.76"
+  interval: "+0.076"
   laps:
 - position: 6
   driverNumber: 5
@@ -263,7 +263,7 @@
   driverId: mike-beuttler
   constructorId: march
   engineManufacturerId: ford
-  tyreManufacturerId: goodyear
+  tyreManufacturerId: firestone
   time: "1:45.032"
   gap: "+5.375"
   interval: "+0.554"

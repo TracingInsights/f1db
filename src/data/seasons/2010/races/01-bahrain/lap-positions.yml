@@ -1,0 +1,100 @@
+- lap: 0
+  drivers: [sebastian-vettel, felipe-massa, fernando-alonso, lewis-hamilton, nico-rosberg, mark-webber, michael-schumacher, jenson-button, robert-kubica, adrian-sutil, rubens-barrichello, vitantonio-liuzzi, nico-hulkenberg, pedro-de-la-rosa, sebastien-buemi, kamui-kobayashi, vitaly-petrov, jaime-alguersuari, timo-glock, jarno-trulli, heikki-kovalainen, lucas-di-grassi, bruno-senna, karun-chandhok]
+- lap: 1
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, nico-rosberg, lewis-hamilton, michael-schumacher, mark-webber, jenson-button, vitantonio-liuzzi, rubens-barrichello, vitaly-petrov, kamui-kobayashi, nico-hulkenberg, pedro-de-la-rosa, jaime-alguersuari, heikki-kovalainen, sebastien-buemi, timo-glock, lucas-di-grassi, jarno-trulli, robert-kubica, adrian-sutil, bruno-senna, karun-chandhok]
+- lap: 2
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, nico-rosberg, lewis-hamilton, michael-schumacher, mark-webber, jenson-button, vitantonio-liuzzi, rubens-barrichello, vitaly-petrov, kamui-kobayashi, nico-hulkenberg, pedro-de-la-rosa, jaime-alguersuari, sebastien-buemi, heikki-kovalainen, robert-kubica, timo-glock, lucas-di-grassi, adrian-sutil, jarno-trulli, bruno-senna]
+- lap: 3
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, nico-rosberg, lewis-hamilton, michael-schumacher, mark-webber, jenson-button, vitantonio-liuzzi, rubens-barrichello, vitaly-petrov, kamui-kobayashi, pedro-de-la-rosa, jaime-alguersuari, sebastien-buemi, robert-kubica, heikki-kovalainen, timo-glock, adrian-sutil, jarno-trulli, nico-hulkenberg, bruno-senna]
+- lap: 4
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, nico-rosberg, lewis-hamilton, michael-schumacher, mark-webber, jenson-button, vitantonio-liuzzi, rubens-barrichello, vitaly-petrov, kamui-kobayashi, pedro-de-la-rosa, jaime-alguersuari, sebastien-buemi, robert-kubica, heikki-kovalainen, adrian-sutil, timo-glock, jarno-trulli, bruno-senna, nico-hulkenberg]
+- lap: 5
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, nico-rosberg, lewis-hamilton, michael-schumacher, mark-webber, jenson-button, vitantonio-liuzzi, rubens-barrichello, vitaly-petrov, kamui-kobayashi, pedro-de-la-rosa, jaime-alguersuari, sebastien-buemi, robert-kubica, adrian-sutil, heikki-kovalainen, timo-glock, jarno-trulli, bruno-senna, nico-hulkenberg]
+- lap: 6
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, nico-rosberg, lewis-hamilton, michael-schumacher, mark-webber, jenson-button, vitantonio-liuzzi, rubens-barrichello, vitaly-petrov, kamui-kobayashi, pedro-de-la-rosa, jaime-alguersuari, sebastien-buemi, robert-kubica, adrian-sutil, heikki-kovalainen, timo-glock, jarno-trulli, nico-hulkenberg, bruno-senna]
+- lap: 7
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, nico-rosberg, lewis-hamilton, michael-schumacher, mark-webber, jenson-button, vitantonio-liuzzi, rubens-barrichello, vitaly-petrov, kamui-kobayashi, pedro-de-la-rosa, jaime-alguersuari, sebastien-buemi, robert-kubica, adrian-sutil, heikki-kovalainen, timo-glock, jarno-trulli, nico-hulkenberg, bruno-senna]
+- lap: 8
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, nico-rosberg, lewis-hamilton, michael-schumacher, mark-webber, jenson-button, vitantonio-liuzzi, rubens-barrichello, vitaly-petrov, kamui-kobayashi, pedro-de-la-rosa, jaime-alguersuari, sebastien-buemi, robert-kubica, adrian-sutil, heikki-kovalainen, timo-glock, jarno-trulli, nico-hulkenberg, bruno-senna]
+- lap: 9
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, nico-rosberg, lewis-hamilton, michael-schumacher, mark-webber, jenson-button, vitantonio-liuzzi, rubens-barrichello, vitaly-petrov, kamui-kobayashi, pedro-de-la-rosa, jaime-alguersuari, sebastien-buemi, robert-kubica, adrian-sutil, heikki-kovalainen, timo-glock, jarno-trulli, nico-hulkenberg, bruno-senna]
+- lap: 10
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, nico-rosberg, lewis-hamilton, michael-schumacher, mark-webber, jenson-button, vitantonio-liuzzi, rubens-barrichello, vitaly-petrov, pedro-de-la-rosa, kamui-kobayashi, jaime-alguersuari, sebastien-buemi, robert-kubica, adrian-sutil, heikki-kovalainen, timo-glock, jarno-trulli, nico-hulkenberg, bruno-senna]
+- lap: 11
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, nico-rosberg, lewis-hamilton, michael-schumacher, mark-webber, jenson-button, vitantonio-liuzzi, rubens-barrichello, vitaly-petrov, pedro-de-la-rosa, kamui-kobayashi, jaime-alguersuari, sebastien-buemi, robert-kubica, adrian-sutil, heikki-kovalainen, timo-glock, jarno-trulli, nico-hulkenberg, bruno-senna]
+- lap: 12
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, nico-rosberg, lewis-hamilton, michael-schumacher, mark-webber, jenson-button, vitantonio-liuzzi, rubens-barrichello, vitaly-petrov, pedro-de-la-rosa, jaime-alguersuari, sebastien-buemi, adrian-sutil, robert-kubica, heikki-kovalainen, timo-glock, jarno-trulli, nico-hulkenberg, bruno-senna]
+- lap: 13
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, nico-rosberg, lewis-hamilton, michael-schumacher, mark-webber, jenson-button, vitantonio-liuzzi, rubens-barrichello, vitaly-petrov, pedro-de-la-rosa, sebastien-buemi, jaime-alguersuari, adrian-sutil, robert-kubica, timo-glock, heikki-kovalainen, nico-hulkenberg, jarno-trulli, bruno-senna]
+- lap: 14
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, nico-rosberg, lewis-hamilton, michael-schumacher, mark-webber, jenson-button, vitantonio-liuzzi, rubens-barrichello, pedro-de-la-rosa, sebastien-buemi, adrian-sutil, robert-kubica, jaime-alguersuari, heikki-kovalainen, nico-hulkenberg, timo-glock, jarno-trulli, bruno-senna]
+- lap: 15
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, nico-rosberg, lewis-hamilton, mark-webber, michael-schumacher, jenson-button, vitantonio-liuzzi, rubens-barrichello, sebastien-buemi, adrian-sutil, pedro-de-la-rosa, robert-kubica, jaime-alguersuari, heikki-kovalainen, nico-hulkenberg, jarno-trulli, timo-glock, bruno-senna]
+- lap: 16
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, nico-rosberg, mark-webber, jenson-button, vitantonio-liuzzi, rubens-barrichello, lewis-hamilton, michael-schumacher, sebastien-buemi, pedro-de-la-rosa, robert-kubica, jaime-alguersuari, adrian-sutil, heikki-kovalainen, nico-hulkenberg, jarno-trulli, timo-glock, bruno-senna]
+- lap: 17
+  drivers: [sebastian-vettel, felipe-massa, fernando-alonso, vitantonio-liuzzi, rubens-barrichello, lewis-hamilton, nico-rosberg, michael-schumacher, jenson-button, mark-webber, sebastien-buemi, pedro-de-la-rosa, robert-kubica, jaime-alguersuari, adrian-sutil, nico-hulkenberg, heikki-kovalainen, jarno-trulli, bruno-senna]
+- lap: 18
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, vitantonio-liuzzi, rubens-barrichello, lewis-hamilton, nico-rosberg, michael-schumacher, jenson-button, mark-webber, sebastien-buemi, pedro-de-la-rosa, robert-kubica, jaime-alguersuari, adrian-sutil, nico-hulkenberg, heikki-kovalainen, jarno-trulli]
+- lap: 19
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, vitantonio-liuzzi, lewis-hamilton, nico-rosberg, rubens-barrichello, michael-schumacher, jenson-button, mark-webber, sebastien-buemi, pedro-de-la-rosa, robert-kubica, jaime-alguersuari, adrian-sutil, nico-hulkenberg, heikki-kovalainen, jarno-trulli]
+- lap: 20
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, lewis-hamilton, vitantonio-liuzzi, nico-rosberg, michael-schumacher, jenson-button, mark-webber, sebastien-buemi, rubens-barrichello, pedro-de-la-rosa, robert-kubica, jaime-alguersuari, adrian-sutil, nico-hulkenberg, heikki-kovalainen, jarno-trulli]
+- lap: 21
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, lewis-hamilton, nico-rosberg, michael-schumacher, jenson-button, mark-webber, sebastien-buemi, vitantonio-liuzzi, rubens-barrichello, pedro-de-la-rosa, robert-kubica, jaime-alguersuari, adrian-sutil, nico-hulkenberg, heikki-kovalainen, jarno-trulli]
+- lap: 22
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, lewis-hamilton, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, sebastien-buemi, rubens-barrichello, pedro-de-la-rosa, robert-kubica, jaime-alguersuari, adrian-sutil, nico-hulkenberg, heikki-kovalainen, jarno-trulli]
+- lap: 23
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, lewis-hamilton, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, sebastien-buemi, pedro-de-la-rosa, robert-kubica, jaime-alguersuari, adrian-sutil, nico-hulkenberg, heikki-kovalainen, jarno-trulli]
+- lap: 24
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, lewis-hamilton, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, sebastien-buemi, robert-kubica, pedro-de-la-rosa, jaime-alguersuari, adrian-sutil, nico-hulkenberg, heikki-kovalainen, jarno-trulli]
+- lap: 25
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, lewis-hamilton, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, pedro-de-la-rosa, jaime-alguersuari, sebastien-buemi, adrian-sutil, nico-hulkenberg, heikki-kovalainen, jarno-trulli]
+- lap: 26
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, lewis-hamilton, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, pedro-de-la-rosa, jaime-alguersuari, adrian-sutil, sebastien-buemi, nico-hulkenberg, heikki-kovalainen, jarno-trulli]
+- lap: 27
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, lewis-hamilton, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, pedro-de-la-rosa, adrian-sutil, jaime-alguersuari, sebastien-buemi, nico-hulkenberg, heikki-kovalainen, jarno-trulli]
+- lap: 28
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, lewis-hamilton, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, pedro-de-la-rosa, adrian-sutil, jaime-alguersuari, sebastien-buemi, nico-hulkenberg, heikki-kovalainen, jarno-trulli]
+- lap: 29
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, lewis-hamilton, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, adrian-sutil, jaime-alguersuari, sebastien-buemi, nico-hulkenberg, heikki-kovalainen, jarno-trulli]
+- lap: 30
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, lewis-hamilton, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, adrian-sutil, jaime-alguersuari, sebastien-buemi, nico-hulkenberg, heikki-kovalainen, jarno-trulli]
+- lap: 31
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, lewis-hamilton, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, adrian-sutil, jaime-alguersuari, sebastien-buemi, nico-hulkenberg, jarno-trulli, heikki-kovalainen]
+- lap: 32
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, lewis-hamilton, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, adrian-sutil, jaime-alguersuari, sebastien-buemi, nico-hulkenberg, jarno-trulli, heikki-kovalainen]
+- lap: 33
+  drivers: [sebastian-vettel, fernando-alonso, felipe-massa, lewis-hamilton, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, adrian-sutil, jaime-alguersuari, sebastien-buemi, nico-hulkenberg, jarno-trulli, heikki-kovalainen]
+- lap: 34
+  drivers: [fernando-alonso, sebastian-vettel, felipe-massa, lewis-hamilton, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, adrian-sutil, jaime-alguersuari, sebastien-buemi, nico-hulkenberg, jarno-trulli, heikki-kovalainen]
+- lap: 35
+  drivers: [fernando-alonso, felipe-massa, sebastian-vettel, lewis-hamilton, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, adrian-sutil, jaime-alguersuari, sebastien-buemi, nico-hulkenberg, jarno-trulli, heikki-kovalainen]
+- lap: 36
+  drivers: [fernando-alonso, felipe-massa, sebastian-vettel, lewis-hamilton, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, adrian-sutil, jaime-alguersuari, sebastien-buemi, nico-hulkenberg, jarno-trulli, heikki-kovalainen]
+- lap: 37
+  drivers: [fernando-alonso, felipe-massa, sebastian-vettel, lewis-hamilton, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, adrian-sutil, jaime-alguersuari, sebastien-buemi, nico-hulkenberg, jarno-trulli, heikki-kovalainen]
+- lap: 38
+  drivers: [fernando-alonso, felipe-massa, lewis-hamilton, sebastian-vettel, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, adrian-sutil, jaime-alguersuari, sebastien-buemi, nico-hulkenberg, jarno-trulli, heikki-kovalainen]
+- lap: 39
+  drivers: [fernando-alonso, felipe-massa, lewis-hamilton, sebastian-vettel, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, adrian-sutil, jaime-alguersuari, sebastien-buemi, nico-hulkenberg, jarno-trulli, heikki-kovalainen]
+- lap: 40
+  drivers: [fernando-alonso, felipe-massa, lewis-hamilton, sebastian-vettel, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, adrian-sutil, jaime-alguersuari, sebastien-buemi, nico-hulkenberg, jarno-trulli, heikki-kovalainen]
+- lap: 41
+  drivers: [fernando-alonso, felipe-massa, lewis-hamilton, sebastian-vettel, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, adrian-sutil, jaime-alguersuari, sebastien-buemi, nico-hulkenberg, heikki-kovalainen, jarno-trulli]
+- lap: 42
+  drivers: [fernando-alonso, felipe-massa, lewis-hamilton, sebastian-vettel, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, adrian-sutil, jaime-alguersuari, sebastien-buemi, nico-hulkenberg, heikki-kovalainen, jarno-trulli]
+- lap: 43
+  drivers: [fernando-alonso, felipe-massa, lewis-hamilton, sebastian-vettel, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, adrian-sutil, jaime-alguersuari, sebastien-buemi, nico-hulkenberg, heikki-kovalainen, jarno-trulli]
+- lap: 44
+  drivers: [fernando-alonso, felipe-massa, lewis-hamilton, sebastian-vettel, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, adrian-sutil, jaime-alguersuari, sebastien-buemi, nico-hulkenberg, heikki-kovalainen, jarno-trulli]
+- lap: 45
+  drivers: [fernando-alonso, felipe-massa, lewis-hamilton, sebastian-vettel, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, adrian-sutil, jaime-alguersuari, sebastien-buemi, nico-hulkenberg, heikki-kovalainen, jarno-trulli]
+- lap: 46
+  drivers: [fernando-alonso, felipe-massa, lewis-hamilton, sebastian-vettel, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, adrian-sutil, jaime-alguersuari, sebastien-buemi, nico-hulkenberg, heikki-kovalainen, jarno-trulli]
+- lap: 47
+  drivers: [fernando-alonso, felipe-massa, lewis-hamilton, sebastian-vettel, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, adrian-sutil, jaime-alguersuari, nico-hulkenberg, heikki-kovalainen]
+- lap: 48
+  drivers: [fernando-alonso, felipe-massa, lewis-hamilton, sebastian-vettel, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, adrian-sutil, jaime-alguersuari, nico-hulkenberg]
+- lap: 49
+  drivers: [fernando-alonso, felipe-massa, lewis-hamilton, sebastian-vettel, nico-rosberg, michael-schumacher, jenson-button, mark-webber, vitantonio-liuzzi, rubens-barrichello, robert-kubica, adrian-sutil, jaime-alguersuari]

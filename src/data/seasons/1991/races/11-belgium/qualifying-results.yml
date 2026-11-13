@@ -9,16 +9,6 @@
   interval:
   laps:
 - position: 2
-  driverNumber: 6
-  driverId: riccardo-patrese
-  constructorId: williams
-  engineManufacturerId: renault
-  tyreManufacturerId: goodyear
-  time: "1:48.661"
-  gap: "+0.850"
-  interval: "+0.850"
-  laps:
-- position: 3
   driverNumber: 27
   driverId: alain-prost
   constructorId: ferrari
@@ -26,9 +16,9 @@
   tyreManufacturerId: goodyear
   time: "1:48.821"
   gap: "+1.010"
-  interval: "+0.160"
+  interval: "+1.010"
   laps:
-- position: 4
+- position: 3
   driverNumber: 5
   driverId: nigel-mansell
   constructorId: williams
@@ -38,7 +28,7 @@
   gap: "+1.017"
   interval: "+0.007"
   laps:
-- position: 5
+- position: 4
   driverNumber: 2
   driverId: gerhard-berger
   constructorId: mclaren
@@ -48,7 +38,7 @@
   gap: "+1.674"
   interval: "+0.657"
   laps:
-- position: 6
+- position: 5
   driverNumber: 28
   driverId: jean-alesi
   constructorId: ferrari
@@ -58,7 +48,7 @@
   gap: "+2.163"
   interval: "+0.489"
   laps:
-- position: 7
+- position: 6
   driverNumber: 20
   driverId: nelson-piquet
   constructorId: benetton
@@ -68,7 +58,7 @@
   gap: "+2.729"
   interval: "+0.566"
   laps:
-- position: 8
+- position: 7
   driverNumber: 32
   driverId: michael-schumacher
   constructorId: jordan
@@ -78,7 +68,7 @@
   gap: "+3.401"
   interval: "+0.672"
   laps:
-- position: 9
+- position: 8
   driverNumber: 19
   driverId: roberto-moreno
   constructorId: benetton
@@ -88,7 +78,7 @@
   gap: "+3.472"
   interval: "+0.071"
   laps:
-- position: 10
+- position: 9
   driverNumber: 23
   driverId: pierluigi-martini
   constructorId: minardi
@@ -98,7 +88,7 @@
   gap: "+3.488"
   interval: "+0.016"
   laps:
-- position: 11
+- position: 10
   driverNumber: 4
   driverId: stefano-modena
   constructorId: tyrrell
@@ -108,7 +98,7 @@
   gap: "+3.496"
   interval: "+0.008"
   laps:
-- position: 12
+- position: 11
   driverNumber: 33
   driverId: andrea-de-cesaris
   constructorId: jordan
@@ -118,7 +108,7 @@
   gap: "+4.175"
   interval: "+0.679"
   laps:
-- position: 13
+- position: 12
   driverNumber: 16
   driverId: ivan-capelli
   constructorId: leyton-house
@@ -128,7 +118,7 @@
   gap: "+4.302"
   interval: "+0.127"
   laps:
-- position: 14
+- position: 13
   driverNumber: 8
   driverId: mark-blundell
   constructorId: brabham
@@ -138,7 +128,7 @@
   gap: "+4.566"
   interval: "+0.264"
   laps:
-- position: 15
+- position: 14
   driverNumber: 22
   driverId: jj-lehto
   constructorId: dallara
@@ -148,7 +138,7 @@
   gap: "+4.606"
   interval: "+0.040"
   laps:
-- position: 16
+- position: 15
   driverNumber: 15
   driverId: mauricio-gugelmin
   constructorId: leyton-house
@@ -158,7 +148,7 @@
   gap: "+4.812"
   interval: "+0.206"
   laps:
-- position: 17
+- position: 16
   driverNumber: 7
   driverId: martin-brundle
   constructorId: brabham
@@ -168,6 +158,16 @@
   gap: "+4.815"
   interval: "+0.003"
   laps:
+- position: 17
+  driverNumber: 6
+  driverId: riccardo-patrese
+  constructorId: williams
+  engineManufacturerId: renault
+  tyreManufacturerId: goodyear
+  time: "1:52.646"
+  gap: "+4.835"
+  interval: "+0.020"
+  laps:
 - position: 18
   driverNumber: 25
   driverId: thierry-boutsen
@@ -176,7 +176,7 @@
   tyreManufacturerId: goodyear
   time: "1:52.709"
   gap: "+4.898"
-  interval: "+0.083"
+  interval: "+0.063"
   laps:
 - position: 19
   driverNumber: 24

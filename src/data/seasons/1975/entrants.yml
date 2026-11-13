@@ -166,7 +166,9 @@
   countryId: united-kingdom
   constructorId: lotus
   engineManufacturerId: ford
-  chassisId: lotus-72e
+  chassis:
+    - chassisId: lotus-72e
+    - chassisId: lotus-72f
   engineId: ford-cosworth-dfv-30-v8
   tyreManufacturerId: goodyear
   drivers:

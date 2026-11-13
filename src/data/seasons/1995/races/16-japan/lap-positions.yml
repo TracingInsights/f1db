@@ -1,0 +1,108 @@
+- lap: 0
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, damon-hill, gerhard-berger, david-coulthard, eddie-irvine, heinz-harald-frentzen, johnny-herbert, rubens-barrichello, olivier-panis, mika-salo, ukyo-katayama, gianni-morbidelli, karl-wendlinger, pedro-lamy, luca-badoer, taki-inoue, andrea-montermini, pedro-diniz, roberto-moreno, bertrand-gachot, mark-blundell]
+- lap: 1
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, damon-hill, eddie-irvine, david-coulthard, gerhard-berger, rubens-barrichello, johnny-herbert, heinz-harald-frentzen, olivier-panis, mika-salo, luca-badoer, ukyo-katayama, pedro-lamy, taki-inoue, mark-blundell, andrea-montermini, bertrand-gachot, karl-wendlinger, pedro-diniz, roberto-moreno]
+- lap: 2
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, damon-hill, eddie-irvine, david-coulthard, gerhard-berger, rubens-barrichello, johnny-herbert, heinz-harald-frentzen, olivier-panis, mika-salo, luca-badoer, ukyo-katayama, pedro-lamy, mark-blundell, taki-inoue, andrea-montermini, bertrand-gachot, karl-wendlinger, pedro-diniz]
+- lap: 3
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, damon-hill, eddie-irvine, david-coulthard, gerhard-berger, rubens-barrichello, johnny-herbert, heinz-harald-frentzen, olivier-panis, mika-salo, luca-badoer, ukyo-katayama, pedro-lamy, mark-blundell, taki-inoue, andrea-montermini, karl-wendlinger, bertrand-gachot, pedro-diniz]
+- lap: 4
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, damon-hill, eddie-irvine, david-coulthard, gerhard-berger, rubens-barrichello, johnny-herbert, heinz-harald-frentzen, olivier-panis, mika-salo, luca-badoer, ukyo-katayama, pedro-lamy, mark-blundell, taki-inoue, andrea-montermini, karl-wendlinger, bertrand-gachot, pedro-diniz]
+- lap: 5
+  drivers: [michael-schumacher, jean-alesi, mika-hakkinen, damon-hill, eddie-irvine, david-coulthard, gerhard-berger, rubens-barrichello, johnny-herbert, heinz-harald-frentzen, olivier-panis, mika-salo, luca-badoer, ukyo-katayama, pedro-lamy, mark-blundell, taki-inoue, karl-wendlinger, andrea-montermini, bertrand-gachot, pedro-diniz]
+- lap: 6
+  drivers: [michael-schumacher, mika-hakkinen, damon-hill, eddie-irvine, david-coulthard, gerhard-berger, rubens-barrichello, johnny-herbert, heinz-harald-frentzen, jean-alesi, mika-salo, olivier-panis, luca-badoer, ukyo-katayama, pedro-lamy, mark-blundell, taki-inoue, karl-wendlinger, andrea-montermini, bertrand-gachot, pedro-diniz]
+- lap: 7
+  drivers: [michael-schumacher, mika-hakkinen, damon-hill, eddie-irvine, david-coulthard, rubens-barrichello, johnny-herbert, heinz-harald-frentzen, mika-salo, jean-alesi, olivier-panis, luca-badoer, ukyo-katayama, pedro-lamy, gerhard-berger, mark-blundell, taki-inoue, karl-wendlinger, andrea-montermini, pedro-diniz]
+- lap: 8
+  drivers: [michael-schumacher, mika-hakkinen, damon-hill, eddie-irvine, david-coulthard, heinz-harald-frentzen, mika-salo, rubens-barrichello, johnny-herbert, luca-badoer, gerhard-berger, olivier-panis, ukyo-katayama, pedro-lamy, jean-alesi, mark-blundell, taki-inoue, karl-wendlinger, andrea-montermini, pedro-diniz]
+- lap: 9
+  drivers: [michael-schumacher, mika-hakkinen, eddie-irvine, damon-hill, david-coulthard, heinz-harald-frentzen, mika-salo, luca-badoer, jean-alesi, gerhard-berger, ukyo-katayama, pedro-lamy, rubens-barrichello, johnny-herbert, mark-blundell, karl-wendlinger, taki-inoue, andrea-montermini, olivier-panis, pedro-diniz]
+- lap: 10
+  drivers: [michael-schumacher, mika-hakkinen, eddie-irvine, david-coulthard, damon-hill, jean-alesi, luca-badoer, rubens-barrichello, johnny-herbert, heinz-harald-frentzen, pedro-lamy, ukyo-katayama, mika-salo, gerhard-berger, mark-blundell, olivier-panis, karl-wendlinger, taki-inoue, andrea-montermini, pedro-diniz]
+- lap: 11
+  drivers: [mika-hakkinen, michael-schumacher, eddie-irvine, jean-alesi, damon-hill, david-coulthard, rubens-barrichello, johnny-herbert, heinz-harald-frentzen, luca-badoer, gerhard-berger, mika-salo, pedro-lamy, olivier-panis, ukyo-katayama, taki-inoue, mark-blundell, karl-wendlinger, andrea-montermini, pedro-diniz]
+- lap: 12
+  drivers: [michael-schumacher, jean-alesi, damon-hill, mika-hakkinen, eddie-irvine, david-coulthard, rubens-barrichello, johnny-herbert, heinz-harald-frentzen, gerhard-berger, mika-salo, luca-badoer, olivier-panis, ukyo-katayama, taki-inoue, pedro-lamy, andrea-montermini, mark-blundell, karl-wendlinger, pedro-diniz]
+- lap: 13
+  drivers: [michael-schumacher, jean-alesi, damon-hill, mika-hakkinen, eddie-irvine, david-coulthard, rubens-barrichello, heinz-harald-frentzen, johnny-herbert, gerhard-berger, mika-salo, olivier-panis, luca-badoer, pedro-lamy, taki-inoue, mark-blundell, karl-wendlinger, andrea-montermini, pedro-diniz]
+- lap: 14
+  drivers: [michael-schumacher, jean-alesi, damon-hill, mika-hakkinen, eddie-irvine, david-coulthard, rubens-barrichello, heinz-harald-frentzen, johnny-herbert, gerhard-berger, mika-salo, olivier-panis, luca-badoer, pedro-lamy, mark-blundell, karl-wendlinger, taki-inoue, andrea-montermini, pedro-diniz]
+- lap: 15
+  drivers: [michael-schumacher, jean-alesi, damon-hill, mika-hakkinen, david-coulthard, eddie-irvine, rubens-barrichello, heinz-harald-frentzen, gerhard-berger, johnny-herbert, mika-salo, olivier-panis, luca-badoer, pedro-lamy, mark-blundell, karl-wendlinger, andrea-montermini, taki-inoue, pedro-diniz]
+- lap: 16
+  drivers: [michael-schumacher, jean-alesi, damon-hill, mika-hakkinen, david-coulthard, eddie-irvine, heinz-harald-frentzen, johnny-herbert, gerhard-berger, mika-salo, olivier-panis, luca-badoer, pedro-lamy, mark-blundell, karl-wendlinger, andrea-montermini, taki-inoue, pedro-diniz]
+- lap: 17
+  drivers: [michael-schumacher, jean-alesi, damon-hill, mika-hakkinen, david-coulthard, eddie-irvine, heinz-harald-frentzen, johnny-herbert, mika-salo, olivier-panis, luca-badoer, mark-blundell, pedro-lamy, karl-wendlinger, andrea-montermini, taki-inoue, pedro-diniz]
+- lap: 18
+  drivers: [michael-schumacher, jean-alesi, damon-hill, mika-hakkinen, david-coulthard, eddie-irvine, heinz-harald-frentzen, johnny-herbert, mika-salo, olivier-panis, luca-badoer, mark-blundell, pedro-lamy, karl-wendlinger, andrea-montermini, taki-inoue, pedro-diniz]
+- lap: 19
+  drivers: [michael-schumacher, jean-alesi, damon-hill, mika-hakkinen, david-coulthard, eddie-irvine, heinz-harald-frentzen, johnny-herbert, mika-salo, olivier-panis, luca-badoer, mark-blundell, pedro-lamy, karl-wendlinger, andrea-montermini, taki-inoue, pedro-diniz]
+- lap: 20
+  drivers: [michael-schumacher, jean-alesi, damon-hill, mika-hakkinen, david-coulthard, eddie-irvine, heinz-harald-frentzen, johnny-herbert, mika-salo, olivier-panis, luca-badoer, mark-blundell, pedro-lamy, karl-wendlinger, andrea-montermini, taki-inoue, pedro-diniz]
+- lap: 21
+  drivers: [michael-schumacher, jean-alesi, damon-hill, mika-hakkinen, david-coulthard, eddie-irvine, johnny-herbert, mika-salo, olivier-panis, heinz-harald-frentzen, mark-blundell, luca-badoer, pedro-lamy, karl-wendlinger, andrea-montermini, taki-inoue, pedro-diniz]
+- lap: 22
+  drivers: [michael-schumacher, jean-alesi, damon-hill, mika-hakkinen, david-coulthard, eddie-irvine, johnny-herbert, mika-salo, olivier-panis, heinz-harald-frentzen, mark-blundell, luca-badoer, pedro-lamy, karl-wendlinger, andrea-montermini, taki-inoue, pedro-diniz]
+- lap: 23
+  drivers: [michael-schumacher, jean-alesi, damon-hill, mika-hakkinen, david-coulthard, eddie-irvine, johnny-herbert, mika-salo, olivier-panis, heinz-harald-frentzen, mark-blundell, luca-badoer, pedro-lamy, karl-wendlinger, andrea-montermini, taki-inoue, pedro-diniz]
+- lap: 24
+  drivers: [michael-schumacher, jean-alesi, damon-hill, mika-hakkinen, david-coulthard, eddie-irvine, johnny-herbert, mika-salo, olivier-panis, heinz-harald-frentzen, mark-blundell, luca-badoer, pedro-lamy, karl-wendlinger, taki-inoue, pedro-diniz]
+- lap: 25
+  drivers: [michael-schumacher, damon-hill, mika-hakkinen, david-coulthard, eddie-irvine, johnny-herbert, olivier-panis, mika-salo, heinz-harald-frentzen, mark-blundell, luca-badoer, pedro-lamy, karl-wendlinger, taki-inoue, pedro-diniz]
+- lap: 26
+  drivers: [michael-schumacher, damon-hill, mika-hakkinen, david-coulthard, eddie-irvine, johnny-herbert, olivier-panis, mika-salo, heinz-harald-frentzen, mark-blundell, luca-badoer, pedro-lamy, karl-wendlinger, taki-inoue, pedro-diniz]
+- lap: 27
+  drivers: [michael-schumacher, damon-hill, mika-hakkinen, david-coulthard, johnny-herbert, eddie-irvine, olivier-panis, mika-salo, heinz-harald-frentzen, mark-blundell, luca-badoer, karl-wendlinger, pedro-lamy, taki-inoue, pedro-diniz]
+- lap: 28
+  drivers: [michael-schumacher, damon-hill, mika-hakkinen, david-coulthard, johnny-herbert, eddie-irvine, olivier-panis, mika-salo, heinz-harald-frentzen, mark-blundell, luca-badoer, karl-wendlinger, pedro-lamy, taki-inoue, pedro-diniz]
+- lap: 29
+  drivers: [michael-schumacher, damon-hill, david-coulthard, mika-hakkinen, johnny-herbert, eddie-irvine, mika-salo, heinz-harald-frentzen, mark-blundell, olivier-panis, luca-badoer, karl-wendlinger, pedro-lamy, taki-inoue, pedro-diniz]
+- lap: 30
+  drivers: [michael-schumacher, damon-hill, david-coulthard, mika-hakkinen, johnny-herbert, eddie-irvine, mika-salo, heinz-harald-frentzen, mark-blundell, olivier-panis, luca-badoer, karl-wendlinger, pedro-lamy, taki-inoue, pedro-diniz]
+- lap: 31
+  drivers: [michael-schumacher, damon-hill, david-coulthard, mika-hakkinen, johnny-herbert, eddie-irvine, heinz-harald-frentzen, mika-salo, mark-blundell, olivier-panis, luca-badoer, karl-wendlinger, pedro-lamy, taki-inoue, pedro-diniz]
+- lap: 32
+  drivers: [damon-hill, michael-schumacher, david-coulthard, mika-hakkinen, johnny-herbert, eddie-irvine, heinz-harald-frentzen, olivier-panis, mika-salo, mark-blundell, luca-badoer, karl-wendlinger, pedro-lamy, taki-inoue, pedro-diniz]
+- lap: 33
+  drivers: [damon-hill, michael-schumacher, david-coulthard, mika-hakkinen, johnny-herbert, eddie-irvine, heinz-harald-frentzen, olivier-panis, mika-salo, mark-blundell, luca-badoer, karl-wendlinger, pedro-lamy, taki-inoue]
+- lap: 34
+  drivers: [damon-hill, michael-schumacher, david-coulthard, mika-hakkinen, johnny-herbert, eddie-irvine, heinz-harald-frentzen, olivier-panis, mika-salo, mark-blundell, karl-wendlinger, pedro-lamy, luca-badoer, taki-inoue]
+- lap: 35
+  drivers: [damon-hill, michael-schumacher, david-coulthard, mika-hakkinen, johnny-herbert, eddie-irvine, heinz-harald-frentzen, olivier-panis, mika-salo, mark-blundell, karl-wendlinger, luca-badoer, pedro-lamy, taki-inoue]
+- lap: 36
+  drivers: [michael-schumacher, damon-hill, david-coulthard, mika-hakkinen, johnny-herbert, eddie-irvine, heinz-harald-frentzen, olivier-panis, mika-salo, mark-blundell, karl-wendlinger, luca-badoer, pedro-lamy, taki-inoue]
+- lap: 37
+  drivers: [michael-schumacher, david-coulthard, mika-hakkinen, damon-hill, johnny-herbert, eddie-irvine, heinz-harald-frentzen, olivier-panis, mika-salo, mark-blundell, karl-wendlinger, luca-badoer, pedro-lamy, taki-inoue]
+- lap: 38
+  drivers: [michael-schumacher, david-coulthard, mika-hakkinen, johnny-herbert, damon-hill, heinz-harald-frentzen, eddie-irvine, olivier-panis, mika-salo, mark-blundell, karl-wendlinger, luca-badoer, pedro-lamy, taki-inoue]
+- lap: 39
+  drivers: [michael-schumacher, david-coulthard, mika-hakkinen, johnny-herbert, damon-hill, heinz-harald-frentzen, eddie-irvine, olivier-panis, mika-salo, mark-blundell, luca-badoer, karl-wendlinger, pedro-lamy, taki-inoue]
+- lap: 40
+  drivers: [michael-schumacher, mika-hakkinen, johnny-herbert, damon-hill, eddie-irvine, heinz-harald-frentzen, olivier-panis, mika-salo, mark-blundell, luca-badoer, pedro-lamy, karl-wendlinger, taki-inoue]
+- lap: 41
+  drivers: [michael-schumacher, mika-hakkinen, johnny-herbert, eddie-irvine, olivier-panis, mika-salo, mark-blundell, heinz-harald-frentzen, luca-badoer, pedro-lamy, karl-wendlinger, taki-inoue]
+- lap: 42
+  drivers: [michael-schumacher, mika-hakkinen, johnny-herbert, eddie-irvine, olivier-panis, mika-salo, mark-blundell, heinz-harald-frentzen, luca-badoer, pedro-lamy, karl-wendlinger, taki-inoue]
+- lap: 43
+  drivers: [michael-schumacher, mika-hakkinen, johnny-herbert, eddie-irvine, olivier-panis, mika-salo, mark-blundell, heinz-harald-frentzen, luca-badoer, pedro-lamy, karl-wendlinger, taki-inoue]
+- lap: 44
+  drivers: [michael-schumacher, mika-hakkinen, johnny-herbert, eddie-irvine, olivier-panis, mika-salo, mark-blundell, heinz-harald-frentzen, luca-badoer, pedro-lamy, karl-wendlinger, taki-inoue]
+- lap: 45
+  drivers: [michael-schumacher, mika-hakkinen, johnny-herbert, eddie-irvine, olivier-panis, mika-salo, mark-blundell, heinz-harald-frentzen, luca-badoer, pedro-lamy, karl-wendlinger, taki-inoue]
+- lap: 46
+  drivers: [michael-schumacher, mika-hakkinen, johnny-herbert, eddie-irvine, olivier-panis, mika-salo, mark-blundell, heinz-harald-frentzen, luca-badoer, karl-wendlinger, pedro-lamy, taki-inoue]
+- lap: 47
+  drivers: [michael-schumacher, mika-hakkinen, johnny-herbert, eddie-irvine, olivier-panis, mika-salo, mark-blundell, heinz-harald-frentzen, luca-badoer, karl-wendlinger, pedro-lamy, taki-inoue]
+- lap: 48
+  drivers: [michael-schumacher, mika-hakkinen, johnny-herbert, eddie-irvine, olivier-panis, mika-salo, mark-blundell, heinz-harald-frentzen, luca-badoer, karl-wendlinger, pedro-lamy, taki-inoue]
+- lap: 49
+  drivers: [michael-schumacher, mika-hakkinen, johnny-herbert, eddie-irvine, olivier-panis, mika-salo, mark-blundell, heinz-harald-frentzen, luca-badoer, karl-wendlinger, pedro-lamy, taki-inoue]
+- lap: 50
+  drivers: [michael-schumacher, mika-hakkinen, johnny-herbert, eddie-irvine, olivier-panis, mika-salo, mark-blundell, heinz-harald-frentzen, luca-badoer, karl-wendlinger, pedro-lamy, taki-inoue]
+- lap: 51
+  drivers: [michael-schumacher, mika-hakkinen, johnny-herbert, eddie-irvine, olivier-panis, mika-salo, mark-blundell, heinz-harald-frentzen, luca-badoer, karl-wendlinger, pedro-lamy, taki-inoue]
+- lap: 52
+  drivers: [michael-schumacher, mika-hakkinen, johnny-herbert, eddie-irvine, olivier-panis, mika-salo, mark-blundell, heinz-harald-frentzen]
+- lap: 53
+  drivers: [michael-schumacher, mika-hakkinen, johnny-herbert, eddie-irvine]

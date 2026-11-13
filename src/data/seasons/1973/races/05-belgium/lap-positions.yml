@@ -1,0 +1,142 @@
+- lap: 0
+  drivers: [ronnie-peterson, denny-hulme, jacky-ickx, francois-cevert, jean-pierre-beltoise, jackie-stewart, carlos-reutemann, carlos-pace, emerson-fittipaldi, peter-revson, george-follmer, clay-regazzoni, mike-hailwood, niki-lauda, chris-amon, jean-pierre-jarier, nanni-galli, andrea-de-adamich, wilson-fittipaldi, mike-beuttler, howden-ganley, jackie-oliver, graham-hill]
+- lap: 1
+  drivers: [ronnie-peterson, francois-cevert, jacky-ickx, denny-hulme, carlos-reutemann, jean-pierre-beltoise, carlos-pace, jackie-stewart, emerson-fittipaldi, niki-lauda, mike-hailwood, peter-revson, george-follmer, clay-regazzoni, andrea-de-adamich, nanni-galli, wilson-fittipaldi, chris-amon, jackie-oliver, mike-beuttler, jean-pierre-jarier, howden-ganley, graham-hill]
+- lap: 2
+  drivers: [francois-cevert, ronnie-peterson, jacky-ickx, denny-hulme, carlos-reutemann, jean-pierre-beltoise, carlos-pace, jackie-stewart, emerson-fittipaldi, niki-lauda, mike-hailwood, peter-revson, george-follmer, clay-regazzoni, andrea-de-adamich, nanni-galli, wilson-fittipaldi, chris-amon, jackie-oliver, mike-beuttler, jean-pierre-jarier, howden-ganley, graham-hill]
+- lap: 3
+  drivers: [francois-cevert, ronnie-peterson, jacky-ickx, denny-hulme, carlos-reutemann, jean-pierre-beltoise, carlos-pace, jackie-stewart, emerson-fittipaldi, niki-lauda, mike-hailwood, peter-revson, clay-regazzoni, george-follmer, andrea-de-adamich, nanni-galli, wilson-fittipaldi, jackie-oliver, chris-amon, mike-beuttler, jean-pierre-jarier, graham-hill, howden-ganley]
+- lap: 4
+  drivers: [francois-cevert, ronnie-peterson, jacky-ickx, denny-hulme, carlos-reutemann, jean-pierre-beltoise, carlos-pace, emerson-fittipaldi, jackie-stewart, niki-lauda, mike-hailwood, peter-revson, clay-regazzoni, george-follmer, andrea-de-adamich, nanni-galli, wilson-fittipaldi, jackie-oliver, mike-beuttler, chris-amon, jean-pierre-jarier, graham-hill, howden-ganley]
+- lap: 5
+  drivers: [francois-cevert, ronnie-peterson, jacky-ickx, denny-hulme, carlos-reutemann, jean-pierre-beltoise, emerson-fittipaldi, jackie-stewart, carlos-pace, niki-lauda, peter-revson, clay-regazzoni, george-follmer, andrea-de-adamich, wilson-fittipaldi, jackie-oliver, mike-beuttler, chris-amon, jean-pierre-jarier, nanni-galli, graham-hill, howden-ganley]
+- lap: 6
+  drivers: [francois-cevert, ronnie-peterson, carlos-reutemann, jean-pierre-beltoise, emerson-fittipaldi, jackie-stewart, carlos-pace, niki-lauda, jacky-ickx, peter-revson, clay-regazzoni, george-follmer, andrea-de-adamich, jackie-oliver, wilson-fittipaldi, mike-beuttler, chris-amon, jean-pierre-jarier, denny-hulme, graham-hill, howden-ganley, nanni-galli]
+- lap: 7
+  drivers: [francois-cevert, ronnie-peterson, carlos-reutemann, jean-pierre-beltoise, emerson-fittipaldi, jackie-stewart, carlos-pace, niki-lauda, peter-revson, clay-regazzoni, george-follmer, andrea-de-adamich, jackie-oliver, wilson-fittipaldi, mike-beuttler, chris-amon, jean-pierre-jarier, denny-hulme, graham-hill, howden-ganley]
+- lap: 8
+  drivers: [francois-cevert, ronnie-peterson, carlos-reutemann, jean-pierre-beltoise, emerson-fittipaldi, jackie-stewart, carlos-pace, niki-lauda, peter-revson, clay-regazzoni, george-follmer, andrea-de-adamich, jackie-oliver, wilson-fittipaldi, mike-beuttler, jean-pierre-jarier, chris-amon, denny-hulme, graham-hill, howden-ganley]
+- lap: 9
+  drivers: [francois-cevert, ronnie-peterson, carlos-reutemann, emerson-fittipaldi, jackie-stewart, carlos-pace, niki-lauda, peter-revson, clay-regazzoni, george-follmer, jackie-oliver, andrea-de-adamich, jean-pierre-beltoise, mike-beuttler, wilson-fittipaldi, jean-pierre-jarier, chris-amon, denny-hulme, graham-hill, howden-ganley]
+- lap: 10
+  drivers: [francois-cevert, ronnie-peterson, carlos-reutemann, emerson-fittipaldi, jackie-stewart, peter-revson, carlos-pace, clay-regazzoni, niki-lauda, george-follmer, jackie-oliver, andrea-de-adamich, mike-beuttler, wilson-fittipaldi, jean-pierre-jarier, chris-amon, denny-hulme, graham-hill, jean-pierre-beltoise, howden-ganley]
+- lap: 11
+  drivers: [francois-cevert, ronnie-peterson, carlos-reutemann, emerson-fittipaldi, jackie-stewart, peter-revson, carlos-pace, clay-regazzoni, niki-lauda, george-follmer, jackie-oliver, andrea-de-adamich, mike-beuttler, wilson-fittipaldi, jean-pierre-jarier, chris-amon, denny-hulme, graham-hill, jean-pierre-beltoise, howden-ganley]
+- lap: 12
+  drivers: [francois-cevert, ronnie-peterson, carlos-reutemann, emerson-fittipaldi, jackie-stewart, peter-revson, carlos-pace, clay-regazzoni, niki-lauda, george-follmer, andrea-de-adamich, mike-beuttler, wilson-fittipaldi, jean-pierre-jarier, chris-amon, denny-hulme, graham-hill, jean-pierre-beltoise, howden-ganley]
+- lap: 13
+  drivers: [francois-cevert, ronnie-peterson, carlos-reutemann, emerson-fittipaldi, jackie-stewart, peter-revson, carlos-pace, clay-regazzoni, niki-lauda, george-follmer, andrea-de-adamich, mike-beuttler, jean-pierre-jarier, chris-amon, wilson-fittipaldi, denny-hulme, graham-hill, jean-pierre-beltoise, howden-ganley]
+- lap: 14
+  drivers: [francois-cevert, ronnie-peterson, emerson-fittipaldi, jackie-stewart, peter-revson, carlos-pace, clay-regazzoni, niki-lauda, andrea-de-adamich, mike-beuttler, jean-pierre-jarier, chris-amon, wilson-fittipaldi, denny-hulme, graham-hill, jean-pierre-beltoise, howden-ganley, carlos-reutemann]
+- lap: 15
+  drivers: [francois-cevert, ronnie-peterson, emerson-fittipaldi, jackie-stewart, peter-revson, carlos-pace, clay-regazzoni, niki-lauda, andrea-de-adamich, mike-beuttler, jean-pierre-jarier, chris-amon, wilson-fittipaldi, denny-hulme, graham-hill, jean-pierre-beltoise, howden-ganley]
+- lap: 16
+  drivers: [francois-cevert, ronnie-peterson, emerson-fittipaldi, jackie-stewart, peter-revson, carlos-pace, clay-regazzoni, niki-lauda, andrea-de-adamich, jean-pierre-jarier, chris-amon, wilson-fittipaldi, mike-beuttler, denny-hulme, graham-hill, jean-pierre-beltoise, howden-ganley]
+- lap: 17
+  drivers: [francois-cevert, ronnie-peterson, emerson-fittipaldi, jackie-stewart, peter-revson, carlos-pace, clay-regazzoni, niki-lauda, andrea-de-adamich, jean-pierre-jarier, chris-amon, wilson-fittipaldi, mike-beuttler, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 18
+  drivers: [francois-cevert, ronnie-peterson, emerson-fittipaldi, jackie-stewart, peter-revson, carlos-pace, clay-regazzoni, niki-lauda, andrea-de-adamich, jean-pierre-jarier, chris-amon, wilson-fittipaldi, mike-beuttler, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 19
+  drivers: [francois-cevert, emerson-fittipaldi, jackie-stewart, ronnie-peterson, peter-revson, carlos-pace, clay-regazzoni, niki-lauda, andrea-de-adamich, jean-pierre-jarier, chris-amon, wilson-fittipaldi, mike-beuttler, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 20
+  drivers: [emerson-fittipaldi, jackie-stewart, ronnie-peterson, peter-revson, carlos-pace, clay-regazzoni, niki-lauda, francois-cevert, andrea-de-adamich, jean-pierre-jarier, chris-amon, wilson-fittipaldi, mike-beuttler, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 21
+  drivers: [emerson-fittipaldi, jackie-stewart, ronnie-peterson, peter-revson, carlos-pace, clay-regazzoni, niki-lauda, francois-cevert, andrea-de-adamich, jean-pierre-jarier, chris-amon, wilson-fittipaldi, mike-beuttler, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 22
+  drivers: [emerson-fittipaldi, jackie-stewart, ronnie-peterson, peter-revson, carlos-pace, clay-regazzoni, niki-lauda, francois-cevert, andrea-de-adamich, jean-pierre-jarier, chris-amon, wilson-fittipaldi, mike-beuttler, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 23
+  drivers: [emerson-fittipaldi, jackie-stewart, ronnie-peterson, peter-revson, carlos-pace, clay-regazzoni, niki-lauda, francois-cevert, andrea-de-adamich, jean-pierre-jarier, chris-amon, wilson-fittipaldi, mike-beuttler, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 24
+  drivers: [emerson-fittipaldi, jackie-stewart, ronnie-peterson, peter-revson, carlos-pace, clay-regazzoni, francois-cevert, niki-lauda, andrea-de-adamich, jean-pierre-jarier, chris-amon, wilson-fittipaldi, mike-beuttler, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 25
+  drivers: [jackie-stewart, emerson-fittipaldi, ronnie-peterson, peter-revson, carlos-pace, clay-regazzoni, francois-cevert, niki-lauda, andrea-de-adamich, jean-pierre-jarier, chris-amon, wilson-fittipaldi, mike-beuttler, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 26
+  drivers: [jackie-stewart, emerson-fittipaldi, ronnie-peterson, peter-revson, carlos-pace, francois-cevert, clay-regazzoni, niki-lauda, andrea-de-adamich, jean-pierre-jarier, chris-amon, wilson-fittipaldi, mike-beuttler, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 27
+  drivers: [jackie-stewart, emerson-fittipaldi, peter-revson, ronnie-peterson, carlos-pace, francois-cevert, clay-regazzoni, niki-lauda, andrea-de-adamich, jean-pierre-jarier, chris-amon, wilson-fittipaldi, mike-beuttler, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 28
+  drivers: [jackie-stewart, emerson-fittipaldi, peter-revson, ronnie-peterson, carlos-pace, francois-cevert, clay-regazzoni, niki-lauda, andrea-de-adamich, jean-pierre-jarier, chris-amon, wilson-fittipaldi, mike-beuttler, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 29
+  drivers: [jackie-stewart, emerson-fittipaldi, peter-revson, ronnie-peterson, carlos-pace, francois-cevert, clay-regazzoni, niki-lauda, andrea-de-adamich, jean-pierre-jarier, wilson-fittipaldi, chris-amon, mike-beuttler, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 30
+  drivers: [jackie-stewart, emerson-fittipaldi, peter-revson, ronnie-peterson, carlos-pace, francois-cevert, clay-regazzoni, niki-lauda, andrea-de-adamich, jean-pierre-jarier, wilson-fittipaldi, chris-amon, mike-beuttler, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 31
+  drivers: [jackie-stewart, emerson-fittipaldi, peter-revson, carlos-pace, francois-cevert, ronnie-peterson, clay-regazzoni, niki-lauda, andrea-de-adamich, jean-pierre-jarier, wilson-fittipaldi, chris-amon, mike-beuttler, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 32
+  drivers: [jackie-stewart, emerson-fittipaldi, peter-revson, carlos-pace, francois-cevert, ronnie-peterson, clay-regazzoni, niki-lauda, andrea-de-adamich, jean-pierre-jarier, wilson-fittipaldi, chris-amon, mike-beuttler, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 33
+  drivers: [jackie-stewart, emerson-fittipaldi, peter-revson, carlos-pace, francois-cevert, ronnie-peterson, niki-lauda, andrea-de-adamich, clay-regazzoni, jean-pierre-jarier, wilson-fittipaldi, chris-amon, mike-beuttler, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 34
+  drivers: [jackie-stewart, emerson-fittipaldi, francois-cevert, carlos-pace, ronnie-peterson, niki-lauda, andrea-de-adamich, jean-pierre-jarier, wilson-fittipaldi, chris-amon, mike-beuttler, clay-regazzoni, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 35
+  drivers: [jackie-stewart, emerson-fittipaldi, francois-cevert, carlos-pace, ronnie-peterson, niki-lauda, andrea-de-adamich, jean-pierre-jarier, wilson-fittipaldi, chris-amon, mike-beuttler, clay-regazzoni, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 36
+  drivers: [jackie-stewart, emerson-fittipaldi, francois-cevert, carlos-pace, ronnie-peterson, niki-lauda, andrea-de-adamich, jean-pierre-jarier, wilson-fittipaldi, chris-amon, mike-beuttler, clay-regazzoni, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 37
+  drivers: [jackie-stewart, emerson-fittipaldi, francois-cevert, carlos-pace, ronnie-peterson, niki-lauda, andrea-de-adamich, jean-pierre-jarier, wilson-fittipaldi, chris-amon, mike-beuttler, clay-regazzoni, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 38
+  drivers: [jackie-stewart, emerson-fittipaldi, francois-cevert, carlos-pace, ronnie-peterson, niki-lauda, andrea-de-adamich, jean-pierre-jarier, wilson-fittipaldi, chris-amon, mike-beuttler, clay-regazzoni, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 39
+  drivers: [jackie-stewart, emerson-fittipaldi, francois-cevert, carlos-pace, ronnie-peterson, niki-lauda, andrea-de-adamich, jean-pierre-jarier, wilson-fittipaldi, chris-amon, mike-beuttler, clay-regazzoni, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 40
+  drivers: [jackie-stewart, emerson-fittipaldi, francois-cevert, carlos-pace, ronnie-peterson, niki-lauda, andrea-de-adamich, jean-pierre-jarier, wilson-fittipaldi, chris-amon, mike-beuttler, clay-regazzoni, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 41
+  drivers: [jackie-stewart, emerson-fittipaldi, francois-cevert, carlos-pace, ronnie-peterson, niki-lauda, andrea-de-adamich, jean-pierre-jarier, wilson-fittipaldi, chris-amon, mike-beuttler, clay-regazzoni, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 42
+  drivers: [jackie-stewart, emerson-fittipaldi, francois-cevert, carlos-pace, ronnie-peterson, niki-lauda, andrea-de-adamich, jean-pierre-jarier, wilson-fittipaldi, chris-amon, mike-beuttler, clay-regazzoni, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 43
+  drivers: [jackie-stewart, emerson-fittipaldi, francois-cevert, carlos-pace, niki-lauda, andrea-de-adamich, jean-pierre-jarier, wilson-fittipaldi, chris-amon, mike-beuttler, clay-regazzoni, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 44
+  drivers: [jackie-stewart, emerson-fittipaldi, francois-cevert, carlos-pace, niki-lauda, andrea-de-adamich, jean-pierre-jarier, wilson-fittipaldi, chris-amon, mike-beuttler, clay-regazzoni, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 45
+  drivers: [jackie-stewart, emerson-fittipaldi, francois-cevert, carlos-pace, niki-lauda, andrea-de-adamich, jean-pierre-jarier, wilson-fittipaldi, chris-amon, mike-beuttler, clay-regazzoni, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 46
+  drivers: [jackie-stewart, emerson-fittipaldi, francois-cevert, carlos-pace, niki-lauda, andrea-de-adamich, jean-pierre-jarier, wilson-fittipaldi, chris-amon, mike-beuttler, clay-regazzoni, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 47
+  drivers: [jackie-stewart, emerson-fittipaldi, francois-cevert, carlos-pace, niki-lauda, andrea-de-adamich, jean-pierre-jarier, chris-amon, mike-beuttler, clay-regazzoni, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 48
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi, carlos-pace, niki-lauda, andrea-de-adamich, jean-pierre-jarier, chris-amon, mike-beuttler, clay-regazzoni, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 49
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi, niki-lauda, carlos-pace, andrea-de-adamich, jean-pierre-jarier, chris-amon, clay-regazzoni, mike-beuttler, denny-hulme, graham-hill, jean-pierre-beltoise]
+- lap: 50
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi, niki-lauda, andrea-de-adamich, jean-pierre-jarier, chris-amon, clay-regazzoni, denny-hulme, carlos-pace, mike-beuttler, graham-hill, jean-pierre-beltoise]
+- lap: 51
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi, niki-lauda, andrea-de-adamich, jean-pierre-jarier, chris-amon, clay-regazzoni, denny-hulme, carlos-pace, mike-beuttler, graham-hill, jean-pierre-beltoise]
+- lap: 52
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi, niki-lauda, andrea-de-adamich, jean-pierre-jarier, chris-amon, clay-regazzoni, denny-hulme, mike-beuttler, carlos-pace, graham-hill, jean-pierre-beltoise]
+- lap: 53
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi, niki-lauda, andrea-de-adamich, jean-pierre-jarier, chris-amon, clay-regazzoni, denny-hulme, mike-beuttler, carlos-pace, graham-hill, jean-pierre-beltoise]
+- lap: 54
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi, niki-lauda, andrea-de-adamich, jean-pierre-jarier, chris-amon, clay-regazzoni, denny-hulme, mike-beuttler, carlos-pace, graham-hill, jean-pierre-beltoise]
+- lap: 55
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi, niki-lauda, andrea-de-adamich, jean-pierre-jarier, chris-amon, clay-regazzoni, denny-hulme, mike-beuttler, carlos-pace, graham-hill, jean-pierre-beltoise]
+- lap: 56
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi, niki-lauda, andrea-de-adamich, jean-pierre-jarier, chris-amon, clay-regazzoni, denny-hulme, mike-beuttler, carlos-pace, graham-hill, jean-pierre-beltoise]
+- lap: 57
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi, niki-lauda, andrea-de-adamich, jean-pierre-jarier, chris-amon, clay-regazzoni, denny-hulme, mike-beuttler, carlos-pace, graham-hill]
+- lap: 58
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi, niki-lauda, andrea-de-adamich, jean-pierre-jarier, chris-amon, clay-regazzoni, denny-hulme, mike-beuttler, carlos-pace, graham-hill]
+- lap: 59
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi, niki-lauda, andrea-de-adamich, jean-pierre-jarier, chris-amon, clay-regazzoni, denny-hulme, mike-beuttler, carlos-pace, graham-hill]
+- lap: 60
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi, niki-lauda, andrea-de-adamich, jean-pierre-jarier, chris-amon, clay-regazzoni, denny-hulme, mike-beuttler, carlos-pace, graham-hill]
+- lap: 61
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi, niki-lauda, andrea-de-adamich, chris-amon, clay-regazzoni, denny-hulme, mike-beuttler, carlos-pace, graham-hill]
+- lap: 62
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi, niki-lauda, andrea-de-adamich, clay-regazzoni, chris-amon, denny-hulme, mike-beuttler, carlos-pace, graham-hill]
+- lap: 63
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi, niki-lauda, andrea-de-adamich, clay-regazzoni, chris-amon, denny-hulme, mike-beuttler, carlos-pace, graham-hill]
+- lap: 64
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi, niki-lauda, andrea-de-adamich, chris-amon, denny-hulme, carlos-pace, graham-hill]
+- lap: 65
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi, niki-lauda, andrea-de-adamich, chris-amon, denny-hulme, carlos-pace, graham-hill]
+- lap: 66
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi, niki-lauda, andrea-de-adamich, chris-amon, denny-hulme, carlos-pace]
+- lap: 67
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi, niki-lauda, andrea-de-adamich, chris-amon, denny-hulme]
+- lap: 68
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi, niki-lauda, andrea-de-adamich]
+- lap: 69
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi, andrea-de-adamich, niki-lauda]
+- lap: 70
+  drivers: [jackie-stewart, francois-cevert, emerson-fittipaldi]

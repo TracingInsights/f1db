@@ -693,6 +693,7 @@ CREATE TABLE "race_data"
 , "pit_stop_lap" INTEGER
 , "pit_stop_time" VARCHAR(20)
 , "pit_stop_time_millis" INTEGER
+, "lap_position_lap" INTEGER
 , "driver_of_the_day_percentage" DECIMAL(5,2)
 , CONSTRAINT "rcda_pk" PRIMARY KEY ("race_id", "type", "position_display_order")
 , CONSTRAINT "rcda_race_id_fk" FOREIGN KEY ("race_id") REFERENCES "race" ("id")
@@ -1122,3 +1123,51 @@ SELECT   "race_data"."race_id"
 ,        "race_data"."driver_of_the_day_percentage" AS "percentage"
 FROM     "race_data"
 WHERE    "race_data"."type" = 'DRIVER_OF_THE_DAY_RESULT';
+
+CREATE VIEW "sprint_fastest_lap" AS
+SELECT   "race_data"."race_id"
+,        "race_data"."position_display_order"
+,        "race_data"."position_number"
+,        "race_data"."position_text"
+,        "race_data"."driver_number"
+,        "race_data"."driver_id"
+,        "race_data"."constructor_id"
+,        "race_data"."engine_manufacturer_id"
+,        "race_data"."tyre_manufacturer_id"
+,        "race_data"."fastest_lap_lap" AS "lap"
+,        "race_data"."fastest_lap_time" AS "time"
+,        "race_data"."fastest_lap_time_millis" AS "time_millis"
+,        "race_data"."fastest_lap_gap" AS "gap"
+,        "race_data"."fastest_lap_gap_millis" AS "gap_millis"
+,        "race_data"."fastest_lap_interval" AS "interval"
+,        "race_data"."fastest_lap_interval_millis" AS "interval_millis"
+FROM     "race_data"
+WHERE    "race_data"."type" = 'SPRINT_FASTEST_LAP';
+
+CREATE VIEW "lap_position" AS
+SELECT   "race_data"."race_id"
+,        "race_data"."position_display_order"
+,        "race_data"."position_number"
+,        "race_data"."position_text"
+,        "race_data"."driver_number"
+,        "race_data"."driver_id"
+,        "race_data"."constructor_id"
+,        "race_data"."engine_manufacturer_id"
+,        "race_data"."tyre_manufacturer_id"
+,        "race_data"."lap_position_lap" AS "lap"
+FROM     "race_data"
+WHERE    "race_data"."type" = 'LAP_POSITION';
+
+CREATE VIEW "sprint_lap_position" AS
+SELECT   "race_data"."race_id"
+,        "race_data"."position_display_order"
+,        "race_data"."position_number"
+,        "race_data"."position_text"
+,        "race_data"."driver_number"
+,        "race_data"."driver_id"
+,        "race_data"."constructor_id"
+,        "race_data"."engine_manufacturer_id"
+,        "race_data"."tyre_manufacturer_id"
+,        "race_data"."lap_position_lap" AS "lap"
+FROM     "race_data"
+WHERE    "race_data"."type" = 'SPRINT_LAP_POSITION';

@@ -345,7 +345,7 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Accident
   points:
   gridPosition:
 - position: EX
@@ -359,6 +359,6 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Dangerous driving
   points:
   gridPosition:

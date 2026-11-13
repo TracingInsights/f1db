@@ -68,6 +68,9 @@ class CsvWriter(
         write("f1db-races-race-results.csv", db.splitted.raceRaceResults)
         write("f1db-races-fastest-laps.csv", db.splitted.raceFastestLaps)
         write("f1db-races-pit-stops.csv", db.splitted.racePitStops)
+        write("f1db-races-sprint-fastest-laps.csv", db.splitted.raceSprintFastestLaps, com.f1db.plugin.schema.splitted.FastestLap::class.java)
+        write("f1db-races-lap-positions.csv", db.splitted.raceLapPositions, com.f1db.plugin.schema.splitted.LapPosition::class.java)
+        write("f1db-races-sprint-lap-positions.csv", db.splitted.raceSprintLapPositions, com.f1db.plugin.schema.splitted.LapPosition::class.java)
         write("f1db-races-driver-of-the-day-results.csv", db.splitted.raceDriverOfTheDayResults)
         write("f1db-races-driver-standings.csv", db.splitted.raceDriverStandings)
         write("f1db-races-constructor-standings.csv", db.splitted.raceConstructorStandings)
@@ -75,7 +78,7 @@ class CsvWriter(
         write("f1db-countries.csv", db.splitted.countries)
     }
 
-    private fun write(outputFileName: String, values: List<Any>) {
+    private fun write(outputFileName: String, values: List<Any>, valueClass: Class<*>? = null) {
 
         val outputFile = File(outputDir, outputFileName)
 
@@ -93,7 +96,8 @@ class CsvWriter(
 
         // Write the csv file.
 
-        val schemaClass = values[0].javaClass
+        // valueClass lets a data type that may still be empty (e.g. sprint fastest laps) write a header-only file
+        val schemaClass = valueClass ?: values[0].javaClass
         val schema = mapper.schemaFor(schemaClass).withHeader()
         mapper.writer(schema).writeValue(outputFile, values)
     }

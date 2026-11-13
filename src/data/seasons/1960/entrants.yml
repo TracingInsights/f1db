@@ -364,7 +364,7 @@
   constructorId: maserati
   engineManufacturerId: maserati
   chassisId: maserati-250f
-  engineId: maserati-250s-25-l4
+  engineId: maserati-250f1-25-l6
   tyreManufacturerId: dunlop
   driverId: bob-drake
   rounds: 10
@@ -596,17 +596,25 @@
   rounds: 9
 - entrantId: scuderia-eugenio-castellotti
   countryId: italy
-  constructorId: cooper
-  engineManufacturerId: castellotti
-  chassisId: cooper-t51
-  engineId: castellotti-25-l4
-  tyreManufacturerId: dunlop
-  drivers:
-    - driverId: gino-munaron
-      rounds: 2,6-7,9
-    - driverId: giorgio-scarlatti
-      rounds: 2,9
-    - driverId: giulio-cabianca
+  constructors:
+    - constructorId: cooper
+      engineManufacturerId: castellotti
+      chassisId: cooper-t51
+      engineId: castellotti-25-l4
+      tyreManufacturerId: dunlop
+      drivers:
+        - driverId: gino-munaron
+          rounds: 2,6-7,9
+        - driverId: giorgio-scarlatti
+          rounds: 2
+        - driverId: giulio-cabianca
+          rounds: 9
+    - constructorId: cooper
+      engineManufacturerId: maserati
+      chassisId: cooper-t51
+      engineId: maserati-250s-25-l4
+      tyreManufacturerId: dunlop
+      driverId: giorgio-scarlatti
       rounds: 9
 - entrantId: scuderia-ferrari
   countryId: italy

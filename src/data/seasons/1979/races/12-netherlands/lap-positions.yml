@@ -1,0 +1,152 @@
+- lap: 0
+  drivers: [rene-arnoux, alan-jones, clay-regazzoni, jean-pierre-jabouille, jody-scheckter, gilles-villeneuve, jacques-laffite, keke-rosberg, niki-lauda, didier-pironi, nelson-piquet, john-watson, carlos-reutemann, patrick-tambay, hans-joachim-stuck, jean-pierre-jarier, mario-andretti, jochen-mass, riccardo-patrese, jacky-ickx, emerson-fittipaldi, elio-de-angelis, jan-lammers, hector-rebaque]
+- lap: 1
+  drivers: [alan-jones, gilles-villeneuve, jean-pierre-jabouille, didier-pironi, jacques-laffite, niki-lauda, keke-rosberg, john-watson, jean-pierre-jarier, patrick-tambay, nelson-piquet, jochen-mass, mario-andretti, jacky-ickx, riccardo-patrese, hector-rebaque, hans-joachim-stuck, jan-lammers, jody-scheckter, elio-de-angelis, emerson-fittipaldi, carlos-reutemann, rene-arnoux]
+- lap: 2
+  drivers: [alan-jones, gilles-villeneuve, jean-pierre-jabouille, didier-pironi, jacques-laffite, keke-rosberg, niki-lauda, john-watson, jean-pierre-jarier, nelson-piquet, jochen-mass, mario-andretti, jacky-ickx, jody-scheckter, riccardo-patrese, hector-rebaque, hans-joachim-stuck, patrick-tambay, jan-lammers, elio-de-angelis, emerson-fittipaldi]
+- lap: 3
+  drivers: [alan-jones, gilles-villeneuve, jean-pierre-jabouille, didier-pironi, jacques-laffite, keke-rosberg, john-watson, niki-lauda, jean-pierre-jarier, jochen-mass, nelson-piquet, mario-andretti, jacky-ickx, jody-scheckter, riccardo-patrese, hector-rebaque, hans-joachim-stuck, jan-lammers, elio-de-angelis, patrick-tambay]
+- lap: 4
+  drivers: [alan-jones, gilles-villeneuve, jean-pierre-jabouille, didier-pironi, keke-rosberg, john-watson, jacques-laffite, jean-pierre-jarier, jochen-mass, nelson-piquet, jody-scheckter, mario-andretti, jacky-ickx, riccardo-patrese, hector-rebaque, hans-joachim-stuck, niki-lauda, jan-lammers, elio-de-angelis, patrick-tambay]
+- lap: 5
+  drivers: [alan-jones, gilles-villeneuve, jean-pierre-jabouille, didier-pironi, keke-rosberg, john-watson, jean-pierre-jarier, jacques-laffite, jochen-mass, nelson-piquet, jody-scheckter, mario-andretti, jacky-ickx, riccardo-patrese, hector-rebaque, hans-joachim-stuck, jan-lammers, elio-de-angelis, patrick-tambay]
+- lap: 6
+  drivers: [alan-jones, gilles-villeneuve, jean-pierre-jabouille, didier-pironi, keke-rosberg, john-watson, jean-pierre-jarier, jacques-laffite, jochen-mass, jody-scheckter, nelson-piquet, mario-andretti, jacky-ickx, riccardo-patrese, hector-rebaque, hans-joachim-stuck, jan-lammers, elio-de-angelis, patrick-tambay]
+- lap: 7
+  drivers: [alan-jones, gilles-villeneuve, jean-pierre-jabouille, didier-pironi, keke-rosberg, john-watson, jean-pierre-jarier, jody-scheckter, jacques-laffite, jochen-mass, nelson-piquet, mario-andretti, jacky-ickx, riccardo-patrese, hector-rebaque, hans-joachim-stuck, jan-lammers, elio-de-angelis]
+- lap: 8
+  drivers: [alan-jones, gilles-villeneuve, jean-pierre-jabouille, didier-pironi, keke-rosberg, jean-pierre-jarier, jody-scheckter, jacques-laffite, jochen-mass, nelson-piquet, mario-andretti, jacky-ickx, hector-rebaque, jan-lammers, elio-de-angelis, hans-joachim-stuck, john-watson]
+- lap: 9
+  drivers: [alan-jones, gilles-villeneuve, jean-pierre-jabouille, didier-pironi, keke-rosberg, jean-pierre-jarier, jody-scheckter, jacques-laffite, jochen-mass, nelson-piquet, jacky-ickx, hector-rebaque, mario-andretti, jan-lammers, elio-de-angelis, john-watson, hans-joachim-stuck]
+- lap: 10
+  drivers: [alan-jones, gilles-villeneuve, jean-pierre-jabouille, didier-pironi, keke-rosberg, jody-scheckter, jean-pierre-jarier, jacques-laffite, jochen-mass, nelson-piquet, jacky-ickx, hector-rebaque, elio-de-angelis, jan-lammers, john-watson, hans-joachim-stuck]
+- lap: 11
+  drivers: [gilles-villeneuve, alan-jones, jean-pierre-jabouille, didier-pironi, keke-rosberg, jody-scheckter, jean-pierre-jarier, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque, elio-de-angelis, john-watson, hans-joachim-stuck, jan-lammers]
+- lap: 12
+  drivers: [gilles-villeneuve, alan-jones, jean-pierre-jabouille, keke-rosberg, didier-pironi, jody-scheckter, jean-pierre-jarier, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque, elio-de-angelis, john-watson, hans-joachim-stuck, jan-lammers]
+- lap: 13
+  drivers: [gilles-villeneuve, alan-jones, jean-pierre-jabouille, keke-rosberg, didier-pironi, jody-scheckter, jean-pierre-jarier, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque, elio-de-angelis, john-watson, hans-joachim-stuck]
+- lap: 14
+  drivers: [gilles-villeneuve, alan-jones, jean-pierre-jabouille, keke-rosberg, didier-pironi, jody-scheckter, jean-pierre-jarier, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque, elio-de-angelis, john-watson, hans-joachim-stuck]
+- lap: 15
+  drivers: [gilles-villeneuve, alan-jones, jean-pierre-jabouille, keke-rosberg, didier-pironi, jody-scheckter, jean-pierre-jarier, nelson-piquet, jacques-laffite, jochen-mass, jacky-ickx, hector-rebaque, elio-de-angelis, john-watson, hans-joachim-stuck]
+- lap: 16
+  drivers: [gilles-villeneuve, alan-jones, jean-pierre-jabouille, keke-rosberg, didier-pironi, jody-scheckter, jean-pierre-jarier, nelson-piquet, jacques-laffite, jochen-mass, jacky-ickx, hector-rebaque, elio-de-angelis, john-watson, hans-joachim-stuck]
+- lap: 17
+  drivers: [gilles-villeneuve, alan-jones, jean-pierre-jabouille, keke-rosberg, jody-scheckter, didier-pironi, jean-pierre-jarier, nelson-piquet, jacques-laffite, jochen-mass, jacky-ickx, hector-rebaque, elio-de-angelis, john-watson, hans-joachim-stuck]
+- lap: 18
+  drivers: [gilles-villeneuve, alan-jones, jean-pierre-jabouille, keke-rosberg, jody-scheckter, didier-pironi, jean-pierre-jarier, nelson-piquet, jochen-mass, jacques-laffite, jacky-ickx, hector-rebaque, elio-de-angelis, john-watson, hans-joachim-stuck]
+- lap: 19
+  drivers: [gilles-villeneuve, alan-jones, jean-pierre-jabouille, keke-rosberg, jody-scheckter, didier-pironi, jean-pierre-jarier, nelson-piquet, jochen-mass, jacques-laffite, jacky-ickx, hector-rebaque, elio-de-angelis, john-watson, hans-joachim-stuck]
+- lap: 20
+  drivers: [gilles-villeneuve, alan-jones, jean-pierre-jabouille, keke-rosberg, jody-scheckter, didier-pironi, jean-pierre-jarier, nelson-piquet, jochen-mass, jacques-laffite, jacky-ickx, hector-rebaque, elio-de-angelis, john-watson]
+- lap: 21
+  drivers: [gilles-villeneuve, alan-jones, jean-pierre-jabouille, keke-rosberg, jody-scheckter, didier-pironi, nelson-piquet, jochen-mass, jacques-laffite, jacky-ickx, hector-rebaque, elio-de-angelis, john-watson]
+- lap: 22
+  drivers: [gilles-villeneuve, alan-jones, jean-pierre-jabouille, keke-rosberg, jody-scheckter, didier-pironi, nelson-piquet, jochen-mass, jacques-laffite, jacky-ickx, hector-rebaque, elio-de-angelis, john-watson]
+- lap: 23
+  drivers: [gilles-villeneuve, alan-jones, jean-pierre-jabouille, keke-rosberg, jody-scheckter, didier-pironi, nelson-piquet, jochen-mass, jacques-laffite, jacky-ickx, hector-rebaque, elio-de-angelis]
+- lap: 24
+  drivers: [gilles-villeneuve, alan-jones, jean-pierre-jabouille, keke-rosberg, jody-scheckter, didier-pironi, nelson-piquet, jochen-mass, jacques-laffite, jacky-ickx, hector-rebaque, elio-de-angelis]
+- lap: 25
+  drivers: [gilles-villeneuve, alan-jones, jean-pierre-jabouille, keke-rosberg, jody-scheckter, didier-pironi, nelson-piquet, jochen-mass, jacques-laffite, jacky-ickx, hector-rebaque, elio-de-angelis]
+- lap: 26
+  drivers: [gilles-villeneuve, alan-jones, jody-scheckter, keke-rosberg, didier-pironi, jean-pierre-jabouille, nelson-piquet, jochen-mass, jacques-laffite, jacky-ickx, hector-rebaque, elio-de-angelis]
+- lap: 27
+  drivers: [gilles-villeneuve, alan-jones, jody-scheckter, keke-rosberg, didier-pironi, nelson-piquet, jochen-mass, jacques-laffite, jacky-ickx, hector-rebaque, elio-de-angelis]
+- lap: 28
+  drivers: [gilles-villeneuve, alan-jones, jody-scheckter, keke-rosberg, didier-pironi, nelson-piquet, jochen-mass, jacques-laffite, jacky-ickx, hector-rebaque, elio-de-angelis]
+- lap: 29
+  drivers: [gilles-villeneuve, alan-jones, jody-scheckter, keke-rosberg, didier-pironi, nelson-piquet, jochen-mass, jacques-laffite, jacky-ickx, hector-rebaque, elio-de-angelis]
+- lap: 30
+  drivers: [gilles-villeneuve, alan-jones, jody-scheckter, keke-rosberg, didier-pironi, nelson-piquet, jochen-mass, jacques-laffite, jacky-ickx, hector-rebaque, elio-de-angelis]
+- lap: 31
+  drivers: [gilles-villeneuve, alan-jones, jody-scheckter, keke-rosberg, didier-pironi, nelson-piquet, jochen-mass, jacques-laffite, jacky-ickx, hector-rebaque, elio-de-angelis]
+- lap: 32
+  drivers: [gilles-villeneuve, alan-jones, jody-scheckter, keke-rosberg, didier-pironi, nelson-piquet, jochen-mass, jacques-laffite, jacky-ickx, hector-rebaque, elio-de-angelis]
+- lap: 33
+  drivers: [gilles-villeneuve, alan-jones, jody-scheckter, didier-pironi, nelson-piquet, jochen-mass, jacques-laffite, jacky-ickx, hector-rebaque, elio-de-angelis, keke-rosberg]
+- lap: 34
+  drivers: [gilles-villeneuve, alan-jones, jody-scheckter, didier-pironi, nelson-piquet, jacques-laffite, jochen-mass, jacky-ickx, hector-rebaque, elio-de-angelis]
+- lap: 35
+  drivers: [gilles-villeneuve, alan-jones, jody-scheckter, didier-pironi, nelson-piquet, jacques-laffite, jochen-mass, jacky-ickx, hector-rebaque, elio-de-angelis]
+- lap: 36
+  drivers: [gilles-villeneuve, alan-jones, jody-scheckter, didier-pironi, nelson-piquet, jacques-laffite, jochen-mass, jacky-ickx, hector-rebaque, elio-de-angelis]
+- lap: 37
+  drivers: [gilles-villeneuve, alan-jones, jody-scheckter, didier-pironi, nelson-piquet, jacques-laffite, jochen-mass, jacky-ickx, hector-rebaque, elio-de-angelis]
+- lap: 38
+  drivers: [gilles-villeneuve, alan-jones, jody-scheckter, didier-pironi, nelson-piquet, jacques-laffite, jochen-mass, jacky-ickx, hector-rebaque, elio-de-angelis]
+- lap: 39
+  drivers: [gilles-villeneuve, alan-jones, jody-scheckter, didier-pironi, nelson-piquet, jacques-laffite, jochen-mass, jacky-ickx, hector-rebaque, elio-de-angelis]
+- lap: 40
+  drivers: [gilles-villeneuve, alan-jones, jody-scheckter, didier-pironi, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque, elio-de-angelis]
+- lap: 41
+  drivers: [gilles-villeneuve, alan-jones, jody-scheckter, didier-pironi, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque]
+- lap: 42
+  drivers: [gilles-villeneuve, alan-jones, jody-scheckter, didier-pironi, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque]
+- lap: 43
+  drivers: [gilles-villeneuve, alan-jones, jody-scheckter, didier-pironi, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque]
+- lap: 44
+  drivers: [gilles-villeneuve, alan-jones, jody-scheckter, didier-pironi, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque]
+- lap: 45
+  drivers: [gilles-villeneuve, alan-jones, jody-scheckter, didier-pironi, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque]
+- lap: 46
+  drivers: [gilles-villeneuve, alan-jones, jody-scheckter, didier-pironi, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque]
+- lap: 47
+  drivers: [alan-jones, gilles-villeneuve, jody-scheckter, didier-pironi, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque]
+- lap: 48
+  drivers: [alan-jones, gilles-villeneuve, jody-scheckter, didier-pironi, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque]
+- lap: 49
+  drivers: [alan-jones, jody-scheckter, didier-pironi, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, gilles-villeneuve, hector-rebaque]
+- lap: 50
+  drivers: [alan-jones, jody-scheckter, didier-pironi, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque]
+- lap: 51
+  drivers: [alan-jones, jody-scheckter, didier-pironi, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque]
+- lap: 52
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque]
+- lap: 53
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque]
+- lap: 54
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque]
+- lap: 55
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque]
+- lap: 56
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque]
+- lap: 57
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque]
+- lap: 58
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque]
+- lap: 59
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque]
+- lap: 60
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque]
+- lap: 61
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jochen-mass, jacky-ickx, hector-rebaque]
+- lap: 62
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jacky-ickx, jochen-mass, hector-rebaque]
+- lap: 63
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jacky-ickx, jochen-mass, hector-rebaque]
+- lap: 64
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jacky-ickx, jochen-mass, hector-rebaque]
+- lap: 65
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jacky-ickx, jochen-mass, hector-rebaque]
+- lap: 66
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jacky-ickx, jochen-mass, hector-rebaque]
+- lap: 67
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jacky-ickx, jochen-mass, hector-rebaque]
+- lap: 68
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jacky-ickx, jochen-mass, hector-rebaque]
+- lap: 69
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jacky-ickx, jochen-mass, hector-rebaque]
+- lap: 70
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jacky-ickx, jochen-mass, hector-rebaque]
+- lap: 71
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jacky-ickx, jochen-mass, hector-rebaque]
+- lap: 72
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jacky-ickx, jochen-mass, hector-rebaque]
+- lap: 73
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jacky-ickx, jochen-mass, hector-rebaque]
+- lap: 74
+  drivers: [alan-jones, jody-scheckter, jacques-laffite, nelson-piquet, jacky-ickx]
+- lap: 75
+  drivers: [alan-jones, jody-scheckter, jacques-laffite]

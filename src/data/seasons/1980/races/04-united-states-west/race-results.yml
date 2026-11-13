@@ -20,10 +20,10 @@
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
   laps: 80
-  time: "1:51:07.760"
+  time: "1:51:07.762"
   timePenalty:
-  gap: "+49.210"
-  interval: "+49.210"
+  gap: "+49.212"
+  interval: "+49.212"
   reasonRetired:
   points: 6
   gridPosition: 8
@@ -34,10 +34,10 @@
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
   laps: 80
-  time: "1:51:37.110"
+  time: "1:51:37.113"
   timePenalty:
-  gap: "+1:18.560"
-  interval: "+29.350"
+  gap: "+1:18.563"
+  interval: "+29.351"
   reasonRetired:
   points: 4
   gridPosition: 24
@@ -360,7 +360,7 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Illness
   points:
   gridPosition:
 - position: DNQ

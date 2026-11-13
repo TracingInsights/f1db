@@ -174,9 +174,9 @@
   constructorId: surtees
   engineManufacturerId: ford
   tyreManufacturerId: firestone
-  time: "1:20.600"
-  gap: "+2.500"
-  interval: "+0.100"
+  time: "1:20.610"
+  gap: "+2.510"
+  interval: "+0.110"
   laps:
 - position: 19
   driverNumber: 3
@@ -186,7 +186,7 @@
   tyreManufacturerId: firestone
   time: "1:20.660"
   gap: "+2.560"
-  interval: "+0.060"
+  interval: "+0.050"
   laps:
 - position: 20
   driverNumber: 6

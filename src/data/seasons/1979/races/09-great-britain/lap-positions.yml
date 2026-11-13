@@ -1,0 +1,138 @@
+- lap: 0
+  drivers: [alan-jones, jean-pierre-jabouille, nelson-piquet, clay-regazzoni, rene-arnoux, niki-lauda, john-watson, carlos-reutemann, mario-andretti, jacques-laffite, jody-scheckter, elio-de-angelis, gilles-villeneuve, keke-rosberg, didier-pironi, jean-pierre-jarier, jacky-ickx, patrick-tambay, riccardo-patrese, jochen-mass, jan-lammers, emerson-fittipaldi, patrick-gaillard, hector-rebaque]
+- lap: 1
+  drivers: [alan-jones, jean-pierre-jabouille, clay-regazzoni, nelson-piquet, niki-lauda, mario-andretti, rene-arnoux, jacques-laffite, gilles-villeneuve, carlos-reutemann, jody-scheckter, didier-pironi, keke-rosberg, jochen-mass, jean-pierre-jarier, john-watson, patrick-tambay, elio-de-angelis, jacky-ickx, hector-rebaque, patrick-gaillard, jan-lammers, emerson-fittipaldi, riccardo-patrese]
+- lap: 2
+  drivers: [alan-jones, jean-pierre-jabouille, clay-regazzoni, niki-lauda, rene-arnoux, mario-andretti, gilles-villeneuve, jody-scheckter, carlos-reutemann, jacques-laffite, didier-pironi, keke-rosberg, jochen-mass, jean-pierre-jarier, john-watson, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, patrick-gaillard, jan-lammers, emerson-fittipaldi, riccardo-patrese]
+- lap: 3
+  drivers: [alan-jones, jean-pierre-jabouille, clay-regazzoni, rene-arnoux, gilles-villeneuve, niki-lauda, jody-scheckter, carlos-reutemann, jacques-laffite, keke-rosberg, didier-pironi, jochen-mass, jean-pierre-jarier, john-watson, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, patrick-gaillard, jan-lammers, emerson-fittipaldi, mario-andretti, riccardo-patrese]
+- lap: 4
+  drivers: [alan-jones, jean-pierre-jabouille, clay-regazzoni, rene-arnoux, gilles-villeneuve, jody-scheckter, niki-lauda, carlos-reutemann, jacques-laffite, keke-rosberg, jochen-mass, didier-pironi, jean-pierre-jarier, john-watson, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, patrick-gaillard, emerson-fittipaldi, jan-lammers, riccardo-patrese]
+- lap: 5
+  drivers: [alan-jones, jean-pierre-jabouille, clay-regazzoni, rene-arnoux, gilles-villeneuve, jody-scheckter, niki-lauda, jacques-laffite, keke-rosberg, carlos-reutemann, jochen-mass, didier-pironi, jean-pierre-jarier, john-watson, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, emerson-fittipaldi, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 6
+  drivers: [alan-jones, jean-pierre-jabouille, clay-regazzoni, rene-arnoux, gilles-villeneuve, jody-scheckter, jacques-laffite, niki-lauda, keke-rosberg, jochen-mass, carlos-reutemann, didier-pironi, jean-pierre-jarier, john-watson, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, emerson-fittipaldi, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 7
+  drivers: [alan-jones, jean-pierre-jabouille, clay-regazzoni, rene-arnoux, gilles-villeneuve, jody-scheckter, niki-lauda, jacques-laffite, jochen-mass, keke-rosberg, didier-pironi, carlos-reutemann, jean-pierre-jarier, john-watson, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, emerson-fittipaldi, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 8
+  drivers: [alan-jones, jean-pierre-jabouille, clay-regazzoni, rene-arnoux, gilles-villeneuve, jody-scheckter, jacques-laffite, niki-lauda, jochen-mass, keke-rosberg, didier-pironi, carlos-reutemann, john-watson, jean-pierre-jarier, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, emerson-fittipaldi, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 9
+  drivers: [alan-jones, jean-pierre-jabouille, clay-regazzoni, rene-arnoux, gilles-villeneuve, jody-scheckter, jacques-laffite, niki-lauda, jochen-mass, keke-rosberg, didier-pironi, john-watson, carlos-reutemann, jean-pierre-jarier, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, emerson-fittipaldi, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 10
+  drivers: [alan-jones, jean-pierre-jabouille, clay-regazzoni, rene-arnoux, gilles-villeneuve, jody-scheckter, jacques-laffite, niki-lauda, jochen-mass, keke-rosberg, didier-pironi, john-watson, carlos-reutemann, jean-pierre-jarier, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, emerson-fittipaldi, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 11
+  drivers: [alan-jones, jean-pierre-jabouille, clay-regazzoni, rene-arnoux, gilles-villeneuve, jody-scheckter, jacques-laffite, niki-lauda, jochen-mass, keke-rosberg, john-watson, didier-pironi, carlos-reutemann, jean-pierre-jarier, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, emerson-fittipaldi, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 12
+  drivers: [alan-jones, jean-pierre-jabouille, clay-regazzoni, rene-arnoux, gilles-villeneuve, jody-scheckter, jacques-laffite, jochen-mass, keke-rosberg, john-watson, didier-pironi, carlos-reutemann, jean-pierre-jarier, jacky-ickx, elio-de-angelis, patrick-tambay, niki-lauda, hector-rebaque, emerson-fittipaldi, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 13
+  drivers: [alan-jones, jean-pierre-jabouille, clay-regazzoni, rene-arnoux, gilles-villeneuve, jody-scheckter, jacques-laffite, john-watson, keke-rosberg, jochen-mass, didier-pironi, carlos-reutemann, jean-pierre-jarier, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, emerson-fittipaldi, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 14
+  drivers: [alan-jones, jean-pierre-jabouille, clay-regazzoni, rene-arnoux, gilles-villeneuve, jody-scheckter, jacques-laffite, john-watson, keke-rosberg, jochen-mass, carlos-reutemann, didier-pironi, jean-pierre-jarier, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, emerson-fittipaldi, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 15
+  drivers: [alan-jones, jean-pierre-jabouille, clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jacques-laffite, john-watson, keke-rosberg, jochen-mass, carlos-reutemann, didier-pironi, jean-pierre-jarier, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, emerson-fittipaldi, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 16
+  drivers: [alan-jones, jean-pierre-jabouille, clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jacques-laffite, john-watson, keke-rosberg, carlos-reutemann, jochen-mass, didier-pironi, jean-pierre-jarier, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, emerson-fittipaldi, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 17
+  drivers: [alan-jones, clay-regazzoni, rene-arnoux, jean-pierre-jabouille, jody-scheckter, gilles-villeneuve, jacques-laffite, john-watson, keke-rosberg, carlos-reutemann, jochen-mass, didier-pironi, jean-pierre-jarier, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, emerson-fittipaldi, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 18
+  drivers: [alan-jones, clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jacques-laffite, john-watson, keke-rosberg, carlos-reutemann, jochen-mass, didier-pironi, jean-pierre-jarier, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, emerson-fittipaldi, jean-pierre-jabouille, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 19
+  drivers: [alan-jones, clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jacques-laffite, john-watson, keke-rosberg, carlos-reutemann, jochen-mass, didier-pironi, jean-pierre-jarier, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, emerson-fittipaldi, jean-pierre-jabouille, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 20
+  drivers: [alan-jones, clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jacques-laffite, john-watson, keke-rosberg, carlos-reutemann, jochen-mass, didier-pironi, jean-pierre-jarier, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, emerson-fittipaldi, jean-pierre-jabouille, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 21
+  drivers: [alan-jones, clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jacques-laffite, john-watson, keke-rosberg, carlos-reutemann, jochen-mass, jean-pierre-jarier, didier-pironi, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, emerson-fittipaldi, jean-pierre-jabouille, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 22
+  drivers: [alan-jones, clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jacques-laffite, john-watson, keke-rosberg, carlos-reutemann, jochen-mass, jean-pierre-jarier, didier-pironi, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, emerson-fittipaldi, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 23
+  drivers: [alan-jones, clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jacques-laffite, john-watson, keke-rosberg, carlos-reutemann, jean-pierre-jarier, jochen-mass, didier-pironi, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, emerson-fittipaldi, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 24
+  drivers: [alan-jones, clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jacques-laffite, john-watson, keke-rosberg, carlos-reutemann, jean-pierre-jarier, jochen-mass, didier-pironi, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, emerson-fittipaldi, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 25
+  drivers: [alan-jones, clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jacques-laffite, john-watson, keke-rosberg, carlos-reutemann, jean-pierre-jarier, jochen-mass, didier-pironi, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, emerson-fittipaldi, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 26
+  drivers: [alan-jones, clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jacques-laffite, keke-rosberg, carlos-reutemann, jean-pierre-jarier, jochen-mass, didier-pironi, jacky-ickx, elio-de-angelis, patrick-tambay, hector-rebaque, john-watson, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 27
+  drivers: [alan-jones, clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jacques-laffite, keke-rosberg, carlos-reutemann, jean-pierre-jarier, jochen-mass, didier-pironi, jacky-ickx, elio-de-angelis, patrick-tambay, john-watson, hector-rebaque, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 28
+  drivers: [alan-jones, clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jacques-laffite, keke-rosberg, carlos-reutemann, jean-pierre-jarier, didier-pironi, jochen-mass, jacky-ickx, elio-de-angelis, patrick-tambay, john-watson, hector-rebaque, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 29
+  drivers: [alan-jones, clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jacques-laffite, keke-rosberg, carlos-reutemann, jean-pierre-jarier, didier-pironi, jochen-mass, jacky-ickx, patrick-tambay, elio-de-angelis, john-watson, hector-rebaque, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 30
+  drivers: [alan-jones, clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jacques-laffite, keke-rosberg, carlos-reutemann, jean-pierre-jarier, didier-pironi, jacky-ickx, jochen-mass, patrick-tambay, john-watson, hector-rebaque, patrick-gaillard, jan-lammers, elio-de-angelis, riccardo-patrese]
+- lap: 31
+  drivers: [alan-jones, clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jacques-laffite, keke-rosberg, carlos-reutemann, jean-pierre-jarier, didier-pironi, jacky-ickx, jochen-mass, patrick-tambay, john-watson, hector-rebaque, patrick-gaillard, jan-lammers, elio-de-angelis, riccardo-patrese]
+- lap: 32
+  drivers: [alan-jones, clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jacques-laffite, keke-rosberg, carlos-reutemann, jean-pierre-jarier, didier-pironi, jacky-ickx, jochen-mass, patrick-tambay, john-watson, hector-rebaque, patrick-gaillard, jan-lammers, elio-de-angelis, riccardo-patrese]
+- lap: 33
+  drivers: [alan-jones, clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jacques-laffite, keke-rosberg, carlos-reutemann, jean-pierre-jarier, didier-pironi, jacky-ickx, jochen-mass, patrick-tambay, john-watson, hector-rebaque, patrick-gaillard, jan-lammers, elio-de-angelis, riccardo-patrese]
+- lap: 34
+  drivers: [alan-jones, clay-regazzoni, rene-arnoux, jody-scheckter, jacques-laffite, gilles-villeneuve, keke-rosberg, carlos-reutemann, jean-pierre-jarier, didier-pironi, jacky-ickx, jochen-mass, patrick-tambay, john-watson, hector-rebaque, patrick-gaillard, jan-lammers, elio-de-angelis, riccardo-patrese]
+- lap: 35
+  drivers: [alan-jones, clay-regazzoni, rene-arnoux, jody-scheckter, jacques-laffite, gilles-villeneuve, keke-rosberg, carlos-reutemann, jean-pierre-jarier, didier-pironi, jacky-ickx, jochen-mass, patrick-tambay, john-watson, hector-rebaque, patrick-gaillard, jan-lammers, elio-de-angelis, riccardo-patrese]
+- lap: 36
+  drivers: [alan-jones, clay-regazzoni, rene-arnoux, jacques-laffite, jody-scheckter, gilles-villeneuve, keke-rosberg, jean-pierre-jarier, carlos-reutemann, didier-pironi, jacky-ickx, jochen-mass, patrick-tambay, john-watson, hector-rebaque, patrick-gaillard, jan-lammers, elio-de-angelis, riccardo-patrese]
+- lap: 37
+  drivers: [alan-jones, clay-regazzoni, rene-arnoux, jacques-laffite, jody-scheckter, gilles-villeneuve, keke-rosberg, jean-pierre-jarier, jacky-ickx, didier-pironi, patrick-tambay, john-watson, jochen-mass, carlos-reutemann, hector-rebaque, patrick-gaillard, jan-lammers, elio-de-angelis, riccardo-patrese]
+- lap: 38
+  drivers: [alan-jones, clay-regazzoni, rene-arnoux, jacques-laffite, jody-scheckter, gilles-villeneuve, keke-rosberg, jean-pierre-jarier, jacky-ickx, didier-pironi, patrick-tambay, john-watson, carlos-reutemann, hector-rebaque, patrick-gaillard, jan-lammers, elio-de-angelis, riccardo-patrese]
+- lap: 39
+  drivers: [clay-regazzoni, rene-arnoux, jacques-laffite, jody-scheckter, gilles-villeneuve, keke-rosberg, jean-pierre-jarier, jacky-ickx, didier-pironi, john-watson, patrick-tambay, carlos-reutemann, hector-rebaque, patrick-gaillard, jan-lammers, elio-de-angelis, riccardo-patrese]
+- lap: 40
+  drivers: [clay-regazzoni, rene-arnoux, jacques-laffite, jody-scheckter, gilles-villeneuve, keke-rosberg, jean-pierre-jarier, jacky-ickx, didier-pironi, john-watson, patrick-tambay, carlos-reutemann, hector-rebaque, patrick-gaillard, jan-lammers, elio-de-angelis, riccardo-patrese]
+- lap: 41
+  drivers: [clay-regazzoni, rene-arnoux, jacques-laffite, jody-scheckter, gilles-villeneuve, keke-rosberg, jean-pierre-jarier, jacky-ickx, didier-pironi, john-watson, patrick-tambay, carlos-reutemann, hector-rebaque, patrick-gaillard, jan-lammers, elio-de-angelis, riccardo-patrese]
+- lap: 42
+  drivers: [clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jacques-laffite, keke-rosberg, jean-pierre-jarier, jacky-ickx, john-watson, didier-pironi, patrick-tambay, carlos-reutemann, hector-rebaque, patrick-gaillard, elio-de-angelis, jan-lammers, riccardo-patrese]
+- lap: 43
+  drivers: [clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jean-pierre-jarier, keke-rosberg, jacky-ickx, john-watson, didier-pironi, patrick-tambay, jacques-laffite, carlos-reutemann, hector-rebaque, patrick-gaillard, elio-de-angelis, jan-lammers, riccardo-patrese]
+- lap: 44
+  drivers: [clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jean-pierre-jarier, jacky-ickx, john-watson, didier-pironi, patrick-tambay, carlos-reutemann, hector-rebaque, jacques-laffite, patrick-gaillard, elio-de-angelis, jan-lammers, riccardo-patrese, keke-rosberg]
+- lap: 45
+  drivers: [clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jean-pierre-jarier, jacky-ickx, john-watson, didier-pironi, patrick-tambay, carlos-reutemann, hector-rebaque, elio-de-angelis, patrick-gaillard, jan-lammers, riccardo-patrese]
+- lap: 46
+  drivers: [clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jean-pierre-jarier, jacky-ickx, john-watson, didier-pironi, patrick-tambay, carlos-reutemann, hector-rebaque, elio-de-angelis, patrick-gaillard, jan-lammers]
+- lap: 47
+  drivers: [clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jean-pierre-jarier, john-watson, jacky-ickx, didier-pironi, patrick-tambay, carlos-reutemann, hector-rebaque, elio-de-angelis, patrick-gaillard, jan-lammers]
+- lap: 48
+  drivers: [clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jean-pierre-jarier, john-watson, jacky-ickx, didier-pironi, patrick-tambay, carlos-reutemann, hector-rebaque, elio-de-angelis, patrick-gaillard, jan-lammers]
+- lap: 49
+  drivers: [clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jean-pierre-jarier, john-watson, jacky-ickx, didier-pironi, patrick-tambay, carlos-reutemann, hector-rebaque, elio-de-angelis, patrick-gaillard, jan-lammers]
+- lap: 50
+  drivers: [clay-regazzoni, rene-arnoux, jody-scheckter, gilles-villeneuve, jean-pierre-jarier, john-watson, jacky-ickx, didier-pironi, patrick-tambay, carlos-reutemann, hector-rebaque, elio-de-angelis, patrick-gaillard, jan-lammers]
+- lap: 51
+  drivers: [clay-regazzoni, rene-arnoux, jody-scheckter, jean-pierre-jarier, john-watson, jacky-ickx, gilles-villeneuve, didier-pironi, patrick-tambay, carlos-reutemann, hector-rebaque, elio-de-angelis, patrick-gaillard, jan-lammers]
+- lap: 52
+  drivers: [clay-regazzoni, rene-arnoux, jody-scheckter, jean-pierre-jarier, john-watson, jacky-ickx, gilles-villeneuve, didier-pironi, patrick-tambay, carlos-reutemann, hector-rebaque, elio-de-angelis, patrick-gaillard, jan-lammers]
+- lap: 53
+  drivers: [clay-regazzoni, rene-arnoux, jody-scheckter, jean-pierre-jarier, john-watson, jacky-ickx, gilles-villeneuve, didier-pironi, patrick-tambay, carlos-reutemann, hector-rebaque, elio-de-angelis, patrick-gaillard, jan-lammers]
+- lap: 54
+  drivers: [clay-regazzoni, rene-arnoux, jody-scheckter, jean-pierre-jarier, john-watson, jacky-ickx, gilles-villeneuve, didier-pironi, patrick-tambay, carlos-reutemann, hector-rebaque, elio-de-angelis, patrick-gaillard, jan-lammers]
+- lap: 55
+  drivers: [clay-regazzoni, rene-arnoux, jody-scheckter, jean-pierre-jarier, john-watson, jacky-ickx, gilles-villeneuve, didier-pironi, patrick-tambay, carlos-reutemann, hector-rebaque, elio-de-angelis, patrick-gaillard, jan-lammers]
+- lap: 56
+  drivers: [clay-regazzoni, rene-arnoux, jody-scheckter, jean-pierre-jarier, john-watson, jacky-ickx, gilles-villeneuve, didier-pironi, patrick-tambay, carlos-reutemann, hector-rebaque, elio-de-angelis, patrick-gaillard, jan-lammers]
+- lap: 57
+  drivers: [clay-regazzoni, rene-arnoux, jody-scheckter, jean-pierre-jarier, john-watson, jacky-ickx, gilles-villeneuve, patrick-tambay, didier-pironi, carlos-reutemann, hector-rebaque, elio-de-angelis, patrick-gaillard, jan-lammers]
+- lap: 58
+  drivers: [clay-regazzoni, rene-arnoux, jody-scheckter, jean-pierre-jarier, john-watson, jacky-ickx, gilles-villeneuve, patrick-tambay, carlos-reutemann, hector-rebaque, didier-pironi, elio-de-angelis, patrick-gaillard, jan-lammers]
+- lap: 59
+  drivers: [clay-regazzoni, rene-arnoux, jody-scheckter, jean-pierre-jarier, john-watson, jacky-ickx, gilles-villeneuve, patrick-tambay, carlos-reutemann, hector-rebaque, didier-pironi, elio-de-angelis, jan-lammers, patrick-gaillard]
+- lap: 60
+  drivers: [clay-regazzoni, rene-arnoux, jody-scheckter, jean-pierre-jarier, john-watson, jacky-ickx, gilles-villeneuve, patrick-tambay, carlos-reutemann, hector-rebaque, didier-pironi, elio-de-angelis, jan-lammers, patrick-gaillard]
+- lap: 61
+  drivers: [clay-regazzoni, rene-arnoux, jody-scheckter, jean-pierre-jarier, john-watson, jacky-ickx, patrick-tambay, gilles-villeneuve, carlos-reutemann, hector-rebaque, didier-pironi, elio-de-angelis, jan-lammers, patrick-gaillard]
+- lap: 62
+  drivers: [clay-regazzoni, rene-arnoux, jody-scheckter, jean-pierre-jarier, john-watson, jacky-ickx, patrick-tambay, gilles-villeneuve, carlos-reutemann, hector-rebaque, didier-pironi, elio-de-angelis, jan-lammers, patrick-gaillard]
+- lap: 63
+  drivers: [clay-regazzoni, rene-arnoux, jean-pierre-jarier, jody-scheckter, john-watson, jacky-ickx, patrick-tambay, carlos-reutemann, gilles-villeneuve, hector-rebaque, didier-pironi, elio-de-angelis, jan-lammers, patrick-gaillard]
+- lap: 64
+  drivers: [clay-regazzoni, rene-arnoux, jean-pierre-jarier, jody-scheckter, john-watson, jacky-ickx, patrick-tambay, carlos-reutemann, hector-rebaque, didier-pironi, elio-de-angelis, jan-lammers, patrick-gaillard]
+- lap: 65
+  drivers: [clay-regazzoni, rene-arnoux, jean-pierre-jarier, jody-scheckter, john-watson, jacky-ickx, patrick-tambay, carlos-reutemann, hector-rebaque, didier-pironi, elio-de-angelis, jan-lammers, patrick-gaillard]
+- lap: 66
+  drivers: [clay-regazzoni, rene-arnoux, jean-pierre-jarier, jody-scheckter, john-watson, jacky-ickx, patrick-tambay, carlos-reutemann, hector-rebaque, didier-pironi]
+- lap: 67
+  drivers: [clay-regazzoni, rene-arnoux, jean-pierre-jarier, john-watson, jody-scheckter, jacky-ickx]
+- lap: 68
+  drivers: [clay-regazzoni, rene-arnoux]

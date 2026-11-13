@@ -65,7 +65,7 @@
   timePenalty:
   gap: "+1 lap"
   interval:
-  reasonRetired:
+  reasonRetired: Out of fuel
   points: 2
   gridPosition: 4
 - position: 6

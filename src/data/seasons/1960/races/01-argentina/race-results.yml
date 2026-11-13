@@ -47,7 +47,7 @@
   engineManufacturerId: climax
   tyreManufacturerId: dunlop
   sharedCar: true
-  laps:
+  laps: 34
   time:
   timePenalty:
   gap:
@@ -313,7 +313,7 @@
   constructorId: maserati
   engineManufacturerId: maserati
   tyreManufacturerId: dunlop
-  laps: 10
+  laps: 11
   time:
   timePenalty:
   gap:

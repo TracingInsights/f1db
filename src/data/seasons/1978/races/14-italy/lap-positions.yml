@@ -1,0 +1,82 @@
+- lap: 0
+  drivers: [mario-andretti, gilles-villeneuve, jean-pierre-jabouille, niki-lauda, ronnie-peterson, alan-jones, john-watson, jacques-laffite, jody-scheckter, james-hunt, carlos-reutemann, riccardo-patrese, emerson-fittipaldi, didier-pironi, clay-regazzoni, patrick-depailler, hans-joachim-stuck, derek-daly, patrick-tambay, bruno-giacomelli, brett-lunger, arturo-merzario, vittorio-brambilla, nelson-piquet]
+- lap: 1
+  drivers: [gilles-villeneuve, mario-andretti, jean-pierre-jabouille, niki-lauda, carlos-reutemann, alan-jones, riccardo-patrese, derek-daly, jacques-laffite, john-watson, jody-scheckter, patrick-tambay, clay-regazzoni, patrick-depailler, bruno-giacomelli, nelson-piquet, arturo-merzario, james-hunt, emerson-fittipaldi]
+- lap: 2
+  drivers: [gilles-villeneuve, mario-andretti, jean-pierre-jabouille, niki-lauda, carlos-reutemann, alan-jones, riccardo-patrese, derek-daly, jacques-laffite, jody-scheckter, john-watson, patrick-tambay, clay-regazzoni, bruno-giacomelli, nelson-piquet, patrick-depailler, james-hunt, arturo-merzario, emerson-fittipaldi]
+- lap: 3
+  drivers: [gilles-villeneuve, mario-andretti, jean-pierre-jabouille, niki-lauda, carlos-reutemann, alan-jones, riccardo-patrese, derek-daly, jacques-laffite, john-watson, patrick-tambay, jody-scheckter, bruno-giacomelli, nelson-piquet, clay-regazzoni, james-hunt, patrick-depailler, arturo-merzario, emerson-fittipaldi]
+- lap: 4
+  drivers: [gilles-villeneuve, mario-andretti, jean-pierre-jabouille, niki-lauda, carlos-reutemann, alan-jones, riccardo-patrese, derek-daly, john-watson, jacques-laffite, patrick-tambay, jody-scheckter, bruno-giacomelli, nelson-piquet, james-hunt, patrick-depailler, arturo-merzario, emerson-fittipaldi, clay-regazzoni]
+- lap: 5
+  drivers: [gilles-villeneuve, mario-andretti, jean-pierre-jabouille, niki-lauda, carlos-reutemann, alan-jones, riccardo-patrese, john-watson, jacques-laffite, derek-daly, patrick-tambay, jody-scheckter, nelson-piquet, bruno-giacomelli, james-hunt, patrick-depailler, arturo-merzario, emerson-fittipaldi, clay-regazzoni]
+- lap: 6
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, alan-jones, riccardo-patrese, john-watson, jacques-laffite, patrick-tambay, derek-daly, jody-scheckter, nelson-piquet, bruno-giacomelli, james-hunt, patrick-depailler, arturo-merzario, emerson-fittipaldi, jean-pierre-jabouille, clay-regazzoni]
+- lap: 7
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, alan-jones, riccardo-patrese, john-watson, jacques-laffite, patrick-tambay, derek-daly, jody-scheckter, nelson-piquet, bruno-giacomelli, james-hunt, patrick-depailler, arturo-merzario, emerson-fittipaldi, clay-regazzoni]
+- lap: 8
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, alan-jones, riccardo-patrese, john-watson, jacques-laffite, patrick-tambay, derek-daly, jody-scheckter, nelson-piquet, bruno-giacomelli, james-hunt, patrick-depailler, arturo-merzario, emerson-fittipaldi, clay-regazzoni]
+- lap: 9
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, john-watson, alan-jones, riccardo-patrese, jacques-laffite, patrick-tambay, derek-daly, nelson-piquet, jody-scheckter, bruno-giacomelli, james-hunt, patrick-depailler, arturo-merzario, emerson-fittipaldi, clay-regazzoni]
+- lap: 10
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, john-watson, alan-jones, riccardo-patrese, jacques-laffite, patrick-tambay, derek-daly, nelson-piquet, jody-scheckter, bruno-giacomelli, james-hunt, patrick-depailler, emerson-fittipaldi, arturo-merzario, clay-regazzoni]
+- lap: 11
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, john-watson, alan-jones, riccardo-patrese, jacques-laffite, patrick-tambay, derek-daly, nelson-piquet, jody-scheckter, james-hunt, bruno-giacomelli, patrick-depailler, emerson-fittipaldi, arturo-merzario, clay-regazzoni]
+- lap: 12
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, john-watson, alan-jones, riccardo-patrese, jacques-laffite, patrick-tambay, derek-daly, nelson-piquet, jody-scheckter, james-hunt, bruno-giacomelli, patrick-depailler, emerson-fittipaldi, arturo-merzario, clay-regazzoni]
+- lap: 13
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, john-watson, alan-jones, riccardo-patrese, jacques-laffite, patrick-tambay, derek-daly, nelson-piquet, jody-scheckter, james-hunt, bruno-giacomelli, patrick-depailler, emerson-fittipaldi, arturo-merzario, clay-regazzoni]
+- lap: 14
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, john-watson, alan-jones, riccardo-patrese, jacques-laffite, patrick-tambay, derek-daly, nelson-piquet, jody-scheckter, james-hunt, bruno-giacomelli, patrick-depailler, emerson-fittipaldi, arturo-merzario, clay-regazzoni]
+- lap: 15
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, john-watson, alan-jones, riccardo-patrese, jacques-laffite, patrick-tambay, derek-daly, nelson-piquet, jody-scheckter, james-hunt, bruno-giacomelli, patrick-depailler, emerson-fittipaldi, clay-regazzoni]
+- lap: 16
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, john-watson, alan-jones, riccardo-patrese, jacques-laffite, patrick-tambay, derek-daly, nelson-piquet, jody-scheckter, james-hunt, bruno-giacomelli, patrick-depailler, emerson-fittipaldi, clay-regazzoni]
+- lap: 17
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, john-watson, alan-jones, riccardo-patrese, jacques-laffite, patrick-tambay, derek-daly, nelson-piquet, james-hunt, jody-scheckter, bruno-giacomelli, patrick-depailler, emerson-fittipaldi, clay-regazzoni]
+- lap: 18
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, john-watson, riccardo-patrese, jacques-laffite, alan-jones, patrick-tambay, derek-daly, nelson-piquet, james-hunt, jody-scheckter, bruno-giacomelli, patrick-depailler, emerson-fittipaldi, clay-regazzoni]
+- lap: 19
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, john-watson, riccardo-patrese, jacques-laffite, alan-jones, patrick-tambay, derek-daly, nelson-piquet, jody-scheckter, emerson-fittipaldi, bruno-giacomelli, patrick-depailler, james-hunt, clay-regazzoni]
+- lap: 20
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, john-watson, riccardo-patrese, jacques-laffite, alan-jones, patrick-tambay, derek-daly, nelson-piquet, emerson-fittipaldi, jody-scheckter, bruno-giacomelli, patrick-depailler, clay-regazzoni]
+- lap: 21
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, john-watson, riccardo-patrese, jacques-laffite, alan-jones, patrick-tambay, derek-daly, nelson-piquet, emerson-fittipaldi, jody-scheckter, bruno-giacomelli, patrick-depailler, clay-regazzoni]
+- lap: 22
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, john-watson, riccardo-patrese, jacques-laffite, alan-jones, patrick-tambay, derek-daly, nelson-piquet, emerson-fittipaldi, bruno-giacomelli, patrick-depailler, jody-scheckter, clay-regazzoni]
+- lap: 23
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, john-watson, riccardo-patrese, jacques-laffite, alan-jones, patrick-tambay, derek-daly, nelson-piquet, emerson-fittipaldi, bruno-giacomelli, patrick-depailler, jody-scheckter, clay-regazzoni]
+- lap: 24
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, john-watson, riccardo-patrese, jacques-laffite, alan-jones, patrick-tambay, derek-daly, emerson-fittipaldi, nelson-piquet, bruno-giacomelli, patrick-depailler, jody-scheckter, clay-regazzoni]
+- lap: 25
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, john-watson, riccardo-patrese, jacques-laffite, alan-jones, patrick-tambay, derek-daly, emerson-fittipaldi, nelson-piquet, bruno-giacomelli, patrick-depailler, jody-scheckter, clay-regazzoni]
+- lap: 26
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, john-watson, riccardo-patrese, jacques-laffite, alan-jones, patrick-tambay, derek-daly, emerson-fittipaldi, nelson-piquet, bruno-giacomelli, patrick-depailler, jody-scheckter, clay-regazzoni]
+- lap: 27
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, john-watson, riccardo-patrese, jacques-laffite, patrick-tambay, alan-jones, emerson-fittipaldi, derek-daly, nelson-piquet, bruno-giacomelli, patrick-depailler, jody-scheckter, clay-regazzoni]
+- lap: 28
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, john-watson, riccardo-patrese, jacques-laffite, patrick-tambay, alan-jones, emerson-fittipaldi, derek-daly, nelson-piquet, bruno-giacomelli, patrick-depailler, jody-scheckter, clay-regazzoni]
+- lap: 29
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, john-watson, riccardo-patrese, jacques-laffite, patrick-tambay, alan-jones, emerson-fittipaldi, derek-daly, nelson-piquet, bruno-giacomelli, patrick-depailler, jody-scheckter, clay-regazzoni]
+- lap: 30
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, carlos-reutemann, john-watson, jacques-laffite, patrick-tambay, alan-jones, emerson-fittipaldi, derek-daly, nelson-piquet, bruno-giacomelli, patrick-depailler, jody-scheckter, clay-regazzoni]
+- lap: 31
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, john-watson, carlos-reutemann, jacques-laffite, patrick-tambay, emerson-fittipaldi, alan-jones, derek-daly, nelson-piquet, bruno-giacomelli, patrick-depailler, jody-scheckter, clay-regazzoni]
+- lap: 32
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, john-watson, carlos-reutemann, jacques-laffite, patrick-tambay, emerson-fittipaldi, nelson-piquet, derek-daly, bruno-giacomelli, patrick-depailler, jody-scheckter, alan-jones, clay-regazzoni]
+- lap: 33
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, john-watson, carlos-reutemann, jacques-laffite, patrick-tambay, emerson-fittipaldi, nelson-piquet, derek-daly, bruno-giacomelli, patrick-depailler, jody-scheckter, alan-jones, clay-regazzoni]
+- lap: 34
+  drivers: [gilles-villeneuve, mario-andretti, niki-lauda, john-watson, carlos-reutemann, jacques-laffite, patrick-tambay, emerson-fittipaldi, nelson-piquet, derek-daly, bruno-giacomelli, patrick-depailler, jody-scheckter, alan-jones]
+- lap: 35
+  drivers: [mario-andretti, gilles-villeneuve, niki-lauda, john-watson, carlos-reutemann, jacques-laffite, patrick-tambay, emerson-fittipaldi, nelson-piquet, derek-daly, bruno-giacomelli, patrick-depailler, jody-scheckter, alan-jones]
+- lap: 36
+  drivers: [mario-andretti, gilles-villeneuve, niki-lauda, john-watson, carlos-reutemann, jacques-laffite, patrick-tambay, emerson-fittipaldi, nelson-piquet, derek-daly, patrick-depailler, bruno-giacomelli, jody-scheckter, alan-jones]
+- lap: 37
+  drivers: [mario-andretti, gilles-villeneuve, niki-lauda, john-watson, carlos-reutemann, jacques-laffite, patrick-tambay, emerson-fittipaldi, nelson-piquet, derek-daly, patrick-depailler, jody-scheckter, alan-jones, bruno-giacomelli]
+- lap: 38
+  drivers: [mario-andretti, gilles-villeneuve, niki-lauda, john-watson, carlos-reutemann, jacques-laffite, patrick-tambay, emerson-fittipaldi, nelson-piquet, derek-daly, patrick-depailler, jody-scheckter, alan-jones, bruno-giacomelli]
+- lap: 39
+  drivers: [mario-andretti, gilles-villeneuve, niki-lauda, john-watson, carlos-reutemann, jacques-laffite, patrick-tambay, emerson-fittipaldi, nelson-piquet, derek-daly, patrick-depailler, jody-scheckter, alan-jones, bruno-giacomelli]
+- lap: 40
+  drivers: [mario-andretti, gilles-villeneuve, niki-lauda, john-watson, carlos-reutemann, jacques-laffite, patrick-tambay, emerson-fittipaldi, nelson-piquet, derek-daly, patrick-depailler]

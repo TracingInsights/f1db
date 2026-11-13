@@ -14,7 +14,7 @@
   constructorId: audi
   engineManufacturerId: audi
   tyreManufacturerId: pirelli
-  lap: 54
+  lap: 53
   time: "1:38.393"
   gap: "+0.417"
   interval: "+0.417"
@@ -64,7 +64,7 @@
   constructorId: racing-bulls
   engineManufacturerId: red-bull-ford
   tyreManufacturerId: pirelli
-  lap: 44
+  lap: 43
   time: "1:39.422"
   gap: "+1.446"
   interval: "+0.023"
@@ -94,7 +94,7 @@
   constructorId: aston-martin
   engineManufacturerId: honda
   tyreManufacturerId: pirelli
-  lap: 54
+  lap: 53
   time: "1:39.841"
   gap: "+1.865"
   interval: "+0.030"
@@ -114,7 +114,7 @@
   constructorId: aston-martin
   engineManufacturerId: honda
   tyreManufacturerId: pirelli
-  lap: 44
+  lap: 43
   time: "1:40.189"
   gap: "+2.213"
   interval: "+0.261"
@@ -154,7 +154,7 @@
   constructorId: williams
   engineManufacturerId: mercedes
   tyreManufacturerId: pirelli
-  lap: 42
+  lap: 41
   time: "1:40.353"
   gap: "+2.377"
   interval: "+0.025"
@@ -164,7 +164,7 @@
   constructorId: alpine
   engineManufacturerId: mercedes
   tyreManufacturerId: pirelli
-  lap: 34
+  lap: 33
   time: "1:41.087"
   gap: "+3.111"
   interval: "+0.734"
@@ -174,7 +174,7 @@
   constructorId: williams
   engineManufacturerId: mercedes
   tyreManufacturerId: pirelli
-  lap: 34
+  lap: 33
   time: "1:41.132"
   gap: "+3.156"
   interval: "+0.045"
@@ -194,7 +194,7 @@
   constructorId: cadillac
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
-  lap: 56
+  lap: 55
   time: "1:41.680"
   gap: "+3.704"
   interval: "+0.262"
@@ -204,7 +204,7 @@
   constructorId: cadillac
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
-  lap: 33
+  lap: 32
   time: "1:42.012"
   gap: "+4.036"
   interval: "+0.332"

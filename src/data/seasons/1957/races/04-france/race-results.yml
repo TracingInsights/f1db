@@ -74,10 +74,10 @@
   constructorId: maserati
   engineManufacturerId: maserati
   tyreManufacturerId: pirelli
-  laps: 70
+  laps: 69
   time:
   timePenalty:
-  gap: "+7 laps"
+  gap: "+8 laps"
   interval:
   reasonRetired:
   points:
@@ -103,7 +103,7 @@
   engineManufacturerId: climax
   tyreManufacturerId: dunlop
   sharedCar: true
-  laps:
+  laps: 38
   time:
   timePenalty:
   gap:

@@ -175,9 +175,9 @@
   laps: 67
   time:
   timePenalty:
-  gap: "+8 laps"
+  gap:
   interval:
-  reasonRetired:
+  reasonRetired: Engine
   points:
   gridPosition: 16
 - position: DNF

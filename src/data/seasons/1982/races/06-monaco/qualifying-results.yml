@@ -133,7 +133,7 @@
   driverId: manfred-winkelhock
   constructorId: ats-wheels
   engineManufacturerId: ford
-  tyreManufacturerId: goodyear
+  tyreManufacturerId: michelin
   time: "1:26.260"
   gap: "+2.979"
   interval: "+0.185"
@@ -193,7 +193,7 @@
   driverId: eliseo-salazar
   constructorId: ats-wheels
   engineManufacturerId: ford
-  tyreManufacturerId: goodyear
+  tyreManufacturerId: michelin
   time: "1:27.022"
   gap: "+3.741"
   interval: "+0.003"
@@ -204,9 +204,9 @@
   constructorId: arrows
   engineManufacturerId: ford
   tyreManufacturerId: pirelli
-  time: "1:27.209"
-  gap: "+3.928"
-  interval: "+0.187"
+  time: "1:27.208"
+  gap: "+3.927"
+  interval: "+0.186"
   laps:
 - position: 22
   driverNumber: 33
@@ -216,7 +216,7 @@
   tyreManufacturerId: goodyear
   time: "1:27.523"
   gap: "+4.242"
-  interval: "+0.314"
+  interval: "+0.315"
   laps:
 - position: 23
   driverNumber: 17
@@ -254,7 +254,7 @@
   constructorId: ensign
   engineManufacturerId: ford
   tyreManufacturerId: avon
-  time: "1:28.653"
-  gap: "+5.372"
-  interval: "+0.389"
+  time: "1:28.635"
+  gap: "+5.354"
+  interval: "+0.371"
   laps:

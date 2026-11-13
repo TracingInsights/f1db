@@ -1,0 +1,136 @@
+- lap: 0
+  drivers: [kimi-raikkonen, michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, rubens-barrichello, fernando-alonso, ralf-schumacher, pedro-de-la-rosa, david-coulthard, mark-webber, christian-klien, jacques-villeneuve, nico-rosberg, nick-heidfeld, vitantonio-liuzzi, takuma-sato, tiago-monteiro, scott-speed, jarno-trulli, christijan-albers, sakon-yamamoto]
+- lap: 1
+  drivers: [kimi-raikkonen, michael-schumacher, felipe-massa, giancarlo-fisichella, jenson-button, fernando-alonso, pedro-de-la-rosa, mark-webber, rubens-barrichello, christian-klien, vitantonio-liuzzi, jarno-trulli, takuma-sato, david-coulthard, scott-speed, tiago-monteiro, christijan-albers, jacques-villeneuve, ralf-schumacher, nick-heidfeld, sakon-yamamoto]
+- lap: 2
+  drivers: [kimi-raikkonen, michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, fernando-alonso, pedro-de-la-rosa, mark-webber, rubens-barrichello, christian-klien, vitantonio-liuzzi, jarno-trulli, david-coulthard, takuma-sato, scott-speed, tiago-monteiro, christijan-albers, ralf-schumacher, jacques-villeneuve, nick-heidfeld]
+- lap: 3
+  drivers: [kimi-raikkonen, michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, fernando-alonso, mark-webber, rubens-barrichello, christian-klien, vitantonio-liuzzi, jarno-trulli, david-coulthard, takuma-sato, scott-speed, tiago-monteiro, christijan-albers, ralf-schumacher, jacques-villeneuve, nick-heidfeld]
+- lap: 4
+  drivers: [kimi-raikkonen, michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, fernando-alonso, mark-webber, rubens-barrichello, christian-klien, vitantonio-liuzzi, jarno-trulli, david-coulthard, takuma-sato, scott-speed, tiago-monteiro, christijan-albers, ralf-schumacher, jacques-villeneuve, nick-heidfeld]
+- lap: 5
+  drivers: [kimi-raikkonen, michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, fernando-alonso, mark-webber, rubens-barrichello, christian-klien, vitantonio-liuzzi, jarno-trulli, david-coulthard, takuma-sato, scott-speed, tiago-monteiro, christijan-albers, ralf-schumacher, jacques-villeneuve, nick-heidfeld]
+- lap: 6
+  drivers: [kimi-raikkonen, michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, fernando-alonso, mark-webber, rubens-barrichello, christian-klien, vitantonio-liuzzi, david-coulthard, jarno-trulli, scott-speed, takuma-sato, christijan-albers, tiago-monteiro, ralf-schumacher, jacques-villeneuve, nick-heidfeld]
+- lap: 7
+  drivers: [kimi-raikkonen, michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, fernando-alonso, mark-webber, rubens-barrichello, christian-klien, vitantonio-liuzzi, david-coulthard, jarno-trulli, scott-speed, takuma-sato, christijan-albers, tiago-monteiro, ralf-schumacher, jacques-villeneuve, nick-heidfeld]
+- lap: 8
+  drivers: [kimi-raikkonen, michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, fernando-alonso, mark-webber, rubens-barrichello, christian-klien, vitantonio-liuzzi, jarno-trulli, david-coulthard, scott-speed, takuma-sato, christijan-albers, tiago-monteiro, ralf-schumacher, jacques-villeneuve, nick-heidfeld]
+- lap: 9
+  drivers: [kimi-raikkonen, michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, fernando-alonso, mark-webber, rubens-barrichello, christian-klien, vitantonio-liuzzi, jarno-trulli, david-coulthard, scott-speed, takuma-sato, christijan-albers, tiago-monteiro, ralf-schumacher, jacques-villeneuve, nick-heidfeld]
+- lap: 10
+  drivers: [michael-schumacher, kimi-raikkonen, felipe-massa, jenson-button, giancarlo-fisichella, fernando-alonso, mark-webber, rubens-barrichello, christian-klien, vitantonio-liuzzi, jarno-trulli, david-coulthard, scott-speed, christijan-albers, takuma-sato, tiago-monteiro, ralf-schumacher, jacques-villeneuve]
+- lap: 11
+  drivers: [michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, fernando-alonso, mark-webber, rubens-barrichello, kimi-raikkonen, christian-klien, vitantonio-liuzzi, jarno-trulli, david-coulthard, scott-speed, christijan-albers, takuma-sato, tiago-monteiro, ralf-schumacher, jacques-villeneuve]
+- lap: 12
+  drivers: [michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, fernando-alonso, mark-webber, rubens-barrichello, kimi-raikkonen, christian-klien, vitantonio-liuzzi, jarno-trulli, david-coulthard, scott-speed, christijan-albers, takuma-sato, tiago-monteiro, ralf-schumacher, jacques-villeneuve]
+- lap: 13
+  drivers: [michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, fernando-alonso, mark-webber, rubens-barrichello, kimi-raikkonen, christian-klien, vitantonio-liuzzi, jarno-trulli, david-coulthard, scott-speed, christijan-albers, takuma-sato, tiago-monteiro, ralf-schumacher, jacques-villeneuve]
+- lap: 14
+  drivers: [michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, fernando-alonso, mark-webber, rubens-barrichello, kimi-raikkonen, christian-klien, vitantonio-liuzzi, jarno-trulli, david-coulthard, scott-speed, christijan-albers, takuma-sato, tiago-monteiro, ralf-schumacher, jacques-villeneuve]
+- lap: 15
+  drivers: [michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, fernando-alonso, mark-webber, rubens-barrichello, kimi-raikkonen, christian-klien, vitantonio-liuzzi, jarno-trulli, david-coulthard, scott-speed, christijan-albers, takuma-sato, tiago-monteiro, ralf-schumacher, jacques-villeneuve]
+- lap: 16
+  drivers: [michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, fernando-alonso, rubens-barrichello, mark-webber, kimi-raikkonen, christian-klien, vitantonio-liuzzi, jarno-trulli, david-coulthard, scott-speed, christijan-albers, takuma-sato, tiago-monteiro, ralf-schumacher, jacques-villeneuve]
+- lap: 17
+  drivers: [michael-schumacher, felipe-massa, giancarlo-fisichella, fernando-alonso, rubens-barrichello, mark-webber, kimi-raikkonen, jenson-button, christian-klien, jarno-trulli, vitantonio-liuzzi, david-coulthard, scott-speed, christijan-albers, takuma-sato, tiago-monteiro, ralf-schumacher, jacques-villeneuve]
+- lap: 18
+  drivers: [michael-schumacher, felipe-massa, giancarlo-fisichella, fernando-alonso, mark-webber, jenson-button, rubens-barrichello, kimi-raikkonen, christian-klien, jarno-trulli, vitantonio-liuzzi, david-coulthard, scott-speed, christijan-albers, takuma-sato, ralf-schumacher, tiago-monteiro, jacques-villeneuve]
+- lap: 19
+  drivers: [michael-schumacher, felipe-massa, giancarlo-fisichella, fernando-alonso, mark-webber, jenson-button, kimi-raikkonen, christian-klien, jarno-trulli, vitantonio-liuzzi, david-coulthard, scott-speed, christijan-albers, ralf-schumacher, takuma-sato, tiago-monteiro, jacques-villeneuve]
+- lap: 20
+  drivers: [michael-schumacher, felipe-massa, mark-webber, jenson-button, fernando-alonso, kimi-raikkonen, christian-klien, giancarlo-fisichella, jarno-trulli, vitantonio-liuzzi, david-coulthard, scott-speed, christijan-albers, ralf-schumacher, takuma-sato, tiago-monteiro, jacques-villeneuve]
+- lap: 21
+  drivers: [michael-schumacher, felipe-massa, mark-webber, jenson-button, kimi-raikkonen, christian-klien, giancarlo-fisichella, jarno-trulli, fernando-alonso, vitantonio-liuzzi, david-coulthard, scott-speed, christijan-albers, ralf-schumacher, takuma-sato, tiago-monteiro, jacques-villeneuve]
+- lap: 22
+  drivers: [michael-schumacher, felipe-massa, mark-webber, jenson-button, kimi-raikkonen, christian-klien, giancarlo-fisichella, jarno-trulli, fernando-alonso, vitantonio-liuzzi, scott-speed, christijan-albers, ralf-schumacher, david-coulthard, takuma-sato, tiago-monteiro, jacques-villeneuve]
+- lap: 23
+  drivers: [michael-schumacher, felipe-massa, mark-webber, jenson-button, kimi-raikkonen, christian-klien, giancarlo-fisichella, jarno-trulli, fernando-alonso, vitantonio-liuzzi, scott-speed, christijan-albers, ralf-schumacher, david-coulthard, takuma-sato, tiago-monteiro, jacques-villeneuve]
+- lap: 24
+  drivers: [michael-schumacher, felipe-massa, mark-webber, jenson-button, kimi-raikkonen, christian-klien, giancarlo-fisichella, jarno-trulli, fernando-alonso, vitantonio-liuzzi, scott-speed, ralf-schumacher, christijan-albers, david-coulthard, takuma-sato, tiago-monteiro, jacques-villeneuve]
+- lap: 25
+  drivers: [michael-schumacher, felipe-massa, mark-webber, jenson-button, kimi-raikkonen, giancarlo-fisichella, christian-klien, jarno-trulli, fernando-alonso, vitantonio-liuzzi, ralf-schumacher, scott-speed, christijan-albers, david-coulthard, takuma-sato, jacques-villeneuve, tiago-monteiro]
+- lap: 26
+  drivers: [michael-schumacher, felipe-massa, mark-webber, jenson-button, kimi-raikkonen, giancarlo-fisichella, jarno-trulli, fernando-alonso, vitantonio-liuzzi, christian-klien, ralf-schumacher, scott-speed, christijan-albers, david-coulthard, takuma-sato, jacques-villeneuve, tiago-monteiro]
+- lap: 27
+  drivers: [michael-schumacher, felipe-massa, mark-webber, jenson-button, kimi-raikkonen, giancarlo-fisichella, jarno-trulli, fernando-alonso, christian-klien, ralf-schumacher, christijan-albers, david-coulthard, scott-speed, vitantonio-liuzzi, takuma-sato, jacques-villeneuve, tiago-monteiro]
+- lap: 28
+  drivers: [michael-schumacher, felipe-massa, mark-webber, jenson-button, kimi-raikkonen, giancarlo-fisichella, jarno-trulli, fernando-alonso, christian-klien, ralf-schumacher, christijan-albers, david-coulthard, vitantonio-liuzzi, scott-speed, jacques-villeneuve, takuma-sato, tiago-monteiro]
+- lap: 29
+  drivers: [michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, mark-webber, fernando-alonso, kimi-raikkonen, christian-klien, jarno-trulli, ralf-schumacher, david-coulthard, christijan-albers, vitantonio-liuzzi, scott-speed, jacques-villeneuve, takuma-sato, tiago-monteiro]
+- lap: 30
+  drivers: [michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, mark-webber, fernando-alonso, kimi-raikkonen, christian-klien, jarno-trulli, david-coulthard, vitantonio-liuzzi, ralf-schumacher, scott-speed, christijan-albers, jacques-villeneuve, takuma-sato, tiago-monteiro]
+- lap: 31
+  drivers: [michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, mark-webber, fernando-alonso, kimi-raikkonen, christian-klien, jarno-trulli, david-coulthard, vitantonio-liuzzi, ralf-schumacher, scott-speed, christijan-albers, takuma-sato, tiago-monteiro]
+- lap: 32
+  drivers: [michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, mark-webber, fernando-alonso, kimi-raikkonen, christian-klien, jarno-trulli, david-coulthard, vitantonio-liuzzi, ralf-schumacher, scott-speed, christijan-albers, takuma-sato, tiago-monteiro]
+- lap: 33
+  drivers: [michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, mark-webber, fernando-alonso, kimi-raikkonen, christian-klien, jarno-trulli, david-coulthard, vitantonio-liuzzi, ralf-schumacher, scott-speed, christijan-albers, takuma-sato, tiago-monteiro]
+- lap: 34
+  drivers: [michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, mark-webber, fernando-alonso, kimi-raikkonen, christian-klien, jarno-trulli, david-coulthard, vitantonio-liuzzi, ralf-schumacher, scott-speed, christijan-albers, takuma-sato, tiago-monteiro]
+- lap: 35
+  drivers: [michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, mark-webber, fernando-alonso, kimi-raikkonen, christian-klien, jarno-trulli, david-coulthard, vitantonio-liuzzi, ralf-schumacher, scott-speed, christijan-albers, takuma-sato, tiago-monteiro]
+- lap: 36
+  drivers: [michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, mark-webber, fernando-alonso, kimi-raikkonen, christian-klien, jarno-trulli, david-coulthard, vitantonio-liuzzi, ralf-schumacher, scott-speed, christijan-albers, takuma-sato, tiago-monteiro]
+- lap: 37
+  drivers: [michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, mark-webber, fernando-alonso, kimi-raikkonen, christian-klien, jarno-trulli, david-coulthard, vitantonio-liuzzi, ralf-schumacher, scott-speed, christijan-albers, takuma-sato, tiago-monteiro]
+- lap: 38
+  drivers: [michael-schumacher, felipe-massa, jenson-button, giancarlo-fisichella, mark-webber, fernando-alonso, kimi-raikkonen, christian-klien, jarno-trulli, david-coulthard, vitantonio-liuzzi, ralf-schumacher, scott-speed, christijan-albers, tiago-monteiro, takuma-sato]
+- lap: 39
+  drivers: [michael-schumacher, felipe-massa, jenson-button, mark-webber, giancarlo-fisichella, fernando-alonso, kimi-raikkonen, christian-klien, jarno-trulli, david-coulthard, vitantonio-liuzzi, ralf-schumacher, scott-speed, christijan-albers, tiago-monteiro]
+- lap: 40
+  drivers: [michael-schumacher, felipe-massa, jenson-button, mark-webber, fernando-alonso, kimi-raikkonen, giancarlo-fisichella, christian-klien, jarno-trulli, david-coulthard, vitantonio-liuzzi, ralf-schumacher, scott-speed, christijan-albers, tiago-monteiro]
+- lap: 41
+  drivers: [michael-schumacher, felipe-massa, jenson-button, mark-webber, fernando-alonso, kimi-raikkonen, christian-klien, jarno-trulli, giancarlo-fisichella, vitantonio-liuzzi, ralf-schumacher, david-coulthard, scott-speed, christijan-albers, tiago-monteiro]
+- lap: 42
+  drivers: [michael-schumacher, felipe-massa, mark-webber, fernando-alonso, kimi-raikkonen, jenson-button, christian-klien, jarno-trulli, giancarlo-fisichella, vitantonio-liuzzi, ralf-schumacher, david-coulthard, scott-speed, christijan-albers, tiago-monteiro]
+- lap: 43
+  drivers: [michael-schumacher, felipe-massa, mark-webber, kimi-raikkonen, fernando-alonso, jenson-button, jarno-trulli, christian-klien, giancarlo-fisichella, vitantonio-liuzzi, ralf-schumacher, david-coulthard, scott-speed, christijan-albers, tiago-monteiro]
+- lap: 44
+  drivers: [michael-schumacher, felipe-massa, mark-webber, kimi-raikkonen, jenson-button, jarno-trulli, christian-klien, fernando-alonso, giancarlo-fisichella, vitantonio-liuzzi, ralf-schumacher, david-coulthard, scott-speed, christijan-albers, tiago-monteiro]
+- lap: 45
+  drivers: [michael-schumacher, felipe-massa, mark-webber, kimi-raikkonen, jenson-button, jarno-trulli, christian-klien, fernando-alonso, giancarlo-fisichella, vitantonio-liuzzi, ralf-schumacher, david-coulthard, christijan-albers, scott-speed, tiago-monteiro]
+- lap: 46
+  drivers: [michael-schumacher, felipe-massa, mark-webber, kimi-raikkonen, jenson-button, jarno-trulli, christian-klien, fernando-alonso, giancarlo-fisichella, vitantonio-liuzzi, ralf-schumacher, david-coulthard, christijan-albers, scott-speed, tiago-monteiro]
+- lap: 47
+  drivers: [michael-schumacher, felipe-massa, mark-webber, kimi-raikkonen, jenson-button, jarno-trulli, christian-klien, fernando-alonso, giancarlo-fisichella, vitantonio-liuzzi, ralf-schumacher, david-coulthard, christijan-albers, scott-speed, tiago-monteiro]
+- lap: 48
+  drivers: [michael-schumacher, felipe-massa, mark-webber, kimi-raikkonen, jenson-button, jarno-trulli, fernando-alonso, giancarlo-fisichella, christian-klien, vitantonio-liuzzi, david-coulthard, christijan-albers, ralf-schumacher, scott-speed, tiago-monteiro]
+- lap: 49
+  drivers: [michael-schumacher, felipe-massa, kimi-raikkonen, jenson-button, jarno-trulli, mark-webber, fernando-alonso, giancarlo-fisichella, christian-klien, vitantonio-liuzzi, david-coulthard, ralf-schumacher, christijan-albers, scott-speed, tiago-monteiro]
+- lap: 50
+  drivers: [michael-schumacher, felipe-massa, kimi-raikkonen, jenson-button, jarno-trulli, mark-webber, fernando-alonso, giancarlo-fisichella, christian-klien, david-coulthard, ralf-schumacher, vitantonio-liuzzi, christijan-albers, scott-speed, tiago-monteiro]
+- lap: 51
+  drivers: [michael-schumacher, felipe-massa, kimi-raikkonen, jenson-button, jarno-trulli, mark-webber, fernando-alonso, giancarlo-fisichella, christian-klien, david-coulthard, ralf-schumacher, vitantonio-liuzzi, christijan-albers, scott-speed, tiago-monteiro]
+- lap: 52
+  drivers: [michael-schumacher, felipe-massa, kimi-raikkonen, jenson-button, mark-webber, fernando-alonso, giancarlo-fisichella, jarno-trulli, christian-klien, ralf-schumacher, david-coulthard, vitantonio-liuzzi, christijan-albers, scott-speed, tiago-monteiro]
+- lap: 53
+  drivers: [michael-schumacher, felipe-massa, kimi-raikkonen, jenson-button, mark-webber, fernando-alonso, giancarlo-fisichella, jarno-trulli, christian-klien, ralf-schumacher, david-coulthard, vitantonio-liuzzi, christijan-albers, scott-speed, tiago-monteiro]
+- lap: 54
+  drivers: [michael-schumacher, felipe-massa, kimi-raikkonen, jenson-button, mark-webber, fernando-alonso, giancarlo-fisichella, jarno-trulli, christian-klien, ralf-schumacher, vitantonio-liuzzi, david-coulthard, christijan-albers, scott-speed, tiago-monteiro]
+- lap: 55
+  drivers: [michael-schumacher, felipe-massa, kimi-raikkonen, jenson-button, mark-webber, fernando-alonso, giancarlo-fisichella, jarno-trulli, christian-klien, ralf-schumacher, vitantonio-liuzzi, david-coulthard, christijan-albers, scott-speed, tiago-monteiro]
+- lap: 56
+  drivers: [michael-schumacher, felipe-massa, jenson-button, kimi-raikkonen, mark-webber, fernando-alonso, giancarlo-fisichella, jarno-trulli, christian-klien, ralf-schumacher, vitantonio-liuzzi, david-coulthard, christijan-albers, scott-speed, tiago-monteiro]
+- lap: 57
+  drivers: [michael-schumacher, felipe-massa, jenson-button, kimi-raikkonen, mark-webber, fernando-alonso, giancarlo-fisichella, jarno-trulli, christian-klien, ralf-schumacher, vitantonio-liuzzi, david-coulthard, christijan-albers, scott-speed, tiago-monteiro]
+- lap: 58
+  drivers: [michael-schumacher, felipe-massa, kimi-raikkonen, jenson-button, fernando-alonso, giancarlo-fisichella, jarno-trulli, mark-webber, christian-klien, ralf-schumacher, vitantonio-liuzzi, david-coulthard, christijan-albers, scott-speed, tiago-monteiro]
+- lap: 59
+  drivers: [michael-schumacher, felipe-massa, kimi-raikkonen, jenson-button, fernando-alonso, giancarlo-fisichella, jarno-trulli, christian-klien, ralf-schumacher, vitantonio-liuzzi, david-coulthard, scott-speed, christijan-albers, mark-webber, tiago-monteiro]
+- lap: 60
+  drivers: [michael-schumacher, felipe-massa, kimi-raikkonen, jenson-button, fernando-alonso, giancarlo-fisichella, jarno-trulli, christian-klien, ralf-schumacher, vitantonio-liuzzi, david-coulthard, scott-speed, christijan-albers, tiago-monteiro]
+- lap: 61
+  drivers: [michael-schumacher, felipe-massa, kimi-raikkonen, jenson-button, fernando-alonso, giancarlo-fisichella, jarno-trulli, christian-klien, ralf-schumacher, vitantonio-liuzzi, david-coulthard, scott-speed, christijan-albers, tiago-monteiro]
+- lap: 62
+  drivers: [michael-schumacher, felipe-massa, kimi-raikkonen, jenson-button, fernando-alonso, giancarlo-fisichella, jarno-trulli, christian-klien, ralf-schumacher, vitantonio-liuzzi, david-coulthard, scott-speed, christijan-albers, tiago-monteiro]
+- lap: 63
+  drivers: [michael-schumacher, felipe-massa, kimi-raikkonen, jenson-button, fernando-alonso, giancarlo-fisichella, jarno-trulli, christian-klien, ralf-schumacher, vitantonio-liuzzi, david-coulthard, scott-speed, christijan-albers, tiago-monteiro]
+- lap: 64
+  drivers: [michael-schumacher, felipe-massa, kimi-raikkonen, jenson-button, fernando-alonso, giancarlo-fisichella, jarno-trulli, christian-klien, ralf-schumacher, vitantonio-liuzzi, david-coulthard, scott-speed, christijan-albers, tiago-monteiro]
+- lap: 65
+  drivers: [michael-schumacher, felipe-massa, kimi-raikkonen, jenson-button, fernando-alonso, giancarlo-fisichella, jarno-trulli, christian-klien, ralf-schumacher, vitantonio-liuzzi, david-coulthard, scott-speed, christijan-albers, tiago-monteiro]
+- lap: 66
+  drivers: [michael-schumacher, felipe-massa, kimi-raikkonen, jenson-button, fernando-alonso, giancarlo-fisichella, jarno-trulli, christian-klien, ralf-schumacher, vitantonio-liuzzi, david-coulthard, scott-speed, christijan-albers]
+- lap: 67
+  drivers: [michael-schumacher, felipe-massa, kimi-raikkonen, jenson-button, fernando-alonso, giancarlo-fisichella, jarno-trulli, christian-klien, ralf-schumacher]

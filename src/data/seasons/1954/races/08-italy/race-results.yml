@@ -47,7 +47,7 @@
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 48
   time:
   timePenalty:
   gap:
@@ -229,7 +229,7 @@
   constructorId: maserati
   engineManufacturerId: maserati
   tyreManufacturerId: pirelli
-  laps: 33
+  laps: 32
   time:
   timePenalty:
   gap:
@@ -304,6 +304,6 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Withdrew
   points:
   gridPosition:

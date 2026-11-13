@@ -188,3 +188,23 @@
   time: "1:29.216"
   gap: "+3.637"
   interval: "+0.302"
+- position: 20
+  driverNumber: 12
+  driverId: pedro-diniz
+  constructorId: sauber
+  engineManufacturerId: petronas
+  tyreManufacturerId: bridgestone
+  lap: 1
+  time: "1:39.370"
+  gap: "+13.791"
+  interval: "+10.154"
+- position: 21
+  driverNumber: 9
+  driverId: giancarlo-fisichella
+  constructorId: benetton
+  engineManufacturerId: playlife
+  tyreManufacturerId: bridgestone
+  lap: 1
+  time: "1:40.305"
+  gap: "+14.726"
+  interval: "+0.935"

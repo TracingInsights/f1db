@@ -139,6 +139,16 @@
   gap: "+4.174"
   interval: "+0.400"
 - position: 15
+  driverNumber: 3
+  driverId: martin-brundle
+  constructorId: tyrrell
+  engineManufacturerId: ford
+  tyreManufacturerId: goodyear
+  lap: 60
+  time: "1:40.804"
+  gap: "+4.305"
+  interval: "+0.131"
+- position: 16
   driverNumber: 5
   driverId: jacques-laffite
   constructorId: williams
@@ -147,8 +157,18 @@
   lap: 5
   time: "1:41.096"
   gap: "+4.597"
-  interval: "+0.423"
-- position: 16
+  interval: "+0.292"
+- position: 17
+  driverNumber: 4
+  driverId: stefan-bellof
+  constructorId: tyrrell
+  engineManufacturerId: ford
+  tyreManufacturerId: goodyear
+  lap: 6
+  time: "1:41.676"
+  gap: "+5.177"
+  interval: "+0.580"
+- position: 18
   driverNumber: 19
   driverId: ayrton-senna
   constructorId: toleman
@@ -157,8 +177,8 @@
   lap: 6
   time: "1:42.286"
   gap: "+5.787"
-  interval: "+1.190"
-- position: 17
+  interval: "+0.610"
+- position: 19
   driverNumber: 20
   driverId: johnny-cecotto
   constructorId: toleman
@@ -168,7 +188,7 @@
   time: "1:42.880"
   gap: "+6.381"
   interval: "+0.594"
-- position: 18
+- position: 20
   driverNumber: 25
   driverId: francois-hesnault
   constructorId: ligier
@@ -178,7 +198,7 @@
   time: "1:42.998"
   gap: "+6.499"
   interval: "+0.118"
-- position: 19
+- position: 21
   driverNumber: 18
   driverId: thierry-boutsen
   constructorId: arrows
@@ -188,7 +208,7 @@
   time: "1:43.247"
   gap: "+6.748"
   interval: "+0.249"
-- position: 20
+- position: 22
   driverNumber: 24
   driverId: piercarlo-ghinzani
   constructorId: osella
@@ -198,7 +218,7 @@
   time: "1:43.878"
   gap: "+7.379"
   interval: "+0.631"
-- position: 21
+- position: 23
   driverNumber: 17
   driverId: marc-surer
   constructorId: arrows
@@ -208,7 +228,7 @@
   time: "1:43.960"
   gap: "+7.461"
   interval: "+0.082"
-- position: 22
+- position: 24
   driverNumber: 9
   driverId: philippe-alliot
   constructorId: ram
@@ -218,7 +238,7 @@
   time: "1:44.934"
   gap: "+8.435"
   interval: "+0.974"
-- position: 23
+- position: 25
   driverNumber: 10
   driverId: jonathan-palmer
   constructorId: ram
@@ -228,7 +248,7 @@
   time: "1:45.637"
   gap: "+9.138"
   interval: "+0.703"
-- position: 24
+- position: 26
   driverNumber: 21
   driverId: mauro-baldi
   constructorId: spirit

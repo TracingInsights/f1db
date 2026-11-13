@@ -194,9 +194,9 @@
   constructorId: march
   engineManufacturerId: ford
   tyreManufacturerId: firestone
-  time: "1:25.300"
-  gap: "+1.400"
-  interval: "+0.000"
+  time: "1:25.380"
+  gap: "+1.480"
+  interval: "+0.080"
   laps:
 - position: 21
   driverNumber: 23
@@ -206,7 +206,7 @@
   tyreManufacturerId: firestone
   time: "1:25.800"
   gap: "+1.900"
-  interval: "+0.500"
+  interval: "+0.420"
   laps:
 - position: 22
   driverNumber: 21

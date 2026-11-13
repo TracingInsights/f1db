@@ -409,7 +409,8 @@
     - constructorId: lotus
       engineManufacturerId: climax
       chassisId: lotus-18-21
-      engineId: climax-fwmv-15-v8
+      engines:
+        - engineId: climax-fpf-15-l4
       tyreManufacturerId: dunlop
       drivers:
         - driverId: andre-pilette

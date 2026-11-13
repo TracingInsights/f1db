@@ -47,7 +47,7 @@
   engineManufacturerId: maserati
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 30
   time:
   timePenalty:
   gap:

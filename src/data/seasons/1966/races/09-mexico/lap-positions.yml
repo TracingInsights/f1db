@@ -1,0 +1,132 @@
+- lap: 0
+  drivers: [john-surtees, jim-clark, richie-ginther, jack-brabham, jochen-rindt, denny-hulme, graham-hill, pedro-rodriguez, dan-gurney, jackie-stewart, jo-siffert, jo-bonnier, ronnie-bucknum, bruce-mclaren, moises-solana, innes-ireland, peter-arundell, bob-bondurant]
+- lap: 1
+  drivers: [richie-ginther, jochen-rindt, jack-brabham, denny-hulme, john-surtees, jim-clark, jackie-stewart, pedro-rodriguez, ronnie-bucknum, jo-siffert, moises-solana, graham-hill, dan-gurney, jo-bonnier, bob-bondurant, innes-ireland, bruce-mclaren, peter-arundell]
+- lap: 2
+  drivers: [jack-brabham, richie-ginther, jochen-rindt, denny-hulme, john-surtees, jim-clark, jackie-stewart, ronnie-bucknum, jo-siffert, pedro-rodriguez, moises-solana, graham-hill, dan-gurney, jo-bonnier, innes-ireland, bruce-mclaren, peter-arundell, bob-bondurant]
+- lap: 3
+  drivers: [jack-brabham, jochen-rindt, john-surtees, denny-hulme, richie-ginther, jim-clark, jackie-stewart, pedro-rodriguez, ronnie-bucknum, jo-siffert, graham-hill, moises-solana, dan-gurney, jo-bonnier, innes-ireland, bruce-mclaren, peter-arundell, bob-bondurant]
+- lap: 4
+  drivers: [jack-brabham, jochen-rindt, john-surtees, denny-hulme, richie-ginther, jackie-stewart, jim-clark, pedro-rodriguez, graham-hill, ronnie-bucknum, jo-siffert, moises-solana, dan-gurney, innes-ireland, bruce-mclaren, jo-bonnier, peter-arundell, bob-bondurant]
+- lap: 5
+  drivers: [jack-brabham, john-surtees, jochen-rindt, denny-hulme, jackie-stewart, richie-ginther, jim-clark, pedro-rodriguez, graham-hill, ronnie-bucknum, jo-siffert, dan-gurney, moises-solana, innes-ireland, bruce-mclaren, jo-bonnier, peter-arundell, bob-bondurant]
+- lap: 6
+  drivers: [john-surtees, jack-brabham, jochen-rindt, denny-hulme, jackie-stewart, richie-ginther, pedro-rodriguez, jim-clark, graham-hill, ronnie-bucknum, jo-siffert, dan-gurney, moises-solana, innes-ireland, bruce-mclaren, jo-bonnier, peter-arundell, bob-bondurant]
+- lap: 7
+  drivers: [john-surtees, jack-brabham, jochen-rindt, denny-hulme, jackie-stewart, richie-ginther, pedro-rodriguez, jim-clark, graham-hill, ronnie-bucknum, jo-siffert, dan-gurney, moises-solana, innes-ireland, bruce-mclaren, jo-bonnier, peter-arundell, bob-bondurant]
+- lap: 8
+  drivers: [john-surtees, jack-brabham, jochen-rindt, denny-hulme, jackie-stewart, richie-ginther, pedro-rodriguez, jim-clark, graham-hill, ronnie-bucknum, dan-gurney, jo-siffert, bruce-mclaren, innes-ireland, jo-bonnier, peter-arundell, bob-bondurant, moises-solana]
+- lap: 9
+  drivers: [john-surtees, jack-brabham, jochen-rindt, denny-hulme, jackie-stewart, pedro-rodriguez, richie-ginther, graham-hill, dan-gurney, ronnie-bucknum, jo-siffert, bruce-mclaren, innes-ireland, jo-bonnier, peter-arundell, bob-bondurant]
+- lap: 10
+  drivers: [john-surtees, jack-brabham, jochen-rindt, jackie-stewart, denny-hulme, pedro-rodriguez, richie-ginther, graham-hill, dan-gurney, jo-siffert, ronnie-bucknum, bruce-mclaren, jo-bonnier, innes-ireland, peter-arundell, bob-bondurant]
+- lap: 11
+  drivers: [john-surtees, jack-brabham, jochen-rindt, jackie-stewart, denny-hulme, pedro-rodriguez, richie-ginther, graham-hill, dan-gurney, jo-siffert, ronnie-bucknum, bruce-mclaren, jo-bonnier, innes-ireland, peter-arundell, bob-bondurant]
+- lap: 12
+  drivers: [john-surtees, jack-brabham, jochen-rindt, jackie-stewart, denny-hulme, pedro-rodriguez, richie-ginther, graham-hill, dan-gurney, jo-siffert, ronnie-bucknum, bruce-mclaren, jo-bonnier, innes-ireland, peter-arundell, bob-bondurant]
+- lap: 13
+  drivers: [john-surtees, jack-brabham, jochen-rindt, jackie-stewart, denny-hulme, pedro-rodriguez, richie-ginther, graham-hill, dan-gurney, jo-siffert, ronnie-bucknum, bruce-mclaren, jo-bonnier, innes-ireland, peter-arundell, bob-bondurant]
+- lap: 14
+  drivers: [john-surtees, jack-brabham, jochen-rindt, jackie-stewart, denny-hulme, pedro-rodriguez, richie-ginther, graham-hill, dan-gurney, jo-siffert, ronnie-bucknum, bruce-mclaren, jo-bonnier, innes-ireland, peter-arundell, bob-bondurant]
+- lap: 15
+  drivers: [john-surtees, jack-brabham, jochen-rindt, jackie-stewart, denny-hulme, pedro-rodriguez, richie-ginther, dan-gurney, graham-hill, jo-siffert, ronnie-bucknum, bruce-mclaren, jo-bonnier, innes-ireland, peter-arundell, bob-bondurant]
+- lap: 16
+  drivers: [john-surtees, jack-brabham, jochen-rindt, jackie-stewart, denny-hulme, pedro-rodriguez, richie-ginther, dan-gurney, graham-hill, jo-siffert, ronnie-bucknum, bruce-mclaren, jo-bonnier, innes-ireland, peter-arundell, bob-bondurant]
+- lap: 17
+  drivers: [john-surtees, jack-brabham, jochen-rindt, jackie-stewart, denny-hulme, pedro-rodriguez, richie-ginther, dan-gurney, graham-hill, jo-siffert, ronnie-bucknum, bruce-mclaren, jo-bonnier, innes-ireland, peter-arundell, bob-bondurant]
+- lap: 18
+  drivers: [john-surtees, jack-brabham, jochen-rindt, jackie-stewart, denny-hulme, pedro-rodriguez, richie-ginther, dan-gurney, jo-siffert, ronnie-bucknum, bruce-mclaren, jo-bonnier, innes-ireland, peter-arundell, bob-bondurant, graham-hill]
+- lap: 19
+  drivers: [john-surtees, jack-brabham, jochen-rindt, jackie-stewart, denny-hulme, pedro-rodriguez, richie-ginther, dan-gurney, jo-siffert, ronnie-bucknum, bruce-mclaren, jo-bonnier, innes-ireland, peter-arundell, bob-bondurant]
+- lap: 20
+  drivers: [john-surtees, jack-brabham, jochen-rindt, jackie-stewart, denny-hulme, pedro-rodriguez, richie-ginther, dan-gurney, jo-siffert, ronnie-bucknum, bruce-mclaren, jo-bonnier, innes-ireland, peter-arundell, bob-bondurant]
+- lap: 21
+  drivers: [john-surtees, jack-brabham, jochen-rindt, jackie-stewart, denny-hulme, pedro-rodriguez, richie-ginther, dan-gurney, jo-siffert, ronnie-bucknum, bruce-mclaren, jo-bonnier, innes-ireland, peter-arundell, bob-bondurant]
+- lap: 22
+  drivers: [john-surtees, jack-brabham, jochen-rindt, jackie-stewart, denny-hulme, pedro-rodriguez, richie-ginther, dan-gurney, jo-siffert, ronnie-bucknum, bruce-mclaren, jo-bonnier, innes-ireland, peter-arundell, bob-bondurant]
+- lap: 23
+  drivers: [john-surtees, jack-brabham, jochen-rindt, jackie-stewart, pedro-rodriguez, denny-hulme, richie-ginther, dan-gurney, jo-siffert, ronnie-bucknum, bruce-mclaren, jo-bonnier, innes-ireland, peter-arundell, bob-bondurant]
+- lap: 24
+  drivers: [john-surtees, jack-brabham, jochen-rindt, jackie-stewart, pedro-rodriguez, denny-hulme, richie-ginther, dan-gurney, jo-siffert, ronnie-bucknum, bruce-mclaren, jo-bonnier, innes-ireland, peter-arundell, bob-bondurant]
+- lap: 25
+  drivers: [john-surtees, jack-brabham, jackie-stewart, jochen-rindt, pedro-rodriguez, richie-ginther, dan-gurney, jo-siffert, ronnie-bucknum, denny-hulme, bruce-mclaren, jo-bonnier, innes-ireland, peter-arundell]
+- lap: 26
+  drivers: [john-surtees, jack-brabham, jackie-stewart, jochen-rindt, pedro-rodriguez, richie-ginther, dan-gurney, jo-siffert, ronnie-bucknum, denny-hulme, bruce-mclaren, jo-bonnier, innes-ireland, peter-arundell]
+- lap: 27
+  drivers: [john-surtees, jack-brabham, jochen-rindt, pedro-rodriguez, richie-ginther, dan-gurney, jo-siffert, ronnie-bucknum, denny-hulme, bruce-mclaren, jo-bonnier, innes-ireland, peter-arundell]
+- lap: 28
+  drivers: [john-surtees, jack-brabham, jochen-rindt, pedro-rodriguez, richie-ginther, dan-gurney, jo-siffert, ronnie-bucknum, denny-hulme, jo-bonnier, peter-arundell, bruce-mclaren, innes-ireland]
+- lap: 29
+  drivers: [john-surtees, jack-brabham, jochen-rindt, pedro-rodriguez, richie-ginther, dan-gurney, jo-siffert, ronnie-bucknum, denny-hulme, jo-bonnier, peter-arundell, bruce-mclaren]
+- lap: 30
+  drivers: [john-surtees, jack-brabham, jochen-rindt, pedro-rodriguez, richie-ginther, dan-gurney, jo-siffert, ronnie-bucknum, denny-hulme, jo-bonnier, peter-arundell, bruce-mclaren]
+- lap: 31
+  drivers: [john-surtees, jack-brabham, jochen-rindt, pedro-rodriguez, richie-ginther, dan-gurney, jo-siffert, ronnie-bucknum, denny-hulme, jo-bonnier, peter-arundell, bruce-mclaren]
+- lap: 32
+  drivers: [john-surtees, jack-brabham, jochen-rindt, pedro-rodriguez, richie-ginther, dan-gurney, jo-siffert, ronnie-bucknum, denny-hulme, jo-bonnier, peter-arundell, bruce-mclaren]
+- lap: 33
+  drivers: [john-surtees, jack-brabham, pedro-rodriguez, richie-ginther, dan-gurney, denny-hulme, ronnie-bucknum, jo-siffert, jo-bonnier, peter-arundell, bruce-mclaren]
+- lap: 34
+  drivers: [john-surtees, jack-brabham, pedro-rodriguez, richie-ginther, dan-gurney, denny-hulme, ronnie-bucknum, jo-bonnier, peter-arundell, bruce-mclaren]
+- lap: 35
+  drivers: [john-surtees, jack-brabham, pedro-rodriguez, richie-ginther, dan-gurney, denny-hulme, ronnie-bucknum, jo-bonnier, peter-arundell, bruce-mclaren]
+- lap: 36
+  drivers: [john-surtees, jack-brabham, pedro-rodriguez, richie-ginther, dan-gurney, denny-hulme, ronnie-bucknum, jo-bonnier, peter-arundell, bruce-mclaren]
+- lap: 37
+  drivers: [john-surtees, jack-brabham, pedro-rodriguez, richie-ginther, dan-gurney, denny-hulme, ronnie-bucknum, jo-bonnier, peter-arundell, bruce-mclaren]
+- lap: 38
+  drivers: [john-surtees, jack-brabham, pedro-rodriguez, richie-ginther, dan-gurney, denny-hulme, ronnie-bucknum, jo-bonnier, bruce-mclaren, peter-arundell]
+- lap: 39
+  drivers: [john-surtees, jack-brabham, pedro-rodriguez, richie-ginther, dan-gurney, denny-hulme, ronnie-bucknum, jo-bonnier, bruce-mclaren, peter-arundell]
+- lap: 40
+  drivers: [john-surtees, jack-brabham, pedro-rodriguez, richie-ginther, dan-gurney, denny-hulme, ronnie-bucknum, jo-bonnier, peter-arundell, bruce-mclaren]
+- lap: 41
+  drivers: [john-surtees, jack-brabham, pedro-rodriguez, richie-ginther, dan-gurney, denny-hulme, ronnie-bucknum, jo-bonnier, peter-arundell]
+- lap: 42
+  drivers: [john-surtees, jack-brabham, pedro-rodriguez, richie-ginther, dan-gurney, denny-hulme, jo-bonnier, peter-arundell, ronnie-bucknum]
+- lap: 43
+  drivers: [john-surtees, jack-brabham, pedro-rodriguez, richie-ginther, dan-gurney, denny-hulme, jo-bonnier, peter-arundell, ronnie-bucknum]
+- lap: 44
+  drivers: [john-surtees, jack-brabham, pedro-rodriguez, richie-ginther, denny-hulme, dan-gurney, jo-bonnier, peter-arundell, ronnie-bucknum]
+- lap: 45
+  drivers: [john-surtees, jack-brabham, pedro-rodriguez, richie-ginther, denny-hulme, dan-gurney, jo-bonnier, peter-arundell, ronnie-bucknum]
+- lap: 46
+  drivers: [john-surtees, jack-brabham, pedro-rodriguez, richie-ginther, denny-hulme, dan-gurney, jo-bonnier, peter-arundell, ronnie-bucknum]
+- lap: 47
+  drivers: [john-surtees, jack-brabham, pedro-rodriguez, richie-ginther, denny-hulme, dan-gurney, jo-bonnier, peter-arundell, ronnie-bucknum]
+- lap: 48
+  drivers: [john-surtees, jack-brabham, pedro-rodriguez, richie-ginther, denny-hulme, dan-gurney, jo-bonnier, peter-arundell, ronnie-bucknum]
+- lap: 49
+  drivers: [john-surtees, jack-brabham, pedro-rodriguez, richie-ginther, denny-hulme, dan-gurney, jo-bonnier, peter-arundell, ronnie-bucknum]
+- lap: 50
+  drivers: [john-surtees, jack-brabham, richie-ginther, denny-hulme, dan-gurney, jo-bonnier, peter-arundell, ronnie-bucknum]
+- lap: 51
+  drivers: [john-surtees, jack-brabham, richie-ginther, denny-hulme, dan-gurney, jo-bonnier, peter-arundell, ronnie-bucknum]
+- lap: 52
+  drivers: [john-surtees, jack-brabham, richie-ginther, denny-hulme, dan-gurney, jo-bonnier, peter-arundell, ronnie-bucknum]
+- lap: 53
+  drivers: [john-surtees, jack-brabham, richie-ginther, denny-hulme, dan-gurney, jo-bonnier, peter-arundell, ronnie-bucknum]
+- lap: 54
+  drivers: [john-surtees, jack-brabham, richie-ginther, denny-hulme, dan-gurney, jo-bonnier, ronnie-bucknum, peter-arundell]
+- lap: 55
+  drivers: [john-surtees, jack-brabham, richie-ginther, denny-hulme, dan-gurney, jo-bonnier, ronnie-bucknum, peter-arundell]
+- lap: 56
+  drivers: [john-surtees, jack-brabham, richie-ginther, denny-hulme, dan-gurney, jo-bonnier, ronnie-bucknum, peter-arundell]
+- lap: 57
+  drivers: [john-surtees, jack-brabham, richie-ginther, denny-hulme, dan-gurney, jo-bonnier, ronnie-bucknum, peter-arundell]
+- lap: 58
+  drivers: [john-surtees, jack-brabham, richie-ginther, denny-hulme, dan-gurney, jo-bonnier, ronnie-bucknum, peter-arundell]
+- lap: 59
+  drivers: [john-surtees, jack-brabham, richie-ginther, denny-hulme, dan-gurney, jo-bonnier, ronnie-bucknum, peter-arundell]
+- lap: 60
+  drivers: [john-surtees, jack-brabham, richie-ginther, denny-hulme, dan-gurney, jo-bonnier, ronnie-bucknum, peter-arundell]
+- lap: 61
+  drivers: [john-surtees, jack-brabham, richie-ginther, denny-hulme, dan-gurney, jo-bonnier, peter-arundell]
+- lap: 62
+  drivers: [john-surtees, jack-brabham, richie-ginther, denny-hulme, dan-gurney, jo-bonnier]
+- lap: 63
+  drivers: [john-surtees, jack-brabham, richie-ginther, denny-hulme, dan-gurney, jo-bonnier]
+- lap: 64
+  drivers: [john-surtees, jack-brabham, denny-hulme, richie-ginther, dan-gurney]
+- lap: 65
+  drivers: [john-surtees, jack-brabham]

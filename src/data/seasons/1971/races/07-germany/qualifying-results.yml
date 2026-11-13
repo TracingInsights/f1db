@@ -204,9 +204,9 @@
   constructorId: march
   engineManufacturerId: alfa-romeo
   tyreManufacturerId: firestone
-  time: "7:47.600"
-  gap: "+28.600"
-  interval: "+5.900"
+  time: "7:47.800"
+  gap: "+28.800"
+  interval: "+6.100"
   laps:
 - position: 22
   driverNumber: 28
@@ -216,7 +216,7 @@
   tyreManufacturerId: firestone
   time: "7:52.600"
   gap: "+33.600"
-  interval: "+5.000"
+  interval: "+4.800"
   laps:
 - position: 23
   driverNumber: 27

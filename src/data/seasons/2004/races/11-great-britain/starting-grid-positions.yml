@@ -124,7 +124,7 @@
   constructorId: renault
   engineManufacturerId: renault
   tyreManufacturerId: michelin
-  gridPenalty:
+  gridPenalty: 10
   time: "1:18.811"
 - position: 17
   driverNumber: 17
@@ -132,7 +132,7 @@
   constructorId: toyota
   engineManufacturerId: toyota
   tyreManufacturerId: michelin
-  gridPenalty:
+  gridPenalty: 5
   time: "1:20.335"
 - position: 18
   driverNumber: 20
@@ -140,7 +140,7 @@
   constructorId: minardi
   engineManufacturerId: cosworth
   tyreManufacturerId: bridgestone
-  gridPenalty:
+  gridPenalty: 10
   time: "1:23.437"
 - position: 19
   driverNumber: 21
@@ -148,7 +148,7 @@
   constructorId: minardi
   engineManufacturerId: cosworth
   tyreManufacturerId: bridgestone
-  gridPenalty:
+  gridPenalty: 10
   time: "1:24.117"
 - position: 20
   driverNumber: 11
@@ -156,5 +156,5 @@
   constructorId: sauber
   engineManufacturerId: petronas
   tyreManufacturerId: bridgestone
-  gridPenalty:
+  gridPenalty: 10
   time:

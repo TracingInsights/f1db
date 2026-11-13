@@ -33,7 +33,7 @@
   engineManufacturerId: ferrari
   tyreManufacturerId: englebert
   sharedCar: true
-  laps:
+  laps: 20
   time:
   timePenalty:
   gap:
@@ -48,7 +48,7 @@
   engineManufacturerId: ferrari
   tyreManufacturerId: englebert
   sharedCar: true
-  laps:
+  laps: 16
   time:
   timePenalty:
   gap:
@@ -77,7 +77,7 @@
   engineManufacturerId: ferrari
   tyreManufacturerId: englebert
   sharedCar: true
-  laps:
+  laps: 22
   time:
   timePenalty:
   gap:
@@ -92,7 +92,7 @@
   engineManufacturerId: ferrari
   tyreManufacturerId: englebert
   sharedCar: true
-  laps:
+  laps: 22
   time:
   timePenalty:
   gap:
@@ -121,7 +121,7 @@
   engineManufacturerId: mercedes
   tyreManufacturerId: continental
   sharedCar: true
-  laps:
+  laps: 30
   time:
   timePenalty:
   gap:
@@ -136,7 +136,7 @@
   engineManufacturerId: mercedes
   tyreManufacturerId: continental
   sharedCar: true
-  laps:
+  laps: 34
   time:
   timePenalty:
   gap:
@@ -179,7 +179,7 @@
   engineManufacturerId: maserati
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 38
   time:
   timePenalty:
   gap:
@@ -208,7 +208,7 @@
   engineManufacturerId: maserati
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 20
   time:
   timePenalty:
   gap:
@@ -223,7 +223,7 @@
   engineManufacturerId: maserati
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 13
   time:
   timePenalty:
   gap:
@@ -252,7 +252,7 @@
   engineManufacturerId: maserati
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 14
   time:
   timePenalty:
   gap:
@@ -267,7 +267,7 @@
   engineManufacturerId: maserati
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 10
   time:
   timePenalty:
   gap:
@@ -296,7 +296,7 @@
   engineManufacturerId: maserati
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 14
   time:
   timePenalty:
   gap:
@@ -311,7 +311,7 @@
   engineManufacturerId: maserati
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 10
   time:
   timePenalty:
   gap:
@@ -368,7 +368,7 @@
   engineManufacturerId: lancia
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 15
   time:
   timePenalty:
   gap:

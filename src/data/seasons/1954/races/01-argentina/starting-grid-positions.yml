@@ -63,14 +63,6 @@
   gridPenalty:
   time: "1:49.000"
 - position: 9
-  driverNumber: 36
-  driverId: carlos-menditeguy
-  constructorId: maserati
-  engineManufacturerId: maserati
-  tyreManufacturerId: pirelli
-  gridPenalty:
-  time: "1:49.200"
-- position: 10
   driverNumber: 8
   driverId: birabongse-bhanudej
   constructorId: maserati
@@ -78,7 +70,7 @@
   tyreManufacturerId: pirelli
   gridPenalty:
   time: "1:49.300"
-- position: 11
+- position: 10
   driverNumber: 28
   driverId: harry-schell
   constructorId: maserati
@@ -86,7 +78,7 @@
   tyreManufacturerId: pirelli
   gridPenalty:
   time: "1:50.000"
-- position: 12
+- position: 11
   driverNumber: 16
   driverId: umberto-maglioli
   constructorId: ferrari
@@ -94,7 +86,7 @@
   tyreManufacturerId: pirelli
   gridPenalty:
   time: "1:50.200"
-- position: 13
+- position: 12
   driverNumber: 30
   driverId: emmanuel-de-graffenried
   constructorId: maserati
@@ -102,7 +94,7 @@
   tyreManufacturerId: pirelli
   gridPenalty:
   time: "1:51.000"
-- position: 14
+- position: 13
   driverNumber: 24
   driverId: louis-rosier
   constructorId: ferrari
@@ -110,7 +102,7 @@
   tyreManufacturerId: dunlop
   gridPenalty:
   time: "1:51.600"
-- position: 15
+- position: 14
   driverNumber: 20
   driverId: elie-bayol
   constructorId: gordini
@@ -118,7 +110,7 @@
   tyreManufacturerId: englebert
   gridPenalty:
   time: "1:52.600"
-- position: 16
+- position: 15
   driverNumber: 22
   driverId: roger-loyer
   constructorId: gordini
@@ -126,7 +118,7 @@
   tyreManufacturerId: englebert
   gridPenalty:
   time: "1:52.600"
-- position: 17
+- position: 16
   driverNumber: 18
   driverId: jean-behra
   constructorId: gordini
@@ -134,7 +126,7 @@
   tyreManufacturerId: englebert
   gridPenalty:
   time: "1:53.000"
-- position: 18
+- position: 17
   driverNumber: 34
   driverId: jorge-daponte
   constructorId: maserati

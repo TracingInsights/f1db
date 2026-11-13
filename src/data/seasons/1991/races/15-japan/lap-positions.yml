@@ -1,0 +1,108 @@
+- lap: 0
+  drivers: [gerhard-berger, ayrton-senna, nigel-mansell, alain-prost, riccardo-patrese, jean-alesi, pierluigi-martini, gianni-morbidelli, michael-schumacher, nelson-piquet, andrea-de-cesaris, jj-lehto, alex-zanardi, stefano-modena, satoru-nakajima, emanuele-pirro, thierry-boutsen, mauricio-gugelmin, martin-brundle, erik-comas, mika-hakkinen, karl-wendlinger, johnny-herbert, gabriele-tarquini, aguri-suzuki, alex-caffi]
+- lap: 1
+  drivers: [gerhard-berger, ayrton-senna, nigel-mansell, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, gianni-morbidelli, andrea-de-cesaris, jj-lehto, alex-zanardi, emanuele-pirro, stefano-modena, martin-brundle, erik-comas, satoru-nakajima, thierry-boutsen, karl-wendlinger, johnny-herbert, mauricio-gugelmin, nelson-piquet, mika-hakkinen, alex-caffi, aguri-suzuki, gabriele-tarquini]
+- lap: 2
+  drivers: [gerhard-berger, ayrton-senna, nigel-mansell, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, gianni-morbidelli, alex-zanardi, stefano-modena, martin-brundle, erik-comas, satoru-nakajima, thierry-boutsen, nelson-piquet, johnny-herbert, mauricio-gugelmin, mika-hakkinen, alex-caffi, aguri-suzuki, gabriele-tarquini]
+- lap: 3
+  drivers: [gerhard-berger, ayrton-senna, nigel-mansell, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, alex-zanardi, gianni-morbidelli, stefano-modena, martin-brundle, erik-comas, satoru-nakajima, thierry-boutsen, nelson-piquet, johnny-herbert, mauricio-gugelmin, mika-hakkinen, alex-caffi, aguri-suzuki, gabriele-tarquini]
+- lap: 4
+  drivers: [gerhard-berger, ayrton-senna, nigel-mansell, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, alex-zanardi, gianni-morbidelli, stefano-modena, martin-brundle, erik-comas, satoru-nakajima, thierry-boutsen, nelson-piquet, johnny-herbert, mauricio-gugelmin, mika-hakkinen, alex-caffi, aguri-suzuki, gabriele-tarquini]
+- lap: 5
+  drivers: [gerhard-berger, ayrton-senna, nigel-mansell, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, alex-zanardi, gianni-morbidelli, stefano-modena, martin-brundle, erik-comas, satoru-nakajima, thierry-boutsen, nelson-piquet, johnny-herbert, mauricio-gugelmin, alex-caffi, aguri-suzuki, gabriele-tarquini]
+- lap: 6
+  drivers: [gerhard-berger, ayrton-senna, nigel-mansell, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, alex-zanardi, gianni-morbidelli, stefano-modena, martin-brundle, erik-comas, satoru-nakajima, thierry-boutsen, nelson-piquet, johnny-herbert, alex-caffi, aguri-suzuki, mauricio-gugelmin, gabriele-tarquini]
+- lap: 7
+  drivers: [gerhard-berger, ayrton-senna, nigel-mansell, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, gianni-morbidelli, alex-zanardi, stefano-modena, martin-brundle, erik-comas, satoru-nakajima, thierry-boutsen, nelson-piquet, johnny-herbert, alex-caffi, aguri-suzuki, gabriele-tarquini, mauricio-gugelmin]
+- lap: 8
+  drivers: [gerhard-berger, ayrton-senna, nigel-mansell, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, gianni-morbidelli, stefano-modena, martin-brundle, erik-comas, satoru-nakajima, thierry-boutsen, nelson-piquet, johnny-herbert, alex-caffi, aguri-suzuki, gabriele-tarquini, mauricio-gugelmin]
+- lap: 9
+  drivers: [gerhard-berger, ayrton-senna, nigel-mansell, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, gianni-morbidelli, stefano-modena, martin-brundle, erik-comas, satoru-nakajima, thierry-boutsen, nelson-piquet, johnny-herbert, alex-caffi, aguri-suzuki, gabriele-tarquini, mauricio-gugelmin]
+- lap: 10
+  drivers: [gerhard-berger, ayrton-senna, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, gianni-morbidelli, stefano-modena, martin-brundle, erik-comas, satoru-nakajima, thierry-boutsen, nelson-piquet, johnny-herbert, alex-caffi, aguri-suzuki, gabriele-tarquini, mauricio-gugelmin]
+- lap: 11
+  drivers: [gerhard-berger, ayrton-senna, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, gianni-morbidelli, stefano-modena, martin-brundle, erik-comas, satoru-nakajima, thierry-boutsen, nelson-piquet, johnny-herbert, alex-caffi, aguri-suzuki, mauricio-gugelmin, gabriele-tarquini]
+- lap: 12
+  drivers: [gerhard-berger, ayrton-senna, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, gianni-morbidelli, stefano-modena, martin-brundle, erik-comas, satoru-nakajima, thierry-boutsen, nelson-piquet, johnny-herbert, alex-caffi, aguri-suzuki, mauricio-gugelmin, gabriele-tarquini]
+- lap: 13
+  drivers: [gerhard-berger, ayrton-senna, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, gianni-morbidelli, stefano-modena, martin-brundle, erik-comas, satoru-nakajima, thierry-boutsen, nelson-piquet, johnny-herbert, alex-caffi, aguri-suzuki, mauricio-gugelmin, gabriele-tarquini]
+- lap: 14
+  drivers: [gerhard-berger, ayrton-senna, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, stefano-modena, martin-brundle, gianni-morbidelli, erik-comas, satoru-nakajima, thierry-boutsen, nelson-piquet, johnny-herbert, alex-caffi, aguri-suzuki, mauricio-gugelmin, gabriele-tarquini]
+- lap: 15
+  drivers: [gerhard-berger, ayrton-senna, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, stefano-modena, martin-brundle, erik-comas, satoru-nakajima, thierry-boutsen, nelson-piquet, johnny-herbert, alex-caffi, aguri-suzuki, mauricio-gugelmin, gianni-morbidelli, gabriele-tarquini]
+- lap: 16
+  drivers: [gerhard-berger, ayrton-senna, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, stefano-modena, martin-brundle, erik-comas, satoru-nakajima, thierry-boutsen, nelson-piquet, johnny-herbert, alex-caffi, aguri-suzuki, mauricio-gugelmin, gabriele-tarquini]
+- lap: 17
+  drivers: [gerhard-berger, ayrton-senna, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, stefano-modena, martin-brundle, erik-comas, satoru-nakajima, thierry-boutsen, nelson-piquet, johnny-herbert, alex-caffi, aguri-suzuki, mauricio-gugelmin, gabriele-tarquini]
+- lap: 18
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, stefano-modena, martin-brundle, erik-comas, satoru-nakajima, thierry-boutsen, nelson-piquet, johnny-herbert, alex-caffi, aguri-suzuki, mauricio-gugelmin, gabriele-tarquini]
+- lap: 19
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, stefano-modena, martin-brundle, erik-comas, satoru-nakajima, thierry-boutsen, nelson-piquet, johnny-herbert, alex-caffi, mauricio-gugelmin, aguri-suzuki, gabriele-tarquini]
+- lap: 20
+  drivers: [ayrton-senna, riccardo-patrese, gerhard-berger, alain-prost, pierluigi-martini, michael-schumacher, stefano-modena, martin-brundle, erik-comas, satoru-nakajima, thierry-boutsen, johnny-herbert, alex-caffi, nelson-piquet, mauricio-gugelmin, aguri-suzuki, gabriele-tarquini]
+- lap: 21
+  drivers: [ayrton-senna, riccardo-patrese, gerhard-berger, pierluigi-martini, alain-prost, michael-schumacher, martin-brundle, stefano-modena, erik-comas, satoru-nakajima, johnny-herbert, thierry-boutsen, mauricio-gugelmin, alex-caffi, nelson-piquet, aguri-suzuki, gabriele-tarquini]
+- lap: 22
+  drivers: [riccardo-patrese, ayrton-senna, gerhard-berger, alain-prost, michael-schumacher, martin-brundle, stefano-modena, erik-comas, pierluigi-martini, satoru-nakajima, johnny-herbert, mauricio-gugelmin, nelson-piquet, thierry-boutsen, aguri-suzuki, alex-caffi, gabriele-tarquini]
+- lap: 23
+  drivers: [riccardo-patrese, ayrton-senna, gerhard-berger, alain-prost, michael-schumacher, martin-brundle, stefano-modena, erik-comas, pierluigi-martini, satoru-nakajima, mauricio-gugelmin, johnny-herbert, nelson-piquet, thierry-boutsen, aguri-suzuki, alex-caffi, gabriele-tarquini]
+- lap: 24
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, michael-schumacher, stefano-modena, erik-comas, pierluigi-martini, satoru-nakajima, martin-brundle, mauricio-gugelmin, nelson-piquet, johnny-herbert, thierry-boutsen, aguri-suzuki, alex-caffi, gabriele-tarquini]
+- lap: 25
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, michael-schumacher, stefano-modena, erik-comas, pierluigi-martini, satoru-nakajima, martin-brundle, mauricio-gugelmin, nelson-piquet, johnny-herbert, thierry-boutsen, alex-caffi, aguri-suzuki, gabriele-tarquini]
+- lap: 26
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, michael-schumacher, pierluigi-martini, stefano-modena, erik-comas, satoru-nakajima, martin-brundle, nelson-piquet, johnny-herbert, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini, aguri-suzuki]
+- lap: 27
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, michael-schumacher, pierluigi-martini, satoru-nakajima, martin-brundle, stefano-modena, erik-comas, nelson-piquet, johnny-herbert, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 28
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, martin-brundle, satoru-nakajima, stefano-modena, erik-comas, nelson-piquet, johnny-herbert, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 29
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, martin-brundle, stefano-modena, erik-comas, nelson-piquet, satoru-nakajima, johnny-herbert, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 30
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, martin-brundle, stefano-modena, erik-comas, nelson-piquet, satoru-nakajima, johnny-herbert, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 31
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, martin-brundle, stefano-modena, erik-comas, nelson-piquet, johnny-herbert, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 32
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, martin-brundle, stefano-modena, erik-comas, nelson-piquet, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 33
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, martin-brundle, stefano-modena, erik-comas, nelson-piquet, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 34
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, pierluigi-martini, michael-schumacher, martin-brundle, stefano-modena, erik-comas, nelson-piquet, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 35
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, pierluigi-martini, martin-brundle, stefano-modena, erik-comas, nelson-piquet, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 36
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, pierluigi-martini, martin-brundle, stefano-modena, erik-comas, nelson-piquet, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 37
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, pierluigi-martini, martin-brundle, stefano-modena, erik-comas, nelson-piquet, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 38
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, pierluigi-martini, martin-brundle, stefano-modena, erik-comas, nelson-piquet, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 39
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, pierluigi-martini, martin-brundle, stefano-modena, erik-comas, nelson-piquet, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 40
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, martin-brundle, stefano-modena, erik-comas, nelson-piquet, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 41
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, martin-brundle, stefano-modena, nelson-piquet, mauricio-gugelmin, thierry-boutsen, alex-caffi, erik-comas, gabriele-tarquini]
+- lap: 42
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, martin-brundle, stefano-modena, nelson-piquet, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 43
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, martin-brundle, stefano-modena, nelson-piquet, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 44
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, martin-brundle, stefano-modena, nelson-piquet, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 45
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, martin-brundle, stefano-modena, nelson-piquet, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 46
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, martin-brundle, stefano-modena, nelson-piquet, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 47
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, martin-brundle, stefano-modena, nelson-piquet, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 48
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, martin-brundle, stefano-modena, nelson-piquet, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 49
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, martin-brundle, stefano-modena, nelson-piquet, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 50
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, martin-brundle, stefano-modena, nelson-piquet, mauricio-gugelmin, thierry-boutsen, alex-caffi, gabriele-tarquini]
+- lap: 51
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, martin-brundle, stefano-modena, nelson-piquet, mauricio-gugelmin, thierry-boutsen, alex-caffi]
+- lap: 52
+  drivers: [ayrton-senna, gerhard-berger, riccardo-patrese, alain-prost, martin-brundle, stefano-modena, nelson-piquet, mauricio-gugelmin, thierry-boutsen]
+- lap: 53
+  drivers: [gerhard-berger, ayrton-senna, riccardo-patrese, alain-prost]

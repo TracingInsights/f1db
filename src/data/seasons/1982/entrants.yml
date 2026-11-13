@@ -233,7 +233,7 @@
   engineId: ford-cosworth-dfv-30-v8
   tyreManufacturers:
     - tyreManufacturerId: avon
-    - tyreManufacturerId: goodyear
+    - tyreManufacturerId: michelin
   drivers:
     - driverId: eliseo-salazar
       rounds: 1-16

@@ -124,7 +124,7 @@
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: bridgestone
-  gridPenalty:
+  gridPenalty: 10
   time: "1:15.746"
 - position: 17
   driverNumber: 8
@@ -132,7 +132,7 @@
   constructorId: williams
   engineManufacturerId: bmw
   tyreManufacturerId: michelin
-  gridPenalty:
+  gridPenalty: 20
   time: "1:15.038"
 - position: 18
   driverNumber: 18
@@ -140,5 +140,5 @@
   constructorId: jordan
   engineManufacturerId: toyota
   tyreManufacturerId: bridgestone
-  gridPenalty:
+  gridPenalty: SFB
   time: "2:39.943"

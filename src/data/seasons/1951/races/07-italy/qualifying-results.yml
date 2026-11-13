@@ -218,3 +218,23 @@
   gap: "+25.600"
   interval: "+0.200"
   laps:
+- position: 23
+  driverNumber: 14
+  driverId: rudi-fischer
+  constructorId: ferrari
+  engineManufacturerId: ferrari
+  tyreManufacturerId: pirelli
+  time:
+  gap:
+  interval:
+  laps:
+- position: 24
+  driverNumber: 32
+  driverId: hans-stuck
+  constructorId: brm
+  engineManufacturerId: brm
+  tyreManufacturerId: dunlop
+  time:
+  gap:
+  interval:
+  laps:

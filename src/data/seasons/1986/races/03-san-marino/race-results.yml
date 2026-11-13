@@ -121,10 +121,10 @@
   timePenalty:
   gap: "+3 laps"
   interval:
-  reasonRetired:
+  reasonRetired: Out of fuel
   points:
   gridPosition: 15
-- position: DNF
+- position: 10
   driverNumber: 27
   driverId: michele-alboreto
   constructorId: ferrari
@@ -348,17 +348,17 @@
   reasonRetired: Engine
   points:
   gridPosition: 11
-- position: DNS
+- position: DNF
   driverNumber: 24
   driverId: alessandro-nannini
   constructorId: minardi
   engineManufacturerId: motori-moderni
   tyreManufacturerId: pirelli
-  laps:
+  laps: 0
   time:
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Accident
   points:
   gridPosition: 17

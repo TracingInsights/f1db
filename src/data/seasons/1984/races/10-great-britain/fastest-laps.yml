@@ -149,6 +149,16 @@
   gap: "+4.559"
   interval: "+0.424"
 - position: 16
+  driverNumber: 4
+  driverId: stefan-bellof
+  constructorId: tyrrell
+  engineManufacturerId: ford
+  tyreManufacturerId: goodyear
+  lap: 45
+  time: "1:17.930"
+  gap: "+4.739"
+  interval: "+0.180"
+- position: 17
   driverNumber: 5
   driverId: jacques-laffite
   constructorId: williams
@@ -157,8 +167,8 @@
   lap: 11
   time: "1:18.006"
   gap: "+4.815"
-  interval: "+0.256"
-- position: 17
+  interval: "+0.076"
+- position: 18
   driverNumber: 17
   driverId: marc-surer
   constructorId: arrows
@@ -168,7 +178,7 @@
   time: "1:18.008"
   gap: "+4.817"
   interval: "+0.002"
-- position: 18
+- position: 19
   driverNumber: 25
   driverId: francois-hesnault
   constructorId: ligier
@@ -178,7 +188,7 @@
   time: "1:18.126"
   gap: "+4.935"
   interval: "+0.118"
-- position: 19
+- position: 20
   driverNumber: 2
   driverId: teo-fabi
   constructorId: brabham
@@ -188,7 +198,7 @@
   time: "1:18.364"
   gap: "+5.173"
   interval: "+0.238"
-- position: 20
+- position: 21
   driverNumber: 14
   driverId: manfred-winkelhock
   constructorId: ats-wheels
@@ -198,7 +208,7 @@
   time: "1:18.553"
   gap: "+5.362"
   interval: "+0.189"
-- position: 21
+- position: 22
   driverNumber: 6
   driverId: keke-rosberg
   constructorId: williams
@@ -208,7 +218,7 @@
   time: "1:19.336"
   gap: "+6.145"
   interval: "+0.783"
-- position: 22
+- position: 23
   driverNumber: 10
   driverId: jonathan-palmer
   constructorId: ram

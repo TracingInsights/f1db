@@ -104,7 +104,7 @@
   engineManufacturerId: gordini
   tyreManufacturerId: englebert
   sharedCar: true
-  laps:
+  laps: 41
   time:
   timePenalty:
   gap:
@@ -174,7 +174,7 @@
   constructorId: maserati
   engineManufacturerId: maserati
   tyreManufacturerId: pirelli
-  laps: 31
+  laps: 32
   time:
   timePenalty:
   gap:
@@ -188,7 +188,7 @@
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
-  laps: 30
+  laps: 31
   time:
   timePenalty:
   gap:

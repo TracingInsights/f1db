@@ -54,9 +54,9 @@
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: dunlop
-  time: "4:01.000"
-  gap: "+4.000"
-  interval: "+1.200"
+  time: "3:59.800"
+  gap: "+2.800"
+  interval: "+0.000"
   laps:
 - position: 7
   driverNumber: 12
@@ -66,7 +66,7 @@
   tyreManufacturerId: dunlop
   time: "4:01.000"
   gap: "+4.000"
-  interval: "+0.000"
+  interval: "+1.200"
   laps:
 - position: 8
   driverNumber: 21

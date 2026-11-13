@@ -45,7 +45,7 @@
   driverId: masten-gregory
   constructorId: maserati
   engineManufacturerId: maserati
-  tyreManufacturerId: pirelli
+  tyreManufacturerId: dunlop
   laps: 69
   time:
   timePenalty:
@@ -61,7 +61,7 @@
   engineManufacturerId: maserati
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 24
   time:
   timePenalty:
   gap:

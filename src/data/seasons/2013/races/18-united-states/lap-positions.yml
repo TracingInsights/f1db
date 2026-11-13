@@ -1,0 +1,114 @@
+- lap: 0
+  drivers: [sebastian-vettel, mark-webber, romain-grosjean, nico-hulkenberg, lewis-hamilton, fernando-alonso, sergio-perez, heikki-kovalainen, valtteri-bottas, daniel-ricciardo, paul-di-resta, nico-rosberg, felipe-massa, jean-eric-vergne, jenson-button, adrian-sutil, pastor-maldonado, giedo-van-der-garde, jules-bianchi, esteban-gutierrez, max-chilton, charles-pic]
+- lap: 1
+  drivers: [sebastian-vettel, romain-grosjean, lewis-hamilton, mark-webber, nico-hulkenberg, sergio-perez, fernando-alonso, valtteri-bottas, paul-di-resta, daniel-ricciardo, nico-rosberg, heikki-kovalainen, felipe-massa, esteban-gutierrez, jenson-button, jean-eric-vergne, pastor-maldonado, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 2
+  drivers: [sebastian-vettel, romain-grosjean, lewis-hamilton, mark-webber, nico-hulkenberg, sergio-perez, fernando-alonso, valtteri-bottas, paul-di-resta, daniel-ricciardo, nico-rosberg, heikki-kovalainen, felipe-massa, jenson-button, jean-eric-vergne, pastor-maldonado, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton, esteban-gutierrez]
+- lap: 3
+  drivers: [sebastian-vettel, romain-grosjean, lewis-hamilton, mark-webber, nico-hulkenberg, sergio-perez, fernando-alonso, valtteri-bottas, paul-di-resta, daniel-ricciardo, nico-rosberg, heikki-kovalainen, felipe-massa, jenson-button, jean-eric-vergne, pastor-maldonado, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton, esteban-gutierrez]
+- lap: 4
+  drivers: [sebastian-vettel, romain-grosjean, lewis-hamilton, mark-webber, nico-hulkenberg, sergio-perez, fernando-alonso, valtteri-bottas, paul-di-resta, daniel-ricciardo, nico-rosberg, heikki-kovalainen, felipe-massa, jenson-button, jean-eric-vergne, pastor-maldonado, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton, esteban-gutierrez]
+- lap: 5
+  drivers: [sebastian-vettel, romain-grosjean, lewis-hamilton, mark-webber, nico-hulkenberg, sergio-perez, fernando-alonso, valtteri-bottas, paul-di-resta, daniel-ricciardo, nico-rosberg, heikki-kovalainen, felipe-massa, jenson-button, jean-eric-vergne, pastor-maldonado, jules-bianchi, giedo-van-der-garde, esteban-gutierrez, charles-pic, max-chilton]
+- lap: 6
+  drivers: [sebastian-vettel, romain-grosjean, lewis-hamilton, mark-webber, nico-hulkenberg, sergio-perez, fernando-alonso, valtteri-bottas, paul-di-resta, daniel-ricciardo, nico-rosberg, heikki-kovalainen, felipe-massa, jenson-button, jean-eric-vergne, pastor-maldonado, jules-bianchi, esteban-gutierrez, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 7
+  drivers: [sebastian-vettel, romain-grosjean, lewis-hamilton, mark-webber, nico-hulkenberg, sergio-perez, fernando-alonso, valtteri-bottas, paul-di-resta, daniel-ricciardo, nico-rosberg, heikki-kovalainen, felipe-massa, jenson-button, jean-eric-vergne, pastor-maldonado, esteban-gutierrez, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 8
+  drivers: [sebastian-vettel, romain-grosjean, lewis-hamilton, mark-webber, nico-hulkenberg, sergio-perez, fernando-alonso, valtteri-bottas, paul-di-resta, daniel-ricciardo, nico-rosberg, heikki-kovalainen, felipe-massa, jenson-button, jean-eric-vergne, pastor-maldonado, esteban-gutierrez, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 9
+  drivers: [sebastian-vettel, romain-grosjean, lewis-hamilton, mark-webber, nico-hulkenberg, sergio-perez, fernando-alonso, valtteri-bottas, paul-di-resta, daniel-ricciardo, nico-rosberg, heikki-kovalainen, felipe-massa, jenson-button, jean-eric-vergne, esteban-gutierrez, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton, pastor-maldonado]
+- lap: 10
+  drivers: [sebastian-vettel, romain-grosjean, lewis-hamilton, mark-webber, nico-hulkenberg, sergio-perez, fernando-alonso, valtteri-bottas, paul-di-resta, daniel-ricciardo, nico-rosberg, heikki-kovalainen, felipe-massa, jenson-button, jean-eric-vergne, esteban-gutierrez, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton, pastor-maldonado]
+- lap: 11
+  drivers: [sebastian-vettel, romain-grosjean, lewis-hamilton, mark-webber, nico-hulkenberg, sergio-perez, fernando-alonso, valtteri-bottas, paul-di-resta, daniel-ricciardo, nico-rosberg, heikki-kovalainen, felipe-massa, jenson-button, jean-eric-vergne, esteban-gutierrez, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton, pastor-maldonado]
+- lap: 12
+  drivers: [sebastian-vettel, romain-grosjean, lewis-hamilton, mark-webber, nico-hulkenberg, sergio-perez, fernando-alonso, valtteri-bottas, paul-di-resta, daniel-ricciardo, nico-rosberg, heikki-kovalainen, felipe-massa, jenson-button, jean-eric-vergne, esteban-gutierrez, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton, pastor-maldonado]
+- lap: 13
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, sergio-perez, fernando-alonso, valtteri-bottas, paul-di-resta, daniel-ricciardo, nico-rosberg, heikki-kovalainen, felipe-massa, jenson-button, jean-eric-vergne, esteban-gutierrez, jules-bianchi, giedo-van-der-garde, charles-pic, pastor-maldonado, max-chilton]
+- lap: 14
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, sergio-perez, fernando-alonso, valtteri-bottas, paul-di-resta, daniel-ricciardo, nico-rosberg, heikki-kovalainen, felipe-massa, jenson-button, jean-eric-vergne, esteban-gutierrez, jules-bianchi, giedo-van-der-garde, charles-pic, pastor-maldonado, max-chilton]
+- lap: 15
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, sergio-perez, fernando-alonso, valtteri-bottas, paul-di-resta, daniel-ricciardo, nico-rosberg, heikki-kovalainen, felipe-massa, jenson-button, jean-eric-vergne, esteban-gutierrez, jules-bianchi, giedo-van-der-garde, charles-pic, pastor-maldonado, max-chilton]
+- lap: 16
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, sergio-perez, fernando-alonso, valtteri-bottas, paul-di-resta, daniel-ricciardo, nico-rosberg, heikki-kovalainen, felipe-massa, jenson-button, jean-eric-vergne, esteban-gutierrez, jules-bianchi, giedo-van-der-garde, charles-pic, pastor-maldonado, max-chilton]
+- lap: 17
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, sergio-perez, fernando-alonso, valtteri-bottas, paul-di-resta, daniel-ricciardo, nico-rosberg, heikki-kovalainen, felipe-massa, jenson-button, jean-eric-vergne, esteban-gutierrez, jules-bianchi, giedo-van-der-garde, charles-pic, pastor-maldonado, max-chilton]
+- lap: 18
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, sergio-perez, fernando-alonso, valtteri-bottas, paul-di-resta, daniel-ricciardo, nico-rosberg, felipe-massa, jenson-button, jean-eric-vergne, esteban-gutierrez, heikki-kovalainen, jules-bianchi, giedo-van-der-garde, charles-pic, pastor-maldonado, max-chilton]
+- lap: 19
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, sergio-perez, fernando-alonso, valtteri-bottas, paul-di-resta, nico-rosberg, daniel-ricciardo, felipe-massa, jenson-button, jean-eric-vergne, esteban-gutierrez, heikki-kovalainen, jules-bianchi, giedo-van-der-garde, charles-pic, pastor-maldonado, max-chilton]
+- lap: 20
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, sergio-perez, fernando-alonso, valtteri-bottas, paul-di-resta, nico-rosberg, daniel-ricciardo, felipe-massa, jenson-button, jean-eric-vergne, esteban-gutierrez, heikki-kovalainen, jules-bianchi, giedo-van-der-garde, charles-pic, pastor-maldonado, max-chilton]
+- lap: 21
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, sergio-perez, fernando-alonso, valtteri-bottas, paul-di-resta, nico-rosberg, daniel-ricciardo, felipe-massa, jean-eric-vergne, esteban-gutierrez, heikki-kovalainen, jenson-button, jules-bianchi, giedo-van-der-garde, pastor-maldonado, max-chilton, charles-pic]
+- lap: 22
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, sergio-perez, fernando-alonso, valtteri-bottas, paul-di-resta, nico-rosberg, daniel-ricciardo, jean-eric-vergne, esteban-gutierrez, heikki-kovalainen, felipe-massa, jenson-button, pastor-maldonado, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 23
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, fernando-alonso, valtteri-bottas, jean-eric-vergne, esteban-gutierrez, sergio-perez, heikki-kovalainen, paul-di-resta, nico-rosberg, daniel-ricciardo, felipe-massa, jenson-button, pastor-maldonado, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 24
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, fernando-alonso, jean-eric-vergne, esteban-gutierrez, sergio-perez, valtteri-bottas, heikki-kovalainen, paul-di-resta, nico-rosberg, daniel-ricciardo, felipe-massa, jenson-button, pastor-maldonado, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 25
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, fernando-alonso, esteban-gutierrez, jean-eric-vergne, sergio-perez, valtteri-bottas, heikki-kovalainen, paul-di-resta, nico-rosberg, daniel-ricciardo, felipe-massa, jenson-button, pastor-maldonado, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 26
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, nico-hulkenberg, fernando-alonso, lewis-hamilton, esteban-gutierrez, sergio-perez, jean-eric-vergne, valtteri-bottas, heikki-kovalainen, paul-di-resta, nico-rosberg, daniel-ricciardo, felipe-massa, jenson-button, pastor-maldonado, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 27
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, nico-hulkenberg, lewis-hamilton, esteban-gutierrez, fernando-alonso, sergio-perez, valtteri-bottas, jean-eric-vergne, heikki-kovalainen, paul-di-resta, nico-rosberg, daniel-ricciardo, felipe-massa, jenson-button, pastor-maldonado, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 28
+  drivers: [romain-grosjean, mark-webber, sebastian-vettel, lewis-hamilton, nico-hulkenberg, esteban-gutierrez, fernando-alonso, sergio-perez, valtteri-bottas, heikki-kovalainen, paul-di-resta, nico-rosberg, daniel-ricciardo, felipe-massa, jenson-button, jean-eric-vergne, pastor-maldonado, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 29
+  drivers: [romain-grosjean, sebastian-vettel, mark-webber, lewis-hamilton, nico-hulkenberg, fernando-alonso, esteban-gutierrez, sergio-perez, valtteri-bottas, paul-di-resta, heikki-kovalainen, nico-rosberg, daniel-ricciardo, felipe-massa, jenson-button, jean-eric-vergne, pastor-maldonado, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 30
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, fernando-alonso, sergio-perez, esteban-gutierrez, valtteri-bottas, paul-di-resta, heikki-kovalainen, nico-rosberg, daniel-ricciardo, felipe-massa, jenson-button, jean-eric-vergne, pastor-maldonado, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 31
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, fernando-alonso, sergio-perez, esteban-gutierrez, valtteri-bottas, paul-di-resta, nico-rosberg, heikki-kovalainen, daniel-ricciardo, felipe-massa, jenson-button, jean-eric-vergne, pastor-maldonado, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 32
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, fernando-alonso, sergio-perez, esteban-gutierrez, valtteri-bottas, paul-di-resta, nico-rosberg, daniel-ricciardo, felipe-massa, jenson-button, jean-eric-vergne, pastor-maldonado, heikki-kovalainen, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 33
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, fernando-alonso, sergio-perez, esteban-gutierrez, valtteri-bottas, nico-rosberg, paul-di-resta, daniel-ricciardo, felipe-massa, jenson-button, jean-eric-vergne, pastor-maldonado, heikki-kovalainen, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 34
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, fernando-alonso, sergio-perez, esteban-gutierrez, valtteri-bottas, nico-rosberg, paul-di-resta, daniel-ricciardo, felipe-massa, jenson-button, jean-eric-vergne, pastor-maldonado, heikki-kovalainen, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 35
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, fernando-alonso, sergio-perez, valtteri-bottas, esteban-gutierrez, nico-rosberg, paul-di-resta, daniel-ricciardo, felipe-massa, jenson-button, jean-eric-vergne, pastor-maldonado, heikki-kovalainen, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 36
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, fernando-alonso, sergio-perez, valtteri-bottas, esteban-gutierrez, nico-rosberg, paul-di-resta, daniel-ricciardo, felipe-massa, jenson-button, jean-eric-vergne, pastor-maldonado, heikki-kovalainen, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 37
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, fernando-alonso, sergio-perez, valtteri-bottas, nico-rosberg, paul-di-resta, daniel-ricciardo, felipe-massa, jenson-button, jean-eric-vergne, esteban-gutierrez, pastor-maldonado, heikki-kovalainen, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 38
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, fernando-alonso, sergio-perez, valtteri-bottas, nico-rosberg, paul-di-resta, daniel-ricciardo, felipe-massa, jenson-button, jean-eric-vergne, esteban-gutierrez, pastor-maldonado, heikki-kovalainen, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 39
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, fernando-alonso, sergio-perez, valtteri-bottas, nico-rosberg, paul-di-resta, daniel-ricciardo, jenson-button, jean-eric-vergne, esteban-gutierrez, pastor-maldonado, felipe-massa, heikki-kovalainen, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 40
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, fernando-alonso, sergio-perez, valtteri-bottas, nico-rosberg, paul-di-resta, daniel-ricciardo, jenson-button, jean-eric-vergne, esteban-gutierrez, pastor-maldonado, felipe-massa, heikki-kovalainen, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 41
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, fernando-alonso, sergio-perez, valtteri-bottas, nico-rosberg, paul-di-resta, daniel-ricciardo, jenson-button, jean-eric-vergne, esteban-gutierrez, pastor-maldonado, felipe-massa, heikki-kovalainen, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 42
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, fernando-alonso, sergio-perez, valtteri-bottas, nico-rosberg, paul-di-resta, daniel-ricciardo, jenson-button, jean-eric-vergne, esteban-gutierrez, pastor-maldonado, felipe-massa, heikki-kovalainen, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 43
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, fernando-alonso, sergio-perez, valtteri-bottas, nico-rosberg, paul-di-resta, daniel-ricciardo, jenson-button, jean-eric-vergne, esteban-gutierrez, pastor-maldonado, felipe-massa, heikki-kovalainen, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 44
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, nico-hulkenberg, fernando-alonso, sergio-perez, valtteri-bottas, nico-rosberg, daniel-ricciardo, paul-di-resta, jenson-button, jean-eric-vergne, esteban-gutierrez, pastor-maldonado, felipe-massa, heikki-kovalainen, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 45
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, fernando-alonso, nico-hulkenberg, sergio-perez, valtteri-bottas, nico-rosberg, daniel-ricciardo, paul-di-resta, jenson-button, jean-eric-vergne, esteban-gutierrez, pastor-maldonado, felipe-massa, heikki-kovalainen, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 46
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, fernando-alonso, nico-hulkenberg, sergio-perez, valtteri-bottas, nico-rosberg, daniel-ricciardo, paul-di-resta, jenson-button, jean-eric-vergne, esteban-gutierrez, felipe-massa, pastor-maldonado, heikki-kovalainen, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 47
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, fernando-alonso, nico-hulkenberg, sergio-perez, valtteri-bottas, nico-rosberg, daniel-ricciardo, paul-di-resta, jenson-button, jean-eric-vergne, esteban-gutierrez, felipe-massa, pastor-maldonado, heikki-kovalainen, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 48
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, fernando-alonso, nico-hulkenberg, sergio-perez, valtteri-bottas, nico-rosberg, daniel-ricciardo, paul-di-resta, jenson-button, jean-eric-vergne, esteban-gutierrez, felipe-massa, pastor-maldonado, heikki-kovalainen, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 49
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, fernando-alonso, nico-hulkenberg, sergio-perez, valtteri-bottas, nico-rosberg, daniel-ricciardo, jenson-button, paul-di-resta, jean-eric-vergne, esteban-gutierrez, felipe-massa, pastor-maldonado, heikki-kovalainen, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 50
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, fernando-alonso, nico-hulkenberg, sergio-perez, valtteri-bottas, nico-rosberg, daniel-ricciardo, jenson-button, jean-eric-vergne, esteban-gutierrez, felipe-massa, heikki-kovalainen, paul-di-resta, pastor-maldonado, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 51
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, fernando-alonso, nico-hulkenberg, sergio-perez, valtteri-bottas, nico-rosberg, daniel-ricciardo, jenson-button, jean-eric-vergne, esteban-gutierrez, felipe-massa, heikki-kovalainen, paul-di-resta, pastor-maldonado, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 52
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, fernando-alonso, nico-hulkenberg, sergio-perez, valtteri-bottas, nico-rosberg, daniel-ricciardo, jenson-button, jean-eric-vergne, esteban-gutierrez, felipe-massa, heikki-kovalainen, paul-di-resta, pastor-maldonado, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 53
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, fernando-alonso, nico-hulkenberg, sergio-perez, valtteri-bottas, nico-rosberg, daniel-ricciardo, jenson-button, jean-eric-vergne, esteban-gutierrez, felipe-massa, heikki-kovalainen, paul-di-resta, pastor-maldonado, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 54
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, fernando-alonso, nico-hulkenberg, sergio-perez, valtteri-bottas, nico-rosberg, daniel-ricciardo, jenson-button, jean-eric-vergne, esteban-gutierrez, felipe-massa, heikki-kovalainen, paul-di-resta, pastor-maldonado, jules-bianchi, giedo-van-der-garde, charles-pic, max-chilton]
+- lap: 55
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, fernando-alonso, nico-hulkenberg, sergio-perez, valtteri-bottas, nico-rosberg, jenson-button, daniel-ricciardo, jean-eric-vergne, esteban-gutierrez, felipe-massa, heikki-kovalainen, paul-di-resta, pastor-maldonado, jules-bianchi, giedo-van-der-garde, charles-pic]
+- lap: 56
+  drivers: [sebastian-vettel, romain-grosjean, mark-webber, lewis-hamilton, fernando-alonso, nico-hulkenberg, sergio-perez, valtteri-bottas, nico-rosberg, jenson-button, daniel-ricciardo, jean-eric-vergne, felipe-massa, esteban-gutierrez, heikki-kovalainen, paul-di-resta]

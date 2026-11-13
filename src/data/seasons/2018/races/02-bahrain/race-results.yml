@@ -230,7 +230,7 @@
   tyreManufacturerId: pirelli
   laps: 56
   time:
-  timePenalty:
+  timePenalty: "30.000"
   gap: "+1 lap"
   interval:
   reasonRetired:

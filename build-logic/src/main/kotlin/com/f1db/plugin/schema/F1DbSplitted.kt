@@ -18,6 +18,7 @@ import com.f1db.plugin.schema.mapper.raceDriverOfTheDayResultMapper
 import com.f1db.plugin.schema.mapper.raceDriverStandingMapper
 import com.f1db.plugin.schema.mapper.raceFastestLapMapper
 import com.f1db.plugin.schema.mapper.raceMapper
+import com.f1db.plugin.schema.mapper.raceLapPositionMapper
 import com.f1db.plugin.schema.mapper.racePitStopMapper
 import com.f1db.plugin.schema.mapper.racePracticeResultMapper
 import com.f1db.plugin.schema.mapper.raceQualifyingResultMapper
@@ -53,6 +54,7 @@ import com.f1db.plugin.schema.splitted.EngineManufacturer
 import com.f1db.plugin.schema.splitted.Entrant
 import com.f1db.plugin.schema.splitted.FastestLap
 import com.f1db.plugin.schema.splitted.GrandPrix
+import com.f1db.plugin.schema.splitted.LapPosition
 import com.f1db.plugin.schema.splitted.PitStop
 import com.f1db.plugin.schema.splitted.PracticeResult
 import com.f1db.plugin.schema.splitted.QualifyingResult
@@ -348,6 +350,21 @@ class F1DbSplitted(private val db: F1db) {
         get() = db.races
                 .filter { it.pitStops != null }
                 .flatMap { race -> racePitStopMapper.toSplittedPitStops(race.pitStops, race) }
+
+    val raceSprintFastestLaps: List<FastestLap>
+        get() = db.races
+                .filter { it.sprintFastestLaps != null }
+                .flatMap { race -> raceFastestLapMapper.toSplittedFastestLaps(race.sprintFastestLaps, race) }
+
+    val raceLapPositions: List<LapPosition>
+        get() = db.races
+                .filter { it.lapPositions != null }
+                .flatMap { race -> raceLapPositionMapper.toSplittedLapPositions(race.lapPositions, race) }
+
+    val raceSprintLapPositions: List<LapPosition>
+        get() = db.races
+                .filter { it.sprintLapPositions != null }
+                .flatMap { race -> raceLapPositionMapper.toSplittedLapPositions(race.sprintLapPositions, race) }
 
     val raceDriverOfTheDayResults: List<DriverOfTheDayResult>
         get() = db.races

@@ -1,0 +1,122 @@
+- lap: 0
+  drivers: [ayrton-senna, keke-rosberg, elio-de-angelis, michele-alboreto, thierry-boutsen, alain-prost, nigel-mansell, niki-lauda, nelson-piquet, gerhard-berger, patrick-tambay, eddie-cheever, andrea-de-cesaris, derek-warwick, stefan-johansson, jacques-laffite, riccardo-patrese, pierluigi-martini, francois-hesnault, philippe-alliot, piercarlo-ghinzani, manfred-winkelhock, stefan-bellof, martin-brundle, mauro-baldi]
+- lap: 1
+  drivers: [ayrton-senna, elio-de-angelis, michele-alboreto, alain-prost, keke-rosberg, nigel-mansell, niki-lauda, eddie-cheever, thierry-boutsen, nelson-piquet, andrea-de-cesaris, gerhard-berger, riccardo-patrese, patrick-tambay, stefan-johansson, derek-warwick, jacques-laffite, stefan-bellof, martin-brundle, philippe-alliot, piercarlo-ghinzani, pierluigi-martini, manfred-winkelhock, francois-hesnault, mauro-baldi]
+- lap: 2
+  drivers: [ayrton-senna, elio-de-angelis, michele-alboreto, alain-prost, keke-rosberg, nigel-mansell, niki-lauda, nelson-piquet, thierry-boutsen, eddie-cheever, andrea-de-cesaris, riccardo-patrese, gerhard-berger, stefan-johansson, patrick-tambay, derek-warwick, jacques-laffite, stefan-bellof, martin-brundle, philippe-alliot, piercarlo-ghinzani, manfred-winkelhock, pierluigi-martini, francois-hesnault, mauro-baldi]
+- lap: 3
+  drivers: [ayrton-senna, elio-de-angelis, michele-alboreto, alain-prost, keke-rosberg, nigel-mansell, nelson-piquet, niki-lauda, thierry-boutsen, eddie-cheever, andrea-de-cesaris, riccardo-patrese, gerhard-berger, stefan-johansson, patrick-tambay, derek-warwick, jacques-laffite, stefan-bellof, philippe-alliot, martin-brundle, piercarlo-ghinzani, manfred-winkelhock, francois-hesnault, pierluigi-martini, mauro-baldi]
+- lap: 4
+  drivers: [ayrton-senna, elio-de-angelis, michele-alboreto, alain-prost, keke-rosberg, nigel-mansell, niki-lauda, nelson-piquet, eddie-cheever, thierry-boutsen, andrea-de-cesaris, stefan-johansson, gerhard-berger, riccardo-patrese, patrick-tambay, jacques-laffite, derek-warwick, philippe-alliot, piercarlo-ghinzani, martin-brundle, manfred-winkelhock, francois-hesnault, pierluigi-martini, mauro-baldi, stefan-bellof]
+- lap: 5
+  drivers: [ayrton-senna, elio-de-angelis, michele-alboreto, alain-prost, keke-rosberg, niki-lauda, nelson-piquet, nigel-mansell, eddie-cheever, thierry-boutsen, andrea-de-cesaris, stefan-johansson, patrick-tambay, jacques-laffite, derek-warwick, philippe-alliot, piercarlo-ghinzani, manfred-winkelhock, martin-brundle, francois-hesnault, pierluigi-martini, mauro-baldi, stefan-bellof]
+- lap: 6
+  drivers: [ayrton-senna, elio-de-angelis, michele-alboreto, alain-prost, niki-lauda, keke-rosberg, nelson-piquet, nigel-mansell, eddie-cheever, thierry-boutsen, andrea-de-cesaris, stefan-johansson, patrick-tambay, jacques-laffite, derek-warwick, philippe-alliot, piercarlo-ghinzani, manfred-winkelhock, martin-brundle, pierluigi-martini, mauro-baldi]
+- lap: 7
+  drivers: [ayrton-senna, elio-de-angelis, michele-alboreto, alain-prost, niki-lauda, nelson-piquet, keke-rosberg, nigel-mansell, eddie-cheever, thierry-boutsen, andrea-de-cesaris, stefan-johansson, patrick-tambay, jacques-laffite, derek-warwick, philippe-alliot, manfred-winkelhock, piercarlo-ghinzani, martin-brundle, pierluigi-martini, mauro-baldi]
+- lap: 8
+  drivers: [ayrton-senna, elio-de-angelis, michele-alboreto, alain-prost, niki-lauda, nelson-piquet, keke-rosberg, nigel-mansell, eddie-cheever, thierry-boutsen, andrea-de-cesaris, stefan-johansson, patrick-tambay, jacques-laffite, derek-warwick, philippe-alliot, manfred-winkelhock, piercarlo-ghinzani, martin-brundle, pierluigi-martini, mauro-baldi]
+- lap: 9
+  drivers: [ayrton-senna, elio-de-angelis, michele-alboreto, alain-prost, niki-lauda, nelson-piquet, keke-rosberg, nigel-mansell, eddie-cheever, thierry-boutsen, stefan-johansson, andrea-de-cesaris, patrick-tambay, jacques-laffite, derek-warwick, philippe-alliot, manfred-winkelhock, piercarlo-ghinzani, martin-brundle, pierluigi-martini, mauro-baldi]
+- lap: 10
+  drivers: [ayrton-senna, elio-de-angelis, michele-alboreto, alain-prost, niki-lauda, nelson-piquet, keke-rosberg, nigel-mansell, eddie-cheever, thierry-boutsen, stefan-johansson, andrea-de-cesaris, patrick-tambay, jacques-laffite, derek-warwick, manfred-winkelhock, piercarlo-ghinzani, martin-brundle, pierluigi-martini, philippe-alliot]
+- lap: 11
+  drivers: [ayrton-senna, michele-alboreto, elio-de-angelis, alain-prost, niki-lauda, keke-rosberg, nigel-mansell, eddie-cheever, stefan-johansson, thierry-boutsen, patrick-tambay, nelson-piquet, jacques-laffite, derek-warwick, manfred-winkelhock, piercarlo-ghinzani, martin-brundle, pierluigi-martini, andrea-de-cesaris, philippe-alliot]
+- lap: 12
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, elio-de-angelis, niki-lauda, keke-rosberg, nigel-mansell, eddie-cheever, stefan-johansson, thierry-boutsen, patrick-tambay, jacques-laffite, nelson-piquet, derek-warwick, manfred-winkelhock, piercarlo-ghinzani, martin-brundle, pierluigi-martini, philippe-alliot]
+- lap: 13
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, elio-de-angelis, niki-lauda, keke-rosberg, nigel-mansell, stefan-johansson, thierry-boutsen, eddie-cheever, patrick-tambay, jacques-laffite, nelson-piquet, derek-warwick, manfred-winkelhock, martin-brundle, pierluigi-martini, philippe-alliot, piercarlo-ghinzani]
+- lap: 14
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, elio-de-angelis, niki-lauda, keke-rosberg, stefan-johansson, nigel-mansell, thierry-boutsen, eddie-cheever, patrick-tambay, jacques-laffite, nelson-piquet, derek-warwick, manfred-winkelhock, martin-brundle, pierluigi-martini, philippe-alliot, piercarlo-ghinzani]
+- lap: 15
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, elio-de-angelis, niki-lauda, keke-rosberg, stefan-johansson, nigel-mansell, thierry-boutsen, eddie-cheever, patrick-tambay, jacques-laffite, nelson-piquet, derek-warwick, manfred-winkelhock, martin-brundle, philippe-alliot, piercarlo-ghinzani]
+- lap: 16
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, elio-de-angelis, niki-lauda, keke-rosberg, stefan-johansson, nigel-mansell, thierry-boutsen, eddie-cheever, patrick-tambay, jacques-laffite, nelson-piquet, derek-warwick, manfred-winkelhock, martin-brundle, philippe-alliot, piercarlo-ghinzani]
+- lap: 17
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, niki-lauda, elio-de-angelis, keke-rosberg, stefan-johansson, nigel-mansell, thierry-boutsen, eddie-cheever, patrick-tambay, jacques-laffite, nelson-piquet, derek-warwick, manfred-winkelhock, martin-brundle, philippe-alliot, piercarlo-ghinzani]
+- lap: 18
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, niki-lauda, elio-de-angelis, keke-rosberg, stefan-johansson, nigel-mansell, thierry-boutsen, eddie-cheever, patrick-tambay, nelson-piquet, jacques-laffite, derek-warwick, manfred-winkelhock, martin-brundle, philippe-alliot, piercarlo-ghinzani]
+- lap: 19
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, niki-lauda, elio-de-angelis, stefan-johansson, keke-rosberg, nigel-mansell, thierry-boutsen, eddie-cheever, nelson-piquet, patrick-tambay, jacques-laffite, derek-warwick, manfred-winkelhock, martin-brundle, philippe-alliot, piercarlo-ghinzani]
+- lap: 20
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, niki-lauda, elio-de-angelis, stefan-johansson, keke-rosberg, nigel-mansell, thierry-boutsen, eddie-cheever, nelson-piquet, patrick-tambay, jacques-laffite, derek-warwick, manfred-winkelhock, martin-brundle, philippe-alliot, piercarlo-ghinzani]
+- lap: 21
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, niki-lauda, elio-de-angelis, stefan-johansson, keke-rosberg, nigel-mansell, thierry-boutsen, eddie-cheever, nelson-piquet, patrick-tambay, jacques-laffite, derek-warwick, manfred-winkelhock, martin-brundle, philippe-alliot, piercarlo-ghinzani]
+- lap: 22
+  drivers: [ayrton-senna, michele-alboreto, alain-prost, niki-lauda, elio-de-angelis, stefan-johansson, keke-rosberg, nigel-mansell, thierry-boutsen, nelson-piquet, eddie-cheever, patrick-tambay, jacques-laffite, derek-warwick, manfred-winkelhock, martin-brundle, philippe-alliot, piercarlo-ghinzani]
+- lap: 23
+  drivers: [ayrton-senna, alain-prost, michele-alboreto, niki-lauda, elio-de-angelis, stefan-johansson, keke-rosberg, nigel-mansell, nelson-piquet, thierry-boutsen, eddie-cheever, patrick-tambay, derek-warwick, manfred-winkelhock, martin-brundle, philippe-alliot, piercarlo-ghinzani]
+- lap: 24
+  drivers: [ayrton-senna, alain-prost, niki-lauda, elio-de-angelis, stefan-johansson, nelson-piquet, nigel-mansell, thierry-boutsen, eddie-cheever, patrick-tambay, derek-warwick, michele-alboreto, manfred-winkelhock, martin-brundle, philippe-alliot, piercarlo-ghinzani]
+- lap: 25
+  drivers: [ayrton-senna, alain-prost, niki-lauda, elio-de-angelis, stefan-johansson, nelson-piquet, nigel-mansell, thierry-boutsen, eddie-cheever, patrick-tambay, derek-warwick, manfred-winkelhock, martin-brundle, michele-alboreto, piercarlo-ghinzani]
+- lap: 26
+  drivers: [ayrton-senna, alain-prost, niki-lauda, elio-de-angelis, stefan-johansson, nelson-piquet, nigel-mansell, thierry-boutsen, eddie-cheever, patrick-tambay, derek-warwick, manfred-winkelhock, martin-brundle, michele-alboreto, piercarlo-ghinzani]
+- lap: 27
+  drivers: [ayrton-senna, alain-prost, niki-lauda, elio-de-angelis, stefan-johansson, nelson-piquet, nigel-mansell, thierry-boutsen, eddie-cheever, patrick-tambay, derek-warwick, manfred-winkelhock, martin-brundle, michele-alboreto, piercarlo-ghinzani]
+- lap: 28
+  drivers: [ayrton-senna, alain-prost, niki-lauda, elio-de-angelis, stefan-johansson, nelson-piquet, nigel-mansell, thierry-boutsen, eddie-cheever, patrick-tambay, derek-warwick, martin-brundle, michele-alboreto, piercarlo-ghinzani]
+- lap: 29
+  drivers: [ayrton-senna, alain-prost, niki-lauda, elio-de-angelis, stefan-johansson, nelson-piquet, nigel-mansell, thierry-boutsen, eddie-cheever, patrick-tambay, derek-warwick, martin-brundle, michele-alboreto, piercarlo-ghinzani]
+- lap: 30
+  drivers: [ayrton-senna, alain-prost, niki-lauda, elio-de-angelis, stefan-johansson, nelson-piquet, nigel-mansell, thierry-boutsen, eddie-cheever, patrick-tambay, derek-warwick, martin-brundle, piercarlo-ghinzani]
+- lap: 31
+  drivers: [ayrton-senna, alain-prost, niki-lauda, elio-de-angelis, stefan-johansson, nelson-piquet, nigel-mansell, thierry-boutsen, eddie-cheever, patrick-tambay, derek-warwick, martin-brundle, piercarlo-ghinzani]
+- lap: 32
+  drivers: [ayrton-senna, alain-prost, niki-lauda, elio-de-angelis, stefan-johansson, nelson-piquet, nigel-mansell, thierry-boutsen, eddie-cheever, patrick-tambay, derek-warwick, martin-brundle, piercarlo-ghinzani]
+- lap: 33
+  drivers: [ayrton-senna, alain-prost, niki-lauda, elio-de-angelis, stefan-johansson, nelson-piquet, nigel-mansell, thierry-boutsen, eddie-cheever, patrick-tambay, derek-warwick, martin-brundle, piercarlo-ghinzani]
+- lap: 34
+  drivers: [ayrton-senna, alain-prost, niki-lauda, elio-de-angelis, stefan-johansson, nelson-piquet, nigel-mansell, thierry-boutsen, eddie-cheever, patrick-tambay, derek-warwick, martin-brundle, piercarlo-ghinzani]
+- lap: 35
+  drivers: [ayrton-senna, alain-prost, elio-de-angelis, niki-lauda, stefan-johansson, nelson-piquet, nigel-mansell, thierry-boutsen, eddie-cheever, patrick-tambay, derek-warwick, martin-brundle, piercarlo-ghinzani]
+- lap: 36
+  drivers: [ayrton-senna, alain-prost, elio-de-angelis, niki-lauda, stefan-johansson, nelson-piquet, nigel-mansell, thierry-boutsen, eddie-cheever, patrick-tambay, derek-warwick, martin-brundle, piercarlo-ghinzani]
+- lap: 37
+  drivers: [ayrton-senna, alain-prost, elio-de-angelis, stefan-johansson, niki-lauda, nelson-piquet, nigel-mansell, thierry-boutsen, eddie-cheever, patrick-tambay, derek-warwick, martin-brundle, piercarlo-ghinzani]
+- lap: 38
+  drivers: [ayrton-senna, alain-prost, elio-de-angelis, stefan-johansson, niki-lauda, nelson-piquet, thierry-boutsen, eddie-cheever, nigel-mansell, patrick-tambay, derek-warwick, martin-brundle, piercarlo-ghinzani]
+- lap: 39
+  drivers: [ayrton-senna, alain-prost, elio-de-angelis, stefan-johansson, niki-lauda, nelson-piquet, thierry-boutsen, nigel-mansell, eddie-cheever, patrick-tambay, derek-warwick, martin-brundle, piercarlo-ghinzani]
+- lap: 40
+  drivers: [ayrton-senna, alain-prost, elio-de-angelis, stefan-johansson, niki-lauda, nelson-piquet, thierry-boutsen, nigel-mansell, eddie-cheever, patrick-tambay, derek-warwick, martin-brundle, piercarlo-ghinzani]
+- lap: 41
+  drivers: [ayrton-senna, alain-prost, elio-de-angelis, stefan-johansson, niki-lauda, nelson-piquet, thierry-boutsen, nigel-mansell, eddie-cheever, patrick-tambay, martin-brundle, derek-warwick, piercarlo-ghinzani]
+- lap: 42
+  drivers: [ayrton-senna, alain-prost, elio-de-angelis, stefan-johansson, niki-lauda, nelson-piquet, thierry-boutsen, nigel-mansell, eddie-cheever, patrick-tambay, martin-brundle, derek-warwick, piercarlo-ghinzani]
+- lap: 43
+  drivers: [ayrton-senna, alain-prost, elio-de-angelis, stefan-johansson, niki-lauda, nelson-piquet, thierry-boutsen, nigel-mansell, eddie-cheever, patrick-tambay, martin-brundle, derek-warwick, piercarlo-ghinzani]
+- lap: 44
+  drivers: [ayrton-senna, alain-prost, elio-de-angelis, stefan-johansson, niki-lauda, thierry-boutsen, nelson-piquet, nigel-mansell, eddie-cheever, patrick-tambay, martin-brundle, derek-warwick, piercarlo-ghinzani]
+- lap: 45
+  drivers: [ayrton-senna, alain-prost, elio-de-angelis, stefan-johansson, niki-lauda, thierry-boutsen, nelson-piquet, nigel-mansell, eddie-cheever, patrick-tambay, martin-brundle, derek-warwick, piercarlo-ghinzani]
+- lap: 46
+  drivers: [ayrton-senna, alain-prost, elio-de-angelis, stefan-johansson, niki-lauda, thierry-boutsen, nelson-piquet, nigel-mansell, eddie-cheever, patrick-tambay, martin-brundle, derek-warwick, piercarlo-ghinzani]
+- lap: 47
+  drivers: [ayrton-senna, alain-prost, elio-de-angelis, stefan-johansson, niki-lauda, thierry-boutsen, nelson-piquet, nigel-mansell, eddie-cheever, patrick-tambay, martin-brundle, derek-warwick]
+- lap: 48
+  drivers: [ayrton-senna, alain-prost, elio-de-angelis, stefan-johansson, niki-lauda, thierry-boutsen, nelson-piquet, nigel-mansell, patrick-tambay, eddie-cheever, martin-brundle, derek-warwick]
+- lap: 49
+  drivers: [ayrton-senna, alain-prost, elio-de-angelis, stefan-johansson, niki-lauda, nelson-piquet, thierry-boutsen, nigel-mansell, patrick-tambay, eddie-cheever, martin-brundle, derek-warwick]
+- lap: 50
+  drivers: [ayrton-senna, alain-prost, stefan-johansson, elio-de-angelis, niki-lauda, nelson-piquet, thierry-boutsen, nigel-mansell, patrick-tambay, eddie-cheever, martin-brundle, derek-warwick]
+- lap: 51
+  drivers: [ayrton-senna, alain-prost, stefan-johansson, elio-de-angelis, niki-lauda, nelson-piquet, thierry-boutsen, nigel-mansell, patrick-tambay, martin-brundle, derek-warwick]
+- lap: 52
+  drivers: [ayrton-senna, alain-prost, stefan-johansson, elio-de-angelis, nelson-piquet, niki-lauda, thierry-boutsen, nigel-mansell, patrick-tambay, martin-brundle, derek-warwick]
+- lap: 53
+  drivers: [ayrton-senna, alain-prost, stefan-johansson, elio-de-angelis, nelson-piquet, thierry-boutsen, niki-lauda, patrick-tambay, nigel-mansell, martin-brundle, derek-warwick]
+- lap: 54
+  drivers: [ayrton-senna, stefan-johansson, alain-prost, elio-de-angelis, nelson-piquet, thierry-boutsen, niki-lauda, patrick-tambay, nigel-mansell, martin-brundle, derek-warwick]
+- lap: 55
+  drivers: [ayrton-senna, stefan-johansson, alain-prost, elio-de-angelis, nelson-piquet, thierry-boutsen, niki-lauda, patrick-tambay, nigel-mansell, martin-brundle, derek-warwick]
+- lap: 56
+  drivers: [ayrton-senna, stefan-johansson, alain-prost, elio-de-angelis, nelson-piquet, thierry-boutsen, niki-lauda, patrick-tambay, nigel-mansell, martin-brundle, derek-warwick]
+- lap: 57
+  drivers: [stefan-johansson, alain-prost, ayrton-senna, elio-de-angelis, nelson-piquet, thierry-boutsen, niki-lauda, patrick-tambay, nigel-mansell]
+- lap: 58
+  drivers: [alain-prost, elio-de-angelis, thierry-boutsen, patrick-tambay, niki-lauda, nigel-mansell]
+- lap: 59
+  drivers: [alain-prost, elio-de-angelis, thierry-boutsen, patrick-tambay, niki-lauda]
+- lap: 60
+  drivers: [alain-prost, elio-de-angelis]

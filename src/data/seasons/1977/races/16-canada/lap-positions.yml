@@ -1,0 +1,162 @@
+- lap: 0
+  drivers: [mario-andretti, james-hunt, ronnie-peterson, gunnar-nilsson, jochen-mass, patrick-depailler, alan-jones, riccardo-patrese, jody-scheckter, john-watson, jacques-laffite, carlos-reutemann, hans-joachim-stuck, clay-regazzoni, vittorio-brambilla, patrick-tambay, gilles-villeneuve, ian-scheckter, emerson-fittipaldi, brett-lunger, patrick-neve, danny-ongais, alex-ribeiro, hans-binder, rupert-keegan]
+- lap: 1
+  drivers: [mario-andretti, james-hunt, jochen-mass, gunnar-nilsson, riccardo-patrese, patrick-depailler, ronnie-peterson, john-watson, jody-scheckter, alan-jones, hans-joachim-stuck, carlos-reutemann, jacques-laffite, vittorio-brambilla, ian-scheckter, patrick-tambay, brett-lunger, danny-ongais, rupert-keegan, gilles-villeneuve, emerson-fittipaldi, alex-ribeiro, patrick-neve, hans-binder]
+- lap: 2
+  drivers: [mario-andretti, james-hunt, jochen-mass, gunnar-nilsson, patrick-depailler, riccardo-patrese, ronnie-peterson, jody-scheckter, alan-jones, carlos-reutemann, hans-joachim-stuck, jacques-laffite, vittorio-brambilla, ian-scheckter, patrick-tambay, brett-lunger, danny-ongais, rupert-keegan, gilles-villeneuve, alex-ribeiro, emerson-fittipaldi, patrick-neve, hans-binder]
+- lap: 3
+  drivers: [mario-andretti, james-hunt, jochen-mass, gunnar-nilsson, patrick-depailler, riccardo-patrese, ronnie-peterson, jody-scheckter, alan-jones, carlos-reutemann, hans-joachim-stuck, jacques-laffite, vittorio-brambilla, ian-scheckter, patrick-tambay, brett-lunger, rupert-keegan, danny-ongais, gilles-villeneuve, alex-ribeiro, emerson-fittipaldi, patrick-neve, hans-binder]
+- lap: 4
+  drivers: [mario-andretti, james-hunt, jochen-mass, gunnar-nilsson, patrick-depailler, riccardo-patrese, ronnie-peterson, jody-scheckter, alan-jones, carlos-reutemann, hans-joachim-stuck, jacques-laffite, vittorio-brambilla, ian-scheckter, patrick-tambay, brett-lunger, rupert-keegan, danny-ongais, gilles-villeneuve, alex-ribeiro, emerson-fittipaldi, patrick-neve, hans-binder]
+- lap: 5
+  drivers: [mario-andretti, james-hunt, jochen-mass, patrick-depailler, gunnar-nilsson, riccardo-patrese, ronnie-peterson, jody-scheckter, carlos-reutemann, alan-jones, hans-joachim-stuck, jacques-laffite, vittorio-brambilla, ian-scheckter, patrick-tambay, brett-lunger, rupert-keegan, gilles-villeneuve, danny-ongais, alex-ribeiro, emerson-fittipaldi, patrick-neve, hans-binder]
+- lap: 6
+  drivers: [mario-andretti, james-hunt, jochen-mass, patrick-depailler, gunnar-nilsson, riccardo-patrese, ronnie-peterson, jody-scheckter, carlos-reutemann, alan-jones, jacques-laffite, vittorio-brambilla, hans-joachim-stuck, ian-scheckter, patrick-tambay, brett-lunger, rupert-keegan, gilles-villeneuve, danny-ongais, alex-ribeiro, emerson-fittipaldi, patrick-neve, hans-binder]
+- lap: 7
+  drivers: [mario-andretti, james-hunt, jochen-mass, patrick-depailler, gunnar-nilsson, riccardo-patrese, jody-scheckter, ronnie-peterson, carlos-reutemann, alan-jones, jacques-laffite, vittorio-brambilla, hans-joachim-stuck, ian-scheckter, patrick-tambay, brett-lunger, rupert-keegan, gilles-villeneuve, danny-ongais, alex-ribeiro, emerson-fittipaldi, patrick-neve, hans-binder]
+- lap: 8
+  drivers: [mario-andretti, james-hunt, jochen-mass, patrick-depailler, gunnar-nilsson, riccardo-patrese, jody-scheckter, ronnie-peterson, carlos-reutemann, alan-jones, jacques-laffite, vittorio-brambilla, hans-joachim-stuck, ian-scheckter, patrick-tambay, brett-lunger, rupert-keegan, gilles-villeneuve, danny-ongais, alex-ribeiro, emerson-fittipaldi, patrick-neve, hans-binder]
+- lap: 9
+  drivers: [mario-andretti, james-hunt, jochen-mass, patrick-depailler, gunnar-nilsson, riccardo-patrese, jody-scheckter, ronnie-peterson, carlos-reutemann, alan-jones, jacques-laffite, vittorio-brambilla, hans-joachim-stuck, ian-scheckter, brett-lunger, patrick-tambay, rupert-keegan, gilles-villeneuve, danny-ongais, alex-ribeiro, emerson-fittipaldi, patrick-neve, hans-binder]
+- lap: 10
+  drivers: [mario-andretti, james-hunt, jochen-mass, patrick-depailler, gunnar-nilsson, jody-scheckter, riccardo-patrese, ronnie-peterson, carlos-reutemann, alan-jones, jacques-laffite, vittorio-brambilla, hans-joachim-stuck, ian-scheckter, brett-lunger, patrick-tambay, rupert-keegan, gilles-villeneuve, danny-ongais, alex-ribeiro, emerson-fittipaldi, patrick-neve, hans-binder]
+- lap: 11
+  drivers: [mario-andretti, james-hunt, jochen-mass, patrick-depailler, gunnar-nilsson, jody-scheckter, ronnie-peterson, riccardo-patrese, carlos-reutemann, alan-jones, jacques-laffite, vittorio-brambilla, hans-joachim-stuck, ian-scheckter, brett-lunger, patrick-tambay, rupert-keegan, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve, emerson-fittipaldi, hans-binder]
+- lap: 12
+  drivers: [mario-andretti, james-hunt, jochen-mass, patrick-depailler, gunnar-nilsson, jody-scheckter, carlos-reutemann, riccardo-patrese, alan-jones, jacques-laffite, vittorio-brambilla, hans-joachim-stuck, ian-scheckter, brett-lunger, ronnie-peterson, patrick-tambay, rupert-keegan, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve, emerson-fittipaldi, hans-binder]
+- lap: 13
+  drivers: [mario-andretti, james-hunt, jochen-mass, patrick-depailler, gunnar-nilsson, jody-scheckter, carlos-reutemann, riccardo-patrese, alan-jones, vittorio-brambilla, hans-joachim-stuck, ian-scheckter, brett-lunger, ronnie-peterson, patrick-tambay, rupert-keegan, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve, emerson-fittipaldi, hans-binder]
+- lap: 14
+  drivers: [mario-andretti, james-hunt, jochen-mass, gunnar-nilsson, patrick-depailler, jody-scheckter, carlos-reutemann, riccardo-patrese, alan-jones, vittorio-brambilla, hans-joachim-stuck, ronnie-peterson, ian-scheckter, brett-lunger, patrick-tambay, rupert-keegan, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve, emerson-fittipaldi, hans-binder]
+- lap: 15
+  drivers: [mario-andretti, james-hunt, jochen-mass, gunnar-nilsson, jody-scheckter, patrick-depailler, carlos-reutemann, riccardo-patrese, alan-jones, vittorio-brambilla, ronnie-peterson, hans-joachim-stuck, brett-lunger, ian-scheckter, patrick-tambay, rupert-keegan, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve, hans-binder, emerson-fittipaldi]
+- lap: 16
+  drivers: [mario-andretti, james-hunt, jochen-mass, gunnar-nilsson, jody-scheckter, carlos-reutemann, patrick-depailler, riccardo-patrese, alan-jones, vittorio-brambilla, ronnie-peterson, hans-joachim-stuck, brett-lunger, ian-scheckter, patrick-tambay, rupert-keegan, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve, hans-binder, emerson-fittipaldi]
+- lap: 17
+  drivers: [mario-andretti, james-hunt, jochen-mass, gunnar-nilsson, jody-scheckter, carlos-reutemann, patrick-depailler, riccardo-patrese, alan-jones, vittorio-brambilla, ronnie-peterson, brett-lunger, hans-joachim-stuck, ian-scheckter, patrick-tambay, rupert-keegan, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve, hans-binder, emerson-fittipaldi]
+- lap: 18
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, carlos-reutemann, patrick-depailler, riccardo-patrese, alan-jones, vittorio-brambilla, ronnie-peterson, brett-lunger, hans-joachim-stuck, ian-scheckter, patrick-tambay, rupert-keegan, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve, hans-binder, emerson-fittipaldi]
+- lap: 19
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, carlos-reutemann, patrick-depailler, riccardo-patrese, alan-jones, vittorio-brambilla, ronnie-peterson, brett-lunger, ian-scheckter, patrick-tambay, rupert-keegan, gilles-villeneuve, hans-joachim-stuck, danny-ongais, alex-ribeiro, patrick-neve, hans-binder, emerson-fittipaldi]
+- lap: 20
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, alan-jones, vittorio-brambilla, carlos-reutemann, ronnie-peterson, brett-lunger, ian-scheckter, patrick-tambay, rupert-keegan, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve, hans-binder, emerson-fittipaldi]
+- lap: 21
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, alan-jones, vittorio-brambilla, ronnie-peterson, brett-lunger, patrick-tambay, ian-scheckter, gilles-villeneuve, rupert-keegan, danny-ongais, alex-ribeiro, patrick-neve, hans-binder, emerson-fittipaldi]
+- lap: 22
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, alan-jones, vittorio-brambilla, ronnie-peterson, brett-lunger, patrick-tambay, ian-scheckter, gilles-villeneuve, rupert-keegan, danny-ongais, alex-ribeiro, patrick-neve, hans-binder, emerson-fittipaldi]
+- lap: 23
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, alan-jones, vittorio-brambilla, ronnie-peterson, brett-lunger, patrick-tambay, ian-scheckter, gilles-villeneuve, rupert-keegan, danny-ongais, alex-ribeiro, patrick-neve, hans-binder, emerson-fittipaldi]
+- lap: 24
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, alan-jones, vittorio-brambilla, ronnie-peterson, brett-lunger, patrick-tambay, ian-scheckter, gilles-villeneuve, rupert-keegan, danny-ongais, alex-ribeiro, patrick-neve, hans-binder, emerson-fittipaldi]
+- lap: 25
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, alan-jones, vittorio-brambilla, ronnie-peterson, brett-lunger, patrick-tambay, ian-scheckter, gilles-villeneuve, rupert-keegan, danny-ongais, alex-ribeiro, patrick-neve, hans-binder, emerson-fittipaldi]
+- lap: 26
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, alan-jones, vittorio-brambilla, ronnie-peterson, brett-lunger, patrick-tambay, ian-scheckter, gilles-villeneuve, rupert-keegan, danny-ongais, alex-ribeiro, patrick-neve, hans-binder, emerson-fittipaldi]
+- lap: 27
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, alan-jones, vittorio-brambilla, ronnie-peterson, brett-lunger, patrick-tambay, ian-scheckter, gilles-villeneuve, rupert-keegan, danny-ongais, alex-ribeiro, patrick-neve, hans-binder, emerson-fittipaldi]
+- lap: 28
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, ronnie-peterson, brett-lunger, patrick-tambay, ian-scheckter, gilles-villeneuve, rupert-keegan, danny-ongais, alex-ribeiro, patrick-neve, hans-binder, emerson-fittipaldi]
+- lap: 29
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, ronnie-peterson, brett-lunger, patrick-tambay, gilles-villeneuve, rupert-keegan, danny-ongais, ian-scheckter, alex-ribeiro, patrick-neve, hans-binder, emerson-fittipaldi]
+- lap: 30
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, ronnie-peterson, brett-lunger, patrick-tambay, gilles-villeneuve, rupert-keegan, danny-ongais, alex-ribeiro, patrick-neve, hans-binder]
+- lap: 31
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, ronnie-peterson, brett-lunger, patrick-tambay, gilles-villeneuve, rupert-keegan, danny-ongais, alex-ribeiro, patrick-neve, hans-binder]
+- lap: 32
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, ronnie-peterson, brett-lunger, patrick-tambay, gilles-villeneuve, rupert-keegan, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 33
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, ronnie-peterson, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 34
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, ronnie-peterson, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 35
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 36
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 37
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 38
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 39
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 40
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 41
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 42
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 43
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 44
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 45
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 46
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 47
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 48
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 49
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 50
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 51
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 52
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 53
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 54
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 55
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 56
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro, patrick-neve]
+- lap: 57
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro]
+- lap: 58
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro]
+- lap: 59
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro]
+- lap: 60
+  drivers: [mario-andretti, james-hunt, jochen-mass, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro]
+- lap: 61
+  drivers: [james-hunt, mario-andretti, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, jochen-mass, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro]
+- lap: 62
+  drivers: [mario-andretti, jody-scheckter, patrick-depailler, riccardo-patrese, vittorio-brambilla, jochen-mass, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro]
+- lap: 63
+  drivers: [mario-andretti, jody-scheckter, patrick-depailler, vittorio-brambilla, riccardo-patrese, jochen-mass, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro]
+- lap: 64
+  drivers: [mario-andretti, jody-scheckter, patrick-depailler, vittorio-brambilla, riccardo-patrese, jochen-mass, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro]
+- lap: 65
+  drivers: [mario-andretti, jody-scheckter, patrick-depailler, vittorio-brambilla, riccardo-patrese, jochen-mass, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro]
+- lap: 66
+  drivers: [mario-andretti, jody-scheckter, patrick-depailler, vittorio-brambilla, riccardo-patrese, jochen-mass, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro]
+- lap: 67
+  drivers: [mario-andretti, jody-scheckter, patrick-depailler, vittorio-brambilla, riccardo-patrese, jochen-mass, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro]
+- lap: 68
+  drivers: [mario-andretti, jody-scheckter, patrick-depailler, vittorio-brambilla, riccardo-patrese, jochen-mass, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro]
+- lap: 69
+  drivers: [mario-andretti, jody-scheckter, patrick-depailler, vittorio-brambilla, riccardo-patrese, jochen-mass, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro]
+- lap: 70
+  drivers: [mario-andretti, jody-scheckter, patrick-depailler, vittorio-brambilla, riccardo-patrese, jochen-mass, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro]
+- lap: 71
+  drivers: [mario-andretti, jody-scheckter, patrick-depailler, vittorio-brambilla, riccardo-patrese, jochen-mass, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro]
+- lap: 72
+  drivers: [mario-andretti, jody-scheckter, patrick-depailler, vittorio-brambilla, riccardo-patrese, jochen-mass, alan-jones, brett-lunger, patrick-tambay, gilles-villeneuve, danny-ongais, alex-ribeiro]
+- lap: 73
+  drivers: [mario-andretti, jody-scheckter, patrick-depailler, vittorio-brambilla, riccardo-patrese, jochen-mass, alan-jones, patrick-tambay, gilles-villeneuve, brett-lunger, danny-ongais, alex-ribeiro]
+- lap: 74
+  drivers: [mario-andretti, jody-scheckter, patrick-depailler, vittorio-brambilla, riccardo-patrese, jochen-mass, alan-jones, patrick-tambay, gilles-villeneuve, brett-lunger, danny-ongais, alex-ribeiro]
+- lap: 75
+  drivers: [mario-andretti, jody-scheckter, patrick-depailler, vittorio-brambilla, riccardo-patrese, jochen-mass, alan-jones, patrick-tambay, gilles-villeneuve, brett-lunger, danny-ongais, alex-ribeiro]
+- lap: 76
+  drivers: [mario-andretti, jody-scheckter, patrick-depailler, vittorio-brambilla, riccardo-patrese, jochen-mass, alan-jones, patrick-tambay, gilles-villeneuve, brett-lunger, danny-ongais, alex-ribeiro]
+- lap: 77
+  drivers: [mario-andretti, jody-scheckter, patrick-depailler, vittorio-brambilla, jochen-mass, alan-jones, patrick-tambay, danny-ongais, alex-ribeiro]
+- lap: 78
+  drivers: [jody-scheckter, patrick-depailler, vittorio-brambilla, jochen-mass, alan-jones, patrick-tambay, danny-ongais, alex-ribeiro]
+- lap: 79
+  drivers: [jody-scheckter, patrick-depailler, jochen-mass, alan-jones, patrick-tambay]
+- lap: 80
+  drivers: [jody-scheckter, patrick-depailler, jochen-mass, alan-jones, patrick-tambay]

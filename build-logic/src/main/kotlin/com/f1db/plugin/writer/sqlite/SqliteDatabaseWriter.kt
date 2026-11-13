@@ -23,6 +23,7 @@ import com.f1db.plugin.writer.sql.mapper.raceDriverStandingMapper
 import com.f1db.plugin.writer.sql.mapper.raceFastestLapMapper
 import com.f1db.plugin.writer.sql.mapper.raceMapper
 import com.f1db.plugin.writer.sql.mapper.racePitStopMapper
+import com.f1db.plugin.writer.sql.mapper.raceLapPositionMapper
 import com.f1db.plugin.writer.sql.mapper.racePracticeResultMapper
 import com.f1db.plugin.writer.sql.mapper.raceQualifyingResultMapper
 import com.f1db.plugin.writer.sql.mapper.raceRaceResultMapper
@@ -142,6 +143,9 @@ class SqliteDatabaseWriter(
             batchInsert(ctx, RACE_DATA, raceRaceResultMapper.unmap(db.splitted.raceRaceResults, RaceDataType.RACE_RESULT))
             batchInsert(ctx, RACE_DATA, raceFastestLapMapper.unmap(db.splitted.raceFastestLaps, RaceDataType.FASTEST_LAP))
             batchInsert(ctx, RACE_DATA, racePitStopMapper.unmap(db.splitted.racePitStops, RaceDataType.PIT_STOP))
+            batchInsert(ctx, RACE_DATA, raceFastestLapMapper.unmap(db.splitted.raceSprintFastestLaps, RaceDataType.SPRINT_FASTEST_LAP))
+            batchInsert(ctx, RACE_DATA, raceLapPositionMapper.unmap(db.splitted.raceLapPositions, RaceDataType.LAP_POSITION))
+            batchInsert(ctx, RACE_DATA, raceLapPositionMapper.unmap(db.splitted.raceSprintLapPositions, RaceDataType.SPRINT_LAP_POSITION))
             batchInsert(ctx, RACE_DATA, raceDriverOfTheDayResultMapper.unmap(db.splitted.raceDriverOfTheDayResults, RaceDataType.DRIVER_OF_THE_DAY_RESULT))
             batchInsert(ctx, RACE_DRIVER_STANDING, raceDriverStandingMapper.unmap(db.splitted.raceDriverStandings))
             batchInsert(ctx, RACE_CONSTRUCTOR_STANDING, raceConstructorStandingMapper.unmap(db.splitted.raceConstructorStandings))

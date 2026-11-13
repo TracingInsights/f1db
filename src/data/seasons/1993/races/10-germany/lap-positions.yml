@@ -1,0 +1,92 @@
+- lap: 0
+  drivers: [alain-prost, damon-hill, michael-schumacher, ayrton-senna, mark-blundell, martin-brundle, riccardo-patrese, aguri-suzuki, gerhard-berger, jean-alesi, derek-warwick, michael-andretti, johnny-herbert, karl-wendlinger, alex-zanardi, erik-comas, rubens-barrichello, jj-lehto, andrea-de-cesaris, christian-fittipaldi, ukyo-katayama, pierluigi-martini, philippe-alliot, thierry-boutsen, luca-badoer, michele-alboreto]
+- lap: 1
+  drivers: [damon-hill, michael-schumacher, alain-prost, martin-brundle, mark-blundell, riccardo-patrese, gerhard-berger, jean-alesi, michael-andretti, karl-wendlinger, aguri-suzuki, derek-warwick, johnny-herbert, christian-fittipaldi, alex-zanardi, jj-lehto, rubens-barrichello, philippe-alliot, thierry-boutsen, ukyo-katayama, pierluigi-martini, michele-alboreto, luca-badoer, ayrton-senna, andrea-de-cesaris]
+- lap: 2
+  drivers: [damon-hill, michael-schumacher, alain-prost, martin-brundle, mark-blundell, riccardo-patrese, gerhard-berger, jean-alesi, michael-andretti, karl-wendlinger, derek-warwick, aguri-suzuki, johnny-herbert, christian-fittipaldi, alex-zanardi, rubens-barrichello, jj-lehto, philippe-alliot, thierry-boutsen, ayrton-senna, ukyo-katayama, pierluigi-martini, michele-alboreto, luca-badoer]
+- lap: 3
+  drivers: [damon-hill, michael-schumacher, alain-prost, martin-brundle, mark-blundell, riccardo-patrese, gerhard-berger, jean-alesi, michael-andretti, karl-wendlinger, derek-warwick, aguri-suzuki, johnny-herbert, christian-fittipaldi, alex-zanardi, rubens-barrichello, jj-lehto, ayrton-senna, philippe-alliot, thierry-boutsen, ukyo-katayama, pierluigi-martini, michele-alboreto, luca-badoer]
+- lap: 4
+  drivers: [damon-hill, michael-schumacher, alain-prost, martin-brundle, mark-blundell, riccardo-patrese, jean-alesi, gerhard-berger, michael-andretti, karl-wendlinger, derek-warwick, aguri-suzuki, johnny-herbert, christian-fittipaldi, alex-zanardi, rubens-barrichello, ayrton-senna, jj-lehto, philippe-alliot, thierry-boutsen, ukyo-katayama, pierluigi-martini, michele-alboreto, luca-badoer]
+- lap: 5
+  drivers: [damon-hill, michael-schumacher, alain-prost, martin-brundle, mark-blundell, riccardo-patrese, jean-alesi, gerhard-berger, karl-wendlinger, derek-warwick, aguri-suzuki, johnny-herbert, christian-fittipaldi, alex-zanardi, ayrton-senna, rubens-barrichello, jj-lehto, philippe-alliot, thierry-boutsen, ukyo-katayama, pierluigi-martini, michele-alboreto]
+- lap: 6
+  drivers: [damon-hill, alain-prost, michael-schumacher, martin-brundle, mark-blundell, riccardo-patrese, jean-alesi, gerhard-berger, karl-wendlinger, johnny-herbert, christian-fittipaldi, ayrton-senna, alex-zanardi, rubens-barrichello, aguri-suzuki, jj-lehto, philippe-alliot, thierry-boutsen, ukyo-katayama, pierluigi-martini, derek-warwick, michele-alboreto]
+- lap: 7
+  drivers: [damon-hill, alain-prost, michael-schumacher, martin-brundle, mark-blundell, riccardo-patrese, jean-alesi, gerhard-berger, karl-wendlinger, johnny-herbert, ayrton-senna, christian-fittipaldi, alex-zanardi, rubens-barrichello, aguri-suzuki, jj-lehto, philippe-alliot, thierry-boutsen, ukyo-katayama, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 8
+  drivers: [alain-prost, damon-hill, michael-schumacher, martin-brundle, mark-blundell, riccardo-patrese, jean-alesi, gerhard-berger, karl-wendlinger, ayrton-senna, johnny-herbert, christian-fittipaldi, alex-zanardi, rubens-barrichello, aguri-suzuki, jj-lehto, philippe-alliot, thierry-boutsen, ukyo-katayama, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 9
+  drivers: [alain-prost, damon-hill, michael-schumacher, martin-brundle, mark-blundell, riccardo-patrese, jean-alesi, gerhard-berger, karl-wendlinger, ayrton-senna, johnny-herbert, christian-fittipaldi, alex-zanardi, rubens-barrichello, jj-lehto, philippe-alliot, aguri-suzuki, thierry-boutsen, ukyo-katayama, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 10
+  drivers: [damon-hill, michael-schumacher, alain-prost, martin-brundle, mark-blundell, riccardo-patrese, jean-alesi, gerhard-berger, karl-wendlinger, ayrton-senna, johnny-herbert, christian-fittipaldi, alex-zanardi, rubens-barrichello, jj-lehto, philippe-alliot, thierry-boutsen, ukyo-katayama, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 11
+  drivers: [damon-hill, michael-schumacher, mark-blundell, riccardo-patrese, martin-brundle, alain-prost, jean-alesi, gerhard-berger, ayrton-senna, karl-wendlinger, johnny-herbert, christian-fittipaldi, alex-zanardi, rubens-barrichello, jj-lehto, philippe-alliot, thierry-boutsen, ukyo-katayama, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 12
+  drivers: [damon-hill, michael-schumacher, mark-blundell, riccardo-patrese, alain-prost, jean-alesi, gerhard-berger, ayrton-senna, karl-wendlinger, johnny-herbert, christian-fittipaldi, alex-zanardi, martin-brundle, rubens-barrichello, jj-lehto, philippe-alliot, thierry-boutsen, ukyo-katayama, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 13
+  drivers: [damon-hill, michael-schumacher, mark-blundell, riccardo-patrese, alain-prost, jean-alesi, gerhard-berger, ayrton-senna, karl-wendlinger, johnny-herbert, christian-fittipaldi, martin-brundle, alex-zanardi, rubens-barrichello, jj-lehto, philippe-alliot, thierry-boutsen, ukyo-katayama, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 14
+  drivers: [damon-hill, michael-schumacher, mark-blundell, alain-prost, riccardo-patrese, gerhard-berger, ayrton-senna, karl-wendlinger, johnny-herbert, christian-fittipaldi, martin-brundle, alex-zanardi, rubens-barrichello, jj-lehto, philippe-alliot, thierry-boutsen, ukyo-katayama, jean-alesi, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 15
+  drivers: [damon-hill, michael-schumacher, mark-blundell, alain-prost, riccardo-patrese, gerhard-berger, ayrton-senna, karl-wendlinger, johnny-herbert, christian-fittipaldi, martin-brundle, alex-zanardi, rubens-barrichello, jj-lehto, philippe-alliot, thierry-boutsen, ukyo-katayama, jean-alesi, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 16
+  drivers: [damon-hill, michael-schumacher, alain-prost, mark-blundell, riccardo-patrese, gerhard-berger, ayrton-senna, karl-wendlinger, johnny-herbert, christian-fittipaldi, martin-brundle, alex-zanardi, rubens-barrichello, jj-lehto, philippe-alliot, jean-alesi, thierry-boutsen, ukyo-katayama, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 17
+  drivers: [damon-hill, alain-prost, mark-blundell, michael-schumacher, riccardo-patrese, gerhard-berger, ayrton-senna, johnny-herbert, karl-wendlinger, christian-fittipaldi, martin-brundle, rubens-barrichello, alex-zanardi, philippe-alliot, jean-alesi, thierry-boutsen, ukyo-katayama, jj-lehto, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 18
+  drivers: [damon-hill, alain-prost, michael-schumacher, mark-blundell, riccardo-patrese, gerhard-berger, ayrton-senna, johnny-herbert, christian-fittipaldi, martin-brundle, rubens-barrichello, karl-wendlinger, philippe-alliot, jean-alesi, thierry-boutsen, ukyo-katayama, alex-zanardi, jj-lehto, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 19
+  drivers: [damon-hill, alain-prost, michael-schumacher, mark-blundell, riccardo-patrese, gerhard-berger, ayrton-senna, johnny-herbert, christian-fittipaldi, martin-brundle, rubens-barrichello, karl-wendlinger, philippe-alliot, jean-alesi, thierry-boutsen, alex-zanardi, ukyo-katayama, jj-lehto, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 20
+  drivers: [damon-hill, alain-prost, michael-schumacher, mark-blundell, gerhard-berger, riccardo-patrese, ayrton-senna, johnny-herbert, christian-fittipaldi, karl-wendlinger, jean-alesi, philippe-alliot, thierry-boutsen, jj-lehto, ukyo-katayama, rubens-barrichello, pierluigi-martini, michele-alboreto, martin-brundle, derek-warwick]
+- lap: 21
+  drivers: [damon-hill, alain-prost, michael-schumacher, mark-blundell, gerhard-berger, riccardo-patrese, johnny-herbert, christian-fittipaldi, ayrton-senna, karl-wendlinger, jean-alesi, philippe-alliot, jj-lehto, thierry-boutsen, rubens-barrichello, ukyo-katayama, pierluigi-martini, martin-brundle, michele-alboreto, derek-warwick]
+- lap: 22
+  drivers: [damon-hill, alain-prost, michael-schumacher, gerhard-berger, mark-blundell, riccardo-patrese, johnny-herbert, christian-fittipaldi, ayrton-senna, karl-wendlinger, jean-alesi, philippe-alliot, jj-lehto, rubens-barrichello, thierry-boutsen, ukyo-katayama, pierluigi-martini, martin-brundle, michele-alboreto, derek-warwick]
+- lap: 23
+  drivers: [damon-hill, alain-prost, michael-schumacher, gerhard-berger, mark-blundell, riccardo-patrese, ayrton-senna, johnny-herbert, christian-fittipaldi, karl-wendlinger, jean-alesi, philippe-alliot, rubens-barrichello, thierry-boutsen, ukyo-katayama, pierluigi-martini, martin-brundle, michele-alboreto, derek-warwick]
+- lap: 24
+  drivers: [damon-hill, alain-prost, michael-schumacher, gerhard-berger, mark-blundell, riccardo-patrese, ayrton-senna, johnny-herbert, christian-fittipaldi, karl-wendlinger, jean-alesi, philippe-alliot, rubens-barrichello, thierry-boutsen, pierluigi-martini, martin-brundle, ukyo-katayama, michele-alboreto, derek-warwick]
+- lap: 25
+  drivers: [damon-hill, alain-prost, michael-schumacher, gerhard-berger, mark-blundell, riccardo-patrese, ayrton-senna, johnny-herbert, christian-fittipaldi, karl-wendlinger, jean-alesi, philippe-alliot, rubens-barrichello, thierry-boutsen, pierluigi-martini, martin-brundle, ukyo-katayama, michele-alboreto, derek-warwick]
+- lap: 26
+  drivers: [damon-hill, alain-prost, michael-schumacher, gerhard-berger, mark-blundell, riccardo-patrese, ayrton-senna, johnny-herbert, christian-fittipaldi, karl-wendlinger, jean-alesi, philippe-alliot, rubens-barrichello, thierry-boutsen, martin-brundle, pierluigi-martini, ukyo-katayama, michele-alboreto, derek-warwick]
+- lap: 27
+  drivers: [damon-hill, alain-prost, michael-schumacher, mark-blundell, gerhard-berger, riccardo-patrese, ayrton-senna, johnny-herbert, christian-fittipaldi, karl-wendlinger, jean-alesi, rubens-barrichello, philippe-alliot, thierry-boutsen, martin-brundle, pierluigi-martini, michele-alboreto, ukyo-katayama, derek-warwick]
+- lap: 28
+  drivers: [damon-hill, alain-prost, michael-schumacher, mark-blundell, ayrton-senna, riccardo-patrese, gerhard-berger, johnny-herbert, christian-fittipaldi, karl-wendlinger, jean-alesi, rubens-barrichello, philippe-alliot, thierry-boutsen, martin-brundle, pierluigi-martini, michele-alboreto, ukyo-katayama, derek-warwick]
+- lap: 29
+  drivers: [damon-hill, alain-prost, michael-schumacher, mark-blundell, ayrton-senna, riccardo-patrese, gerhard-berger, johnny-herbert, christian-fittipaldi, karl-wendlinger, jean-alesi, rubens-barrichello, philippe-alliot, martin-brundle, thierry-boutsen, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 30
+  drivers: [damon-hill, alain-prost, michael-schumacher, mark-blundell, ayrton-senna, riccardo-patrese, gerhard-berger, johnny-herbert, christian-fittipaldi, jean-alesi, karl-wendlinger, rubens-barrichello, philippe-alliot, martin-brundle, thierry-boutsen, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 31
+  drivers: [damon-hill, alain-prost, michael-schumacher, mark-blundell, ayrton-senna, riccardo-patrese, gerhard-berger, johnny-herbert, christian-fittipaldi, jean-alesi, karl-wendlinger, rubens-barrichello, philippe-alliot, martin-brundle, thierry-boutsen, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 32
+  drivers: [damon-hill, alain-prost, michael-schumacher, mark-blundell, ayrton-senna, riccardo-patrese, gerhard-berger, johnny-herbert, christian-fittipaldi, jean-alesi, karl-wendlinger, rubens-barrichello, philippe-alliot, martin-brundle, thierry-boutsen, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 33
+  drivers: [damon-hill, alain-prost, michael-schumacher, mark-blundell, ayrton-senna, riccardo-patrese, gerhard-berger, johnny-herbert, jean-alesi, christian-fittipaldi, karl-wendlinger, rubens-barrichello, martin-brundle, philippe-alliot, thierry-boutsen, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 34
+  drivers: [damon-hill, alain-prost, michael-schumacher, mark-blundell, ayrton-senna, riccardo-patrese, gerhard-berger, johnny-herbert, jean-alesi, karl-wendlinger, christian-fittipaldi, martin-brundle, rubens-barrichello, philippe-alliot, thierry-boutsen, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 35
+  drivers: [damon-hill, alain-prost, michael-schumacher, mark-blundell, ayrton-senna, riccardo-patrese, gerhard-berger, johnny-herbert, jean-alesi, karl-wendlinger, christian-fittipaldi, martin-brundle, philippe-alliot, thierry-boutsen, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 36
+  drivers: [damon-hill, alain-prost, michael-schumacher, mark-blundell, ayrton-senna, riccardo-patrese, gerhard-berger, johnny-herbert, jean-alesi, karl-wendlinger, christian-fittipaldi, martin-brundle, philippe-alliot, thierry-boutsen, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 37
+  drivers: [damon-hill, alain-prost, michael-schumacher, mark-blundell, ayrton-senna, riccardo-patrese, gerhard-berger, jean-alesi, johnny-herbert, karl-wendlinger, christian-fittipaldi, martin-brundle, philippe-alliot, thierry-boutsen, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 38
+  drivers: [damon-hill, alain-prost, michael-schumacher, mark-blundell, ayrton-senna, riccardo-patrese, gerhard-berger, jean-alesi, johnny-herbert, karl-wendlinger, christian-fittipaldi, martin-brundle, philippe-alliot, thierry-boutsen, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 39
+  drivers: [damon-hill, alain-prost, michael-schumacher, mark-blundell, ayrton-senna, riccardo-patrese, gerhard-berger, jean-alesi, johnny-herbert, karl-wendlinger, martin-brundle, christian-fittipaldi, philippe-alliot, thierry-boutsen, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 40
+  drivers: [damon-hill, alain-prost, michael-schumacher, mark-blundell, ayrton-senna, riccardo-patrese, gerhard-berger, jean-alesi, johnny-herbert, karl-wendlinger, martin-brundle, christian-fittipaldi, philippe-alliot, thierry-boutsen, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 41
+  drivers: [damon-hill, alain-prost, michael-schumacher, mark-blundell, ayrton-senna, riccardo-patrese, gerhard-berger, jean-alesi, johnny-herbert, karl-wendlinger, martin-brundle, christian-fittipaldi, philippe-alliot, thierry-boutsen, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 42
+  drivers: [damon-hill, alain-prost, michael-schumacher, mark-blundell, ayrton-senna, riccardo-patrese, gerhard-berger, jean-alesi, martin-brundle, johnny-herbert, karl-wendlinger, christian-fittipaldi, philippe-alliot, thierry-boutsen, pierluigi-martini, michele-alboreto, derek-warwick]
+- lap: 43
+  drivers: [damon-hill, alain-prost, michael-schumacher, mark-blundell, ayrton-senna, riccardo-patrese, gerhard-berger, jean-alesi, martin-brundle, karl-wendlinger, johnny-herbert, christian-fittipaldi, philippe-alliot, thierry-boutsen, pierluigi-martini, michele-alboreto]
+- lap: 44
+  drivers: [alain-prost, michael-schumacher, mark-blundell, ayrton-senna, riccardo-patrese, gerhard-berger, jean-alesi, martin-brundle, karl-wendlinger, johnny-herbert, christian-fittipaldi, philippe-alliot, thierry-boutsen, pierluigi-martini]
+- lap: 45
+  drivers: [alain-prost, michael-schumacher, mark-blundell, ayrton-senna, riccardo-patrese, gerhard-berger, jean-alesi]

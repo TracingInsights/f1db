@@ -67,7 +67,7 @@
   interval:
   reasonRetired:
   points: 2
-  gridPosition: 15
+  gridPosition: 14
 - position: 6
   driverNumber: 28
   driverId: harry-schell
@@ -81,7 +81,7 @@
   interval:
   reasonRetired:
   points:
-  gridPosition: 11
+  gridPosition: 10
 - position: 7
   driverNumber: 8
   driverId: birabongse-bhanudej
@@ -95,7 +95,7 @@
   interval:
   reasonRetired:
   points:
-  gridPosition: 10
+  gridPosition: 9
 - position: 8
   driverNumber: 30
   driverId: emmanuel-de-graffenried
@@ -109,7 +109,7 @@
   interval:
   reasonRetired:
   points:
-  gridPosition: 13
+  gridPosition: 12
 - position: 9
   driverNumber: 16
   driverId: umberto-maglioli
@@ -123,7 +123,7 @@
   interval:
   reasonRetired:
   points:
-  gridPosition: 12
+  gridPosition: 11
 - position: DNF
   driverNumber: 4
   driverId: onofre-marimon
@@ -165,7 +165,7 @@
   interval:
   reasonRetired: Gearbox
   points:
-  gridPosition: 18
+  gridPosition: 17
 - position: DNF
   driverNumber: 22
   driverId: roger-loyer
@@ -179,7 +179,7 @@
   interval:
   reasonRetired: Oil pressure
   points:
-  gridPosition: 16
+  gridPosition: 15
 - position: DNF
   driverNumber: 24
   driverId: louis-rosier
@@ -193,7 +193,7 @@
   interval:
   reasonRetired: Accident
   points:
-  gridPosition: 14
+  gridPosition: 13
 - position: DSQ
   driverNumber: 18
   driverId: jean-behra
@@ -207,7 +207,7 @@
   interval:
   reasonRetired: Push start
   points:
-  gridPosition: 17
+  gridPosition: 16
 - position: DSQ
   driverNumber: 14
   driverId: mike-hawthorn

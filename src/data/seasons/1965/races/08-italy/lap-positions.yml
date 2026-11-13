@@ -1,0 +1,154 @@
+- lap: 0
+  drivers: [jim-clark, john-surtees, jackie-stewart, graham-hill, lorenzo-bandini, ronnie-bucknum, jochen-rindt, mike-spence, dan-gurney, jo-siffert, bruce-mclaren, denny-hulme, richard-attwood, jo-bonnier, nino-vaccarella, frank-gardner, richie-ginther, innes-ireland, giancarlo-baghetti, giacomo-russo, roberto-bussinello, giorgio-bassi, masten-gregory]
+- lap: 1
+  drivers: [jim-clark, jackie-stewart, graham-hill, lorenzo-bandini, jo-siffert, mike-spence, dan-gurney, bruce-mclaren, innes-ireland, jochen-rindt, richard-attwood, richie-ginther, john-surtees, nino-vaccarella, ronnie-bucknum, denny-hulme, jo-bonnier, giancarlo-baghetti, frank-gardner, giacomo-russo, masten-gregory, roberto-bussinello, giorgio-bassi]
+- lap: 2
+  drivers: [jim-clark, graham-hill, jackie-stewart, lorenzo-bandini, jo-siffert, mike-spence, dan-gurney, bruce-mclaren, innes-ireland, john-surtees, richard-attwood, richie-ginther, denny-hulme, ronnie-bucknum, nino-vaccarella, jochen-rindt, giancarlo-baghetti, jo-bonnier, frank-gardner, giacomo-russo, masten-gregory, roberto-bussinello, giorgio-bassi]
+- lap: 3
+  drivers: [graham-hill, jackie-stewart, jim-clark, lorenzo-bandini, dan-gurney, jo-siffert, mike-spence, john-surtees, bruce-mclaren, innes-ireland, richie-ginther, richard-attwood, denny-hulme, ronnie-bucknum, jochen-rindt, nino-vaccarella, jo-bonnier, giancarlo-baghetti, frank-gardner, giacomo-russo, masten-gregory, roberto-bussinello, giorgio-bassi]
+- lap: 4
+  drivers: [jim-clark, graham-hill, jackie-stewart, dan-gurney, lorenzo-bandini, jo-siffert, mike-spence, john-surtees, richie-ginther, richard-attwood, innes-ireland, bruce-mclaren, ronnie-bucknum, denny-hulme, jochen-rindt, nino-vaccarella, giancarlo-baghetti, jo-bonnier, giacomo-russo, frank-gardner, masten-gregory, roberto-bussinello, giorgio-bassi]
+- lap: 5
+  drivers: [graham-hill, jackie-stewart, jim-clark, dan-gurney, lorenzo-bandini, mike-spence, jo-siffert, john-surtees, richie-ginther, richard-attwood, bruce-mclaren, innes-ireland, denny-hulme, ronnie-bucknum, jochen-rindt, giancarlo-baghetti, jo-bonnier, nino-vaccarella, giacomo-russo, frank-gardner, roberto-bussinello, masten-gregory, giorgio-bassi]
+- lap: 6
+  drivers: [jackie-stewart, jim-clark, graham-hill, dan-gurney, lorenzo-bandini, mike-spence, jo-siffert, john-surtees, richard-attwood, bruce-mclaren, richie-ginther, innes-ireland, ronnie-bucknum, jochen-rindt, denny-hulme, giacomo-russo, giancarlo-baghetti, jo-bonnier, nino-vaccarella, frank-gardner, masten-gregory, roberto-bussinello, giorgio-bassi]
+- lap: 7
+  drivers: [jim-clark, jackie-stewart, dan-gurney, graham-hill, lorenzo-bandini, mike-spence, john-surtees, jo-siffert, richard-attwood, bruce-mclaren, innes-ireland, ronnie-bucknum, richie-ginther, denny-hulme, jochen-rindt, giacomo-russo, nino-vaccarella, giancarlo-baghetti, jo-bonnier, frank-gardner, roberto-bussinello, masten-gregory, giorgio-bassi]
+- lap: 8
+  drivers: [jackie-stewart, jim-clark, dan-gurney, graham-hill, john-surtees, lorenzo-bandini, mike-spence, jo-siffert, ronnie-bucknum, richard-attwood, bruce-mclaren, denny-hulme, richie-ginther, innes-ireland, jochen-rindt, giacomo-russo, nino-vaccarella, giancarlo-baghetti, jo-bonnier, frank-gardner, masten-gregory, roberto-bussinello, giorgio-bassi]
+- lap: 9
+  drivers: [jackie-stewart, jim-clark, graham-hill, john-surtees, dan-gurney, lorenzo-bandini, mike-spence, jo-siffert, ronnie-bucknum, bruce-mclaren, richard-attwood, denny-hulme, richie-ginther, innes-ireland, jochen-rindt, giacomo-russo, nino-vaccarella, giancarlo-baghetti, jo-bonnier, frank-gardner, masten-gregory, roberto-bussinello]
+- lap: 10
+  drivers: [jim-clark, jackie-stewart, john-surtees, graham-hill, dan-gurney, lorenzo-bandini, mike-spence, jo-siffert, ronnie-bucknum, bruce-mclaren, denny-hulme, richard-attwood, richie-ginther, innes-ireland, jochen-rindt, giacomo-russo, nino-vaccarella, giancarlo-baghetti, jo-bonnier, frank-gardner, masten-gregory, roberto-bussinello]
+- lap: 11
+  drivers: [jackie-stewart, john-surtees, jim-clark, graham-hill, dan-gurney, lorenzo-bandini, mike-spence, jo-siffert, bruce-mclaren, ronnie-bucknum, richard-attwood, denny-hulme, innes-ireland, jochen-rindt, richie-ginther, giacomo-russo, nino-vaccarella, giancarlo-baghetti, jo-bonnier, frank-gardner, masten-gregory, roberto-bussinello]
+- lap: 12
+  drivers: [jackie-stewart, john-surtees, jim-clark, graham-hill, lorenzo-bandini, dan-gurney, mike-spence, jo-siffert, ronnie-bucknum, bruce-mclaren, richard-attwood, denny-hulme, innes-ireland, richie-ginther, jochen-rindt, giacomo-russo, nino-vaccarella, giancarlo-baghetti, jo-bonnier, frank-gardner, masten-gregory, roberto-bussinello]
+- lap: 13
+  drivers: [jackie-stewart, john-surtees, jim-clark, graham-hill, lorenzo-bandini, mike-spence, dan-gurney, jo-siffert, ronnie-bucknum, bruce-mclaren, richard-attwood, innes-ireland, denny-hulme, richie-ginther, giacomo-russo, jochen-rindt, nino-vaccarella, jo-bonnier, frank-gardner, masten-gregory, roberto-bussinello]
+- lap: 14
+  drivers: [jackie-stewart, john-surtees, jim-clark, graham-hill, lorenzo-bandini, mike-spence, dan-gurney, jo-siffert, ronnie-bucknum, bruce-mclaren, richard-attwood, innes-ireland, denny-hulme, richie-ginther, giacomo-russo, jochen-rindt, nino-vaccarella, jo-bonnier, frank-gardner, masten-gregory, roberto-bussinello]
+- lap: 15
+  drivers: [john-surtees, jackie-stewart, jim-clark, graham-hill, lorenzo-bandini, dan-gurney, mike-spence, jo-siffert, ronnie-bucknum, bruce-mclaren, richard-attwood, innes-ireland, denny-hulme, giacomo-russo, richie-ginther, jochen-rindt, nino-vaccarella, jo-bonnier, frank-gardner, roberto-bussinello, masten-gregory]
+- lap: 16
+  drivers: [jackie-stewart, john-surtees, graham-hill, jim-clark, lorenzo-bandini, dan-gurney, mike-spence, jo-siffert, bruce-mclaren, ronnie-bucknum, innes-ireland, richard-attwood, giacomo-russo, denny-hulme, jochen-rindt, richie-ginther, nino-vaccarella, jo-bonnier, frank-gardner, masten-gregory, roberto-bussinello]
+- lap: 17
+  drivers: [jackie-stewart, jim-clark, john-surtees, graham-hill, lorenzo-bandini, dan-gurney, mike-spence, jo-siffert, bruce-mclaren, ronnie-bucknum, innes-ireland, richard-attwood, giacomo-russo, denny-hulme, jochen-rindt, richie-ginther, nino-vaccarella, frank-gardner, jo-bonnier, masten-gregory, roberto-bussinello]
+- lap: 18
+  drivers: [jim-clark, john-surtees, jackie-stewart, graham-hill, lorenzo-bandini, dan-gurney, mike-spence, jo-siffert, bruce-mclaren, ronnie-bucknum, innes-ireland, richard-attwood, giacomo-russo, denny-hulme, jochen-rindt, richie-ginther, nino-vaccarella, frank-gardner, jo-bonnier, masten-gregory, roberto-bussinello]
+- lap: 19
+  drivers: [jackie-stewart, jim-clark, john-surtees, graham-hill, dan-gurney, lorenzo-bandini, mike-spence, jo-siffert, ronnie-bucknum, innes-ireland, bruce-mclaren, richard-attwood, giacomo-russo, denny-hulme, richie-ginther, jochen-rindt, nino-vaccarella, frank-gardner, jo-bonnier, masten-gregory, roberto-bussinello]
+- lap: 20
+  drivers: [jackie-stewart, john-surtees, graham-hill, jim-clark, dan-gurney, lorenzo-bandini, mike-spence, jo-siffert, ronnie-bucknum, innes-ireland, giacomo-russo, richard-attwood, denny-hulme, bruce-mclaren, jochen-rindt, richie-ginther, nino-vaccarella, frank-gardner, jo-bonnier, masten-gregory, roberto-bussinello]
+- lap: 21
+  drivers: [jim-clark, jackie-stewart, graham-hill, john-surtees, lorenzo-bandini, dan-gurney, mike-spence, jo-siffert, innes-ireland, giacomo-russo, richie-ginther, denny-hulme, richard-attwood, bruce-mclaren, jochen-rindt, jo-bonnier, nino-vaccarella, frank-gardner, masten-gregory, roberto-bussinello, ronnie-bucknum]
+- lap: 22
+  drivers: [jackie-stewart, jim-clark, john-surtees, graham-hill, dan-gurney, lorenzo-bandini, mike-spence, jo-siffert, innes-ireland, richie-ginther, giacomo-russo, richard-attwood, denny-hulme, bruce-mclaren, jochen-rindt, nino-vaccarella, jo-bonnier, frank-gardner, masten-gregory, roberto-bussinello, ronnie-bucknum]
+- lap: 23
+  drivers: [jackie-stewart, john-surtees, graham-hill, jim-clark, dan-gurney, lorenzo-bandini, mike-spence, jo-siffert, innes-ireland, richie-ginther, giacomo-russo, richard-attwood, denny-hulme, bruce-mclaren, jochen-rindt, nino-vaccarella, jo-bonnier, frank-gardner, roberto-bussinello, ronnie-bucknum]
+- lap: 24
+  drivers: [jackie-stewart, graham-hill, john-surtees, jim-clark, lorenzo-bandini, dan-gurney, mike-spence, jo-siffert, innes-ireland, denny-hulme, giacomo-russo, richie-ginther, bruce-mclaren, richard-attwood, jochen-rindt, nino-vaccarella, jo-bonnier, frank-gardner, roberto-bussinello, ronnie-bucknum]
+- lap: 25
+  drivers: [graham-hill, jackie-stewart, jim-clark, john-surtees, dan-gurney, lorenzo-bandini, mike-spence, jo-siffert, innes-ireland, denny-hulme, giacomo-russo, richard-attwood, bruce-mclaren, jochen-rindt, richie-ginther, nino-vaccarella, jo-bonnier, frank-gardner, roberto-bussinello, ronnie-bucknum]
+- lap: 26
+  drivers: [graham-hill, jackie-stewart, jim-clark, john-surtees, dan-gurney, lorenzo-bandini, mike-spence, jo-siffert, innes-ireland, denny-hulme, giacomo-russo, bruce-mclaren, richard-attwood, jochen-rindt, richie-ginther, jo-bonnier, nino-vaccarella, frank-gardner, roberto-bussinello, ronnie-bucknum]
+- lap: 27
+  drivers: [jim-clark, jackie-stewart, graham-hill, dan-gurney, john-surtees, lorenzo-bandini, mike-spence, jo-siffert, denny-hulme, innes-ireland, bruce-mclaren, giacomo-russo, richard-attwood, jochen-rindt, richie-ginther, jo-bonnier, nino-vaccarella, frank-gardner, roberto-bussinello, ronnie-bucknum]
+- lap: 28
+  drivers: [graham-hill, jackie-stewart, jim-clark, dan-gurney, john-surtees, lorenzo-bandini, mike-spence, jo-siffert, denny-hulme, innes-ireland, bruce-mclaren, giacomo-russo, richard-attwood, richie-ginther, jochen-rindt, jo-bonnier, nino-vaccarella, frank-gardner, roberto-bussinello]
+- lap: 29
+  drivers: [jackie-stewart, graham-hill, jim-clark, dan-gurney, john-surtees, lorenzo-bandini, mike-spence, jo-siffert, denny-hulme, innes-ireland, bruce-mclaren, richard-attwood, giacomo-russo, richie-ginther, jochen-rindt, jo-bonnier, nino-vaccarella, frank-gardner, roberto-bussinello]
+- lap: 30
+  drivers: [jackie-stewart, graham-hill, jim-clark, dan-gurney, john-surtees, lorenzo-bandini, mike-spence, jo-siffert, innes-ireland, denny-hulme, richard-attwood, giacomo-russo, bruce-mclaren, richie-ginther, jochen-rindt, nino-vaccarella, jo-bonnier, frank-gardner, roberto-bussinello]
+- lap: 31
+  drivers: [jackie-stewart, graham-hill, jim-clark, dan-gurney, john-surtees, lorenzo-bandini, mike-spence, jo-siffert, denny-hulme, richard-attwood, innes-ireland, giacomo-russo, bruce-mclaren, richie-ginther, jochen-rindt, jo-bonnier, nino-vaccarella, frank-gardner, roberto-bussinello]
+- lap: 32
+  drivers: [jackie-stewart, jim-clark, graham-hill, dan-gurney, john-surtees, lorenzo-bandini, mike-spence, jo-siffert, innes-ireland, richard-attwood, denny-hulme, richie-ginther, giacomo-russo, bruce-mclaren, jochen-rindt, nino-vaccarella, jo-bonnier, frank-gardner, roberto-bussinello]
+- lap: 33
+  drivers: [jim-clark, jackie-stewart, graham-hill, dan-gurney, john-surtees, lorenzo-bandini, mike-spence, jo-siffert, innes-ireland, richie-ginther, richard-attwood, denny-hulme, giacomo-russo, bruce-mclaren, jochen-rindt, nino-vaccarella, jo-bonnier, frank-gardner, roberto-bussinello]
+- lap: 34
+  drivers: [jim-clark, jackie-stewart, graham-hill, dan-gurney, lorenzo-bandini, john-surtees, mike-spence, innes-ireland, richie-ginther, jo-siffert, richard-attwood, giacomo-russo, denny-hulme, bruce-mclaren, jochen-rindt, nino-vaccarella, jo-bonnier, frank-gardner, roberto-bussinello]
+- lap: 35
+  drivers: [jim-clark, jackie-stewart, graham-hill, dan-gurney, lorenzo-bandini, mike-spence, innes-ireland, richie-ginther, jo-siffert, richard-attwood, denny-hulme, bruce-mclaren, giacomo-russo, jochen-rindt, nino-vaccarella, jo-bonnier, frank-gardner, roberto-bussinello]
+- lap: 36
+  drivers: [jim-clark, jackie-stewart, graham-hill, dan-gurney, lorenzo-bandini, mike-spence, richie-ginther, jo-siffert, innes-ireland, denny-hulme, bruce-mclaren, richard-attwood, giacomo-russo, jochen-rindt, jo-bonnier, nino-vaccarella, frank-gardner, roberto-bussinello]
+- lap: 37
+  drivers: [jackie-stewart, jim-clark, graham-hill, dan-gurney, lorenzo-bandini, mike-spence, jo-siffert, innes-ireland, bruce-mclaren, richie-ginther, richard-attwood, denny-hulme, giacomo-russo, jochen-rindt, jo-bonnier, nino-vaccarella, frank-gardner, roberto-bussinello]
+- lap: 38
+  drivers: [jim-clark, jackie-stewart, graham-hill, dan-gurney, lorenzo-bandini, mike-spence, innes-ireland, jo-siffert, richie-ginther, richard-attwood, bruce-mclaren, denny-hulme, jochen-rindt, nino-vaccarella, jo-bonnier, frank-gardner, roberto-bussinello]
+- lap: 39
+  drivers: [jackie-stewart, graham-hill, dan-gurney, jim-clark, lorenzo-bandini, mike-spence, innes-ireland, jo-siffert, richie-ginther, bruce-mclaren, richard-attwood, denny-hulme, jochen-rindt, nino-vaccarella, jo-bonnier, frank-gardner, roberto-bussinello]
+- lap: 40
+  drivers: [graham-hill, jackie-stewart, dan-gurney, jim-clark, lorenzo-bandini, mike-spence, bruce-mclaren, jo-siffert, innes-ireland, richie-ginther, richard-attwood, denny-hulme, jochen-rindt, nino-vaccarella, jo-bonnier, frank-gardner, roberto-bussinello]
+- lap: 41
+  drivers: [jackie-stewart, graham-hill, jim-clark, dan-gurney, lorenzo-bandini, mike-spence, jo-siffert, bruce-mclaren, innes-ireland, richie-ginther, richard-attwood, denny-hulme, jochen-rindt, nino-vaccarella, jo-bonnier, frank-gardner, roberto-bussinello]
+- lap: 42
+  drivers: [jackie-stewart, graham-hill, jim-clark, dan-gurney, lorenzo-bandini, mike-spence, jo-siffert, bruce-mclaren, innes-ireland, richie-ginther, richard-attwood, denny-hulme, jochen-rindt, nino-vaccarella, jo-bonnier, frank-gardner, roberto-bussinello]
+- lap: 43
+  drivers: [jackie-stewart, graham-hill, jim-clark, dan-gurney, lorenzo-bandini, mike-spence, jo-siffert, bruce-mclaren, innes-ireland, richie-ginther, richard-attwood, denny-hulme, jochen-rindt, nino-vaccarella, jo-bonnier, frank-gardner, roberto-bussinello]
+- lap: 44
+  drivers: [jim-clark, jackie-stewart, graham-hill, dan-gurney, lorenzo-bandini, mike-spence, bruce-mclaren, innes-ireland, richard-attwood, richie-ginther, denny-hulme, jochen-rindt, nino-vaccarella, jo-bonnier, frank-gardner, roberto-bussinello]
+- lap: 45
+  drivers: [graham-hill, jim-clark, jackie-stewart, dan-gurney, lorenzo-bandini, mike-spence, innes-ireland, bruce-mclaren, richard-attwood, richie-ginther, denny-hulme, jochen-rindt, nino-vaccarella, jo-bonnier, frank-gardner, roberto-bussinello]
+- lap: 46
+  drivers: [jim-clark, jackie-stewart, graham-hill, dan-gurney, lorenzo-bandini, mike-spence, innes-ireland, bruce-mclaren, richard-attwood, denny-hulme, richie-ginther, nino-vaccarella, jo-bonnier, jochen-rindt, roberto-bussinello]
+- lap: 47
+  drivers: [jackie-stewart, jim-clark, graham-hill, dan-gurney, lorenzo-bandini, mike-spence, innes-ireland, bruce-mclaren, richard-attwood, richie-ginther, nino-vaccarella, jo-bonnier, jochen-rindt, roberto-bussinello]
+- lap: 48
+  drivers: [jackie-stewart, graham-hill, jim-clark, dan-gurney, lorenzo-bandini, mike-spence, bruce-mclaren, innes-ireland, richard-attwood, richie-ginther, nino-vaccarella, jo-bonnier, jochen-rindt, roberto-bussinello]
+- lap: 49
+  drivers: [jackie-stewart, graham-hill, jim-clark, dan-gurney, lorenzo-bandini, mike-spence, bruce-mclaren, innes-ireland, richard-attwood, richie-ginther, nino-vaccarella, jo-bonnier, jochen-rindt, roberto-bussinello]
+- lap: 50
+  drivers: [graham-hill, jim-clark, jackie-stewart, dan-gurney, lorenzo-bandini, mike-spence, bruce-mclaren, innes-ireland, richard-attwood, richie-ginther, nino-vaccarella, jo-bonnier, jochen-rindt, roberto-bussinello]
+- lap: 51
+  drivers: [jim-clark, jackie-stewart, graham-hill, dan-gurney, lorenzo-bandini, mike-spence, bruce-mclaren, innes-ireland, richard-attwood, richie-ginther, jo-bonnier, nino-vaccarella, jochen-rindt, roberto-bussinello]
+- lap: 52
+  drivers: [jackie-stewart, jim-clark, graham-hill, dan-gurney, lorenzo-bandini, mike-spence, bruce-mclaren, innes-ireland, richard-attwood, richie-ginther, jo-bonnier, nino-vaccarella, jochen-rindt, roberto-bussinello]
+- lap: 53
+  drivers: [jim-clark, jackie-stewart, graham-hill, dan-gurney, lorenzo-bandini, mike-spence, bruce-mclaren, innes-ireland, richard-attwood, nino-vaccarella, jo-bonnier, jochen-rindt, roberto-bussinello, richie-ginther]
+- lap: 54
+  drivers: [jim-clark, graham-hill, jackie-stewart, dan-gurney, lorenzo-bandini, mike-spence, bruce-mclaren, innes-ireland, richard-attwood, nino-vaccarella, jo-bonnier, jochen-rindt, roberto-bussinello, richie-ginther]
+- lap: 55
+  drivers: [graham-hill, jim-clark, jackie-stewart, dan-gurney, lorenzo-bandini, mike-spence, bruce-mclaren, innes-ireland, nino-vaccarella, richard-attwood, jo-bonnier, jochen-rindt, roberto-bussinello, richie-ginther]
+- lap: 56
+  drivers: [graham-hill, jackie-stewart, jim-clark, dan-gurney, lorenzo-bandini, mike-spence, bruce-mclaren, innes-ireland, richard-attwood, jo-bonnier, jochen-rindt, nino-vaccarella, roberto-bussinello, richie-ginther]
+- lap: 57
+  drivers: [jim-clark, graham-hill, jackie-stewart, dan-gurney, lorenzo-bandini, mike-spence, bruce-mclaren, innes-ireland, richard-attwood, jo-bonnier, jochen-rindt, nino-vaccarella, roberto-bussinello]
+- lap: 58
+  drivers: [jackie-stewart, graham-hill, jim-clark, dan-gurney, lorenzo-bandini, mike-spence, bruce-mclaren, innes-ireland, richard-attwood, jo-bonnier, jochen-rindt, nino-vaccarella, roberto-bussinello]
+- lap: 59
+  drivers: [jackie-stewart, graham-hill, jim-clark, dan-gurney, lorenzo-bandini, mike-spence, innes-ireland, bruce-mclaren, richard-attwood, jo-bonnier, jochen-rindt]
+- lap: 60
+  drivers: [jackie-stewart, graham-hill, jim-clark, dan-gurney, lorenzo-bandini, mike-spence, innes-ireland, bruce-mclaren, richard-attwood, jochen-rindt, jo-bonnier]
+- lap: 61
+  drivers: [jackie-stewart, graham-hill, jim-clark, dan-gurney, lorenzo-bandini, mike-spence, innes-ireland, bruce-mclaren, richard-attwood, jo-bonnier, jochen-rindt]
+- lap: 62
+  drivers: [jackie-stewart, graham-hill, jim-clark, dan-gurney, lorenzo-bandini, mike-spence, innes-ireland, bruce-mclaren, richard-attwood, jo-bonnier, jochen-rindt]
+- lap: 63
+  drivers: [jackie-stewart, graham-hill, jim-clark, dan-gurney, lorenzo-bandini, innes-ireland, bruce-mclaren, richard-attwood, jo-bonnier, jochen-rindt]
+- lap: 64
+  drivers: [jackie-stewart, graham-hill, dan-gurney, lorenzo-bandini, innes-ireland, bruce-mclaren, richard-attwood, jo-bonnier, jochen-rindt]
+- lap: 65
+  drivers: [jackie-stewart, graham-hill, dan-gurney, lorenzo-bandini, innes-ireland, bruce-mclaren, richard-attwood, jo-bonnier, jochen-rindt]
+- lap: 66
+  drivers: [jackie-stewart, graham-hill, dan-gurney, lorenzo-bandini, bruce-mclaren, innes-ireland, richard-attwood, jo-bonnier, jochen-rindt]
+- lap: 67
+  drivers: [jackie-stewart, graham-hill, dan-gurney, lorenzo-bandini, bruce-mclaren, innes-ireland, richard-attwood, jo-bonnier, jochen-rindt]
+- lap: 68
+  drivers: [jackie-stewart, graham-hill, dan-gurney, lorenzo-bandini, bruce-mclaren, innes-ireland, richard-attwood, jo-bonnier, jochen-rindt]
+- lap: 69
+  drivers: [jackie-stewart, graham-hill, dan-gurney, lorenzo-bandini, bruce-mclaren, innes-ireland, richard-attwood, jo-bonnier, jochen-rindt]
+- lap: 70
+  drivers: [graham-hill, jackie-stewart, dan-gurney, lorenzo-bandini, bruce-mclaren, innes-ireland, richard-attwood, jo-bonnier, jochen-rindt]
+- lap: 71
+  drivers: [graham-hill, jackie-stewart, dan-gurney, lorenzo-bandini, bruce-mclaren, richard-attwood, innes-ireland, jochen-rindt, jo-bonnier]
+- lap: 72
+  drivers: [jackie-stewart, graham-hill, dan-gurney, lorenzo-bandini, bruce-mclaren, richard-attwood, jo-bonnier, jochen-rindt, innes-ireland]
+- lap: 73
+  drivers: [graham-hill, jackie-stewart, dan-gurney, lorenzo-bandini, bruce-mclaren, richard-attwood, jo-bonnier, jochen-rindt, innes-ireland]
+- lap: 74
+  drivers: [jackie-stewart, graham-hill, dan-gurney, lorenzo-bandini, bruce-mclaren, richard-attwood, jo-bonnier, jochen-rindt, innes-ireland]
+- lap: 75
+  drivers: [jackie-stewart, graham-hill, dan-gurney, lorenzo-bandini, bruce-mclaren, richard-attwood]
+- lap: 76
+  drivers: [jackie-stewart, graham-hill, dan-gurney, lorenzo-bandini]

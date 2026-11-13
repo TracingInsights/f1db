@@ -164,7 +164,7 @@
   constructorId: super-aguri
   engineManufacturerId: honda
   tyreManufacturerId: bridgestone
-  gridPenalty:
+  gridPenalty: 10
   time: "1:26.158"
 - position: 22
   driverNumber: 8

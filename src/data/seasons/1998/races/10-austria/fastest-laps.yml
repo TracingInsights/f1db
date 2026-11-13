@@ -179,6 +179,16 @@
   gap: "+3.944"
   interval: "+0.722"
 - position: 19
+  driverNumber: 17
+  driverId: mika-salo
+  constructorId: arrows
+  engineManufacturerId: arrows
+  tyreManufacturerId: bridgestone
+  lap: 1
+  time: "1:57.392"
+  gap: "+44.514"
+  interval: "+40.570"
+- position: 20
   driverNumber: 16
   driverId: pedro-diniz
   constructorId: arrows
@@ -187,4 +197,4 @@
   lap: 2
   time: "2:02.090"
   gap: "+49.212"
-  interval: "+45.268"
+  interval: "+4.698"

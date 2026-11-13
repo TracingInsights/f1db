@@ -1,0 +1,58 @@
+- lap: 0
+  drivers: [chris-amon, jackie-stewart, jacky-ickx, john-surtees, denny-hulme, bruce-mclaren, piers-courage, pedro-rodriguez, jo-siffert, brian-redman, richard-attwood, lucien-bianchi, jean-pierre-beltoise, graham-hill, jackie-oliver, jo-bonnier, jochen-rindt, jack-brabham]
+- lap: 1
+  drivers: [chris-amon, john-surtees, jacky-ickx, denny-hulme, jackie-stewart, pedro-rodriguez, piers-courage, jo-siffert, jochen-rindt, graham-hill, bruce-mclaren, brian-redman, richard-attwood, jack-brabham, jackie-oliver, lucien-bianchi, jean-pierre-beltoise]
+- lap: 2
+  drivers: [john-surtees, chris-amon, jacky-ickx, denny-hulme, jackie-stewart, piers-courage, pedro-rodriguez, jo-siffert, bruce-mclaren, graham-hill, brian-redman, jack-brabham, richard-attwood, jochen-rindt, jackie-oliver, lucien-bianchi, jean-pierre-beltoise]
+- lap: 3
+  drivers: [john-surtees, chris-amon, jacky-ickx, denny-hulme, jackie-stewart, pedro-rodriguez, jo-siffert, piers-courage, bruce-mclaren, graham-hill, jack-brabham, brian-redman, richard-attwood, jackie-oliver, lucien-bianchi, jean-pierre-beltoise, jochen-rindt]
+- lap: 4
+  drivers: [john-surtees, chris-amon, jacky-ickx, denny-hulme, jackie-stewart, jo-siffert, pedro-rodriguez, piers-courage, bruce-mclaren, graham-hill, jack-brabham, brian-redman, richard-attwood, jackie-oliver, lucien-bianchi, jean-pierre-beltoise, jochen-rindt]
+- lap: 5
+  drivers: [john-surtees, chris-amon, jackie-stewart, denny-hulme, jacky-ickx, jo-siffert, pedro-rodriguez, piers-courage, bruce-mclaren, graham-hill, jack-brabham, brian-redman, richard-attwood, jackie-oliver, lucien-bianchi, jean-pierre-beltoise, jochen-rindt]
+- lap: 6
+  drivers: [john-surtees, chris-amon, denny-hulme, jackie-stewart, jacky-ickx, jo-siffert, pedro-rodriguez, piers-courage, bruce-mclaren, brian-redman, jack-brabham, richard-attwood, jackie-oliver, lucien-bianchi, jean-pierre-beltoise]
+- lap: 7
+  drivers: [john-surtees, chris-amon, denny-hulme, jackie-stewart, jacky-ickx, piers-courage, jo-siffert, pedro-rodriguez, bruce-mclaren, jackie-oliver, lucien-bianchi, jean-pierre-beltoise]
+- lap: 8
+  drivers: [john-surtees, jackie-stewart, denny-hulme, chris-amon, jacky-ickx, pedro-rodriguez, piers-courage, bruce-mclaren, jo-siffert, jackie-oliver, lucien-bianchi, jean-pierre-beltoise]
+- lap: 9
+  drivers: [john-surtees, denny-hulme, jackie-stewart, jacky-ickx, bruce-mclaren, piers-courage, pedro-rodriguez, jo-siffert, jackie-oliver, lucien-bianchi, jean-pierre-beltoise]
+- lap: 10
+  drivers: [john-surtees, denny-hulme, jackie-stewart, jacky-ickx, bruce-mclaren, piers-courage, pedro-rodriguez, jo-siffert, jackie-oliver, lucien-bianchi, jean-pierre-beltoise]
+- lap: 11
+  drivers: [denny-hulme, jackie-stewart, bruce-mclaren, jacky-ickx, piers-courage, pedro-rodriguez, jo-siffert, jackie-oliver, john-surtees, lucien-bianchi, jean-pierre-beltoise]
+- lap: 12
+  drivers: [jackie-stewart, denny-hulme, bruce-mclaren, piers-courage, jacky-ickx, pedro-rodriguez, jo-siffert, jackie-oliver, lucien-bianchi, jean-pierre-beltoise]
+- lap: 13
+  drivers: [jackie-stewart, denny-hulme, bruce-mclaren, pedro-rodriguez, piers-courage, jacky-ickx, jo-siffert, jackie-oliver, lucien-bianchi, jean-pierre-beltoise]
+- lap: 14
+  drivers: [jackie-stewart, denny-hulme, pedro-rodriguez, bruce-mclaren, piers-courage, jacky-ickx, jo-siffert, jackie-oliver, lucien-bianchi, jean-pierre-beltoise]
+- lap: 15
+  drivers: [denny-hulme, jackie-stewart, pedro-rodriguez, bruce-mclaren, piers-courage, jacky-ickx, jo-siffert, jackie-oliver, lucien-bianchi, jean-pierre-beltoise]
+- lap: 16
+  drivers: [jackie-stewart, denny-hulme, pedro-rodriguez, bruce-mclaren, piers-courage, jacky-ickx, jo-siffert, jackie-oliver, lucien-bianchi, jean-pierre-beltoise]
+- lap: 17
+  drivers: [jackie-stewart, denny-hulme, bruce-mclaren, pedro-rodriguez, piers-courage, jacky-ickx, jo-siffert, jackie-oliver, lucien-bianchi, jean-pierre-beltoise]
+- lap: 18
+  drivers: [jackie-stewart, bruce-mclaren, pedro-rodriguez, piers-courage, jacky-ickx, denny-hulme, jo-siffert, jackie-oliver, lucien-bianchi, jean-pierre-beltoise]
+- lap: 19
+  drivers: [jackie-stewart, bruce-mclaren, pedro-rodriguez, piers-courage, jacky-ickx, jo-siffert, jackie-oliver, lucien-bianchi, jean-pierre-beltoise]
+- lap: 20
+  drivers: [jackie-stewart, pedro-rodriguez, bruce-mclaren, piers-courage, jacky-ickx, jo-siffert, jackie-oliver, lucien-bianchi, jean-pierre-beltoise]
+- lap: 21
+  drivers: [jackie-stewart, pedro-rodriguez, bruce-mclaren, jacky-ickx, piers-courage, jo-siffert, jackie-oliver, lucien-bianchi, jean-pierre-beltoise]
+- lap: 22
+  drivers: [jackie-stewart, bruce-mclaren, pedro-rodriguez, jacky-ickx, piers-courage, jo-siffert, jackie-oliver, lucien-bianchi, jean-pierre-beltoise]
+- lap: 23
+  drivers: [jackie-stewart, bruce-mclaren, pedro-rodriguez, jacky-ickx, jo-siffert, jackie-oliver, lucien-bianchi, jean-pierre-beltoise]
+- lap: 24
+  drivers: [jackie-stewart, bruce-mclaren, pedro-rodriguez, jacky-ickx, jo-siffert, jackie-oliver, lucien-bianchi, jean-pierre-beltoise]
+- lap: 25
+  drivers: [jackie-stewart, bruce-mclaren, pedro-rodriguez, jacky-ickx, jo-siffert, jackie-oliver, lucien-bianchi, jean-pierre-beltoise]
+- lap: 26
+  drivers: [jackie-stewart, bruce-mclaren, pedro-rodriguez, jacky-ickx, jackie-oliver, lucien-bianchi]
+- lap: 27
+  drivers: [jackie-stewart, bruce-mclaren, pedro-rodriguez, jacky-ickx]
+- lap: 28
+  drivers: [bruce-mclaren, pedro-rodriguez, jacky-ickx]

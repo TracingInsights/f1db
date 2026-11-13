@@ -148,7 +148,7 @@
   constructorId: ferrari
   engineManufacturerId: ferrari
   tyreManufacturerId: bridgestone
-  gridPenalty:
+  gridPenalty: 10
   time: "1:57.931"
 - position: 20
   driverNumber: 4
@@ -156,5 +156,5 @@
   constructorId: bar
   engineManufacturerId: honda
   tyreManufacturerId: michelin
-  gridPenalty:
+  gridPenalty: 10
   time:

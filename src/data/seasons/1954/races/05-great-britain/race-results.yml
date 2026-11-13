@@ -285,7 +285,7 @@
   engineManufacturerId: maserati
   tyreManufacturerId: dunlop
   sharedCar: true
-  laps:
+  laps: 2
   time:
   timePenalty:
   gap:
@@ -314,7 +314,7 @@
   engineManufacturerId: maserati
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 10
   time:
   timePenalty:
   gap:
@@ -473,6 +473,6 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Car raced by Brandon
   points:
   gridPosition: 29

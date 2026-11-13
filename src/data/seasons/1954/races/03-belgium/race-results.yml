@@ -61,7 +61,7 @@
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 15
   time:
   timePenalty:
   gap:

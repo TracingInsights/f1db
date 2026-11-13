@@ -7,15 +7,6 @@
   tyreManufacturerId: goodyear
   driverId: vittorio-brambilla
   rounds: 1-16
-- entrantId: boro-racing
-  countryId: netherlands
-  constructorId: boro
-  engineManufacturerId: ford
-  chassisId: boro-001
-  engineId: ford-cosworth-dfv-30-v8
-  tyreManufacturerId: goodyear
-  driverId: larry-perkins
-  rounds: 4-7,12-13
 - entrantId: copersucar-fittipaldi
   countryId: brazil
   constructorId: fittipaldi
@@ -73,6 +64,15 @@
   tyreManufacturerId: goodyear
   driverId: boy-hayje
   rounds: 12
+- entrantId: hb-bewaking-alarmsystemen
+  countryId: netherlands
+  constructorId: boro
+  engineManufacturerId: ford
+  chassisId: boro-001
+  engineId: ford-cosworth-dfv-30-v8
+  tyreManufacturerId: goodyear
+  driverId: larry-perkins
+  rounds: 4-7,12-13
 - entrantId: heros-racing
   countryId: japan
   constructorId: tyrrell

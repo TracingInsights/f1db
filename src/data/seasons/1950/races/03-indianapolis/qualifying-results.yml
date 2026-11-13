@@ -44,9 +44,9 @@
   constructorId: kurtis-kraft
   engineManufacturerId: offenhauser
   tyreManufacturerId: firestone
-  time: "4:32.640"
-  gap: "+4.670"
-  interval: "+0.250"
+  time: "4:32.430"
+  gap: "+4.460"
+  interval: "+0.040"
   laps:
 - position: 6
   driverNumber: 49
@@ -56,7 +56,7 @@
   tyreManufacturerId: firestone
   time: "4:33.000"
   gap: "+5.030"
-  interval: "+0.360"
+  interval: "+0.570"
   laps:
 - position: 7
   driverNumber: 69
@@ -254,9 +254,9 @@
   constructorId: kurtis-kraft
   engineManufacturerId: offenhauser
   tyreManufacturerId: firestone
-  time: "4:35.470"
-  gap: "+7.500"
-  interval: "+1.900"
+  time: "4:35.320"
+  gap: "+7.350"
+  interval: "+1.750"
   laps:
 - position: 27
   driverNumber: 22
@@ -266,7 +266,7 @@
   tyreManufacturerId: firestone
   time: "4:36.070"
   gap: "+8.100"
-  interval: "+0.600"
+  interval: "+0.750"
   laps:
 - position: 28
   driverNumber: 76

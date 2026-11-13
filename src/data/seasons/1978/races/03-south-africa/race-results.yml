@@ -61,10 +61,10 @@
   engineManufacturerId: matra
   tyreManufacturerId: goodyear
   laps: 78
-  time: "1:43:24.987"
+  time: "1:43:24.985"
   timePenalty:
-  gap: "+1:09.220"
-  interval: "+30.230"
+  gap: "+1:09.218"
+  interval: "+30.228"
   reasonRetired:
   points: 2
   gridPosition: 14
@@ -326,7 +326,7 @@
   constructorId: fittipaldi
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
-  laps: 8
+  laps: 9
   time:
   timePenalty:
   gap:

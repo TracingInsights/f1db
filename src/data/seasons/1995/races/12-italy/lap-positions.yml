@@ -1,0 +1,108 @@
+- lap: 0
+  drivers: [david-coulthard, michael-schumacher, gerhard-berger, damon-hill, jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, mark-blundell, heinz-harald-frentzen, martin-brundle, eddie-irvine, olivier-panis, jean-christophe-boullion, max-papis, mika-salo, ukyo-katayama, luca-badoer, pedro-lamy, taki-inoue, pedro-diniz, giovanni-lavaggi]
+- lap: 1
+  drivers: [david-coulthard, gerhard-berger, michael-schumacher, damon-hill, jean-alesi, johnny-herbert, rubens-barrichello, mika-hakkinen, martin-brundle, eddie-irvine, mark-blundell, heinz-harald-frentzen, olivier-panis, mika-salo, ukyo-katayama, max-papis, luca-badoer, giovanni-lavaggi, taki-inoue, pedro-diniz, jean-christophe-boullion]
+- lap: 2
+  drivers: [david-coulthard, gerhard-berger, michael-schumacher, damon-hill, jean-alesi, johnny-herbert, rubens-barrichello, mika-hakkinen, eddie-irvine, martin-brundle, mark-blundell, heinz-harald-frentzen, olivier-panis, ukyo-katayama, luca-badoer, max-papis, giovanni-lavaggi, taki-inoue, pedro-diniz, jean-christophe-boullion, mika-salo]
+- lap: 3
+  drivers: [david-coulthard, gerhard-berger, michael-schumacher, damon-hill, jean-alesi, rubens-barrichello, johnny-herbert, mika-hakkinen, eddie-irvine, martin-brundle, mark-blundell, heinz-harald-frentzen, olivier-panis, ukyo-katayama, luca-badoer, max-papis, giovanni-lavaggi, taki-inoue, mika-salo, pedro-diniz, jean-christophe-boullion]
+- lap: 4
+  drivers: [david-coulthard, gerhard-berger, michael-schumacher, damon-hill, jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, eddie-irvine, martin-brundle, mark-blundell, heinz-harald-frentzen, olivier-panis, ukyo-katayama, luca-badoer, max-papis, giovanni-lavaggi, mika-salo, taki-inoue, pedro-diniz, jean-christophe-boullion]
+- lap: 5
+  drivers: [david-coulthard, gerhard-berger, michael-schumacher, damon-hill, jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, eddie-irvine, martin-brundle, mark-blundell, heinz-harald-frentzen, olivier-panis, ukyo-katayama, luca-badoer, max-papis, mika-salo, giovanni-lavaggi, taki-inoue, pedro-diniz, jean-christophe-boullion]
+- lap: 6
+  drivers: [david-coulthard, gerhard-berger, michael-schumacher, damon-hill, jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, eddie-irvine, martin-brundle, mark-blundell, heinz-harald-frentzen, olivier-panis, ukyo-katayama, luca-badoer, max-papis, mika-salo, taki-inoue, jean-christophe-boullion, giovanni-lavaggi, pedro-diniz]
+- lap: 7
+  drivers: [david-coulthard, gerhard-berger, michael-schumacher, damon-hill, jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, eddie-irvine, martin-brundle, mark-blundell, heinz-harald-frentzen, olivier-panis, ukyo-katayama, luca-badoer, max-papis, mika-salo, taki-inoue, jean-christophe-boullion, pedro-diniz]
+- lap: 8
+  drivers: [david-coulthard, gerhard-berger, michael-schumacher, damon-hill, jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, eddie-irvine, mark-blundell, martin-brundle, heinz-harald-frentzen, olivier-panis, ukyo-katayama, luca-badoer, mika-salo, max-papis, taki-inoue, jean-christophe-boullion, pedro-diniz]
+- lap: 9
+  drivers: [david-coulthard, gerhard-berger, michael-schumacher, damon-hill, jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, eddie-irvine, mark-blundell, heinz-harald-frentzen, martin-brundle, olivier-panis, ukyo-katayama, mika-salo, luca-badoer, max-papis, taki-inoue, jean-christophe-boullion, pedro-diniz]
+- lap: 10
+  drivers: [david-coulthard, gerhard-berger, michael-schumacher, damon-hill, jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, eddie-irvine, mark-blundell, heinz-harald-frentzen, martin-brundle, ukyo-katayama, olivier-panis, mika-salo, luca-badoer, max-papis, taki-inoue, jean-christophe-boullion, pedro-diniz]
+- lap: 11
+  drivers: [david-coulthard, gerhard-berger, michael-schumacher, damon-hill, jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, eddie-irvine, mark-blundell, heinz-harald-frentzen, ukyo-katayama, olivier-panis, mika-salo, luca-badoer, max-papis, taki-inoue, jean-christophe-boullion, pedro-diniz]
+- lap: 12
+  drivers: [david-coulthard, gerhard-berger, michael-schumacher, damon-hill, jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, eddie-irvine, mark-blundell, heinz-harald-frentzen, ukyo-katayama, olivier-panis, luca-badoer, max-papis, taki-inoue, jean-christophe-boullion, mika-salo, pedro-diniz]
+- lap: 13
+  drivers: [david-coulthard, gerhard-berger, michael-schumacher, damon-hill, jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, eddie-irvine, mark-blundell, heinz-harald-frentzen, ukyo-katayama, olivier-panis, luca-badoer, max-papis, taki-inoue, jean-christophe-boullion, pedro-diniz, mika-salo]
+- lap: 14
+  drivers: [gerhard-berger, michael-schumacher, damon-hill, jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, eddie-irvine, mark-blundell, heinz-harald-frentzen, ukyo-katayama, olivier-panis, luca-badoer, max-papis, taki-inoue, jean-christophe-boullion, mika-salo, pedro-diniz]
+- lap: 15
+  drivers: [gerhard-berger, michael-schumacher, damon-hill, jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, eddie-irvine, mark-blundell, heinz-harald-frentzen, olivier-panis, luca-badoer, max-papis, taki-inoue, jean-christophe-boullion, mika-salo, ukyo-katayama, pedro-diniz]
+- lap: 16
+  drivers: [gerhard-berger, michael-schumacher, damon-hill, jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, eddie-irvine, mark-blundell, heinz-harald-frentzen, olivier-panis, luca-badoer, max-papis, taki-inoue, jean-christophe-boullion, mika-salo, ukyo-katayama, pedro-diniz]
+- lap: 17
+  drivers: [gerhard-berger, michael-schumacher, damon-hill, jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, eddie-irvine, mark-blundell, heinz-harald-frentzen, olivier-panis, luca-badoer, max-papis, taki-inoue, jean-christophe-boullion, mika-salo, ukyo-katayama, pedro-diniz]
+- lap: 18
+  drivers: [gerhard-berger, michael-schumacher, damon-hill, jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, eddie-irvine, mark-blundell, heinz-harald-frentzen, olivier-panis, luca-badoer, max-papis, taki-inoue, jean-christophe-boullion, mika-salo, ukyo-katayama, pedro-diniz]
+- lap: 19
+  drivers: [gerhard-berger, michael-schumacher, damon-hill, jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, eddie-irvine, mark-blundell, heinz-harald-frentzen, olivier-panis, luca-badoer, max-papis, taki-inoue, jean-christophe-boullion, mika-salo, ukyo-katayama, pedro-diniz]
+- lap: 20
+  drivers: [gerhard-berger, michael-schumacher, damon-hill, jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, eddie-irvine, mark-blundell, heinz-harald-frentzen, olivier-panis, luca-badoer, max-papis, taki-inoue, jean-christophe-boullion, mika-salo, ukyo-katayama, pedro-diniz]
+- lap: 21
+  drivers: [gerhard-berger, michael-schumacher, damon-hill, jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, eddie-irvine, mark-blundell, heinz-harald-frentzen, luca-badoer, max-papis, taki-inoue, jean-christophe-boullion, mika-salo, ukyo-katayama, pedro-diniz]
+- lap: 22
+  drivers: [gerhard-berger, michael-schumacher, damon-hill, jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, eddie-irvine, mark-blundell, heinz-harald-frentzen, luca-badoer, max-papis, taki-inoue, jean-christophe-boullion, mika-salo, ukyo-katayama, pedro-diniz]
+- lap: 23
+  drivers: [gerhard-berger, michael-schumacher, damon-hill, jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, eddie-irvine, mark-blundell, heinz-harald-frentzen, luca-badoer, max-papis, taki-inoue, jean-christophe-boullion, mika-salo, ukyo-katayama, pedro-diniz]
+- lap: 24
+  drivers: [gerhard-berger, jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, eddie-irvine, mark-blundell, heinz-harald-frentzen, luca-badoer, max-papis, taki-inoue, jean-christophe-boullion, mika-salo, ukyo-katayama, pedro-diniz]
+- lap: 25
+  drivers: [jean-alesi, rubens-barrichello, mika-hakkinen, johnny-herbert, gerhard-berger, eddie-irvine, mark-blundell, heinz-harald-frentzen, max-papis, taki-inoue, jean-christophe-boullion, mika-salo, luca-badoer, ukyo-katayama, pedro-diniz]
+- lap: 26
+  drivers: [rubens-barrichello, mika-hakkinen, johnny-herbert, jean-alesi, eddie-irvine, gerhard-berger, mark-blundell, heinz-harald-frentzen, taki-inoue, jean-christophe-boullion, mika-salo, max-papis, luca-badoer, ukyo-katayama, pedro-diniz]
+- lap: 27
+  drivers: [mika-hakkinen, johnny-herbert, eddie-irvine, jean-alesi, gerhard-berger, rubens-barrichello, heinz-harald-frentzen, mark-blundell, taki-inoue, mika-salo, ukyo-katayama, max-papis, jean-christophe-boullion, pedro-diniz]
+- lap: 28
+  drivers: [johnny-herbert, jean-alesi, gerhard-berger, mika-hakkinen, rubens-barrichello, eddie-irvine, heinz-harald-frentzen, mark-blundell, mika-salo, ukyo-katayama, max-papis, taki-inoue, jean-christophe-boullion, pedro-diniz]
+- lap: 29
+  drivers: [johnny-herbert, jean-alesi, gerhard-berger, mika-hakkinen, rubens-barrichello, heinz-harald-frentzen, eddie-irvine, mark-blundell, mika-salo, max-papis, taki-inoue, jean-christophe-boullion, pedro-diniz, ukyo-katayama]
+- lap: 30
+  drivers: [jean-alesi, gerhard-berger, johnny-herbert, mika-hakkinen, rubens-barrichello, heinz-harald-frentzen, eddie-irvine, mark-blundell, mika-salo, max-papis, taki-inoue, jean-christophe-boullion, pedro-diniz, ukyo-katayama]
+- lap: 31
+  drivers: [jean-alesi, gerhard-berger, johnny-herbert, mika-hakkinen, rubens-barrichello, heinz-harald-frentzen, eddie-irvine, mark-blundell, mika-salo, max-papis, taki-inoue, jean-christophe-boullion, pedro-diniz, ukyo-katayama]
+- lap: 32
+  drivers: [jean-alesi, gerhard-berger, johnny-herbert, mika-hakkinen, rubens-barrichello, heinz-harald-frentzen, eddie-irvine, mark-blundell, max-papis, mika-salo, taki-inoue, jean-christophe-boullion, pedro-diniz, ukyo-katayama]
+- lap: 33
+  drivers: [jean-alesi, johnny-herbert, mika-hakkinen, rubens-barrichello, heinz-harald-frentzen, eddie-irvine, mark-blundell, max-papis, mika-salo, jean-christophe-boullion, taki-inoue, pedro-diniz, ukyo-katayama]
+- lap: 34
+  drivers: [jean-alesi, johnny-herbert, mika-hakkinen, rubens-barrichello, heinz-harald-frentzen, eddie-irvine, mark-blundell, max-papis, mika-salo, jean-christophe-boullion, taki-inoue, pedro-diniz, ukyo-katayama]
+- lap: 35
+  drivers: [jean-alesi, johnny-herbert, mika-hakkinen, rubens-barrichello, heinz-harald-frentzen, eddie-irvine, mark-blundell, max-papis, mika-salo, jean-christophe-boullion, taki-inoue, pedro-diniz, ukyo-katayama]
+- lap: 36
+  drivers: [jean-alesi, johnny-herbert, mika-hakkinen, rubens-barrichello, heinz-harald-frentzen, eddie-irvine, mark-blundell, max-papis, mika-salo, jean-christophe-boullion, taki-inoue, pedro-diniz, ukyo-katayama]
+- lap: 37
+  drivers: [jean-alesi, johnny-herbert, mika-hakkinen, rubens-barrichello, heinz-harald-frentzen, eddie-irvine, mark-blundell, max-papis, mika-salo, jean-christophe-boullion, taki-inoue, pedro-diniz, ukyo-katayama]
+- lap: 38
+  drivers: [jean-alesi, johnny-herbert, mika-hakkinen, rubens-barrichello, heinz-harald-frentzen, eddie-irvine, mark-blundell, max-papis, mika-salo, jean-christophe-boullion, taki-inoue, pedro-diniz, ukyo-katayama]
+- lap: 39
+  drivers: [jean-alesi, johnny-herbert, mika-hakkinen, rubens-barrichello, heinz-harald-frentzen, eddie-irvine, mark-blundell, max-papis, mika-salo, jean-christophe-boullion, taki-inoue, pedro-diniz, ukyo-katayama]
+- lap: 40
+  drivers: [jean-alesi, johnny-herbert, mika-hakkinen, rubens-barrichello, heinz-harald-frentzen, eddie-irvine, mark-blundell, max-papis, mika-salo, jean-christophe-boullion, taki-inoue, pedro-diniz, ukyo-katayama]
+- lap: 41
+  drivers: [jean-alesi, johnny-herbert, mika-hakkinen, rubens-barrichello, heinz-harald-frentzen, mark-blundell, max-papis, mika-salo, jean-christophe-boullion, taki-inoue, pedro-diniz, ukyo-katayama]
+- lap: 42
+  drivers: [jean-alesi, johnny-herbert, mika-hakkinen, rubens-barrichello, heinz-harald-frentzen, mark-blundell, mika-salo, max-papis, jean-christophe-boullion, taki-inoue, pedro-diniz, ukyo-katayama]
+- lap: 43
+  drivers: [jean-alesi, johnny-herbert, mika-hakkinen, heinz-harald-frentzen, rubens-barrichello, mark-blundell, mika-salo, max-papis, jean-christophe-boullion, taki-inoue, pedro-diniz, ukyo-katayama]
+- lap: 44
+  drivers: [jean-alesi, johnny-herbert, mika-hakkinen, heinz-harald-frentzen, mark-blundell, mika-salo, max-papis, jean-christophe-boullion, taki-inoue, pedro-diniz, ukyo-katayama]
+- lap: 45
+  drivers: [jean-alesi, johnny-herbert, mika-hakkinen, heinz-harald-frentzen, mark-blundell, mika-salo, max-papis, jean-christophe-boullion, taki-inoue, pedro-diniz, ukyo-katayama]
+- lap: 46
+  drivers: [johnny-herbert, mika-hakkinen, heinz-harald-frentzen, mark-blundell, mika-salo, max-papis, jean-christophe-boullion, taki-inoue, pedro-diniz, ukyo-katayama]
+- lap: 47
+  drivers: [johnny-herbert, mika-hakkinen, heinz-harald-frentzen, mark-blundell, mika-salo, max-papis, jean-christophe-boullion, taki-inoue, pedro-diniz, ukyo-katayama]
+- lap: 48
+  drivers: [johnny-herbert, mika-hakkinen, heinz-harald-frentzen, mark-blundell, mika-salo, max-papis, jean-christophe-boullion, taki-inoue, pedro-diniz]
+- lap: 49
+  drivers: [johnny-herbert, mika-hakkinen, heinz-harald-frentzen, mark-blundell, mika-salo, max-papis, jean-christophe-boullion, taki-inoue, pedro-diniz]
+- lap: 50
+  drivers: [johnny-herbert, mika-hakkinen, heinz-harald-frentzen, mark-blundell, mika-salo, max-papis, jean-christophe-boullion, taki-inoue, pedro-diniz]
+- lap: 51
+  drivers: [johnny-herbert, mika-hakkinen, heinz-harald-frentzen, mark-blundell, mika-salo, jean-christophe-boullion, max-papis, taki-inoue]
+- lap: 52
+  drivers: [johnny-herbert, mika-hakkinen, heinz-harald-frentzen, mark-blundell, mika-salo, jean-christophe-boullion, max-papis, taki-inoue]
+- lap: 53
+  drivers: [johnny-herbert, mika-hakkinen, heinz-harald-frentzen, mark-blundell]

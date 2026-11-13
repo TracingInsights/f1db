@@ -1,0 +1,182 @@
+- lap: 0
+  drivers: [jackie-stewart, jacky-ickx, clay-regazzoni, francois-cevert, john-surtees, chris-amon, pedro-rodriguez, henri-pescarolo, george-eaton, jackie-oliver, peter-gethin, andrea-de-adamich, jean-pierre-beltoise, jo-siffert, denny-hulme, ronnie-peterson, tim-schenken, rolf-stommelen, jack-brabham, graham-hill]
+- lap: 1
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, john-surtees, francois-cevert, clay-regazzoni, chris-amon, jackie-oliver, henri-pescarolo, peter-gethin, jo-siffert, andrea-de-adamich, denny-hulme, jean-pierre-beltoise, george-eaton, rolf-stommelen, graham-hill, jack-brabham, tim-schenken, ronnie-peterson]
+- lap: 2
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, john-surtees, francois-cevert, clay-regazzoni, chris-amon, jackie-oliver, henri-pescarolo, peter-gethin, andrea-de-adamich, jo-siffert, jean-pierre-beltoise, denny-hulme, george-eaton, graham-hill, jack-brabham, rolf-stommelen, ronnie-peterson, tim-schenken]
+- lap: 3
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, john-surtees, francois-cevert, clay-regazzoni, chris-amon, jackie-oliver, henri-pescarolo, peter-gethin, andrea-de-adamich, jo-siffert, jean-pierre-beltoise, denny-hulme, george-eaton, graham-hill, jack-brabham, ronnie-peterson, tim-schenken, rolf-stommelen]
+- lap: 4
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, john-surtees, francois-cevert, clay-regazzoni, chris-amon, jackie-oliver, henri-pescarolo, peter-gethin, andrea-de-adamich, jean-pierre-beltoise, denny-hulme, jo-siffert, george-eaton, jack-brabham, graham-hill, ronnie-peterson, tim-schenken, rolf-stommelen]
+- lap: 5
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, john-surtees, francois-cevert, clay-regazzoni, chris-amon, jackie-oliver, henri-pescarolo, peter-gethin, andrea-de-adamich, jean-pierre-beltoise, denny-hulme, jo-siffert, jack-brabham, george-eaton, graham-hill, ronnie-peterson, tim-schenken, rolf-stommelen]
+- lap: 6
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, john-surtees, francois-cevert, clay-regazzoni, chris-amon, henri-pescarolo, peter-gethin, andrea-de-adamich, jean-pierre-beltoise, jackie-oliver, denny-hulme, jo-siffert, jack-brabham, george-eaton, graham-hill, ronnie-peterson, tim-schenken, rolf-stommelen]
+- lap: 7
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, francois-cevert, clay-regazzoni, chris-amon, john-surtees, henri-pescarolo, peter-gethin, andrea-de-adamich, jean-pierre-beltoise, denny-hulme, jo-siffert, jack-brabham, george-eaton, graham-hill, ronnie-peterson, tim-schenken, rolf-stommelen, jackie-oliver]
+- lap: 8
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, francois-cevert, clay-regazzoni, chris-amon, henri-pescarolo, peter-gethin, andrea-de-adamich, jean-pierre-beltoise, denny-hulme, jo-siffert, jack-brabham, graham-hill, george-eaton, ronnie-peterson, john-surtees, tim-schenken, rolf-stommelen, jackie-oliver]
+- lap: 9
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, francois-cevert, clay-regazzoni, chris-amon, henri-pescarolo, peter-gethin, andrea-de-adamich, jean-pierre-beltoise, denny-hulme, jo-siffert, jack-brabham, graham-hill, george-eaton, ronnie-peterson, john-surtees, tim-schenken, rolf-stommelen, jackie-oliver]
+- lap: 10
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, francois-cevert, clay-regazzoni, chris-amon, henri-pescarolo, peter-gethin, andrea-de-adamich, denny-hulme, jean-pierre-beltoise, jo-siffert, jack-brabham, graham-hill, george-eaton, john-surtees, ronnie-peterson, tim-schenken, rolf-stommelen, jackie-oliver]
+- lap: 11
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, francois-cevert, clay-regazzoni, chris-amon, henri-pescarolo, peter-gethin, denny-hulme, andrea-de-adamich, jean-pierre-beltoise, jo-siffert, jack-brabham, graham-hill, john-surtees, george-eaton, ronnie-peterson, rolf-stommelen, tim-schenken, jackie-oliver]
+- lap: 12
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, francois-cevert, clay-regazzoni, chris-amon, henri-pescarolo, denny-hulme, peter-gethin, jean-pierre-beltoise, andrea-de-adamich, jo-siffert, jack-brabham, graham-hill, john-surtees, george-eaton, ronnie-peterson, rolf-stommelen, tim-schenken, jackie-oliver]
+- lap: 13
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, francois-cevert, clay-regazzoni, chris-amon, denny-hulme, henri-pescarolo, peter-gethin, jean-pierre-beltoise, andrea-de-adamich, jo-siffert, jack-brabham, graham-hill, john-surtees, george-eaton, ronnie-peterson, rolf-stommelen, tim-schenken, jackie-oliver]
+- lap: 14
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, francois-cevert, clay-regazzoni, chris-amon, denny-hulme, henri-pescarolo, peter-gethin, jean-pierre-beltoise, andrea-de-adamich, jo-siffert, jack-brabham, graham-hill, john-surtees, george-eaton, ronnie-peterson, rolf-stommelen, tim-schenken, jackie-oliver]
+- lap: 15
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, francois-cevert, clay-regazzoni, chris-amon, denny-hulme, henri-pescarolo, peter-gethin, jean-pierre-beltoise, andrea-de-adamich, jo-siffert, jack-brabham, graham-hill, john-surtees, george-eaton, ronnie-peterson, rolf-stommelen, tim-schenken, jackie-oliver]
+- lap: 16
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, francois-cevert, clay-regazzoni, chris-amon, denny-hulme, henri-pescarolo, peter-gethin, jean-pierre-beltoise, andrea-de-adamich, jo-siffert, jack-brabham, graham-hill, john-surtees, george-eaton, ronnie-peterson, rolf-stommelen, tim-schenken, jackie-oliver]
+- lap: 17
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, clay-regazzoni, francois-cevert, chris-amon, denny-hulme, henri-pescarolo, peter-gethin, jean-pierre-beltoise, andrea-de-adamich, jo-siffert, jack-brabham, john-surtees, graham-hill, george-eaton, ronnie-peterson, rolf-stommelen, tim-schenken, jackie-oliver]
+- lap: 18
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, clay-regazzoni, francois-cevert, chris-amon, denny-hulme, henri-pescarolo, peter-gethin, jean-pierre-beltoise, andrea-de-adamich, jo-siffert, jack-brabham, john-surtees, graham-hill, george-eaton, rolf-stommelen, tim-schenken, ronnie-peterson, jackie-oliver]
+- lap: 19
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, clay-regazzoni, francois-cevert, chris-amon, denny-hulme, henri-pescarolo, peter-gethin, jean-pierre-beltoise, andrea-de-adamich, jo-siffert, jack-brabham, john-surtees, graham-hill, george-eaton, rolf-stommelen, tim-schenken, ronnie-peterson, jackie-oliver]
+- lap: 20
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, clay-regazzoni, francois-cevert, chris-amon, denny-hulme, henri-pescarolo, peter-gethin, jean-pierre-beltoise, andrea-de-adamich, jo-siffert, jack-brabham, john-surtees, graham-hill, george-eaton, rolf-stommelen, tim-schenken, ronnie-peterson, jackie-oliver]
+- lap: 21
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, clay-regazzoni, francois-cevert, chris-amon, denny-hulme, henri-pescarolo, peter-gethin, jean-pierre-beltoise, andrea-de-adamich, jo-siffert, jack-brabham, john-surtees, graham-hill, george-eaton, rolf-stommelen, tim-schenken, ronnie-peterson, jackie-oliver]
+- lap: 22
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, clay-regazzoni, francois-cevert, chris-amon, denny-hulme, peter-gethin, henri-pescarolo, jean-pierre-beltoise, andrea-de-adamich, jack-brabham, john-surtees, graham-hill, george-eaton, jo-siffert, rolf-stommelen, tim-schenken, ronnie-peterson, jackie-oliver]
+- lap: 23
+  drivers: [jackie-stewart, jacky-ickx, pedro-rodriguez, clay-regazzoni, francois-cevert, chris-amon, denny-hulme, peter-gethin, jean-pierre-beltoise, henri-pescarolo, andrea-de-adamich, jack-brabham, john-surtees, graham-hill, george-eaton, rolf-stommelen, tim-schenken, ronnie-peterson, jackie-oliver]
+- lap: 24
+  drivers: [jackie-stewart, jacky-ickx, clay-regazzoni, pedro-rodriguez, francois-cevert, chris-amon, denny-hulme, peter-gethin, jean-pierre-beltoise, henri-pescarolo, andrea-de-adamich, jack-brabham, john-surtees, graham-hill, george-eaton, tim-schenken, ronnie-peterson, jackie-oliver]
+- lap: 25
+  drivers: [jackie-stewart, jacky-ickx, clay-regazzoni, pedro-rodriguez, chris-amon, francois-cevert, denny-hulme, peter-gethin, jean-pierre-beltoise, henri-pescarolo, john-surtees, andrea-de-adamich, jack-brabham, george-eaton, graham-hill, tim-schenken, ronnie-peterson, jackie-oliver]
+- lap: 26
+  drivers: [jackie-stewart, jacky-ickx, clay-regazzoni, chris-amon, pedro-rodriguez, francois-cevert, denny-hulme, peter-gethin, jean-pierre-beltoise, henri-pescarolo, john-surtees, andrea-de-adamich, jack-brabham, george-eaton, graham-hill, tim-schenken, ronnie-peterson, jackie-oliver]
+- lap: 27
+  drivers: [jackie-stewart, jacky-ickx, clay-regazzoni, chris-amon, pedro-rodriguez, francois-cevert, denny-hulme, peter-gethin, jean-pierre-beltoise, john-surtees, henri-pescarolo, andrea-de-adamich, jack-brabham, george-eaton, graham-hill, tim-schenken, ronnie-peterson, jackie-oliver]
+- lap: 28
+  drivers: [jackie-stewart, jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, denny-hulme, peter-gethin, jean-pierre-beltoise, john-surtees, andrea-de-adamich, henri-pescarolo, jack-brabham, george-eaton, graham-hill, tim-schenken, ronnie-peterson, jackie-oliver]
+- lap: 29
+  drivers: [jackie-stewart, jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, denny-hulme, peter-gethin, jean-pierre-beltoise, john-surtees, andrea-de-adamich, henri-pescarolo, jack-brabham, george-eaton, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 30
+  drivers: [jackie-stewart, jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, denny-hulme, peter-gethin, jean-pierre-beltoise, john-surtees, andrea-de-adamich, henri-pescarolo, jack-brabham, george-eaton, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 31
+  drivers: [jackie-stewart, jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, denny-hulme, peter-gethin, john-surtees, jean-pierre-beltoise, andrea-de-adamich, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 32
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, denny-hulme, peter-gethin, john-surtees, jean-pierre-beltoise, andrea-de-adamich, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 33
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, denny-hulme, peter-gethin, john-surtees, jean-pierre-beltoise, andrea-de-adamich, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 34
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, denny-hulme, peter-gethin, john-surtees, jean-pierre-beltoise, andrea-de-adamich, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 35
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, denny-hulme, peter-gethin, john-surtees, jean-pierre-beltoise, andrea-de-adamich, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 36
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, denny-hulme, peter-gethin, john-surtees, jean-pierre-beltoise, andrea-de-adamich, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 37
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, denny-hulme, peter-gethin, john-surtees, jean-pierre-beltoise, andrea-de-adamich, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 38
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, denny-hulme, peter-gethin, john-surtees, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 39
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, denny-hulme, peter-gethin, john-surtees, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 40
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, denny-hulme, peter-gethin, john-surtees, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 41
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, denny-hulme, peter-gethin, john-surtees, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 42
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, denny-hulme, peter-gethin, john-surtees, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 43
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, denny-hulme, peter-gethin, john-surtees, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 44
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, denny-hulme, peter-gethin, john-surtees, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 45
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, denny-hulme, peter-gethin, john-surtees, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 46
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, denny-hulme, john-surtees, peter-gethin, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 47
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, denny-hulme, john-surtees, peter-gethin, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 48
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, denny-hulme, john-surtees, peter-gethin, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 49
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, denny-hulme, john-surtees, peter-gethin, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 50
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, denny-hulme, peter-gethin, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 51
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, denny-hulme, peter-gethin, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 52
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, denny-hulme, peter-gethin, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson, jackie-oliver]
+- lap: 53
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, denny-hulme, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson]
+- lap: 54
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, denny-hulme, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson]
+- lap: 55
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, denny-hulme, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson]
+- lap: 56
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, denny-hulme, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson]
+- lap: 57
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, denny-hulme, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, jack-brabham, tim-schenken, graham-hill, ronnie-peterson]
+- lap: 58
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, denny-hulme, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, tim-schenken, graham-hill, ronnie-peterson]
+- lap: 59
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, tim-schenken, graham-hill, ronnie-peterson, denny-hulme]
+- lap: 60
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, tim-schenken, graham-hill, ronnie-peterson]
+- lap: 61
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, andrea-de-adamich, jean-pierre-beltoise, henri-pescarolo, george-eaton, tim-schenken, graham-hill, ronnie-peterson]
+- lap: 62
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, jean-pierre-beltoise, henri-pescarolo, andrea-de-adamich, george-eaton, tim-schenken, graham-hill, ronnie-peterson]
+- lap: 63
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, jean-pierre-beltoise, henri-pescarolo, andrea-de-adamich, george-eaton, tim-schenken, graham-hill, ronnie-peterson]
+- lap: 64
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, jean-pierre-beltoise, henri-pescarolo, andrea-de-adamich, george-eaton, tim-schenken, graham-hill, ronnie-peterson]
+- lap: 65
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, jean-pierre-beltoise, henri-pescarolo, andrea-de-adamich, george-eaton, tim-schenken, graham-hill, ronnie-peterson]
+- lap: 66
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, jean-pierre-beltoise, henri-pescarolo, andrea-de-adamich, george-eaton, tim-schenken, graham-hill]
+- lap: 67
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, jean-pierre-beltoise, henri-pescarolo, andrea-de-adamich, george-eaton, tim-schenken, graham-hill]
+- lap: 68
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, jean-pierre-beltoise, henri-pescarolo, andrea-de-adamich, george-eaton, tim-schenken, graham-hill]
+- lap: 69
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, jean-pierre-beltoise, henri-pescarolo, andrea-de-adamich, george-eaton, tim-schenken, graham-hill]
+- lap: 70
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, jean-pierre-beltoise, henri-pescarolo, george-eaton, tim-schenken, graham-hill]
+- lap: 71
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, jean-pierre-beltoise, henri-pescarolo, george-eaton, tim-schenken, graham-hill]
+- lap: 72
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, jean-pierre-beltoise, henri-pescarolo, george-eaton, tim-schenken, graham-hill]
+- lap: 73
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, henri-pescarolo, jean-pierre-beltoise, george-eaton, tim-schenken, graham-hill]
+- lap: 74
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, henri-pescarolo, jean-pierre-beltoise, george-eaton, tim-schenken, graham-hill]
+- lap: 75
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, henri-pescarolo, jean-pierre-beltoise, george-eaton, tim-schenken, graham-hill]
+- lap: 76
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, francois-cevert, pedro-rodriguez, john-surtees, peter-gethin, henri-pescarolo, jean-pierre-beltoise, george-eaton, tim-schenken, graham-hill]
+- lap: 77
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, pedro-rodriguez, john-surtees, peter-gethin, henri-pescarolo, jean-pierre-beltoise, george-eaton, francois-cevert, tim-schenken, graham-hill]
+- lap: 78
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, pedro-rodriguez, john-surtees, peter-gethin, henri-pescarolo, jean-pierre-beltoise, george-eaton, francois-cevert, tim-schenken]
+- lap: 79
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, pedro-rodriguez, john-surtees, peter-gethin, henri-pescarolo, jean-pierre-beltoise, george-eaton, francois-cevert, tim-schenken]
+- lap: 80
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, pedro-rodriguez, john-surtees, peter-gethin, henri-pescarolo, jean-pierre-beltoise, george-eaton, francois-cevert]
+- lap: 81
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, pedro-rodriguez, john-surtees, peter-gethin, henri-pescarolo, jean-pierre-beltoise, george-eaton, francois-cevert]
+- lap: 82
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, pedro-rodriguez, john-surtees, peter-gethin, henri-pescarolo, jean-pierre-beltoise, francois-cevert, george-eaton]
+- lap: 83
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, pedro-rodriguez, john-surtees, peter-gethin, henri-pescarolo, jean-pierre-beltoise, francois-cevert, george-eaton]
+- lap: 84
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, pedro-rodriguez, john-surtees, peter-gethin, henri-pescarolo, jean-pierre-beltoise, francois-cevert, george-eaton]
+- lap: 85
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, pedro-rodriguez, john-surtees, peter-gethin, henri-pescarolo, jean-pierre-beltoise, francois-cevert, george-eaton]
+- lap: 86
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, pedro-rodriguez, john-surtees, peter-gethin, henri-pescarolo]
+- lap: 87
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, pedro-rodriguez, john-surtees, peter-gethin, henri-pescarolo]
+- lap: 88
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, pedro-rodriguez, john-surtees, peter-gethin]
+- lap: 89
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon, pedro-rodriguez, john-surtees]
+- lap: 90
+  drivers: [jacky-ickx, clay-regazzoni, chris-amon]

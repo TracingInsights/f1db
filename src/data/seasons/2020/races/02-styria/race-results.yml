@@ -95,7 +95,7 @@
   interval: "+0.066"
   reasonRetired:
   points: 6
-  gridPosition: 13
+  gridPosition: 12
 - position: 8
   driverNumber: 3
   driverId: daniel-ricciardo
@@ -137,7 +137,7 @@
   interval:
   reasonRetired:
   points: 1
-  gridPosition: 14
+  gridPosition: 13
 - position: 11
   driverNumber: 7
   driverId: kimi-raikkonen
@@ -221,7 +221,7 @@
   interval:
   reasonRetired:
   points:
-  gridPosition: 12
+  gridPosition: 11
 - position: 17
   driverNumber: 6
   driverId: nicholas-latifi
@@ -263,7 +263,7 @@
   interval:
   reasonRetired: Collision damage
   points:
-  gridPosition: 11
+  gridPosition: 14
 - position: DNF
   driverNumber: 5
   driverId: sebastian-vettel

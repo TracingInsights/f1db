@@ -1,0 +1,106 @@
+- lap: 0
+  drivers: [fernando-alonso, mark-webber, michael-schumacher, sebastian-vettel, felipe-massa, kimi-raikkonen, pastor-maldonado, lewis-hamilton, romain-grosjean, paul-di-resta, nico-rosberg, daniel-ricciardo, bruno-senna, nico-hulkenberg, sergio-perez, jenson-button, kamui-kobayashi, heikki-kovalainen, timo-glock, pedro-de-la-rosa, narain-karthikeyan, jean-eric-vergne, charles-pic]
+- lap: 1
+  drivers: [fernando-alonso, mark-webber, michael-schumacher, felipe-massa, sebastian-vettel, pastor-maldonado, kimi-raikkonen, lewis-hamilton, bruno-senna, sergio-perez, nico-hulkenberg, romain-grosjean, jenson-button, kamui-kobayashi, nico-rosberg, jean-eric-vergne, daniel-ricciardo, timo-glock, pedro-de-la-rosa, narain-karthikeyan, heikki-kovalainen, charles-pic, paul-di-resta]
+- lap: 2
+  drivers: [fernando-alonso, mark-webber, michael-schumacher, felipe-massa, sebastian-vettel, pastor-maldonado, kimi-raikkonen, lewis-hamilton, bruno-senna, sergio-perez, romain-grosjean, nico-hulkenberg, kamui-kobayashi, jenson-button, nico-rosberg, jean-eric-vergne, daniel-ricciardo, timo-glock, heikki-kovalainen, pedro-de-la-rosa, narain-karthikeyan, charles-pic, paul-di-resta]
+- lap: 3
+  drivers: [fernando-alonso, mark-webber, michael-schumacher, felipe-massa, sebastian-vettel, pastor-maldonado, kimi-raikkonen, lewis-hamilton, sergio-perez, bruno-senna, nico-hulkenberg, kamui-kobayashi, jenson-button, nico-rosberg, jean-eric-vergne, daniel-ricciardo, heikki-kovalainen, timo-glock, pedro-de-la-rosa, narain-karthikeyan, charles-pic, romain-grosjean]
+- lap: 4
+  drivers: [fernando-alonso, mark-webber, michael-schumacher, felipe-massa, sebastian-vettel, kimi-raikkonen, pastor-maldonado, lewis-hamilton, sergio-perez, bruno-senna, nico-hulkenberg, kamui-kobayashi, jenson-button, nico-rosberg, jean-eric-vergne, daniel-ricciardo, heikki-kovalainen, timo-glock, pedro-de-la-rosa, narain-karthikeyan, charles-pic, romain-grosjean]
+- lap: 5
+  drivers: [fernando-alonso, mark-webber, michael-schumacher, felipe-massa, sebastian-vettel, kimi-raikkonen, pastor-maldonado, lewis-hamilton, sergio-perez, bruno-senna, nico-hulkenberg, kamui-kobayashi, jenson-button, nico-rosberg, jean-eric-vergne, daniel-ricciardo, heikki-kovalainen, timo-glock, pedro-de-la-rosa, narain-karthikeyan, charles-pic, romain-grosjean]
+- lap: 6
+  drivers: [fernando-alonso, mark-webber, michael-schumacher, felipe-massa, sebastian-vettel, kimi-raikkonen, pastor-maldonado, lewis-hamilton, sergio-perez, bruno-senna, nico-hulkenberg, kamui-kobayashi, jenson-button, nico-rosberg, jean-eric-vergne, daniel-ricciardo, heikki-kovalainen, timo-glock, pedro-de-la-rosa, narain-karthikeyan, romain-grosjean, charles-pic]
+- lap: 7
+  drivers: [fernando-alonso, mark-webber, michael-schumacher, felipe-massa, sebastian-vettel, kimi-raikkonen, pastor-maldonado, lewis-hamilton, sergio-perez, bruno-senna, nico-hulkenberg, kamui-kobayashi, jenson-button, nico-rosberg, jean-eric-vergne, daniel-ricciardo, heikki-kovalainen, timo-glock, pedro-de-la-rosa, romain-grosjean, narain-karthikeyan, charles-pic]
+- lap: 8
+  drivers: [fernando-alonso, mark-webber, michael-schumacher, felipe-massa, sebastian-vettel, kimi-raikkonen, pastor-maldonado, lewis-hamilton, sergio-perez, bruno-senna, nico-hulkenberg, kamui-kobayashi, jenson-button, nico-rosberg, daniel-ricciardo, jean-eric-vergne, heikki-kovalainen, timo-glock, romain-grosjean, pedro-de-la-rosa, narain-karthikeyan, charles-pic]
+- lap: 9
+  drivers: [fernando-alonso, mark-webber, michael-schumacher, felipe-massa, sebastian-vettel, kimi-raikkonen, pastor-maldonado, lewis-hamilton, sergio-perez, bruno-senna, nico-hulkenberg, kamui-kobayashi, jenson-button, nico-rosberg, daniel-ricciardo, jean-eric-vergne, heikki-kovalainen, romain-grosjean, timo-glock, pedro-de-la-rosa, narain-karthikeyan, charles-pic]
+- lap: 10
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, michael-schumacher, felipe-massa, kimi-raikkonen, pastor-maldonado, lewis-hamilton, sergio-perez, bruno-senna, nico-hulkenberg, kamui-kobayashi, jenson-button, nico-rosberg, daniel-ricciardo, jean-eric-vergne, heikki-kovalainen, romain-grosjean, timo-glock, pedro-de-la-rosa, narain-karthikeyan, charles-pic]
+- lap: 11
+  drivers: [fernando-alonso, mark-webber, felipe-massa, pastor-maldonado, michael-schumacher, kimi-raikkonen, sergio-perez, lewis-hamilton, bruno-senna, nico-hulkenberg, kamui-kobayashi, jenson-button, nico-rosberg, daniel-ricciardo, sebastian-vettel, jean-eric-vergne, romain-grosjean, heikki-kovalainen, timo-glock, pedro-de-la-rosa, narain-karthikeyan, charles-pic]
+- lap: 12
+  drivers: [fernando-alonso, mark-webber, michael-schumacher, felipe-massa, kimi-raikkonen, lewis-hamilton, bruno-senna, kamui-kobayashi, nico-hulkenberg, jenson-button, nico-rosberg, sebastian-vettel, daniel-ricciardo, jean-eric-vergne, romain-grosjean, heikki-kovalainen, timo-glock, pedro-de-la-rosa, narain-karthikeyan, charles-pic, pastor-maldonado]
+- lap: 13
+  drivers: [fernando-alonso, mark-webber, felipe-massa, kimi-raikkonen, lewis-hamilton, kamui-kobayashi, nico-hulkenberg, bruno-senna, jenson-button, nico-rosberg, sebastian-vettel, daniel-ricciardo, michael-schumacher, jean-eric-vergne, romain-grosjean, timo-glock, pedro-de-la-rosa, heikki-kovalainen, charles-pic, narain-karthikeyan, pastor-maldonado]
+- lap: 14
+  drivers: [fernando-alonso, mark-webber, lewis-hamilton, kamui-kobayashi, nico-hulkenberg, bruno-senna, jenson-button, sebastian-vettel, nico-rosberg, felipe-massa, michael-schumacher, daniel-ricciardo, kimi-raikkonen, jean-eric-vergne, romain-grosjean, timo-glock, heikki-kovalainen, pedro-de-la-rosa, narain-karthikeyan, charles-pic, pastor-maldonado]
+- lap: 15
+  drivers: [fernando-alonso, lewis-hamilton, kamui-kobayashi, mark-webber, nico-hulkenberg, nico-rosberg, sebastian-vettel, jenson-button, felipe-massa, michael-schumacher, kimi-raikkonen, daniel-ricciardo, romain-grosjean, bruno-senna, jean-eric-vergne, timo-glock, heikki-kovalainen, pedro-de-la-rosa, narain-karthikeyan, charles-pic, pastor-maldonado]
+- lap: 16
+  drivers: [lewis-hamilton, fernando-alonso, kamui-kobayashi, mark-webber, nico-hulkenberg, sebastian-vettel, jenson-button, felipe-massa, michael-schumacher, daniel-ricciardo, kimi-raikkonen, romain-grosjean, bruno-senna, nico-rosberg, jean-eric-vergne, timo-glock, heikki-kovalainen, pedro-de-la-rosa, narain-karthikeyan, charles-pic, pastor-maldonado]
+- lap: 17
+  drivers: [lewis-hamilton, fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, michael-schumacher, kimi-raikkonen, romain-grosjean, kamui-kobayashi, nico-hulkenberg, bruno-senna, nico-rosberg, jenson-button, daniel-ricciardo, jean-eric-vergne, timo-glock, heikki-kovalainen, pedro-de-la-rosa, charles-pic, pastor-maldonado, narain-karthikeyan]
+- lap: 18
+  drivers: [lewis-hamilton, fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, michael-schumacher, kimi-raikkonen, romain-grosjean, kamui-kobayashi, nico-hulkenberg, bruno-senna, jenson-button, nico-rosberg, daniel-ricciardo, jean-eric-vergne, timo-glock, heikki-kovalainen, pedro-de-la-rosa, charles-pic, pastor-maldonado, narain-karthikeyan]
+- lap: 19
+  drivers: [fernando-alonso, lewis-hamilton, mark-webber, sebastian-vettel, felipe-massa, michael-schumacher, kimi-raikkonen, romain-grosjean, kamui-kobayashi, nico-hulkenberg, bruno-senna, jenson-button, nico-rosberg, daniel-ricciardo, jean-eric-vergne, heikki-kovalainen, pedro-de-la-rosa, timo-glock, charles-pic, pastor-maldonado, narain-karthikeyan]
+- lap: 20
+  drivers: [fernando-alonso, lewis-hamilton, mark-webber, sebastian-vettel, felipe-massa, michael-schumacher, kimi-raikkonen, romain-grosjean, kamui-kobayashi, nico-hulkenberg, bruno-senna, jenson-button, nico-rosberg, daniel-ricciardo, jean-eric-vergne, heikki-kovalainen, pedro-de-la-rosa, timo-glock, pastor-maldonado, charles-pic, narain-karthikeyan]
+- lap: 21
+  drivers: [fernando-alonso, lewis-hamilton, mark-webber, sebastian-vettel, felipe-massa, michael-schumacher, kimi-raikkonen, romain-grosjean, kamui-kobayashi, nico-hulkenberg, bruno-senna, jenson-button, nico-rosberg, daniel-ricciardo, jean-eric-vergne, heikki-kovalainen, pedro-de-la-rosa, timo-glock, pastor-maldonado, charles-pic, narain-karthikeyan]
+- lap: 22
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, michael-schumacher, kimi-raikkonen, lewis-hamilton, romain-grosjean, kamui-kobayashi, nico-hulkenberg, bruno-senna, jenson-button, nico-rosberg, daniel-ricciardo, jean-eric-vergne, heikki-kovalainen, pedro-de-la-rosa, timo-glock, pastor-maldonado, charles-pic, narain-karthikeyan]
+- lap: 23
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, michael-schumacher, kimi-raikkonen, lewis-hamilton, romain-grosjean, kamui-kobayashi, nico-hulkenberg, bruno-senna, jenson-button, nico-rosberg, daniel-ricciardo, jean-eric-vergne, heikki-kovalainen, pedro-de-la-rosa, timo-glock, pastor-maldonado, charles-pic, narain-karthikeyan]
+- lap: 24
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, kimi-raikkonen, lewis-hamilton, michael-schumacher, romain-grosjean, kamui-kobayashi, nico-hulkenberg, bruno-senna, jenson-button, nico-rosberg, daniel-ricciardo, jean-eric-vergne, heikki-kovalainen, timo-glock, pastor-maldonado, pedro-de-la-rosa, charles-pic, narain-karthikeyan]
+- lap: 25
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, kimi-raikkonen, lewis-hamilton, michael-schumacher, romain-grosjean, kamui-kobayashi, nico-hulkenberg, bruno-senna, jenson-button, nico-rosberg, daniel-ricciardo, jean-eric-vergne, heikki-kovalainen, pastor-maldonado, timo-glock, pedro-de-la-rosa, charles-pic, narain-karthikeyan]
+- lap: 26
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, kimi-raikkonen, lewis-hamilton, romain-grosjean, michael-schumacher, kamui-kobayashi, nico-hulkenberg, bruno-senna, jenson-button, nico-rosberg, daniel-ricciardo, jean-eric-vergne, heikki-kovalainen, pastor-maldonado, timo-glock, pedro-de-la-rosa, charles-pic, narain-karthikeyan]
+- lap: 27
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, kimi-raikkonen, lewis-hamilton, michael-schumacher, kamui-kobayashi, nico-hulkenberg, bruno-senna, jenson-button, nico-rosberg, romain-grosjean, daniel-ricciardo, jean-eric-vergne, heikki-kovalainen, pastor-maldonado, timo-glock, pedro-de-la-rosa, charles-pic, narain-karthikeyan]
+- lap: 28
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, kimi-raikkonen, lewis-hamilton, michael-schumacher, kamui-kobayashi, nico-hulkenberg, bruno-senna, jenson-button, nico-rosberg, romain-grosjean, daniel-ricciardo, jean-eric-vergne, heikki-kovalainen, pastor-maldonado, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 29
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, kimi-raikkonen, michael-schumacher, kamui-kobayashi, nico-hulkenberg, bruno-senna, jenson-button, nico-rosberg, lewis-hamilton, romain-grosjean, daniel-ricciardo, jean-eric-vergne, heikki-kovalainen, pastor-maldonado, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 30
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, kimi-raikkonen, michael-schumacher, kamui-kobayashi, nico-hulkenberg, bruno-senna, jenson-button, lewis-hamilton, romain-grosjean, nico-rosberg, jean-eric-vergne, daniel-ricciardo, pastor-maldonado, heikki-kovalainen, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 31
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, kimi-raikkonen, michael-schumacher, kamui-kobayashi, nico-hulkenberg, jenson-button, lewis-hamilton, romain-grosjean, nico-rosberg, jean-eric-vergne, bruno-senna, daniel-ricciardo, pastor-maldonado, heikki-kovalainen, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 32
+  drivers: [fernando-alonso, mark-webber, felipe-massa, kimi-raikkonen, sebastian-vettel, michael-schumacher, kamui-kobayashi, nico-hulkenberg, lewis-hamilton, romain-grosjean, nico-rosberg, jean-eric-vergne, bruno-senna, jenson-button, daniel-ricciardo, pastor-maldonado, heikki-kovalainen, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 33
+  drivers: [fernando-alonso, mark-webber, felipe-massa, kimi-raikkonen, sebastian-vettel, michael-schumacher, kamui-kobayashi, nico-hulkenberg, lewis-hamilton, romain-grosjean, nico-rosberg, bruno-senna, jenson-button, daniel-ricciardo, jean-eric-vergne, pastor-maldonado, heikki-kovalainen, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 34
+  drivers: [fernando-alonso, felipe-massa, kimi-raikkonen, mark-webber, sebastian-vettel, michael-schumacher, kamui-kobayashi, nico-hulkenberg, lewis-hamilton, romain-grosjean, nico-rosberg, bruno-senna, jenson-button, daniel-ricciardo, jean-eric-vergne, pastor-maldonado, heikki-kovalainen, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 35
+  drivers: [fernando-alonso, felipe-massa, mark-webber, sebastian-vettel, kamui-kobayashi, nico-hulkenberg, kimi-raikkonen, romain-grosjean, lewis-hamilton, nico-rosberg, michael-schumacher, bruno-senna, jenson-button, daniel-ricciardo, jean-eric-vergne, pastor-maldonado, heikki-kovalainen, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 36
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, kamui-kobayashi, kimi-raikkonen, romain-grosjean, lewis-hamilton, nico-rosberg, michael-schumacher, nico-hulkenberg, bruno-senna, jenson-button, jean-eric-vergne, daniel-ricciardo, pastor-maldonado, heikki-kovalainen, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 37
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, kamui-kobayashi, kimi-raikkonen, romain-grosjean, lewis-hamilton, nico-rosberg, michael-schumacher, nico-hulkenberg, bruno-senna, jenson-button, jean-eric-vergne, daniel-ricciardo, pastor-maldonado, heikki-kovalainen, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 38
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, kimi-raikkonen, romain-grosjean, lewis-hamilton, michael-schumacher, nico-hulkenberg, bruno-senna, jenson-button, kamui-kobayashi, jean-eric-vergne, daniel-ricciardo, nico-rosberg, pastor-maldonado, heikki-kovalainen, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 39
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, kimi-raikkonen, romain-grosjean, lewis-hamilton, michael-schumacher, nico-hulkenberg, bruno-senna, jenson-button, kamui-kobayashi, jean-eric-vergne, daniel-ricciardo, nico-rosberg, pastor-maldonado, heikki-kovalainen, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 40
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, kimi-raikkonen, romain-grosjean, lewis-hamilton, michael-schumacher, nico-hulkenberg, bruno-senna, jenson-button, kamui-kobayashi, jean-eric-vergne, daniel-ricciardo, nico-rosberg, pastor-maldonado, heikki-kovalainen, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 41
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, kimi-raikkonen, romain-grosjean, lewis-hamilton, michael-schumacher, nico-hulkenberg, bruno-senna, jenson-button, kamui-kobayashi, jean-eric-vergne, daniel-ricciardo, nico-rosberg, pastor-maldonado, heikki-kovalainen, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 42
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, kimi-raikkonen, romain-grosjean, lewis-hamilton, michael-schumacher, nico-hulkenberg, bruno-senna, jenson-button, kamui-kobayashi, jean-eric-vergne, daniel-ricciardo, nico-rosberg, pastor-maldonado, heikki-kovalainen, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 43
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, kimi-raikkonen, romain-grosjean, lewis-hamilton, michael-schumacher, nico-hulkenberg, bruno-senna, jenson-button, kamui-kobayashi, jean-eric-vergne, daniel-ricciardo, nico-rosberg, pastor-maldonado, heikki-kovalainen, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 44
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, kimi-raikkonen, romain-grosjean, lewis-hamilton, michael-schumacher, nico-hulkenberg, bruno-senna, jenson-button, kamui-kobayashi, jean-eric-vergne, daniel-ricciardo, nico-rosberg, pastor-maldonado, heikki-kovalainen, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 45
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, kimi-raikkonen, romain-grosjean, lewis-hamilton, michael-schumacher, nico-hulkenberg, bruno-senna, jenson-button, kamui-kobayashi, jean-eric-vergne, daniel-ricciardo, nico-rosberg, pastor-maldonado, heikki-kovalainen, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 46
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, kimi-raikkonen, romain-grosjean, lewis-hamilton, michael-schumacher, nico-hulkenberg, bruno-senna, jenson-button, kamui-kobayashi, jean-eric-vergne, daniel-ricciardo, nico-rosberg, pastor-maldonado, heikki-kovalainen, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 47
+  drivers: [fernando-alonso, mark-webber, sebastian-vettel, felipe-massa, kimi-raikkonen, romain-grosjean, michael-schumacher, lewis-hamilton, nico-hulkenberg, bruno-senna, jenson-button, kamui-kobayashi, jean-eric-vergne, daniel-ricciardo, nico-rosberg, pastor-maldonado, heikki-kovalainen, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 48
+  drivers: [mark-webber, fernando-alonso, sebastian-vettel, felipe-massa, kimi-raikkonen, romain-grosjean, michael-schumacher, lewis-hamilton, nico-hulkenberg, bruno-senna, jenson-button, kamui-kobayashi, jean-eric-vergne, daniel-ricciardo, nico-rosberg, pastor-maldonado, heikki-kovalainen, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 49
+  drivers: [mark-webber, fernando-alonso, sebastian-vettel, felipe-massa, kimi-raikkonen, romain-grosjean, michael-schumacher, lewis-hamilton, nico-hulkenberg, bruno-senna, jenson-button, kamui-kobayashi, jean-eric-vergne, daniel-ricciardo, nico-rosberg, pastor-maldonado, heikki-kovalainen, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 50
+  drivers: [mark-webber, fernando-alonso, sebastian-vettel, felipe-massa, kimi-raikkonen, romain-grosjean, michael-schumacher, lewis-hamilton, nico-hulkenberg, bruno-senna, jenson-button, kamui-kobayashi, daniel-ricciardo, jean-eric-vergne, nico-rosberg, pastor-maldonado, heikki-kovalainen, timo-glock, charles-pic, pedro-de-la-rosa, narain-karthikeyan]
+- lap: 51
+  drivers: [mark-webber, fernando-alonso, sebastian-vettel, felipe-massa, kimi-raikkonen, romain-grosjean, michael-schumacher, lewis-hamilton, bruno-senna, jenson-button, kamui-kobayashi, nico-hulkenberg, daniel-ricciardo, jean-eric-vergne, nico-rosberg, pastor-maldonado, heikki-kovalainen, timo-glock, charles-pic]
+- lap: 52
+  drivers: [mark-webber, fernando-alonso, sebastian-vettel, felipe-massa, kimi-raikkonen, romain-grosjean, michael-schumacher, lewis-hamilton, bruno-senna, jenson-button, kamui-kobayashi, nico-hulkenberg, daniel-ricciardo, jean-eric-vergne, nico-rosberg]

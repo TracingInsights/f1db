@@ -77,6 +77,7 @@ interface RaceDriverOfTheDayResultMapper : RecordUnmapper<DriverOfTheDayResult, 
     @Mapping(target = "pitStopLap", ignore = true)
     @Mapping(target = "pitStopTime", ignore = true)
     @Mapping(target = "pitStopTimeMillis", ignore = true)
+    @Mapping(target = "lapPositionLap", ignore = true)
     @Mapping(target = "driverOfTheDayPercentage", source = "percentage")
     override fun unmap(source: DriverOfTheDayResult): RaceDataRecord
 

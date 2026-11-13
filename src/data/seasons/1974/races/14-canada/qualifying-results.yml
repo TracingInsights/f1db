@@ -73,7 +73,7 @@
   driverId: james-hunt
   constructorId: hesketh
   engineManufacturerId: ford
-  tyreManufacturerId: goodyear
+  tyreManufacturerId: firestone
   time: "1:13.736"
   gap: "+0.548"
   interval: "+0.102"
@@ -234,9 +234,9 @@
   constructorId: penske
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
-  time: "1:15.741"
-  gap: "+2.553"
-  interval: "+0.032"
+  time: "1:15.731"
+  gap: "+2.543"
+  interval: "+0.022"
   laps:
 - position: 25
   driverNumber: 15
@@ -246,7 +246,7 @@
   tyreManufacturerId: firestone
   time: "1:15.815"
   gap: "+2.627"
-  interval: "+0.074"
+  interval: "+0.084"
   laps:
 - position: 26
   driverNumber: 50

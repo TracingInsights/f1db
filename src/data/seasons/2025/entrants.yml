@@ -95,7 +95,7 @@
   constructorId: haas
   engineManufacturerId: ferrari
   chassisId: haas-vf-25
-  engineId: ferrari-066-12-16-v6-t-h
+  engineId: ferrari-066-15-16-v6-t-h
   tyreManufacturerId: pirelli
   drivers:
     - driverId: esteban-ocon
@@ -110,7 +110,7 @@
   constructorId: red-bull
   engineManufacturerId: honda-rbpt
   chassisId: red-bull-rb21
-  engineId: honda-rbpt-rbpth002-16-v6-t-h
+  engineId: honda-rbpt-rbpth003-16-v6-t-h
   tyreManufacturerId: pirelli
   drivers:
     - driverId: liam-lawson
@@ -130,7 +130,7 @@
   constructorId: ferrari
   engineManufacturerId: ferrari
   chassisId: ferrari-sf-25
-  engineId: ferrari-066-12-16-v6-t-h
+  engineId: ferrari-066-15-16-v6-t-h
   tyreManufacturerId: pirelli
   drivers:
     - driverId: charles-leclerc
@@ -151,7 +151,7 @@
   constructorId: kick-sauber
   engineManufacturerId: ferrari
   chassisId: kick-sauber-c45
-  engineId: ferrari-066-12-16-v6-t-h
+  engineId: ferrari-066-15-16-v6-t-h
   tyreManufacturerId: pirelli
   drivers:
     - driverId: gabriel-bortoleto
@@ -166,7 +166,7 @@
   constructorId: racing-bulls
   engineManufacturerId: honda-rbpt
   chassisId: racing-bulls-vcarb-02
-  engineId: honda-rbpt-rbpth002-16-v6-t-h
+  engineId: honda-rbpt-rbpth003-16-v6-t-h
   tyreManufacturerId: pirelli
   drivers:
     - driverId: isack-hadjar

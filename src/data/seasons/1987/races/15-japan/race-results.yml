@@ -149,7 +149,7 @@
   timePenalty:
   gap: "+2 laps"
   interval:
-  reasonRetired:
+  reasonRetired: Engine
   points:
   gridPosition: 8
 - position: 12
@@ -177,7 +177,7 @@
   timePenalty:
   gap: "+3 laps"
   interval:
-  reasonRetired:
+  reasonRetired: Out of fuel
   points:
   gridPosition: 24
 - position: 14

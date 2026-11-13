@@ -1,0 +1,122 @@
+- lap: 0
+  drivers: [rene-arnoux, nelson-piquet, patrick-tambay, alain-prost, riccardo-patrese, eddie-cheever, manfred-winkelhock, andrea-de-cesaris, elio-de-angelis, mauro-baldi, keke-rosberg, marc-surer, michele-alboreto, derek-warwick, nigel-mansell, jacques-laffite, bruno-giacomelli, niki-lauda, jean-pierre-jarier, chico-serra, roberto-guerrero, danny-sullivan, johnny-cecotto, john-watson, raul-boesel, corrado-fabi]
+- lap: 1
+  drivers: [rene-arnoux, patrick-tambay, riccardo-patrese, alain-prost, andrea-de-cesaris, manfred-winkelhock, elio-de-angelis, eddie-cheever, mauro-baldi, keke-rosberg, nigel-mansell, niki-lauda, michele-alboreto, derek-warwick, jacques-laffite, marc-surer, chico-serra, roberto-guerrero, john-watson, danny-sullivan, raul-boesel, bruno-giacomelli, jean-pierre-jarier, corrado-fabi, johnny-cecotto, nelson-piquet]
+- lap: 2
+  drivers: [rene-arnoux, patrick-tambay, riccardo-patrese, alain-prost, andrea-de-cesaris, manfred-winkelhock, mauro-baldi, keke-rosberg, elio-de-angelis, nigel-mansell, niki-lauda, michele-alboreto, jacques-laffite, derek-warwick, marc-surer, chico-serra, john-watson, roberto-guerrero, danny-sullivan, bruno-giacomelli, raul-boesel, jean-pierre-jarier, corrado-fabi, nelson-piquet, johnny-cecotto, eddie-cheever]
+- lap: 3
+  drivers: [rene-arnoux, riccardo-patrese, patrick-tambay, alain-prost, andrea-de-cesaris, mauro-baldi, keke-rosberg, manfred-winkelhock, elio-de-angelis, nigel-mansell, niki-lauda, michele-alboreto, jacques-laffite, marc-surer, derek-warwick, chico-serra, john-watson, danny-sullivan, roberto-guerrero, raul-boesel, bruno-giacomelli, jean-pierre-jarier, nelson-piquet, corrado-fabi, johnny-cecotto]
+- lap: 4
+  drivers: [rene-arnoux, riccardo-patrese, patrick-tambay, alain-prost, andrea-de-cesaris, mauro-baldi, keke-rosberg, elio-de-angelis, manfred-winkelhock, niki-lauda, michele-alboreto, jacques-laffite, nigel-mansell, marc-surer, john-watson, derek-warwick, chico-serra, danny-sullivan, bruno-giacomelli, raul-boesel, jean-pierre-jarier, nelson-piquet, corrado-fabi, johnny-cecotto]
+- lap: 5
+  drivers: [rene-arnoux, riccardo-patrese, patrick-tambay, alain-prost, andrea-de-cesaris, mauro-baldi, keke-rosberg, elio-de-angelis, niki-lauda, michele-alboreto, jacques-laffite, nigel-mansell, manfred-winkelhock, marc-surer, john-watson, derek-warwick, chico-serra, danny-sullivan, bruno-giacomelli, raul-boesel, nelson-piquet, jean-pierre-jarier, corrado-fabi, johnny-cecotto]
+- lap: 6
+  drivers: [riccardo-patrese, rene-arnoux, patrick-tambay, alain-prost, andrea-de-cesaris, keke-rosberg, mauro-baldi, elio-de-angelis, niki-lauda, michele-alboreto, jacques-laffite, nigel-mansell, marc-surer, john-watson, manfred-winkelhock, derek-warwick, danny-sullivan, chico-serra, bruno-giacomelli, nelson-piquet, raul-boesel, jean-pierre-jarier, corrado-fabi, johnny-cecotto]
+- lap: 7
+  drivers: [riccardo-patrese, rene-arnoux, patrick-tambay, alain-prost, andrea-de-cesaris, keke-rosberg, mauro-baldi, elio-de-angelis, niki-lauda, michele-alboreto, jacques-laffite, nigel-mansell, john-watson, marc-surer, derek-warwick, manfred-winkelhock, danny-sullivan, nelson-piquet, chico-serra, bruno-giacomelli, raul-boesel, jean-pierre-jarier, corrado-fabi, johnny-cecotto]
+- lap: 8
+  drivers: [riccardo-patrese, rene-arnoux, patrick-tambay, alain-prost, andrea-de-cesaris, keke-rosberg, mauro-baldi, elio-de-angelis, niki-lauda, michele-alboreto, jacques-laffite, nigel-mansell, john-watson, marc-surer, nelson-piquet, derek-warwick, danny-sullivan, manfred-winkelhock, chico-serra, bruno-giacomelli, raul-boesel, jean-pierre-jarier, corrado-fabi, johnny-cecotto]
+- lap: 9
+  drivers: [riccardo-patrese, rene-arnoux, patrick-tambay, alain-prost, andrea-de-cesaris, keke-rosberg, mauro-baldi, elio-de-angelis, niki-lauda, michele-alboreto, jacques-laffite, nigel-mansell, john-watson, nelson-piquet, derek-warwick, manfred-winkelhock, danny-sullivan, chico-serra, bruno-giacomelli, raul-boesel, jean-pierre-jarier, corrado-fabi, marc-surer, johnny-cecotto]
+- lap: 10
+  drivers: [riccardo-patrese, rene-arnoux, patrick-tambay, alain-prost, andrea-de-cesaris, keke-rosberg, mauro-baldi, elio-de-angelis, niki-lauda, jacques-laffite, michele-alboreto, nigel-mansell, john-watson, nelson-piquet, derek-warwick, manfred-winkelhock, chico-serra, danny-sullivan, bruno-giacomelli, raul-boesel, jean-pierre-jarier, corrado-fabi, marc-surer, johnny-cecotto]
+- lap: 11
+  drivers: [riccardo-patrese, rene-arnoux, patrick-tambay, alain-prost, andrea-de-cesaris, keke-rosberg, mauro-baldi, elio-de-angelis, niki-lauda, jacques-laffite, john-watson, nigel-mansell, nelson-piquet, derek-warwick, manfred-winkelhock, chico-serra, bruno-giacomelli, danny-sullivan, jean-pierre-jarier, corrado-fabi, raul-boesel, marc-surer, johnny-cecotto]
+- lap: 12
+  drivers: [riccardo-patrese, rene-arnoux, patrick-tambay, alain-prost, andrea-de-cesaris, keke-rosberg, mauro-baldi, elio-de-angelis, jacques-laffite, john-watson, nelson-piquet, nigel-mansell, derek-warwick, chico-serra, bruno-giacomelli, danny-sullivan, jean-pierre-jarier, corrado-fabi, raul-boesel, manfred-winkelhock, marc-surer]
+- lap: 13
+  drivers: [riccardo-patrese, rene-arnoux, patrick-tambay, alain-prost, andrea-de-cesaris, keke-rosberg, mauro-baldi, elio-de-angelis, jacques-laffite, nelson-piquet, john-watson, nigel-mansell, derek-warwick, chico-serra, bruno-giacomelli, danny-sullivan, jean-pierre-jarier, corrado-fabi, raul-boesel, manfred-winkelhock, marc-surer]
+- lap: 14
+  drivers: [riccardo-patrese, rene-arnoux, patrick-tambay, alain-prost, andrea-de-cesaris, keke-rosberg, mauro-baldi, elio-de-angelis, jacques-laffite, nelson-piquet, john-watson, nigel-mansell, derek-warwick, chico-serra, bruno-giacomelli, jean-pierre-jarier, danny-sullivan, corrado-fabi, raul-boesel, manfred-winkelhock, marc-surer]
+- lap: 15
+  drivers: [riccardo-patrese, rene-arnoux, patrick-tambay, alain-prost, andrea-de-cesaris, keke-rosberg, mauro-baldi, elio-de-angelis, jacques-laffite, nelson-piquet, john-watson, nigel-mansell, derek-warwick, chico-serra, bruno-giacomelli, jean-pierre-jarier, danny-sullivan, corrado-fabi, raul-boesel, manfred-winkelhock, marc-surer]
+- lap: 16
+  drivers: [riccardo-patrese, rene-arnoux, patrick-tambay, alain-prost, andrea-de-cesaris, keke-rosberg, elio-de-angelis, mauro-baldi, jacques-laffite, nelson-piquet, john-watson, nigel-mansell, derek-warwick, chico-serra, bruno-giacomelli, jean-pierre-jarier, danny-sullivan, corrado-fabi, raul-boesel, manfred-winkelhock, marc-surer]
+- lap: 17
+  drivers: [riccardo-patrese, rene-arnoux, patrick-tambay, alain-prost, andrea-de-cesaris, keke-rosberg, elio-de-angelis, mauro-baldi, nelson-piquet, jacques-laffite, john-watson, nigel-mansell, derek-warwick, chico-serra, bruno-giacomelli, jean-pierre-jarier, danny-sullivan, corrado-fabi, raul-boesel, manfred-winkelhock, marc-surer]
+- lap: 18
+  drivers: [riccardo-patrese, rene-arnoux, patrick-tambay, alain-prost, andrea-de-cesaris, keke-rosberg, elio-de-angelis, mauro-baldi, nelson-piquet, john-watson, nigel-mansell, jacques-laffite, derek-warwick, chico-serra, jean-pierre-jarier, danny-sullivan, corrado-fabi, bruno-giacomelli, raul-boesel, manfred-winkelhock, marc-surer]
+- lap: 19
+  drivers: [riccardo-patrese, rene-arnoux, patrick-tambay, alain-prost, andrea-de-cesaris, keke-rosberg, elio-de-angelis, mauro-baldi, nelson-piquet, john-watson, nigel-mansell, jacques-laffite, derek-warwick, chico-serra, jean-pierre-jarier, danny-sullivan, corrado-fabi, bruno-giacomelli, raul-boesel, manfred-winkelhock, marc-surer]
+- lap: 20
+  drivers: [riccardo-patrese, patrick-tambay, alain-prost, rene-arnoux, andrea-de-cesaris, keke-rosberg, elio-de-angelis, mauro-baldi, nelson-piquet, john-watson, nigel-mansell, jacques-laffite, derek-warwick, chico-serra, jean-pierre-jarier, danny-sullivan, corrado-fabi, bruno-giacomelli, raul-boesel, manfred-winkelhock, marc-surer]
+- lap: 21
+  drivers: [riccardo-patrese, patrick-tambay, alain-prost, andrea-de-cesaris, rene-arnoux, keke-rosberg, elio-de-angelis, nelson-piquet, mauro-baldi, john-watson, nigel-mansell, jacques-laffite, derek-warwick, chico-serra, jean-pierre-jarier, danny-sullivan, raul-boesel, marc-surer, manfred-winkelhock]
+- lap: 22
+  drivers: [riccardo-patrese, patrick-tambay, alain-prost, andrea-de-cesaris, rene-arnoux, keke-rosberg, elio-de-angelis, nelson-piquet, mauro-baldi, john-watson, jacques-laffite, nigel-mansell, derek-warwick, jean-pierre-jarier, chico-serra, danny-sullivan, raul-boesel, marc-surer, manfred-winkelhock]
+- lap: 23
+  drivers: [riccardo-patrese, patrick-tambay, alain-prost, andrea-de-cesaris, rene-arnoux, keke-rosberg, elio-de-angelis, nelson-piquet, mauro-baldi, john-watson, jacques-laffite, nigel-mansell, derek-warwick, jean-pierre-jarier, chico-serra, danny-sullivan, raul-boesel, marc-surer, manfred-winkelhock]
+- lap: 24
+  drivers: [riccardo-patrese, patrick-tambay, alain-prost, andrea-de-cesaris, rene-arnoux, keke-rosberg, nelson-piquet, elio-de-angelis, mauro-baldi, john-watson, jacques-laffite, nigel-mansell, derek-warwick, jean-pierre-jarier, chico-serra, danny-sullivan, raul-boesel, marc-surer, manfred-winkelhock]
+- lap: 25
+  drivers: [riccardo-patrese, patrick-tambay, alain-prost, andrea-de-cesaris, rene-arnoux, keke-rosberg, nelson-piquet, elio-de-angelis, mauro-baldi, john-watson, jacques-laffite, nigel-mansell, jean-pierre-jarier, derek-warwick, chico-serra, danny-sullivan, raul-boesel, marc-surer, manfred-winkelhock]
+- lap: 26
+  drivers: [riccardo-patrese, patrick-tambay, alain-prost, andrea-de-cesaris, rene-arnoux, keke-rosberg, nelson-piquet, elio-de-angelis, mauro-baldi, jacques-laffite, john-watson, nigel-mansell, jean-pierre-jarier, derek-warwick, chico-serra, danny-sullivan, raul-boesel, marc-surer, manfred-winkelhock]
+- lap: 27
+  drivers: [riccardo-patrese, patrick-tambay, rene-arnoux, alain-prost, keke-rosberg, andrea-de-cesaris, nelson-piquet, elio-de-angelis, mauro-baldi, jacques-laffite, john-watson, nigel-mansell, jean-pierre-jarier, derek-warwick, chico-serra, danny-sullivan, raul-boesel, marc-surer, manfred-winkelhock]
+- lap: 28
+  drivers: [riccardo-patrese, patrick-tambay, rene-arnoux, alain-prost, keke-rosberg, andrea-de-cesaris, nelson-piquet, elio-de-angelis, mauro-baldi, jacques-laffite, john-watson, nigel-mansell, jean-pierre-jarier, chico-serra, danny-sullivan, raul-boesel, marc-surer, manfred-winkelhock]
+- lap: 29
+  drivers: [riccardo-patrese, patrick-tambay, rene-arnoux, alain-prost, keke-rosberg, andrea-de-cesaris, nelson-piquet, elio-de-angelis, mauro-baldi, jacques-laffite, john-watson, jean-pierre-jarier, nigel-mansell, chico-serra, danny-sullivan, raul-boesel, marc-surer, manfred-winkelhock]
+- lap: 30
+  drivers: [riccardo-patrese, patrick-tambay, rene-arnoux, alain-prost, andrea-de-cesaris, nelson-piquet, keke-rosberg, elio-de-angelis, mauro-baldi, jacques-laffite, john-watson, jean-pierre-jarier, chico-serra, danny-sullivan, nigel-mansell, raul-boesel, marc-surer, manfred-winkelhock]
+- lap: 31
+  drivers: [riccardo-patrese, patrick-tambay, rene-arnoux, alain-prost, nelson-piquet, andrea-de-cesaris, keke-rosberg, mauro-baldi, jacques-laffite, elio-de-angelis, john-watson, jean-pierre-jarier, chico-serra, danny-sullivan, nigel-mansell, raul-boesel, marc-surer, manfred-winkelhock]
+- lap: 32
+  drivers: [riccardo-patrese, patrick-tambay, rene-arnoux, alain-prost, nelson-piquet, andrea-de-cesaris, keke-rosberg, jacques-laffite, elio-de-angelis, john-watson, jean-pierre-jarier, mauro-baldi, chico-serra, danny-sullivan, nigel-mansell, marc-surer, raul-boesel, manfred-winkelhock]
+- lap: 33
+  drivers: [riccardo-patrese, patrick-tambay, rene-arnoux, alain-prost, nelson-piquet, andrea-de-cesaris, jacques-laffite, keke-rosberg, elio-de-angelis, john-watson, jean-pierre-jarier, mauro-baldi, chico-serra, danny-sullivan, marc-surer, nigel-mansell, raul-boesel, manfred-winkelhock]
+- lap: 34
+  drivers: [patrick-tambay, riccardo-patrese, rene-arnoux, alain-prost, nelson-piquet, andrea-de-cesaris, jacques-laffite, keke-rosberg, elio-de-angelis, john-watson, jean-pierre-jarier, mauro-baldi, chico-serra, danny-sullivan, marc-surer, raul-boesel, nigel-mansell, manfred-winkelhock]
+- lap: 35
+  drivers: [patrick-tambay, riccardo-patrese, rene-arnoux, alain-prost, nelson-piquet, andrea-de-cesaris, keke-rosberg, elio-de-angelis, john-watson, jean-pierre-jarier, jacques-laffite, mauro-baldi, chico-serra, danny-sullivan, marc-surer, raul-boesel, nigel-mansell, manfred-winkelhock]
+- lap: 36
+  drivers: [patrick-tambay, riccardo-patrese, rene-arnoux, alain-prost, andrea-de-cesaris, nelson-piquet, keke-rosberg, elio-de-angelis, john-watson, jean-pierre-jarier, jacques-laffite, mauro-baldi, chico-serra, danny-sullivan, marc-surer, raul-boesel, nigel-mansell, manfred-winkelhock]
+- lap: 37
+  drivers: [patrick-tambay, riccardo-patrese, rene-arnoux, alain-prost, andrea-de-cesaris, nelson-piquet, keke-rosberg, elio-de-angelis, john-watson, jean-pierre-jarier, jacques-laffite, mauro-baldi, chico-serra, danny-sullivan, marc-surer, raul-boesel, nigel-mansell, manfred-winkelhock]
+- lap: 38
+  drivers: [patrick-tambay, riccardo-patrese, rene-arnoux, alain-prost, andrea-de-cesaris, nelson-piquet, keke-rosberg, john-watson, jean-pierre-jarier, jacques-laffite, elio-de-angelis, mauro-baldi, chico-serra, marc-surer, raul-boesel, nigel-mansell, manfred-winkelhock]
+- lap: 39
+  drivers: [patrick-tambay, riccardo-patrese, rene-arnoux, alain-prost, andrea-de-cesaris, nelson-piquet, keke-rosberg, john-watson, jean-pierre-jarier, jacques-laffite, elio-de-angelis, mauro-baldi, chico-serra, marc-surer, raul-boesel, nigel-mansell, manfred-winkelhock]
+- lap: 40
+  drivers: [patrick-tambay, riccardo-patrese, rene-arnoux, alain-prost, andrea-de-cesaris, nelson-piquet, keke-rosberg, john-watson, jacques-laffite, elio-de-angelis, mauro-baldi, chico-serra, marc-surer, raul-boesel, nigel-mansell, manfred-winkelhock]
+- lap: 41
+  drivers: [patrick-tambay, riccardo-patrese, rene-arnoux, alain-prost, andrea-de-cesaris, nelson-piquet, keke-rosberg, john-watson, jacques-laffite, elio-de-angelis, mauro-baldi, chico-serra, marc-surer, raul-boesel, nigel-mansell, manfred-winkelhock]
+- lap: 42
+  drivers: [patrick-tambay, riccardo-patrese, rene-arnoux, alain-prost, andrea-de-cesaris, keke-rosberg, john-watson, jacques-laffite, mauro-baldi, chico-serra, elio-de-angelis, marc-surer, raul-boesel, nigel-mansell, manfred-winkelhock]
+- lap: 43
+  drivers: [patrick-tambay, riccardo-patrese, rene-arnoux, alain-prost, andrea-de-cesaris, keke-rosberg, john-watson, jacques-laffite, mauro-baldi, chico-serra, elio-de-angelis, marc-surer, raul-boesel, nigel-mansell, manfred-winkelhock]
+- lap: 44
+  drivers: [patrick-tambay, riccardo-patrese, rene-arnoux, alain-prost, andrea-de-cesaris, keke-rosberg, john-watson, jacques-laffite, mauro-baldi, chico-serra, marc-surer, raul-boesel, nigel-mansell, manfred-winkelhock]
+- lap: 45
+  drivers: [patrick-tambay, riccardo-patrese, rene-arnoux, alain-prost, andrea-de-cesaris, keke-rosberg, john-watson, jacques-laffite, mauro-baldi, chico-serra, marc-surer, raul-boesel, nigel-mansell, manfred-winkelhock]
+- lap: 46
+  drivers: [patrick-tambay, riccardo-patrese, rene-arnoux, alain-prost, keke-rosberg, john-watson, jacques-laffite, mauro-baldi, marc-surer, chico-serra, raul-boesel, manfred-winkelhock, nigel-mansell]
+- lap: 47
+  drivers: [patrick-tambay, riccardo-patrese, rene-arnoux, alain-prost, keke-rosberg, john-watson, jacques-laffite, mauro-baldi, marc-surer, chico-serra, raul-boesel, manfred-winkelhock, nigel-mansell]
+- lap: 48
+  drivers: [patrick-tambay, riccardo-patrese, rene-arnoux, alain-prost, keke-rosberg, john-watson, mauro-baldi, marc-surer, jacques-laffite, chico-serra, raul-boesel, manfred-winkelhock, nigel-mansell]
+- lap: 49
+  drivers: [patrick-tambay, riccardo-patrese, rene-arnoux, alain-prost, keke-rosberg, john-watson, mauro-baldi, marc-surer, jacques-laffite, chico-serra, raul-boesel, manfred-winkelhock, nigel-mansell]
+- lap: 50
+  drivers: [patrick-tambay, riccardo-patrese, rene-arnoux, alain-prost, keke-rosberg, john-watson, mauro-baldi, marc-surer, jacques-laffite, chico-serra, raul-boesel, manfred-winkelhock, nigel-mansell]
+- lap: 51
+  drivers: [patrick-tambay, riccardo-patrese, rene-arnoux, alain-prost, keke-rosberg, john-watson, mauro-baldi, marc-surer, jacques-laffite, chico-serra, raul-boesel, manfred-winkelhock, nigel-mansell]
+- lap: 52
+  drivers: [patrick-tambay, riccardo-patrese, rene-arnoux, alain-prost, keke-rosberg, john-watson, mauro-baldi, marc-surer, jacques-laffite, chico-serra, raul-boesel, manfred-winkelhock, nigel-mansell]
+- lap: 53
+  drivers: [patrick-tambay, riccardo-patrese, rene-arnoux, alain-prost, keke-rosberg, john-watson, mauro-baldi, marc-surer, jacques-laffite, chico-serra, raul-boesel, manfred-winkelhock, nigel-mansell]
+- lap: 54
+  drivers: [patrick-tambay, riccardo-patrese, rene-arnoux, alain-prost, keke-rosberg, john-watson, mauro-baldi, marc-surer, jacques-laffite, chico-serra, raul-boesel, manfred-winkelhock, nigel-mansell]
+- lap: 55
+  drivers: [patrick-tambay, alain-prost, rene-arnoux, keke-rosberg, john-watson, mauro-baldi, marc-surer, jacques-laffite, chico-serra, raul-boesel, manfred-winkelhock, nigel-mansell]
+- lap: 56
+  drivers: [patrick-tambay, alain-prost, rene-arnoux, keke-rosberg, john-watson, mauro-baldi, marc-surer, jacques-laffite, chico-serra, raul-boesel, manfred-winkelhock, nigel-mansell]
+- lap: 57
+  drivers: [patrick-tambay, alain-prost, rene-arnoux, keke-rosberg, john-watson, mauro-baldi, marc-surer, jacques-laffite, chico-serra, raul-boesel, manfred-winkelhock]
+- lap: 58
+  drivers: [patrick-tambay, alain-prost, rene-arnoux, keke-rosberg, john-watson, marc-surer, jacques-laffite, chico-serra, raul-boesel]
+- lap: 59
+  drivers: [patrick-tambay, alain-prost, rene-arnoux, keke-rosberg, john-watson, marc-surer, jacques-laffite]
+- lap: 60
+  drivers: [patrick-tambay, alain-prost]

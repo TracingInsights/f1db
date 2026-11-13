@@ -148,3 +148,23 @@
   time: "1:59.611"
   gap: "+14.094"
   interval: "+4.495"
+- position: 16
+  driverNumber: 9
+  driverId: olivier-panis
+  constructorId: ligier
+  engineManufacturerId: mugen-honda
+  tyreManufacturerId: goodyear
+  lap: 1
+  time: "2:28.270"
+  gap: "+42.753"
+  interval: "+28.659"
+- position: 17
+  driverNumber: 21
+  driverId: giancarlo-fisichella
+  constructorId: minardi
+  engineManufacturerId: ford
+  tyreManufacturerId: goodyear
+  lap: 1
+  time: "3:03.566"
+  gap: "+1:18.049"
+  interval: "+35.296"

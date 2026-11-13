@@ -1,0 +1,104 @@
+- lap: 0
+  drivers: [ayrton-senna, alain-prost, gerhard-berger, ivan-capelli, nelson-piquet, satoru-nakajima, derek-warwick, nigel-mansell, michele-alboreto, thierry-boutsen, riccardo-patrese, alessandro-nannini, mauricio-gugelmin, andrea-de-cesaris, eddie-cheever, jonathan-palmer, pierluigi-martini, philippe-streiff, philippe-alliot, aguri-suzuki, alex-caffi, luis-perez-sala, rene-arnoux, nicola-larini, bernd-schneider, julian-bailey]
+- lap: 1
+  drivers: [alain-prost, gerhard-berger, ivan-capelli, michele-alboreto, thierry-boutsen, alessandro-nannini, riccardo-patrese, ayrton-senna, andrea-de-cesaris, nelson-piquet, jonathan-palmer, philippe-streiff, mauricio-gugelmin, eddie-cheever, pierluigi-martini, philippe-alliot, rene-arnoux, alex-caffi, aguri-suzuki, satoru-nakajima, julian-bailey, nicola-larini, luis-perez-sala, bernd-schneider, nigel-mansell, derek-warwick]
+- lap: 2
+  drivers: [alain-prost, gerhard-berger, ivan-capelli, michele-alboreto, thierry-boutsen, ayrton-senna, alessandro-nannini, riccardo-patrese, nelson-piquet, andrea-de-cesaris, jonathan-palmer, philippe-streiff, eddie-cheever, mauricio-gugelmin, philippe-alliot, pierluigi-martini, rene-arnoux, alex-caffi, aguri-suzuki, satoru-nakajima, julian-bailey, nicola-larini, luis-perez-sala, bernd-schneider, nigel-mansell, derek-warwick]
+- lap: 3
+  drivers: [alain-prost, gerhard-berger, ivan-capelli, michele-alboreto, ayrton-senna, thierry-boutsen, alessandro-nannini, nelson-piquet, riccardo-patrese, jonathan-palmer, andrea-de-cesaris, philippe-streiff, eddie-cheever, mauricio-gugelmin, philippe-alliot, pierluigi-martini, rene-arnoux, alex-caffi, aguri-suzuki, satoru-nakajima, julian-bailey, nicola-larini, bernd-schneider, luis-perez-sala, nigel-mansell, derek-warwick]
+- lap: 4
+  drivers: [alain-prost, gerhard-berger, ivan-capelli, ayrton-senna, michele-alboreto, thierry-boutsen, alessandro-nannini, nelson-piquet, riccardo-patrese, jonathan-palmer, philippe-streiff, andrea-de-cesaris, eddie-cheever, mauricio-gugelmin, philippe-alliot, pierluigi-martini, rene-arnoux, alex-caffi, satoru-nakajima, aguri-suzuki, julian-bailey, nicola-larini, bernd-schneider, luis-perez-sala, nigel-mansell, derek-warwick]
+- lap: 5
+  drivers: [alain-prost, gerhard-berger, ivan-capelli, ayrton-senna, thierry-boutsen, michele-alboreto, alessandro-nannini, nelson-piquet, riccardo-patrese, jonathan-palmer, philippe-streiff, eddie-cheever, andrea-de-cesaris, mauricio-gugelmin, philippe-alliot, pierluigi-martini, satoru-nakajima, rene-arnoux, alex-caffi, aguri-suzuki, julian-bailey, nicola-larini, bernd-schneider, luis-perez-sala, nigel-mansell, derek-warwick]
+- lap: 6
+  drivers: [alain-prost, ivan-capelli, gerhard-berger, ayrton-senna, thierry-boutsen, michele-alboreto, alessandro-nannini, nelson-piquet, riccardo-patrese, jonathan-palmer, philippe-streiff, eddie-cheever, andrea-de-cesaris, mauricio-gugelmin, philippe-alliot, pierluigi-martini, satoru-nakajima, rene-arnoux, alex-caffi, aguri-suzuki, julian-bailey, bernd-schneider, nicola-larini, luis-perez-sala, nigel-mansell, derek-warwick]
+- lap: 7
+  drivers: [alain-prost, ivan-capelli, gerhard-berger, ayrton-senna, thierry-boutsen, michele-alboreto, alessandro-nannini, nelson-piquet, riccardo-patrese, jonathan-palmer, philippe-streiff, eddie-cheever, andrea-de-cesaris, mauricio-gugelmin, philippe-alliot, pierluigi-martini, satoru-nakajima, rene-arnoux, alex-caffi, aguri-suzuki, bernd-schneider, julian-bailey, nicola-larini, luis-perez-sala, nigel-mansell, derek-warwick]
+- lap: 8
+  drivers: [alain-prost, ivan-capelli, gerhard-berger, ayrton-senna, thierry-boutsen, alessandro-nannini, nelson-piquet, riccardo-patrese, jonathan-palmer, eddie-cheever, philippe-streiff, andrea-de-cesaris, mauricio-gugelmin, philippe-alliot, satoru-nakajima, pierluigi-martini, rene-arnoux, alex-caffi, aguri-suzuki, bernd-schneider, julian-bailey, nicola-larini, luis-perez-sala, nigel-mansell, michele-alboreto, derek-warwick]
+- lap: 9
+  drivers: [alain-prost, ivan-capelli, gerhard-berger, ayrton-senna, thierry-boutsen, alessandro-nannini, nelson-piquet, riccardo-patrese, jonathan-palmer, eddie-cheever, philippe-streiff, andrea-de-cesaris, mauricio-gugelmin, philippe-alliot, satoru-nakajima, pierluigi-martini, rene-arnoux, alex-caffi, bernd-schneider, aguri-suzuki, julian-bailey, nicola-larini, luis-perez-sala, nigel-mansell, michele-alboreto, derek-warwick]
+- lap: 10
+  drivers: [alain-prost, ivan-capelli, gerhard-berger, ayrton-senna, thierry-boutsen, alessandro-nannini, nelson-piquet, riccardo-patrese, jonathan-palmer, eddie-cheever, philippe-streiff, andrea-de-cesaris, mauricio-gugelmin, philippe-alliot, satoru-nakajima, pierluigi-martini, rene-arnoux, bernd-schneider, alex-caffi, aguri-suzuki, julian-bailey, nigel-mansell, nicola-larini, luis-perez-sala, michele-alboreto, derek-warwick]
+- lap: 11
+  drivers: [alain-prost, ivan-capelli, ayrton-senna, gerhard-berger, thierry-boutsen, alessandro-nannini, riccardo-patrese, jonathan-palmer, eddie-cheever, philippe-streiff, andrea-de-cesaris, mauricio-gugelmin, philippe-alliot, satoru-nakajima, pierluigi-martini, bernd-schneider, rene-arnoux, alex-caffi, aguri-suzuki, nigel-mansell, julian-bailey, michele-alboreto, luis-perez-sala, nicola-larini, nelson-piquet, derek-warwick]
+- lap: 12
+  drivers: [alain-prost, ivan-capelli, ayrton-senna, gerhard-berger, thierry-boutsen, alessandro-nannini, riccardo-patrese, jonathan-palmer, eddie-cheever, philippe-streiff, andrea-de-cesaris, mauricio-gugelmin, satoru-nakajima, philippe-alliot, pierluigi-martini, bernd-schneider, rene-arnoux, alex-caffi, aguri-suzuki, nigel-mansell, julian-bailey, michele-alboreto, luis-perez-sala, nicola-larini, derek-warwick, nelson-piquet]
+- lap: 13
+  drivers: [alain-prost, ivan-capelli, ayrton-senna, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, jonathan-palmer, eddie-cheever, philippe-streiff, andrea-de-cesaris, satoru-nakajima, mauricio-gugelmin, philippe-alliot, pierluigi-martini, bernd-schneider, nigel-mansell, rene-arnoux, alex-caffi, aguri-suzuki, julian-bailey, michele-alboreto, luis-perez-sala, nicola-larini, derek-warwick, nelson-piquet]
+- lap: 14
+  drivers: [alain-prost, ivan-capelli, ayrton-senna, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, jonathan-palmer, eddie-cheever, philippe-streiff, andrea-de-cesaris, satoru-nakajima, mauricio-gugelmin, philippe-alliot, pierluigi-martini, nigel-mansell, rene-arnoux, alex-caffi, aguri-suzuki, michele-alboreto, julian-bailey, luis-perez-sala, bernd-schneider, nicola-larini, derek-warwick, nelson-piquet]
+- lap: 15
+  drivers: [alain-prost, ivan-capelli, ayrton-senna, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, eddie-cheever, jonathan-palmer, philippe-streiff, andrea-de-cesaris, satoru-nakajima, mauricio-gugelmin, philippe-alliot, pierluigi-martini, nigel-mansell, rene-arnoux, alex-caffi, michele-alboreto, julian-bailey, luis-perez-sala, aguri-suzuki, nicola-larini, derek-warwick, nelson-piquet]
+- lap: 16
+  drivers: [ivan-capelli, alain-prost, ayrton-senna, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, eddie-cheever, jonathan-palmer, philippe-streiff, satoru-nakajima, andrea-de-cesaris, mauricio-gugelmin, philippe-alliot, pierluigi-martini, nigel-mansell, rene-arnoux, alex-caffi, michele-alboreto, julian-bailey, luis-perez-sala, aguri-suzuki, nicola-larini, nelson-piquet, derek-warwick]
+- lap: 17
+  drivers: [alain-prost, ivan-capelli, ayrton-senna, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, eddie-cheever, jonathan-palmer, philippe-streiff, satoru-nakajima, andrea-de-cesaris, mauricio-gugelmin, philippe-alliot, nigel-mansell, pierluigi-martini, alex-caffi, rene-arnoux, michele-alboreto, julian-bailey, luis-perez-sala, aguri-suzuki, nicola-larini, nelson-piquet]
+- lap: 18
+  drivers: [alain-prost, ivan-capelli, ayrton-senna, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, eddie-cheever, jonathan-palmer, satoru-nakajima, philippe-streiff, philippe-alliot, mauricio-gugelmin, andrea-de-cesaris, nigel-mansell, pierluigi-martini, alex-caffi, michele-alboreto, rene-arnoux, julian-bailey, aguri-suzuki, luis-perez-sala, nicola-larini, nelson-piquet]
+- lap: 19
+  drivers: [alain-prost, ivan-capelli, ayrton-senna, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, eddie-cheever, jonathan-palmer, satoru-nakajima, philippe-streiff, philippe-alliot, mauricio-gugelmin, nigel-mansell, andrea-de-cesaris, pierluigi-martini, alex-caffi, michele-alboreto, rene-arnoux, julian-bailey, aguri-suzuki, luis-perez-sala, nicola-larini, nelson-piquet]
+- lap: 20
+  drivers: [alain-prost, ayrton-senna, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, eddie-cheever, satoru-nakajima, jonathan-palmer, philippe-streiff, philippe-alliot, mauricio-gugelmin, nigel-mansell, andrea-de-cesaris, pierluigi-martini, alex-caffi, michele-alboreto, rene-arnoux, julian-bailey, aguri-suzuki, luis-perez-sala, nicola-larini, nelson-piquet]
+- lap: 21
+  drivers: [alain-prost, ayrton-senna, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, jonathan-palmer, philippe-streiff, philippe-alliot, mauricio-gugelmin, nigel-mansell, andrea-de-cesaris, pierluigi-martini, alex-caffi, michele-alboreto, rene-arnoux, julian-bailey, aguri-suzuki, luis-perez-sala, nicola-larini, nelson-piquet]
+- lap: 22
+  drivers: [alain-prost, ayrton-senna, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, jonathan-palmer, philippe-streiff, philippe-alliot, mauricio-gugelmin, nigel-mansell, andrea-de-cesaris, pierluigi-martini, alex-caffi, michele-alboreto, rene-arnoux, julian-bailey, aguri-suzuki, luis-perez-sala, nicola-larini, nelson-piquet]
+- lap: 23
+  drivers: [alain-prost, ayrton-senna, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, jonathan-palmer, philippe-streiff, philippe-alliot, nigel-mansell, mauricio-gugelmin, andrea-de-cesaris, pierluigi-martini, michele-alboreto, rene-arnoux, aguri-suzuki, julian-bailey, luis-perez-sala, nicola-larini, nelson-piquet]
+- lap: 24
+  drivers: [alain-prost, ayrton-senna, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, jonathan-palmer, philippe-streiff, philippe-alliot, nigel-mansell, mauricio-gugelmin, andrea-de-cesaris, pierluigi-martini, michele-alboreto, aguri-suzuki, rene-arnoux, julian-bailey, luis-perez-sala, nicola-larini, nelson-piquet]
+- lap: 25
+  drivers: [alain-prost, ayrton-senna, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, jonathan-palmer, philippe-streiff, philippe-alliot, mauricio-gugelmin, andrea-de-cesaris, michele-alboreto, pierluigi-martini, rene-arnoux, aguri-suzuki, julian-bailey, luis-perez-sala, nicola-larini, nelson-piquet]
+- lap: 26
+  drivers: [alain-prost, ayrton-senna, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, jonathan-palmer, philippe-streiff, philippe-alliot, mauricio-gugelmin, andrea-de-cesaris, michele-alboreto, pierluigi-martini, rene-arnoux, julian-bailey, luis-perez-sala, nicola-larini, nelson-piquet, aguri-suzuki]
+- lap: 27
+  drivers: [alain-prost, ayrton-senna, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, jonathan-palmer, philippe-streiff, philippe-alliot, mauricio-gugelmin, andrea-de-cesaris, michele-alboreto, pierluigi-martini, rene-arnoux, julian-bailey, luis-perez-sala, nicola-larini, nelson-piquet, aguri-suzuki]
+- lap: 28
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, jonathan-palmer, philippe-streiff, philippe-alliot, mauricio-gugelmin, andrea-de-cesaris, michele-alboreto, pierluigi-martini, rene-arnoux, julian-bailey, luis-perez-sala, nicola-larini, nelson-piquet, aguri-suzuki]
+- lap: 29
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, jonathan-palmer, philippe-streiff, philippe-alliot, mauricio-gugelmin, andrea-de-cesaris, michele-alboreto, pierluigi-martini, rene-arnoux, julian-bailey, luis-perez-sala, nicola-larini, nelson-piquet, aguri-suzuki]
+- lap: 30
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, jonathan-palmer, philippe-streiff, philippe-alliot, mauricio-gugelmin, andrea-de-cesaris, michele-alboreto, pierluigi-martini, rene-arnoux, julian-bailey, luis-perez-sala, nicola-larini, nelson-piquet, aguri-suzuki]
+- lap: 31
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, jonathan-palmer, philippe-streiff, philippe-alliot, mauricio-gugelmin, andrea-de-cesaris, michele-alboreto, pierluigi-martini, rene-arnoux, julian-bailey, luis-perez-sala, nicola-larini, nelson-piquet, aguri-suzuki]
+- lap: 32
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, jonathan-palmer, philippe-streiff, philippe-alliot, mauricio-gugelmin, andrea-de-cesaris, michele-alboreto, pierluigi-martini, julian-bailey, rene-arnoux, luis-perez-sala, nicola-larini, nelson-piquet, aguri-suzuki]
+- lap: 33
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, alessandro-nannini, gerhard-berger, riccardo-patrese, satoru-nakajima, eddie-cheever, jonathan-palmer, philippe-streiff, philippe-alliot, mauricio-gugelmin, andrea-de-cesaris, michele-alboreto, pierluigi-martini, julian-bailey, rene-arnoux, luis-perez-sala, nicola-larini, nelson-piquet, aguri-suzuki]
+- lap: 34
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, alessandro-nannini, gerhard-berger, riccardo-patrese, satoru-nakajima, eddie-cheever, philippe-streiff, philippe-alliot, mauricio-gugelmin, jonathan-palmer, andrea-de-cesaris, michele-alboreto, pierluigi-martini, julian-bailey, rene-arnoux, luis-perez-sala, nicola-larini, nelson-piquet, aguri-suzuki]
+- lap: 35
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, alessandro-nannini, gerhard-berger, riccardo-patrese, satoru-nakajima, eddie-cheever, philippe-streiff, philippe-alliot, mauricio-gugelmin, andrea-de-cesaris, michele-alboreto, pierluigi-martini, jonathan-palmer, julian-bailey, rene-arnoux, luis-perez-sala, aguri-suzuki]
+- lap: 36
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, alessandro-nannini, gerhard-berger, riccardo-patrese, satoru-nakajima, philippe-streiff, philippe-alliot, mauricio-gugelmin, michele-alboreto, pierluigi-martini, andrea-de-cesaris, jonathan-palmer, julian-bailey, luis-perez-sala, rene-arnoux, aguri-suzuki]
+- lap: 37
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, alessandro-nannini, gerhard-berger, riccardo-patrese, satoru-nakajima, philippe-streiff, philippe-alliot, mauricio-gugelmin, michele-alboreto, pierluigi-martini, jonathan-palmer, julian-bailey, luis-perez-sala, aguri-suzuki, rene-arnoux]
+- lap: 38
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, alessandro-nannini, gerhard-berger, riccardo-patrese, satoru-nakajima, philippe-streiff, philippe-alliot, mauricio-gugelmin, michele-alboreto, pierluigi-martini, jonathan-palmer, julian-bailey, luis-perez-sala, aguri-suzuki, rene-arnoux]
+- lap: 39
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, alessandro-nannini, gerhard-berger, riccardo-patrese, satoru-nakajima, philippe-streiff, philippe-alliot, mauricio-gugelmin, michele-alboreto, pierluigi-martini, jonathan-palmer, julian-bailey, luis-perez-sala, aguri-suzuki, rene-arnoux]
+- lap: 40
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, alessandro-nannini, gerhard-berger, riccardo-patrese, satoru-nakajima, philippe-streiff, philippe-alliot, mauricio-gugelmin, michele-alboreto, pierluigi-martini, jonathan-palmer, julian-bailey, luis-perez-sala, aguri-suzuki, rene-arnoux]
+- lap: 41
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, alessandro-nannini, gerhard-berger, riccardo-patrese, satoru-nakajima, philippe-streiff, philippe-alliot, mauricio-gugelmin, michele-alboreto, pierluigi-martini, jonathan-palmer, julian-bailey, luis-perez-sala, aguri-suzuki, rene-arnoux]
+- lap: 42
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, alessandro-nannini, gerhard-berger, riccardo-patrese, satoru-nakajima, philippe-streiff, philippe-alliot, mauricio-gugelmin, michele-alboreto, pierluigi-martini, jonathan-palmer, julian-bailey, luis-perez-sala, aguri-suzuki, rene-arnoux]
+- lap: 43
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, alessandro-nannini, gerhard-berger, riccardo-patrese, satoru-nakajima, philippe-streiff, philippe-alliot, mauricio-gugelmin, michele-alboreto, pierluigi-martini, jonathan-palmer, julian-bailey, luis-perez-sala, aguri-suzuki, rene-arnoux]
+- lap: 44
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, alessandro-nannini, gerhard-berger, riccardo-patrese, satoru-nakajima, philippe-streiff, philippe-alliot, mauricio-gugelmin, michele-alboreto, pierluigi-martini, jonathan-palmer, julian-bailey, luis-perez-sala, aguri-suzuki, rene-arnoux]
+- lap: 45
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, alessandro-nannini, gerhard-berger, riccardo-patrese, satoru-nakajima, philippe-streiff, philippe-alliot, mauricio-gugelmin, michele-alboreto, jonathan-palmer, pierluigi-martini, julian-bailey, luis-perez-sala, aguri-suzuki, rene-arnoux]
+- lap: 46
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, alessandro-nannini, gerhard-berger, riccardo-patrese, satoru-nakajima, philippe-streiff, philippe-alliot, mauricio-gugelmin, michele-alboreto, jonathan-palmer, pierluigi-martini, julian-bailey, luis-perez-sala, aguri-suzuki, rene-arnoux]
+- lap: 47
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, satoru-nakajima, philippe-streiff, philippe-alliot, mauricio-gugelmin, michele-alboreto, jonathan-palmer, pierluigi-martini, julian-bailey, luis-perez-sala, aguri-suzuki, rene-arnoux]
+- lap: 48
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, satoru-nakajima, philippe-streiff, philippe-alliot, mauricio-gugelmin, michele-alboreto, jonathan-palmer, pierluigi-martini, julian-bailey, luis-perez-sala, aguri-suzuki, rene-arnoux]
+- lap: 49
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, satoru-nakajima, philippe-streiff, philippe-alliot, mauricio-gugelmin, michele-alboreto, jonathan-palmer, pierluigi-martini, julian-bailey, luis-perez-sala]
+- lap: 50
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese, satoru-nakajima, philippe-streiff, philippe-alliot, mauricio-gugelmin, michele-alboreto, jonathan-palmer]
+- lap: 51
+  drivers: [ayrton-senna, alain-prost, thierry-boutsen, gerhard-berger, alessandro-nannini, riccardo-patrese]

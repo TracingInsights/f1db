@@ -81,7 +81,7 @@
   interval:
   reasonRetired:
   points: 1
-  gridPosition: 19
+  gridPosition: 20
 - position: 7
   driverNumber: 17
   driverId: marc-surer
@@ -95,7 +95,7 @@
   interval:
   reasonRetired:
   points:
-  gridPosition: 22
+  gridPosition: 24
 - position: 8
   driverNumber: 10
   driverId: jonathan-palmer
@@ -109,7 +109,7 @@
   interval:
   reasonRetired:
   points:
-  gridPosition: 24
+  gridPosition: 26
 - position: DNF
   driverNumber: 16
   driverId: derek-warwick
@@ -235,7 +235,7 @@
   interval:
   reasonRetired: Gearbox
   points:
-  gridPosition: 20
+  gridPosition: 21
 - position: DNF
   driverNumber: 25
   driverId: francois-hesnault
@@ -249,7 +249,7 @@
   interval:
   reasonRetired: Overheating
   points:
-  gridPosition: 18
+  gridPosition: 19
 - position: DNF
   driverNumber: 9
   driverId: philippe-alliot
@@ -263,7 +263,7 @@
   interval:
   reasonRetired: Battery
   points:
-  gridPosition: 23
+  gridPosition: 25
 - position: DNF
   driverNumber: 20
   driverId: johnny-cecotto
@@ -319,7 +319,7 @@
   interval:
   reasonRetired: Distributor
   points:
-  gridPosition: 21
+  gridPosition: 23
 - position: DNF
   driverNumber: 19
   driverId: ayrton-senna
@@ -345,7 +345,7 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Push start
   points:
   gridPosition:
 - position: DSQ
@@ -354,7 +354,7 @@
   constructorId: tyrrell
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
-  laps:
+  laps: 60
   time:
   timePenalty:
   gap:
@@ -368,7 +368,7 @@
   constructorId: tyrrell
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
-  laps:
+  laps: 11
   time:
   timePenalty:
   gap:

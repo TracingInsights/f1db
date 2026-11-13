@@ -47,7 +47,7 @@
   engineManufacturerId: offenhauser
   tyreManufacturerId: firestone
   sharedCar: true
-  laps:
+  laps: 100
   time:
   timePenalty:
   gap:

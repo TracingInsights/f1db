@@ -103,7 +103,7 @@
   engineManufacturerId: climax
   tyreManufacturerId: dunlop
   sharedCar: true
-  laps:
+  laps: 48
   time:
   timePenalty:
   gap:
@@ -188,7 +188,7 @@
   engineManufacturerId: climax
   tyreManufacturerId: dunlop
   sharedCar: true
-  laps:
+  laps: 5
   time:
   timePenalty:
   gap:
@@ -244,7 +244,7 @@
   constructorId: cooper
   engineManufacturerId: climax
   tyreManufacturerId: dunlop
-  laps: 26
+  laps: 27
   time:
   timePenalty:
   gap:

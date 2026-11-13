@@ -124,9 +124,9 @@
   constructorId: brabham
   engineManufacturerId: alfa-romeo
   tyreManufacturerId: goodyear
-  time: "1:45.353"
-  gap: "+1.731"
-  interval: "+0.029"
+  time: "1:45.363"
+  gap: "+1.741"
+  interval: "+0.039"
   laps:
 - position: 14
   driverNumber: 2
@@ -136,7 +136,7 @@
   tyreManufacturerId: goodyear
   time: "1:45.534"
   gap: "+1.912"
-  interval: "+0.181"
+  interval: "+0.171"
   laps:
 - position: 15
   driverNumber: 30

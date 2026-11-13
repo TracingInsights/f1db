@@ -19,10 +19,10 @@
   engineManufacturerId: renault
   tyreManufacturerId: michelin
   laps: 54
-  time: "1:33:50.527"
+  time: "1:33:50.525"
   timePenalty:
-  gap: "+17.310"
-  interval: "+17.310"
+  gap: "+17.308"
+  interval: "+17.308"
   reasonRetired:
   points: 6
   gridPosition: 2
@@ -33,9 +33,9 @@
   engineManufacturerId: ferrari
   tyreManufacturerId: goodyear
   laps: 54
-  time: "1:34:15.347"
+  time: "1:34:15.345"
   timePenalty:
-  gap: "+42.130"
+  gap: "+42.128"
   interval: "+24.820"
   reasonRetired:
   points: 4
@@ -47,10 +47,10 @@
   engineManufacturerId: ferrari
   tyreManufacturerId: goodyear
   laps: 54
-  time: "1:34:49.457"
+  time: "1:34:49.458"
   timePenalty:
-  gap: "+1:16.240"
-  interval: "+34.110"
+  gap: "+1:16.241"
+  interval: "+34.113"
   reasonRetired:
   points: 3
   gridPosition: 5
@@ -61,10 +61,10 @@
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
   laps: 54
-  time: "1:35:04.207"
+  time: "1:35:04.211"
   timePenalty:
-  gap: "+1:30.990"
-  interval: "+14.750"
+  gap: "+1:30.994"
+  interval: "+14.753"
   reasonRetired:
   points: 2
   gridPosition: 10
@@ -75,10 +75,10 @@
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
   laps: 54
-  time: "1:35:05.557"
+  time: "1:35:05.556"
   timePenalty:
-  gap: "+1:32.340"
-  interval: "+1.350"
+  gap: "+1:32.339"
+  interval: "+1.345"
   reasonRetired:
   points: 1
   gridPosition: 15
@@ -143,7 +143,7 @@
   driverId: manfred-winkelhock
   constructorId: ats-wheels
   engineManufacturerId: ford
-  tyreManufacturerId: goodyear
+  tyreManufacturerId: michelin
   laps: 52
   time:
   timePenalty:
@@ -325,7 +325,7 @@
   driverId: eliseo-salazar
   constructorId: ats-wheels
   engineManufacturerId: ford
-  tyreManufacturerId: goodyear
+  tyreManufacturerId: michelin
   laps: 2
   time:
   timePenalty:

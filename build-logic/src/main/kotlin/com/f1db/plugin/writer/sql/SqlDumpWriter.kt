@@ -23,6 +23,7 @@ import com.f1db.plugin.writer.sql.mapper.raceDriverStandingMapper
 import com.f1db.plugin.writer.sql.mapper.raceFastestLapMapper
 import com.f1db.plugin.writer.sql.mapper.raceMapper
 import com.f1db.plugin.writer.sql.mapper.racePitStopMapper
+import com.f1db.plugin.writer.sql.mapper.raceLapPositionMapper
 import com.f1db.plugin.writer.sql.mapper.racePracticeResultMapper
 import com.f1db.plugin.writer.sql.mapper.raceQualifyingResultMapper
 import com.f1db.plugin.writer.sql.mapper.raceRaceResultMapper
@@ -153,6 +154,9 @@ class SqlDumpWriter(
             writeInserts(ctx, out, RACE_DATA, raceRaceResultMapper.unmap(db.splitted.raceRaceResults, RaceDataType.RACE_RESULT), singleInserts)
             writeInserts(ctx, out, RACE_DATA, raceFastestLapMapper.unmap(db.splitted.raceFastestLaps, RaceDataType.FASTEST_LAP), singleInserts)
             writeInserts(ctx, out, RACE_DATA, racePitStopMapper.unmap(db.splitted.racePitStops, RaceDataType.PIT_STOP), singleInserts)
+            writeInserts(ctx, out, RACE_DATA, raceFastestLapMapper.unmap(db.splitted.raceSprintFastestLaps, RaceDataType.SPRINT_FASTEST_LAP), singleInserts)
+            writeInserts(ctx, out, RACE_DATA, raceLapPositionMapper.unmap(db.splitted.raceLapPositions, RaceDataType.LAP_POSITION), singleInserts)
+            writeInserts(ctx, out, RACE_DATA, raceLapPositionMapper.unmap(db.splitted.raceSprintLapPositions, RaceDataType.SPRINT_LAP_POSITION), singleInserts)
             writeInserts(ctx, out, RACE_DATA, raceDriverOfTheDayResultMapper.unmap(db.splitted.raceDriverOfTheDayResults, RaceDataType.DRIVER_OF_THE_DAY_RESULT), singleInserts)
             writeInserts(ctx, out, RACE_DRIVER_STANDING, raceDriverStandingMapper.unmap(db.splitted.raceDriverStandings), singleInserts)
             writeInserts(ctx, out, RACE_CONSTRUCTOR_STANDING, raceConstructorStandingMapper.unmap(db.splitted.raceConstructorStandings), singleInserts)

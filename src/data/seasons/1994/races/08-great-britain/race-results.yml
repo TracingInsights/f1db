@@ -19,10 +19,10 @@
   engineManufacturerId: ferrari
   tyreManufacturerId: goodyear
   laps: 60
-  time: "1:31:30.546"
+  time: "1:31:11.768"
   timePenalty:
-  gap: "+1:26.906"
-  interval: "+1:26.906"
+  gap: "+1:08.128"
+  interval: "+1:08.128"
   reasonRetired:
   points: 6
   gridPosition: 4
@@ -36,7 +36,7 @@
   time: "1:31:44.299"
   timePenalty:
   gap: "+1:40.659"
-  interval: "+13.753"
+  interval: "+32.531"
   reasonRetired:
   points: 4
   gridPosition: 5
@@ -334,20 +334,6 @@
   reasonRetired: Engine
   points:
   gridPosition: 9
-- position: DNF
-  driverNumber: 15
-  driverId: eddie-irvine
-  constructorId: jordan
-  engineManufacturerId: hart
-  tyreManufacturerId: goodyear
-  laps: 0
-  time:
-  timePenalty:
-  gap:
-  interval:
-  reasonRetired: Engine
-  points:
-  gridPosition: 12
 - position: DSQ
   driverNumber: 5
   driverId: michael-schumacher
@@ -362,6 +348,20 @@
   reasonRetired: Ignored black flag
   points:
   gridPosition: 2
+- position: DNS
+  driverNumber: 15
+  driverId: eddie-irvine
+  constructorId: jordan
+  engineManufacturerId: hart
+  tyreManufacturerId: goodyear
+  laps: 0
+  time:
+  timePenalty:
+  gap:
+  interval:
+  reasonRetired: Engine
+  points:
+  gridPosition: 12
 - position: DNQ
   driverNumber: 34
   driverId: bertrand-gachot

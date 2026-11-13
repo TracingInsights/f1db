@@ -1,0 +1,104 @@
+- lap: 0
+  drivers: [nelson-piquet, alain-prost, elio-de-angelis, niki-lauda, patrick-tambay, derek-warwick, teo-fabi, nigel-mansell, keke-rosberg, ayrton-senna, jacques-laffite, michele-alboreto, riccardo-patrese, rene-arnoux, eddie-cheever, thierry-boutsen, andrea-de-cesaris, marc-surer, gerhard-berger, francois-hesnault, jo-gartner, piercarlo-ghinzani, jonathan-palmer, philippe-alliot, huub-rothengatter]
+- lap: 1
+  drivers: [nelson-piquet, alain-prost, patrick-tambay, derek-warwick, elio-de-angelis, niki-lauda, ayrton-senna, nigel-mansell, keke-rosberg, michele-alboreto, rene-arnoux, riccardo-patrese, eddie-cheever, jacques-laffite, thierry-boutsen, andrea-de-cesaris, jo-gartner, jonathan-palmer, gerhard-berger, philippe-alliot, piercarlo-ghinzani, marc-surer, huub-rothengatter, francois-hesnault, teo-fabi]
+- lap: 2
+  drivers: [nelson-piquet, alain-prost, patrick-tambay, derek-warwick, niki-lauda, elio-de-angelis, ayrton-senna, keke-rosberg, nigel-mansell, michele-alboreto, rene-arnoux, riccardo-patrese, eddie-cheever, jacques-laffite, thierry-boutsen, andrea-de-cesaris, jo-gartner, jonathan-palmer, gerhard-berger, piercarlo-ghinzani, marc-surer, francois-hesnault, philippe-alliot, huub-rothengatter, teo-fabi]
+- lap: 3
+  drivers: [nelson-piquet, alain-prost, patrick-tambay, niki-lauda, derek-warwick, elio-de-angelis, ayrton-senna, keke-rosberg, nigel-mansell, michele-alboreto, rene-arnoux, eddie-cheever, jacques-laffite, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, jo-gartner, gerhard-berger, jonathan-palmer, piercarlo-ghinzani, marc-surer, francois-hesnault, teo-fabi, philippe-alliot, huub-rothengatter]
+- lap: 4
+  drivers: [nelson-piquet, alain-prost, patrick-tambay, niki-lauda, derek-warwick, elio-de-angelis, ayrton-senna, keke-rosberg, nigel-mansell, michele-alboreto, rene-arnoux, eddie-cheever, jacques-laffite, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, gerhard-berger, jonathan-palmer, jo-gartner, marc-surer, francois-hesnault, teo-fabi, philippe-alliot, piercarlo-ghinzani, huub-rothengatter]
+- lap: 5
+  drivers: [nelson-piquet, alain-prost, patrick-tambay, niki-lauda, derek-warwick, ayrton-senna, elio-de-angelis, keke-rosberg, nigel-mansell, michele-alboreto, rene-arnoux, eddie-cheever, jacques-laffite, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, gerhard-berger, jonathan-palmer, teo-fabi, francois-hesnault, marc-surer, jo-gartner, philippe-alliot, huub-rothengatter]
+- lap: 6
+  drivers: [nelson-piquet, alain-prost, patrick-tambay, niki-lauda, derek-warwick, ayrton-senna, elio-de-angelis, keke-rosberg, nigel-mansell, michele-alboreto, rene-arnoux, eddie-cheever, jacques-laffite, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, gerhard-berger, teo-fabi, jonathan-palmer, francois-hesnault, marc-surer, philippe-alliot, jo-gartner, huub-rothengatter]
+- lap: 7
+  drivers: [nelson-piquet, alain-prost, patrick-tambay, niki-lauda, derek-warwick, ayrton-senna, elio-de-angelis, keke-rosberg, nigel-mansell, michele-alboreto, rene-arnoux, jacques-laffite, eddie-cheever, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, gerhard-berger, teo-fabi, francois-hesnault, marc-surer, jonathan-palmer, philippe-alliot, huub-rothengatter]
+- lap: 8
+  drivers: [nelson-piquet, alain-prost, patrick-tambay, niki-lauda, derek-warwick, elio-de-angelis, ayrton-senna, keke-rosberg, nigel-mansell, michele-alboreto, jacques-laffite, rene-arnoux, eddie-cheever, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, teo-fabi, gerhard-berger, francois-hesnault, marc-surer, jonathan-palmer, philippe-alliot, huub-rothengatter]
+- lap: 9
+  drivers: [nelson-piquet, alain-prost, niki-lauda, patrick-tambay, elio-de-angelis, derek-warwick, ayrton-senna, keke-rosberg, nigel-mansell, michele-alboreto, jacques-laffite, rene-arnoux, eddie-cheever, riccardo-patrese, thierry-boutsen, andrea-de-cesaris, teo-fabi, gerhard-berger, marc-surer, francois-hesnault, jonathan-palmer, philippe-alliot, huub-rothengatter]
+- lap: 10
+  drivers: [nelson-piquet, alain-prost, niki-lauda, elio-de-angelis, patrick-tambay, derek-warwick, ayrton-senna, nigel-mansell, michele-alboreto, jacques-laffite, keke-rosberg, rene-arnoux, eddie-cheever, riccardo-patrese, thierry-boutsen, teo-fabi, andrea-de-cesaris, gerhard-berger, marc-surer, francois-hesnault, jonathan-palmer, philippe-alliot, huub-rothengatter]
+- lap: 11
+  drivers: [nelson-piquet, alain-prost, niki-lauda, elio-de-angelis, derek-warwick, ayrton-senna, nigel-mansell, michele-alboreto, jacques-laffite, patrick-tambay, rene-arnoux, eddie-cheever, riccardo-patrese, thierry-boutsen, teo-fabi, andrea-de-cesaris, gerhard-berger, marc-surer, francois-hesnault, jonathan-palmer, philippe-alliot, keke-rosberg, huub-rothengatter]
+- lap: 12
+  drivers: [nelson-piquet, alain-prost, niki-lauda, elio-de-angelis, derek-warwick, ayrton-senna, nigel-mansell, michele-alboreto, patrick-tambay, rene-arnoux, eddie-cheever, riccardo-patrese, thierry-boutsen, teo-fabi, andrea-de-cesaris, gerhard-berger, marc-surer, francois-hesnault, jacques-laffite, jonathan-palmer, philippe-alliot, keke-rosberg, huub-rothengatter]
+- lap: 13
+  drivers: [nelson-piquet, alain-prost, niki-lauda, elio-de-angelis, derek-warwick, ayrton-senna, nigel-mansell, michele-alboreto, patrick-tambay, eddie-cheever, riccardo-patrese, teo-fabi, rene-arnoux, thierry-boutsen, gerhard-berger, marc-surer, francois-hesnault, jonathan-palmer, andrea-de-cesaris, philippe-alliot, keke-rosberg, huub-rothengatter]
+- lap: 14
+  drivers: [nelson-piquet, alain-prost, niki-lauda, elio-de-angelis, derek-warwick, ayrton-senna, nigel-mansell, patrick-tambay, michele-alboreto, eddie-cheever, riccardo-patrese, teo-fabi, rene-arnoux, thierry-boutsen, gerhard-berger, marc-surer, francois-hesnault, jonathan-palmer, andrea-de-cesaris, philippe-alliot, keke-rosberg, huub-rothengatter]
+- lap: 15
+  drivers: [nelson-piquet, alain-prost, niki-lauda, elio-de-angelis, derek-warwick, ayrton-senna, nigel-mansell, patrick-tambay, michele-alboreto, eddie-cheever, riccardo-patrese, teo-fabi, rene-arnoux, thierry-boutsen, gerhard-berger, marc-surer, francois-hesnault, jonathan-palmer, philippe-alliot, andrea-de-cesaris, keke-rosberg, huub-rothengatter]
+- lap: 16
+  drivers: [nelson-piquet, alain-prost, niki-lauda, elio-de-angelis, ayrton-senna, nigel-mansell, derek-warwick, patrick-tambay, michele-alboreto, eddie-cheever, riccardo-patrese, teo-fabi, rene-arnoux, thierry-boutsen, marc-surer, gerhard-berger, francois-hesnault, jonathan-palmer, philippe-alliot, huub-rothengatter]
+- lap: 17
+  drivers: [nelson-piquet, alain-prost, niki-lauda, elio-de-angelis, ayrton-senna, nigel-mansell, patrick-tambay, michele-alboreto, eddie-cheever, derek-warwick, teo-fabi, riccardo-patrese, rene-arnoux, thierry-boutsen, marc-surer, gerhard-berger, francois-hesnault, jonathan-palmer, philippe-alliot, huub-rothengatter]
+- lap: 18
+  drivers: [nelson-piquet, alain-prost, niki-lauda, elio-de-angelis, ayrton-senna, nigel-mansell, patrick-tambay, michele-alboreto, teo-fabi, riccardo-patrese, rene-arnoux, thierry-boutsen, eddie-cheever, marc-surer, francois-hesnault, gerhard-berger, jonathan-palmer, philippe-alliot, huub-rothengatter]
+- lap: 19
+  drivers: [nelson-piquet, alain-prost, niki-lauda, elio-de-angelis, ayrton-senna, nigel-mansell, patrick-tambay, michele-alboreto, teo-fabi, riccardo-patrese, rene-arnoux, thierry-boutsen, marc-surer, francois-hesnault, gerhard-berger, jonathan-palmer, philippe-alliot, huub-rothengatter]
+- lap: 20
+  drivers: [nelson-piquet, alain-prost, niki-lauda, elio-de-angelis, ayrton-senna, nigel-mansell, patrick-tambay, michele-alboreto, teo-fabi, riccardo-patrese, rene-arnoux, thierry-boutsen, marc-surer, francois-hesnault, gerhard-berger, jonathan-palmer, philippe-alliot, huub-rothengatter]
+- lap: 21
+  drivers: [nelson-piquet, alain-prost, niki-lauda, elio-de-angelis, ayrton-senna, nigel-mansell, patrick-tambay, michele-alboreto, teo-fabi, riccardo-patrese, rene-arnoux, thierry-boutsen, marc-surer, francois-hesnault, gerhard-berger, jonathan-palmer, philippe-alliot, huub-rothengatter]
+- lap: 22
+  drivers: [nelson-piquet, alain-prost, niki-lauda, elio-de-angelis, ayrton-senna, nigel-mansell, patrick-tambay, michele-alboreto, teo-fabi, riccardo-patrese, rene-arnoux, thierry-boutsen, marc-surer, francois-hesnault, gerhard-berger, jonathan-palmer, philippe-alliot, huub-rothengatter]
+- lap: 23
+  drivers: [nelson-piquet, alain-prost, niki-lauda, elio-de-angelis, ayrton-senna, nigel-mansell, patrick-tambay, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, rene-arnoux, marc-surer, francois-hesnault, gerhard-berger, philippe-alliot, jonathan-palmer, huub-rothengatter]
+- lap: 24
+  drivers: [nelson-piquet, alain-prost, niki-lauda, elio-de-angelis, ayrton-senna, nigel-mansell, patrick-tambay, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, rene-arnoux, marc-surer, francois-hesnault, gerhard-berger, philippe-alliot, jonathan-palmer]
+- lap: 25
+  drivers: [nelson-piquet, alain-prost, niki-lauda, elio-de-angelis, ayrton-senna, nigel-mansell, patrick-tambay, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, rene-arnoux, marc-surer, francois-hesnault, gerhard-berger, philippe-alliot, jonathan-palmer]
+- lap: 26
+  drivers: [nelson-piquet, alain-prost, niki-lauda, elio-de-angelis, ayrton-senna, nigel-mansell, patrick-tambay, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, rene-arnoux, marc-surer, francois-hesnault, gerhard-berger, philippe-alliot, jonathan-palmer]
+- lap: 27
+  drivers: [nelson-piquet, alain-prost, niki-lauda, elio-de-angelis, ayrton-senna, nigel-mansell, patrick-tambay, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, gerhard-berger, philippe-alliot, jonathan-palmer]
+- lap: 28
+  drivers: [nelson-piquet, alain-prost, niki-lauda, ayrton-senna, elio-de-angelis, patrick-tambay, nigel-mansell, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, gerhard-berger, philippe-alliot, jonathan-palmer]
+- lap: 29
+  drivers: [nelson-piquet, niki-lauda, ayrton-senna, patrick-tambay, nigel-mansell, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, gerhard-berger, philippe-alliot, jonathan-palmer]
+- lap: 30
+  drivers: [nelson-piquet, niki-lauda, ayrton-senna, patrick-tambay, nigel-mansell, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, gerhard-berger, philippe-alliot, jonathan-palmer]
+- lap: 31
+  drivers: [nelson-piquet, niki-lauda, ayrton-senna, patrick-tambay, nigel-mansell, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, gerhard-berger, philippe-alliot, jonathan-palmer]
+- lap: 32
+  drivers: [nelson-piquet, niki-lauda, patrick-tambay, ayrton-senna, nigel-mansell, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, gerhard-berger, philippe-alliot, jonathan-palmer]
+- lap: 33
+  drivers: [nelson-piquet, niki-lauda, patrick-tambay, ayrton-senna, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, gerhard-berger, philippe-alliot, jonathan-palmer]
+- lap: 34
+  drivers: [nelson-piquet, niki-lauda, patrick-tambay, ayrton-senna, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, gerhard-berger, philippe-alliot, jonathan-palmer]
+- lap: 35
+  drivers: [nelson-piquet, niki-lauda, patrick-tambay, ayrton-senna, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, gerhard-berger, philippe-alliot, jonathan-palmer]
+- lap: 36
+  drivers: [nelson-piquet, niki-lauda, patrick-tambay, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, gerhard-berger, jonathan-palmer, philippe-alliot]
+- lap: 37
+  drivers: [nelson-piquet, niki-lauda, patrick-tambay, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, gerhard-berger, jonathan-palmer, philippe-alliot]
+- lap: 38
+  drivers: [nelson-piquet, niki-lauda, patrick-tambay, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, gerhard-berger, jonathan-palmer, philippe-alliot]
+- lap: 39
+  drivers: [nelson-piquet, niki-lauda, patrick-tambay, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, gerhard-berger, jonathan-palmer, philippe-alliot]
+- lap: 40
+  drivers: [niki-lauda, nelson-piquet, patrick-tambay, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, gerhard-berger, jonathan-palmer, philippe-alliot]
+- lap: 41
+  drivers: [niki-lauda, nelson-piquet, patrick-tambay, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, gerhard-berger, jonathan-palmer, philippe-alliot]
+- lap: 42
+  drivers: [niki-lauda, nelson-piquet, patrick-tambay, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, jonathan-palmer, gerhard-berger, philippe-alliot]
+- lap: 43
+  drivers: [niki-lauda, nelson-piquet, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, jonathan-palmer, gerhard-berger, philippe-alliot]
+- lap: 44
+  drivers: [niki-lauda, nelson-piquet, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, jonathan-palmer, philippe-alliot, gerhard-berger]
+- lap: 45
+  drivers: [niki-lauda, nelson-piquet, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, jonathan-palmer, philippe-alliot, gerhard-berger]
+- lap: 46
+  drivers: [niki-lauda, nelson-piquet, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, jonathan-palmer, philippe-alliot, gerhard-berger]
+- lap: 47
+  drivers: [niki-lauda, nelson-piquet, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, jonathan-palmer, philippe-alliot, gerhard-berger]
+- lap: 48
+  drivers: [niki-lauda, nelson-piquet, michele-alboreto, teo-fabi, riccardo-patrese, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, jonathan-palmer, philippe-alliot, gerhard-berger]
+- lap: 49
+  drivers: [niki-lauda, nelson-piquet, michele-alboreto, teo-fabi, thierry-boutsen, marc-surer, rene-arnoux, francois-hesnault, jonathan-palmer]
+- lap: 50
+  drivers: [niki-lauda, nelson-piquet, michele-alboreto, teo-fabi, thierry-boutsen, marc-surer, rene-arnoux]
+- lap: 51
+  drivers: [niki-lauda, nelson-piquet, michele-alboreto, teo-fabi]

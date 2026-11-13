@@ -3,7 +3,7 @@
   driverId: alberto-ascari
   constructorId: ferrari
   engineManufacturerId: ferrari
-  tyreManufacturerId: pirelli
+  tyreManufacturerId: englebert
   gridPenalty:
   time: "10:04.400"
 - position: 2
@@ -11,7 +11,7 @@
   driverId: nino-farina
   constructorId: ferrari
   engineManufacturerId: ferrari
-  tyreManufacturerId: pirelli
+  tyreManufacturerId: englebert
   gridPenalty:
   time: "10:07.300"
 - position: 3
@@ -35,7 +35,7 @@
   driverId: piero-taruffi
   constructorId: ferrari
   engineManufacturerId: ferrari
-  tyreManufacturerId: pirelli
+  tyreManufacturerId: englebert
   gridPenalty:
   time: "10:26.300"
 - position: 6
@@ -195,7 +195,7 @@
   driverId: marcel-balsa
   constructorId: balsa
   engineManufacturerId: bmw
-  tyreManufacturerId: dunlop
+  tyreManufacturerId: englebert
   gridPenalty:
   time:
 - position: 26
@@ -214,6 +214,14 @@
   tyreManufacturerId: pirelli
   gridPenalty:
   time:
+- position: 28
+  driverNumber: 133
+  driverId: willi-krakau
+  constructorId: afm
+  engineManufacturerId: bmw
+  tyreManufacturerId: dunlop
+  gridPenalty:
+  time:
 - position: 29
   driverNumber: 135
   driverId: ernst-klodwig
@@ -226,6 +234,14 @@
   driverNumber: 130
   driverId: karl-gunther-bechem
   constructorId: nacke
+  engineManufacturerId: bmw
+  tyreManufacturerId: dunlop
+  gridPenalty:
+  time:
+- position: 31
+  driverNumber: 131
+  driverId: ludwig-fischer
+  constructorId: afm
   engineManufacturerId: bmw
   tyreManufacturerId: dunlop
   gridPenalty:

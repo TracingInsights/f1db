@@ -182,3 +182,11 @@
   tyreManufacturerId: michelin
   gridPenalty:
   time: "1:10.640"
+- position: 24
+  driverNumber: 21
+  driverId: chico-serra
+  constructorId: fittipaldi
+  engineManufacturerId: ford
+  tyreManufacturerId: michelin
+  gridPenalty:
+  time: "1:10.860"

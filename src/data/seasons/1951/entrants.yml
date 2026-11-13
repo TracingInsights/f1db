@@ -167,7 +167,9 @@
   engineManufacturerId: talbot-lago
   chassisId: talbot-lago-t26c
   engineId: talbot-lago-23cv-45-l6
-  tyreManufacturerId: dunlop
+  tyreManufacturers:
+    - tyreManufacturerId: dunlop
+    - tyreManufacturerId: englebert
   drivers:
     - driverId: andre-pilette
       rounds: 3

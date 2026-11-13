@@ -19,7 +19,7 @@
   engineManufacturerId: alfa-romeo
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 53
   time:
   timePenalty:
   gap:
@@ -48,7 +48,7 @@
   engineManufacturerId: ferrari
   tyreManufacturerId: englebert
   sharedCar: true
-  laps:
+  laps: 35
   time:
   timePenalty:
   gap:
@@ -189,7 +189,7 @@
   engineManufacturerId: alfa-romeo
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 31
   time:
   timePenalty:
   gap:

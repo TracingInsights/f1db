@@ -133,9 +133,9 @@
   laps: 65
   time:
   timePenalty:
-  gap: "+5 laps"
+  gap:
   interval:
-  reasonRetired:
+  reasonRetired: Exhaust
   points:
   gridPosition: 9
 - position: NC

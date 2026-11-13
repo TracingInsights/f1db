@@ -70,6 +70,14 @@
   tyreManufacturerId: englebert
   gridPenalty:
   time: "1:47.000"
+- position: 10
+  driverNumber: 10
+  driverId: mike-hawthorn
+  constructorId: brm
+  engineManufacturerId: brm
+  tyreManufacturerId: dunlop
+  gridPenalty:
+  time: "1:49.300"
 - position: 11
   driverNumber: 4
   driverId: elie-bayol
@@ -86,6 +94,14 @@
   tyreManufacturerId: englebert
   gridPenalty:
   time: "1:50.300"
+- position: 13
+  driverNumber: 12
+  driverId: tony-brooks
+  constructorId: brm
+  engineManufacturerId: brm
+  tyreManufacturerId: dunlop
+  gridPenalty:
+  time: "1:50.400"
 - position: 14
   driverNumber: 6
   driverId: hermano-da-silva-ramos

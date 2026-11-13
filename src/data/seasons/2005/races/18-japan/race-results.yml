@@ -222,20 +222,6 @@
   reasonRetired:
   points:
   gridPosition: 13
-- position: NC
-  driverNumber: 8
-  driverId: antonio-pizzonia
-  constructorId: williams
-  engineManufacturerId: bmw
-  tyreManufacturerId: michelin
-  laps: 9
-  time:
-  timePenalty:
-  gap: "+1 lap"
-  interval:
-  reasonRetired:
-  points:
-  gridPosition: 12
 - position: DNF
   driverNumber: 16
   driverId: jarno-trulli
@@ -264,6 +250,20 @@
   reasonRetired: Accident
   points:
   gridPosition: 18
+- position: DNF
+  driverNumber: 8
+  driverId: antonio-pizzonia
+  constructorId: williams
+  engineManufacturerId: bmw
+  tyreManufacturerId: michelin
+  laps: 9
+  time:
+  timePenalty:
+  gap: "+1 lap"
+  interval:
+  reasonRetired: Spun off
+  points:
+  gridPosition: 12
 - position: DSQ
   driverNumber: 4
   driverId: takuma-sato

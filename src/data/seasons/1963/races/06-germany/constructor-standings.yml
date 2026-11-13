@@ -3,12 +3,12 @@
   engineManufacturerId: climax
   points: 43
 - position: 2
-  constructorId: brm
-  engineManufacturerId: brm
-  points: 22
-- position: 3
   constructorId: ferrari
   engineManufacturerId: ferrari
+  points: 22
+- position: 3
+  constructorId: brm
+  engineManufacturerId: brm
   points: 22
 - position: 4
   constructorId: cooper

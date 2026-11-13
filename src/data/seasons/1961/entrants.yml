@@ -102,8 +102,6 @@
   engineId: climax-fpf-15-l4
   tyreManufacturerId: dunlop
   drivers:
-    - driverId: hap-sharp
-      rounds: 8
     - driverId: jack-fairman
       rounds: 7
 - entrantId: gaetano-starrabba

@@ -249,6 +249,7 @@
   tyreManufacturers:
     - tyreManufacturerId: michelin
     - tyreManufacturerId: avon
+    - tyreManufacturerId: goodyear
   drivers:
     - driverId: eddie-cheever
       rounds: 1-15

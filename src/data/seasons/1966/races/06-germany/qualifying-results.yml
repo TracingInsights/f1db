@@ -84,9 +84,9 @@
   constructorId: cooper
   engineManufacturerId: maserati
   tyreManufacturerId: dunlop
-  time: "8:27.000"
-  gap: "+10.500"
-  interval: "+4.200"
+  time: "8:27.700"
+  gap: "+11.200"
+  interval: "+4.900"
   laps:
 - position: 10
   driverNumber: 5
@@ -96,7 +96,7 @@
   tyreManufacturerId: dunlop
   time: "8:28.600"
   gap: "+12.100"
-  interval: "+1.600"
+  interval: "+0.900"
   laps:
 - position: 11
   driverNumber: 14
@@ -114,9 +114,9 @@
   constructorId: cooper
   engineManufacturerId: maserati
   tyreManufacturerId: firestone
-  time: "8:35.300"
-  gap: "+18.800"
-  interval: "+2.300"
+  time: "8:35.200"
+  gap: "+18.700"
+  interval: "+2.200"
   laps:
 - position: 13
   driverNumber: 15
@@ -126,7 +126,7 @@
   tyreManufacturerId: firestone
   time: "8:38.600"
   gap: "+22.100"
-  interval: "+3.300"
+  interval: "+3.400"
   laps:
 - position: 14
   driverNumber: 19
@@ -244,9 +244,9 @@
   constructorId: brabham
   engineManufacturerId: brm
   tyreManufacturerId: goodyear
-  time: "9:08.600"
-  gap: "+52.100"
-  interval: "+0.200"
+  time: "9:08.900"
+  gap: "+52.400"
+  interval: "+0.500"
   laps:
 - position: 26
   driverNumber: 20
@@ -256,7 +256,7 @@
   tyreManufacturerId: dunlop
   time: "9:10.900"
   gap: "+54.400"
-  interval: "+2.300"
+  interval: "+2.000"
   laps:
 - position: 27
   driverNumber: 26

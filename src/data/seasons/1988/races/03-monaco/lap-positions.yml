@@ -1,0 +1,158 @@
+- lap: 0
+  drivers: [ayrton-senna, alain-prost, gerhard-berger, michele-alboreto, nigel-mansell, alessandro-nannini, derek-warwick, riccardo-patrese, eddie-cheever, jonathan-palmer, nelson-piquet, philippe-streiff, philippe-alliot, mauricio-gugelmin, luis-perez-sala, thierry-boutsen, alex-caffi, oscar-larrauri, andrea-de-cesaris, rene-arnoux, yannick-dalmas, ivan-capelli, piercarlo-ghinzani, gabriele-tarquini, nicola-larini, stefan-johansson]
+- lap: 1
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, eddie-cheever, philippe-alliot, thierry-boutsen, luis-perez-sala, oscar-larrauri, andrea-de-cesaris, stefan-johansson, ivan-capelli, yannick-dalmas, gabriele-tarquini, mauricio-gugelmin, piercarlo-ghinzani, rene-arnoux, nicola-larini]
+- lap: 2
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, eddie-cheever, philippe-alliot, thierry-boutsen, luis-perez-sala, oscar-larrauri, andrea-de-cesaris, stefan-johansson, ivan-capelli, yannick-dalmas, gabriele-tarquini, mauricio-gugelmin, piercarlo-ghinzani, rene-arnoux, nicola-larini]
+- lap: 3
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, eddie-cheever, philippe-alliot, thierry-boutsen, luis-perez-sala, oscar-larrauri, andrea-de-cesaris, stefan-johansson, yannick-dalmas, gabriele-tarquini, mauricio-gugelmin, rene-arnoux, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 4
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, eddie-cheever, philippe-alliot, thierry-boutsen, luis-perez-sala, andrea-de-cesaris, oscar-larrauri, stefan-johansson, yannick-dalmas, gabriele-tarquini, mauricio-gugelmin, rene-arnoux, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 5
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, eddie-cheever, philippe-alliot, thierry-boutsen, luis-perez-sala, andrea-de-cesaris, oscar-larrauri, stefan-johansson, yannick-dalmas, gabriele-tarquini, mauricio-gugelmin, rene-arnoux, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 6
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, eddie-cheever, philippe-alliot, thierry-boutsen, luis-perez-sala, andrea-de-cesaris, oscar-larrauri, yannick-dalmas, stefan-johansson, mauricio-gugelmin, rene-arnoux, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 7
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, eddie-cheever, philippe-alliot, thierry-boutsen, luis-perez-sala, andrea-de-cesaris, oscar-larrauri, yannick-dalmas, mauricio-gugelmin, rene-arnoux, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 8
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, philippe-alliot, andrea-de-cesaris, luis-perez-sala, oscar-larrauri, yannick-dalmas, mauricio-gugelmin, rene-arnoux, piercarlo-ghinzani, nicola-larini, ivan-capelli, eddie-cheever]
+- lap: 9
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, philippe-alliot, andrea-de-cesaris, luis-perez-sala, oscar-larrauri, yannick-dalmas, mauricio-gugelmin, rene-arnoux, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 10
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, philippe-alliot, andrea-de-cesaris, luis-perez-sala, oscar-larrauri, yannick-dalmas, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli, rene-arnoux]
+- lap: 11
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, philippe-alliot, andrea-de-cesaris, luis-perez-sala, oscar-larrauri, yannick-dalmas, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli, rene-arnoux]
+- lap: 12
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, philippe-alliot, andrea-de-cesaris, luis-perez-sala, yannick-dalmas, oscar-larrauri, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli, rene-arnoux]
+- lap: 13
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, philippe-alliot, andrea-de-cesaris, luis-perez-sala, yannick-dalmas, oscar-larrauri, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli, rene-arnoux]
+- lap: 14
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, philippe-alliot, andrea-de-cesaris, luis-perez-sala, yannick-dalmas, oscar-larrauri, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli, rene-arnoux]
+- lap: 15
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, philippe-alliot, andrea-de-cesaris, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli, rene-arnoux]
+- lap: 16
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, philippe-alliot, andrea-de-cesaris, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli, rene-arnoux]
+- lap: 17
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, philippe-alliot, andrea-de-cesaris, luis-perez-sala, yannick-dalmas, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli, rene-arnoux]
+- lap: 18
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, andrea-de-cesaris, luis-perez-sala, philippe-alliot, yannick-dalmas, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 19
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, andrea-de-cesaris, luis-perez-sala, philippe-alliot, yannick-dalmas, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 20
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, andrea-de-cesaris, luis-perez-sala, philippe-alliot, yannick-dalmas, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 21
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, andrea-de-cesaris, luis-perez-sala, philippe-alliot, yannick-dalmas, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 22
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, andrea-de-cesaris, luis-perez-sala, philippe-alliot, yannick-dalmas, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 23
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, andrea-de-cesaris, luis-perez-sala, philippe-alliot, yannick-dalmas, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 24
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, andrea-de-cesaris, luis-perez-sala, philippe-alliot, yannick-dalmas, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 25
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, andrea-de-cesaris, luis-perez-sala, philippe-alliot, yannick-dalmas, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 26
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, andrea-de-cesaris, luis-perez-sala, philippe-alliot, yannick-dalmas, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 27
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, andrea-de-cesaris, luis-perez-sala, philippe-alliot, yannick-dalmas, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 28
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, andrea-de-cesaris, luis-perez-sala, philippe-alliot, yannick-dalmas, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 29
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, luis-perez-sala, philippe-alliot, yannick-dalmas, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 30
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, luis-perez-sala, philippe-alliot, yannick-dalmas, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 31
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, luis-perez-sala, philippe-alliot, yannick-dalmas, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 32
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, nigel-mansell, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, luis-perez-sala, yannick-dalmas, philippe-alliot, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 33
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, luis-perez-sala, yannick-dalmas, philippe-alliot, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 34
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, luis-perez-sala, yannick-dalmas, philippe-alliot, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 35
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, luis-perez-sala, yannick-dalmas, philippe-alliot, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 36
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, yannick-dalmas, luis-perez-sala, philippe-alliot, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 37
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, yannick-dalmas, philippe-alliot, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 38
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, michele-alboreto, alessandro-nannini, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, yannick-dalmas, philippe-alliot, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 39
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, michele-alboreto, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, yannick-dalmas, philippe-alliot, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 40
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, michele-alboreto, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, yannick-dalmas, philippe-alliot, mauricio-gugelmin, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 41
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, michele-alboreto, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, philippe-alliot, mauricio-gugelmin, yannick-dalmas, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 42
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, michele-alboreto, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, philippe-alliot, mauricio-gugelmin, yannick-dalmas, piercarlo-ghinzani, nicola-larini, ivan-capelli]
+- lap: 43
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, michele-alboreto, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, philippe-alliot, mauricio-gugelmin, yannick-dalmas, nicola-larini, piercarlo-ghinzani, ivan-capelli]
+- lap: 44
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, michele-alboreto, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, philippe-alliot, mauricio-gugelmin, yannick-dalmas, nicola-larini, ivan-capelli]
+- lap: 45
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, michele-alboreto, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, philippe-alliot, mauricio-gugelmin, yannick-dalmas, nicola-larini, ivan-capelli]
+- lap: 46
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, michele-alboreto, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, philippe-alliot, yannick-dalmas, nicola-larini, ivan-capelli]
+- lap: 47
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, michele-alboreto, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, philippe-alliot, yannick-dalmas, nicola-larini, ivan-capelli]
+- lap: 48
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, michele-alboreto, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, philippe-alliot, yannick-dalmas, nicola-larini, ivan-capelli]
+- lap: 49
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, michele-alboreto, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, philippe-alliot, yannick-dalmas, nicola-larini, ivan-capelli]
+- lap: 50
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, michele-alboreto, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, philippe-alliot, yannick-dalmas, nicola-larini, ivan-capelli]
+- lap: 51
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, michele-alboreto, riccardo-patrese, derek-warwick, jonathan-palmer, thierry-boutsen, yannick-dalmas, nicola-larini, ivan-capelli]
+- lap: 52
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, michele-alboreto, derek-warwick, jonathan-palmer, thierry-boutsen, riccardo-patrese, yannick-dalmas, nicola-larini, ivan-capelli]
+- lap: 53
+  drivers: [ayrton-senna, gerhard-berger, alain-prost, michele-alboreto, derek-warwick, jonathan-palmer, thierry-boutsen, riccardo-patrese, yannick-dalmas, nicola-larini, ivan-capelli]
+- lap: 54
+  drivers: [ayrton-senna, alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, thierry-boutsen, riccardo-patrese, yannick-dalmas, nicola-larini, ivan-capelli]
+- lap: 55
+  drivers: [ayrton-senna, alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, riccardo-patrese, yannick-dalmas, thierry-boutsen, nicola-larini, ivan-capelli]
+- lap: 56
+  drivers: [ayrton-senna, alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, riccardo-patrese, yannick-dalmas, thierry-boutsen, nicola-larini, ivan-capelli]
+- lap: 57
+  drivers: [ayrton-senna, alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, riccardo-patrese, yannick-dalmas, thierry-boutsen, nicola-larini, ivan-capelli]
+- lap: 58
+  drivers: [ayrton-senna, alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, riccardo-patrese, yannick-dalmas, thierry-boutsen, nicola-larini, ivan-capelli]
+- lap: 59
+  drivers: [ayrton-senna, alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, yannick-dalmas, riccardo-patrese, thierry-boutsen, nicola-larini, ivan-capelli]
+- lap: 60
+  drivers: [ayrton-senna, alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, yannick-dalmas, riccardo-patrese, thierry-boutsen, nicola-larini, ivan-capelli]
+- lap: 61
+  drivers: [ayrton-senna, alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, yannick-dalmas, riccardo-patrese, thierry-boutsen, nicola-larini, ivan-capelli]
+- lap: 62
+  drivers: [ayrton-senna, alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, yannick-dalmas, riccardo-patrese, thierry-boutsen, nicola-larini, ivan-capelli]
+- lap: 63
+  drivers: [ayrton-senna, alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, yannick-dalmas, riccardo-patrese, thierry-boutsen, nicola-larini, ivan-capelli]
+- lap: 64
+  drivers: [ayrton-senna, alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, yannick-dalmas, riccardo-patrese, thierry-boutsen, nicola-larini, ivan-capelli]
+- lap: 65
+  drivers: [ayrton-senna, alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, yannick-dalmas, riccardo-patrese, thierry-boutsen, nicola-larini, ivan-capelli]
+- lap: 66
+  drivers: [ayrton-senna, alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, yannick-dalmas, riccardo-patrese, thierry-boutsen, nicola-larini, ivan-capelli]
+- lap: 67
+  drivers: [alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, yannick-dalmas, riccardo-patrese, thierry-boutsen, nicola-larini, ivan-capelli]
+- lap: 68
+  drivers: [alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, yannick-dalmas, riccardo-patrese, thierry-boutsen, nicola-larini, ivan-capelli]
+- lap: 69
+  drivers: [alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, yannick-dalmas, riccardo-patrese, thierry-boutsen, nicola-larini, ivan-capelli]
+- lap: 70
+  drivers: [alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, yannick-dalmas, riccardo-patrese, thierry-boutsen, nicola-larini, ivan-capelli]
+- lap: 71
+  drivers: [alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, yannick-dalmas, riccardo-patrese, thierry-boutsen, nicola-larini, ivan-capelli]
+- lap: 72
+  drivers: [alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, yannick-dalmas, riccardo-patrese, thierry-boutsen, nicola-larini, ivan-capelli]
+- lap: 73
+  drivers: [alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, yannick-dalmas, riccardo-patrese, thierry-boutsen, nicola-larini]
+- lap: 74
+  drivers: [alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, yannick-dalmas, riccardo-patrese, thierry-boutsen, nicola-larini]
+- lap: 75
+  drivers: [alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, yannick-dalmas, riccardo-patrese, thierry-boutsen, nicola-larini]
+- lap: 76
+  drivers: [alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, riccardo-patrese, yannick-dalmas, thierry-boutsen]
+- lap: 77
+  drivers: [alain-prost, gerhard-berger, michele-alboreto, derek-warwick, jonathan-palmer, riccardo-patrese, yannick-dalmas]
+- lap: 78
+  drivers: [alain-prost, gerhard-berger, michele-alboreto]

@@ -1,0 +1,162 @@
+- lap: 0
+  drivers: [jacques-laffite, alan-jones, carlos-reutemann, john-watson, alain-prost, bruno-giacomelli, gilles-villeneuve, mario-andretti, nelson-piquet, elio-de-angelis, nigel-mansell, riccardo-patrese, didier-pironi, andrea-de-cesaris, keke-rosberg, patrick-tambay, rene-arnoux, hector-rebaque, jean-pierre-jabouille, eddie-cheever, chico-serra, derek-daly, siegfried-stohr, eliseo-salazar]
+- lap: 1
+  drivers: [alan-jones, carlos-reutemann, gilles-villeneuve, mario-andretti, alain-prost, john-watson, bruno-giacomelli, nelson-piquet, riccardo-patrese, didier-pironi, jacques-laffite, elio-de-angelis, keke-rosberg, rene-arnoux, andrea-de-cesaris, hector-rebaque, nigel-mansell, derek-daly, eddie-cheever, jean-pierre-jabouille, eliseo-salazar, siegfried-stohr, chico-serra, patrick-tambay]
+- lap: 2
+  drivers: [alan-jones, gilles-villeneuve, carlos-reutemann, mario-andretti, alain-prost, john-watson, nelson-piquet, didier-pironi, bruno-giacomelli, riccardo-patrese, jacques-laffite, elio-de-angelis, keke-rosberg, rene-arnoux, andrea-de-cesaris, hector-rebaque, nigel-mansell, eddie-cheever, jean-pierre-jabouille, eliseo-salazar, siegfried-stohr, chico-serra, derek-daly, patrick-tambay]
+- lap: 3
+  drivers: [alan-jones, gilles-villeneuve, carlos-reutemann, mario-andretti, alain-prost, john-watson, nelson-piquet, didier-pironi, bruno-giacomelli, riccardo-patrese, jacques-laffite, elio-de-angelis, keke-rosberg, rene-arnoux, andrea-de-cesaris, hector-rebaque, nigel-mansell, eddie-cheever, jean-pierre-jabouille, siegfried-stohr, eliseo-salazar, chico-serra, derek-daly, patrick-tambay]
+- lap: 4
+  drivers: [alan-jones, gilles-villeneuve, carlos-reutemann, mario-andretti, alain-prost, john-watson, nelson-piquet, didier-pironi, bruno-giacomelli, riccardo-patrese, jacques-laffite, elio-de-angelis, keke-rosberg, rene-arnoux, andrea-de-cesaris, hector-rebaque, nigel-mansell, eddie-cheever, jean-pierre-jabouille, siegfried-stohr, eliseo-salazar, chico-serra, derek-daly, patrick-tambay]
+- lap: 5
+  drivers: [alan-jones, gilles-villeneuve, carlos-reutemann, mario-andretti, alain-prost, john-watson, nelson-piquet, didier-pironi, bruno-giacomelli, riccardo-patrese, jacques-laffite, elio-de-angelis, keke-rosberg, rene-arnoux, andrea-de-cesaris, hector-rebaque, nigel-mansell, eddie-cheever, jean-pierre-jabouille, siegfried-stohr, chico-serra, eliseo-salazar, patrick-tambay, derek-daly]
+- lap: 6
+  drivers: [alan-jones, gilles-villeneuve, carlos-reutemann, mario-andretti, alain-prost, john-watson, nelson-piquet, didier-pironi, bruno-giacomelli, jacques-laffite, riccardo-patrese, elio-de-angelis, keke-rosberg, rene-arnoux, andrea-de-cesaris, hector-rebaque, nigel-mansell, eddie-cheever, jean-pierre-jabouille, siegfried-stohr, chico-serra, eliseo-salazar, patrick-tambay, derek-daly]
+- lap: 7
+  drivers: [alan-jones, gilles-villeneuve, carlos-reutemann, mario-andretti, alain-prost, john-watson, nelson-piquet, didier-pironi, bruno-giacomelli, jacques-laffite, elio-de-angelis, riccardo-patrese, keke-rosberg, rene-arnoux, hector-rebaque, andrea-de-cesaris, nigel-mansell, eddie-cheever, jean-pierre-jabouille, siegfried-stohr, chico-serra, eliseo-salazar, patrick-tambay, derek-daly]
+- lap: 8
+  drivers: [alan-jones, gilles-villeneuve, carlos-reutemann, mario-andretti, alain-prost, nelson-piquet, john-watson, didier-pironi, jacques-laffite, bruno-giacomelli, elio-de-angelis, riccardo-patrese, keke-rosberg, rene-arnoux, hector-rebaque, andrea-de-cesaris, nigel-mansell, eddie-cheever, jean-pierre-jabouille, siegfried-stohr, chico-serra, eliseo-salazar, patrick-tambay, derek-daly]
+- lap: 9
+  drivers: [alan-jones, gilles-villeneuve, carlos-reutemann, mario-andretti, alain-prost, nelson-piquet, john-watson, didier-pironi, jacques-laffite, bruno-giacomelli, elio-de-angelis, riccardo-patrese, keke-rosberg, rene-arnoux, hector-rebaque, andrea-de-cesaris, nigel-mansell, eddie-cheever, jean-pierre-jabouille, siegfried-stohr, chico-serra, eliseo-salazar, patrick-tambay, derek-daly]
+- lap: 10
+  drivers: [alan-jones, gilles-villeneuve, carlos-reutemann, mario-andretti, alain-prost, nelson-piquet, john-watson, didier-pironi, jacques-laffite, bruno-giacomelli, elio-de-angelis, riccardo-patrese, keke-rosberg, rene-arnoux, hector-rebaque, nigel-mansell, eddie-cheever, jean-pierre-jabouille, siegfried-stohr, chico-serra, eliseo-salazar, patrick-tambay, derek-daly]
+- lap: 11
+  drivers: [alan-jones, gilles-villeneuve, carlos-reutemann, mario-andretti, alain-prost, nelson-piquet, john-watson, jacques-laffite, didier-pironi, bruno-giacomelli, elio-de-angelis, riccardo-patrese, keke-rosberg, rene-arnoux, nigel-mansell, hector-rebaque, eddie-cheever, jean-pierre-jabouille, siegfried-stohr, chico-serra, eliseo-salazar, patrick-tambay, derek-daly]
+- lap: 12
+  drivers: [alan-jones, gilles-villeneuve, carlos-reutemann, mario-andretti, alain-prost, nelson-piquet, john-watson, jacques-laffite, didier-pironi, bruno-giacomelli, elio-de-angelis, riccardo-patrese, keke-rosberg, rene-arnoux, nigel-mansell, hector-rebaque, eddie-cheever, jean-pierre-jabouille, siegfried-stohr, chico-serra, eliseo-salazar, patrick-tambay, derek-daly]
+- lap: 13
+  drivers: [alan-jones, gilles-villeneuve, carlos-reutemann, mario-andretti, alain-prost, nelson-piquet, john-watson, jacques-laffite, didier-pironi, bruno-giacomelli, elio-de-angelis, riccardo-patrese, keke-rosberg, rene-arnoux, nigel-mansell, hector-rebaque, jean-pierre-jabouille, eddie-cheever, siegfried-stohr, chico-serra, eliseo-salazar, patrick-tambay, derek-daly]
+- lap: 14
+  drivers: [gilles-villeneuve, carlos-reutemann, alain-prost, mario-andretti, nelson-piquet, john-watson, jacques-laffite, didier-pironi, bruno-giacomelli, elio-de-angelis, riccardo-patrese, keke-rosberg, rene-arnoux, nigel-mansell, hector-rebaque, alan-jones, jean-pierre-jabouille, siegfried-stohr, chico-serra, eliseo-salazar, patrick-tambay, derek-daly, eddie-cheever]
+- lap: 15
+  drivers: [gilles-villeneuve, carlos-reutemann, alain-prost, mario-andretti, nelson-piquet, john-watson, jacques-laffite, didier-pironi, bruno-giacomelli, elio-de-angelis, riccardo-patrese, keke-rosberg, nigel-mansell, rene-arnoux, hector-rebaque, alan-jones, siegfried-stohr, chico-serra, eliseo-salazar, patrick-tambay, jean-pierre-jabouille, derek-daly, eddie-cheever]
+- lap: 16
+  drivers: [gilles-villeneuve, carlos-reutemann, alain-prost, mario-andretti, nelson-piquet, john-watson, jacques-laffite, didier-pironi, elio-de-angelis, riccardo-patrese, bruno-giacomelli, nigel-mansell, keke-rosberg, rene-arnoux, hector-rebaque, alan-jones, siegfried-stohr, chico-serra, eliseo-salazar, patrick-tambay, jean-pierre-jabouille, derek-daly, eddie-cheever]
+- lap: 17
+  drivers: [gilles-villeneuve, carlos-reutemann, alain-prost, mario-andretti, nelson-piquet, john-watson, jacques-laffite, didier-pironi, elio-de-angelis, riccardo-patrese, bruno-giacomelli, nigel-mansell, keke-rosberg, rene-arnoux, hector-rebaque, alan-jones, siegfried-stohr, chico-serra, eliseo-salazar, patrick-tambay, jean-pierre-jabouille, derek-daly, eddie-cheever]
+- lap: 18
+  drivers: [gilles-villeneuve, carlos-reutemann, alain-prost, mario-andretti, nelson-piquet, john-watson, jacques-laffite, didier-pironi, elio-de-angelis, riccardo-patrese, bruno-giacomelli, nigel-mansell, keke-rosberg, rene-arnoux, hector-rebaque, alan-jones, siegfried-stohr, chico-serra, eliseo-salazar, patrick-tambay, jean-pierre-jabouille, derek-daly, eddie-cheever]
+- lap: 19
+  drivers: [gilles-villeneuve, carlos-reutemann, alain-prost, mario-andretti, nelson-piquet, john-watson, jacques-laffite, didier-pironi, elio-de-angelis, riccardo-patrese, bruno-giacomelli, nigel-mansell, keke-rosberg, hector-rebaque, rene-arnoux, alan-jones, siegfried-stohr, chico-serra, eliseo-salazar, patrick-tambay, jean-pierre-jabouille, derek-daly, eddie-cheever]
+- lap: 20
+  drivers: [gilles-villeneuve, carlos-reutemann, alain-prost, mario-andretti, nelson-piquet, john-watson, jacques-laffite, elio-de-angelis, bruno-giacomelli, nigel-mansell, riccardo-patrese, keke-rosberg, hector-rebaque, alan-jones, rene-arnoux, didier-pironi, siegfried-stohr, chico-serra, eliseo-salazar, patrick-tambay, jean-pierre-jabouille, derek-daly, eddie-cheever]
+- lap: 21
+  drivers: [gilles-villeneuve, carlos-reutemann, alain-prost, mario-andretti, nelson-piquet, john-watson, jacques-laffite, elio-de-angelis, bruno-giacomelli, nigel-mansell, hector-rebaque, alan-jones, keke-rosberg, rene-arnoux, riccardo-patrese, chico-serra, siegfried-stohr, eliseo-salazar, patrick-tambay, jean-pierre-jabouille, derek-daly, didier-pironi, eddie-cheever]
+- lap: 22
+  drivers: [gilles-villeneuve, carlos-reutemann, alain-prost, mario-andretti, nelson-piquet, john-watson, jacques-laffite, elio-de-angelis, bruno-giacomelli, nigel-mansell, hector-rebaque, alan-jones, rene-arnoux, keke-rosberg, chico-serra, siegfried-stohr, eliseo-salazar, patrick-tambay, jean-pierre-jabouille, derek-daly, didier-pironi, eddie-cheever]
+- lap: 23
+  drivers: [gilles-villeneuve, carlos-reutemann, alain-prost, mario-andretti, nelson-piquet, john-watson, jacques-laffite, elio-de-angelis, nigel-mansell, bruno-giacomelli, alan-jones, hector-rebaque, rene-arnoux, keke-rosberg, chico-serra, siegfried-stohr, eliseo-salazar, patrick-tambay, jean-pierre-jabouille, derek-daly, didier-pironi, eddie-cheever]
+- lap: 24
+  drivers: [gilles-villeneuve, carlos-reutemann, alain-prost, mario-andretti, nelson-piquet, john-watson, jacques-laffite, elio-de-angelis, nigel-mansell, bruno-giacomelli, alan-jones, hector-rebaque, rene-arnoux, keke-rosberg, chico-serra, siegfried-stohr, eliseo-salazar, patrick-tambay, jean-pierre-jabouille, derek-daly, didier-pironi, eddie-cheever]
+- lap: 25
+  drivers: [gilles-villeneuve, carlos-reutemann, alain-prost, john-watson, jacques-laffite, nelson-piquet, mario-andretti, elio-de-angelis, nigel-mansell, bruno-giacomelli, alan-jones, hector-rebaque, rene-arnoux, keke-rosberg, chico-serra, siegfried-stohr, eliseo-salazar, patrick-tambay, jean-pierre-jabouille, derek-daly, didier-pironi, eddie-cheever]
+- lap: 26
+  drivers: [gilles-villeneuve, carlos-reutemann, alain-prost, john-watson, jacques-laffite, nelson-piquet, mario-andretti, elio-de-angelis, nigel-mansell, bruno-giacomelli, alan-jones, hector-rebaque, rene-arnoux, keke-rosberg, chico-serra, siegfried-stohr, eliseo-salazar, patrick-tambay, jean-pierre-jabouille, derek-daly, didier-pironi, eddie-cheever]
+- lap: 27
+  drivers: [gilles-villeneuve, carlos-reutemann, alain-prost, john-watson, jacques-laffite, nelson-piquet, mario-andretti, elio-de-angelis, nigel-mansell, bruno-giacomelli, alan-jones, hector-rebaque, rene-arnoux, keke-rosberg, chico-serra, siegfried-stohr, eliseo-salazar, patrick-tambay, jean-pierre-jabouille, derek-daly, didier-pironi, eddie-cheever]
+- lap: 28
+  drivers: [gilles-villeneuve, carlos-reutemann, alain-prost, john-watson, jacques-laffite, nelson-piquet, elio-de-angelis, mario-andretti, nigel-mansell, alan-jones, bruno-giacomelli, hector-rebaque, rene-arnoux, keke-rosberg, chico-serra, siegfried-stohr, eliseo-salazar, patrick-tambay, jean-pierre-jabouille, derek-daly, didier-pironi, eddie-cheever]
+- lap: 29
+  drivers: [gilles-villeneuve, carlos-reutemann, john-watson, jacques-laffite, nelson-piquet, elio-de-angelis, mario-andretti, nigel-mansell, alan-jones, bruno-giacomelli, hector-rebaque, rene-arnoux, keke-rosberg, chico-serra, siegfried-stohr, eliseo-salazar, patrick-tambay, jean-pierre-jabouille, derek-daly, didier-pironi, eddie-cheever]
+- lap: 30
+  drivers: [gilles-villeneuve, carlos-reutemann, john-watson, jacques-laffite, nelson-piquet, elio-de-angelis, mario-andretti, nigel-mansell, alan-jones, bruno-giacomelli, hector-rebaque, rene-arnoux, keke-rosberg, chico-serra, siegfried-stohr, eliseo-salazar, jean-pierre-jabouille, patrick-tambay, derek-daly, didier-pironi, eddie-cheever]
+- lap: 31
+  drivers: [gilles-villeneuve, carlos-reutemann, john-watson, jacques-laffite, nelson-piquet, elio-de-angelis, mario-andretti, nigel-mansell, alan-jones, bruno-giacomelli, hector-rebaque, rene-arnoux, keke-rosberg, chico-serra, siegfried-stohr, eliseo-salazar, jean-pierre-jabouille, patrick-tambay, derek-daly, didier-pironi, eddie-cheever]
+- lap: 32
+  drivers: [gilles-villeneuve, carlos-reutemann, john-watson, jacques-laffite, nelson-piquet, elio-de-angelis, nigel-mansell, mario-andretti, alan-jones, bruno-giacomelli, rene-arnoux, hector-rebaque, keke-rosberg, chico-serra, siegfried-stohr, eliseo-salazar, jean-pierre-jabouille, patrick-tambay, derek-daly, didier-pironi, eddie-cheever]
+- lap: 33
+  drivers: [gilles-villeneuve, carlos-reutemann, john-watson, jacques-laffite, nelson-piquet, elio-de-angelis, nigel-mansell, mario-andretti, alan-jones, bruno-giacomelli, rene-arnoux, hector-rebaque, keke-rosberg, chico-serra, siegfried-stohr, eliseo-salazar, jean-pierre-jabouille, patrick-tambay, derek-daly, didier-pironi, eddie-cheever]
+- lap: 34
+  drivers: [gilles-villeneuve, carlos-reutemann, john-watson, jacques-laffite, nelson-piquet, elio-de-angelis, nigel-mansell, mario-andretti, alan-jones, bruno-giacomelli, rene-arnoux, hector-rebaque, keke-rosberg, chico-serra, siegfried-stohr, eliseo-salazar, jean-pierre-jabouille, patrick-tambay, derek-daly, didier-pironi, eddie-cheever]
+- lap: 35
+  drivers: [gilles-villeneuve, carlos-reutemann, john-watson, jacques-laffite, nelson-piquet, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, bruno-giacomelli, rene-arnoux, hector-rebaque, keke-rosberg, chico-serra, eliseo-salazar, jean-pierre-jabouille, patrick-tambay, siegfried-stohr, derek-daly, didier-pironi, eddie-cheever]
+- lap: 36
+  drivers: [gilles-villeneuve, carlos-reutemann, john-watson, jacques-laffite, nelson-piquet, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, bruno-giacomelli, rene-arnoux, hector-rebaque, keke-rosberg, chico-serra, eliseo-salazar, jean-pierre-jabouille, patrick-tambay, derek-daly, didier-pironi, siegfried-stohr, eddie-cheever]
+- lap: 37
+  drivers: [gilles-villeneuve, carlos-reutemann, john-watson, jacques-laffite, nelson-piquet, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, bruno-giacomelli, rene-arnoux, hector-rebaque, keke-rosberg, chico-serra, eliseo-salazar, jean-pierre-jabouille, patrick-tambay, derek-daly, didier-pironi, siegfried-stohr, eddie-cheever]
+- lap: 38
+  drivers: [gilles-villeneuve, carlos-reutemann, john-watson, jacques-laffite, nelson-piquet, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, bruno-giacomelli, rene-arnoux, hector-rebaque, keke-rosberg, chico-serra, eliseo-salazar, jean-pierre-jabouille, patrick-tambay, derek-daly, didier-pironi, siegfried-stohr, eddie-cheever]
+- lap: 39
+  drivers: [gilles-villeneuve, carlos-reutemann, john-watson, jacques-laffite, nelson-piquet, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, hector-rebaque, keke-rosberg, chico-serra, jean-pierre-jabouille, eliseo-salazar, patrick-tambay, derek-daly, didier-pironi, siegfried-stohr, eddie-cheever]
+- lap: 40
+  drivers: [gilles-villeneuve, carlos-reutemann, john-watson, jacques-laffite, nelson-piquet, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, hector-rebaque, keke-rosberg, chico-serra, jean-pierre-jabouille, eliseo-salazar, patrick-tambay, derek-daly, didier-pironi, siegfried-stohr, eddie-cheever]
+- lap: 41
+  drivers: [gilles-villeneuve, carlos-reutemann, john-watson, jacques-laffite, nelson-piquet, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, hector-rebaque, keke-rosberg, chico-serra, jean-pierre-jabouille, eliseo-salazar, patrick-tambay, derek-daly, didier-pironi, siegfried-stohr, eddie-cheever]
+- lap: 42
+  drivers: [gilles-villeneuve, carlos-reutemann, john-watson, jacques-laffite, nelson-piquet, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, hector-rebaque, keke-rosberg, chico-serra, jean-pierre-jabouille, eliseo-salazar, patrick-tambay, derek-daly, didier-pironi, siegfried-stohr, eddie-cheever]
+- lap: 43
+  drivers: [gilles-villeneuve, carlos-reutemann, john-watson, jacques-laffite, nelson-piquet, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, hector-rebaque, keke-rosberg, chico-serra, jean-pierre-jabouille, patrick-tambay, eliseo-salazar, derek-daly, didier-pironi, siegfried-stohr, eddie-cheever]
+- lap: 44
+  drivers: [gilles-villeneuve, carlos-reutemann, john-watson, jacques-laffite, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, hector-rebaque, keke-rosberg, chico-serra, jean-pierre-jabouille, patrick-tambay, eliseo-salazar, derek-daly, didier-pironi, eddie-cheever]
+- lap: 45
+  drivers: [gilles-villeneuve, carlos-reutemann, john-watson, jacques-laffite, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, hector-rebaque, chico-serra, jean-pierre-jabouille, patrick-tambay, eliseo-salazar, derek-daly, didier-pironi, eddie-cheever]
+- lap: 46
+  drivers: [gilles-villeneuve, carlos-reutemann, john-watson, jacques-laffite, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, jean-pierre-jabouille, patrick-tambay, eliseo-salazar, hector-rebaque, derek-daly, didier-pironi, eddie-cheever]
+- lap: 47
+  drivers: [gilles-villeneuve, carlos-reutemann, john-watson, jacques-laffite, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, jean-pierre-jabouille, patrick-tambay, eliseo-salazar, derek-daly, didier-pironi, eddie-cheever]
+- lap: 48
+  drivers: [gilles-villeneuve, carlos-reutemann, john-watson, jacques-laffite, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, derek-daly, didier-pironi, jean-pierre-jabouille, eddie-cheever]
+- lap: 49
+  drivers: [gilles-villeneuve, carlos-reutemann, jacques-laffite, john-watson, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, derek-daly, didier-pironi, jean-pierre-jabouille, eddie-cheever]
+- lap: 50
+  drivers: [gilles-villeneuve, carlos-reutemann, jacques-laffite, john-watson, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, derek-daly, didier-pironi, jean-pierre-jabouille, eddie-cheever]
+- lap: 51
+  drivers: [gilles-villeneuve, carlos-reutemann, jacques-laffite, john-watson, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, derek-daly, didier-pironi, jean-pierre-jabouille, eddie-cheever]
+- lap: 52
+  drivers: [gilles-villeneuve, carlos-reutemann, jacques-laffite, john-watson, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, derek-daly, didier-pironi, jean-pierre-jabouille, eddie-cheever]
+- lap: 53
+  drivers: [gilles-villeneuve, carlos-reutemann, jacques-laffite, john-watson, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, derek-daly, didier-pironi, eddie-cheever]
+- lap: 54
+  drivers: [gilles-villeneuve, carlos-reutemann, jacques-laffite, john-watson, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, derek-daly, didier-pironi, eddie-cheever]
+- lap: 55
+  drivers: [gilles-villeneuve, carlos-reutemann, jacques-laffite, john-watson, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, didier-pironi, derek-daly, eddie-cheever]
+- lap: 56
+  drivers: [gilles-villeneuve, carlos-reutemann, jacques-laffite, john-watson, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, didier-pironi, derek-daly, eddie-cheever]
+- lap: 57
+  drivers: [gilles-villeneuve, carlos-reutemann, jacques-laffite, john-watson, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, didier-pironi, derek-daly, eddie-cheever]
+- lap: 58
+  drivers: [gilles-villeneuve, carlos-reutemann, jacques-laffite, john-watson, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, didier-pironi, derek-daly, eddie-cheever]
+- lap: 59
+  drivers: [gilles-villeneuve, carlos-reutemann, jacques-laffite, john-watson, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, didier-pironi, derek-daly, eddie-cheever]
+- lap: 60
+  drivers: [gilles-villeneuve, carlos-reutemann, jacques-laffite, john-watson, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, didier-pironi, derek-daly, eddie-cheever]
+- lap: 61
+  drivers: [gilles-villeneuve, carlos-reutemann, jacques-laffite, john-watson, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, didier-pironi, derek-daly, eddie-cheever]
+- lap: 62
+  drivers: [gilles-villeneuve, jacques-laffite, john-watson, carlos-reutemann, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, didier-pironi, derek-daly]
+- lap: 63
+  drivers: [gilles-villeneuve, jacques-laffite, john-watson, carlos-reutemann, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, didier-pironi, derek-daly]
+- lap: 64
+  drivers: [gilles-villeneuve, jacques-laffite, john-watson, carlos-reutemann, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, didier-pironi, derek-daly]
+- lap: 65
+  drivers: [gilles-villeneuve, jacques-laffite, john-watson, carlos-reutemann, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, didier-pironi, derek-daly]
+- lap: 66
+  drivers: [gilles-villeneuve, jacques-laffite, john-watson, carlos-reutemann, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, didier-pironi, derek-daly]
+- lap: 67
+  drivers: [gilles-villeneuve, jacques-laffite, john-watson, carlos-reutemann, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, didier-pironi, derek-daly]
+- lap: 68
+  drivers: [gilles-villeneuve, jacques-laffite, john-watson, carlos-reutemann, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, didier-pironi, derek-daly]
+- lap: 69
+  drivers: [gilles-villeneuve, jacques-laffite, john-watson, carlos-reutemann, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, didier-pironi, derek-daly]
+- lap: 70
+  drivers: [gilles-villeneuve, jacques-laffite, john-watson, carlos-reutemann, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, didier-pironi, derek-daly]
+- lap: 71
+  drivers: [gilles-villeneuve, jacques-laffite, john-watson, carlos-reutemann, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, didier-pironi, derek-daly]
+- lap: 72
+  drivers: [gilles-villeneuve, jacques-laffite, john-watson, carlos-reutemann, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, keke-rosberg, chico-serra, patrick-tambay, eliseo-salazar, didier-pironi, derek-daly]
+- lap: 73
+  drivers: [gilles-villeneuve, jacques-laffite, john-watson, carlos-reutemann, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, chico-serra, keke-rosberg, patrick-tambay, eliseo-salazar, didier-pironi, derek-daly]
+- lap: 74
+  drivers: [gilles-villeneuve, jacques-laffite, john-watson, carlos-reutemann, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, chico-serra, keke-rosberg, patrick-tambay, eliseo-salazar, didier-pironi, derek-daly]
+- lap: 75
+  drivers: [gilles-villeneuve, jacques-laffite, john-watson, carlos-reutemann, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, chico-serra, keke-rosberg, patrick-tambay, eliseo-salazar, didier-pironi, derek-daly]
+- lap: 76
+  drivers: [gilles-villeneuve, jacques-laffite, john-watson, carlos-reutemann, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, chico-serra, keke-rosberg, patrick-tambay, eliseo-salazar, didier-pironi]
+- lap: 77
+  drivers: [gilles-villeneuve, jacques-laffite, john-watson, carlos-reutemann, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, chico-serra, keke-rosberg, patrick-tambay, eliseo-salazar]
+- lap: 78
+  drivers: [gilles-villeneuve, jacques-laffite, john-watson, carlos-reutemann, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, chico-serra, keke-rosberg, patrick-tambay]
+- lap: 79
+  drivers: [gilles-villeneuve, jacques-laffite, john-watson, carlos-reutemann, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli, chico-serra]
+- lap: 80
+  drivers: [gilles-villeneuve, jacques-laffite, john-watson, carlos-reutemann, elio-de-angelis, nigel-mansell, alan-jones, mario-andretti, rene-arnoux, bruno-giacomelli]

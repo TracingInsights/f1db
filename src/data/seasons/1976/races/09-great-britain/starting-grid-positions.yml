@@ -175,14 +175,6 @@
   gridPenalty:
   time: "1:22.470"
 - position: 23
-  driverNumber: 24
-  driverId: harald-ertl
-  constructorId: hesketh
-  engineManufacturerId: ford
-  tyreManufacturerId: goodyear
-  gridPenalty:
-  time: "1:22.750"
-- position: 24
   driverNumber: 17
   driverId: jean-pierre-jarier
   constructorId: shadow
@@ -190,6 +182,14 @@
   tyreManufacturerId: goodyear
   gridPenalty:
   time: "1:22.720"
+- position: 24
+  driverNumber: 24
+  driverId: harald-ertl
+  constructorId: hesketh
+  engineManufacturerId: ford
+  tyreManufacturerId: goodyear
+  gridPenalty:
+  time: "1:22.750"
 - position: 25
   driverNumber: 25
   driverId: guy-edwards

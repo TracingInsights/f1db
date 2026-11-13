@@ -1,0 +1,152 @@
+- lap: 0
+  drivers: [mario-andretti, jacques-laffite, james-hunt, niki-lauda, gunnar-nilsson, carlos-reutemann, ronnie-peterson, john-watson, clay-regazzoni, jean-pierre-jabouille, patrick-depailler, patrick-tambay, alan-jones, jochen-mass, jody-scheckter, riccardo-patrese, emerson-fittipaldi, hans-binder, hans-joachim-stuck, brett-lunger, jean-pierre-jarier, vittorio-brambilla, brian-henton, alex-ribeiro, ian-scheckter, rupert-keegan]
+- lap: 1
+  drivers: [james-hunt, jacques-laffite, mario-andretti, niki-lauda, carlos-reutemann, john-watson, clay-regazzoni, ronnie-peterson, patrick-tambay, gunnar-nilsson, patrick-depailler, alan-jones, jody-scheckter, jean-pierre-jabouille, emerson-fittipaldi, hans-joachim-stuck, riccardo-patrese, vittorio-brambilla, brian-henton, rupert-keegan, hans-binder, ian-scheckter, jean-pierre-jarier, alex-ribeiro, brett-lunger]
+- lap: 2
+  drivers: [james-hunt, mario-andretti, jacques-laffite, niki-lauda, carlos-reutemann, ronnie-peterson, gunnar-nilsson, clay-regazzoni, patrick-tambay, patrick-depailler, alan-jones, jody-scheckter, jean-pierre-jabouille, emerson-fittipaldi, john-watson, hans-joachim-stuck, riccardo-patrese, vittorio-brambilla, brian-henton, rupert-keegan, hans-binder, ian-scheckter, jean-pierre-jarier, alex-ribeiro, brett-lunger]
+- lap: 3
+  drivers: [james-hunt, mario-andretti, jacques-laffite, niki-lauda, carlos-reutemann, ronnie-peterson, gunnar-nilsson, clay-regazzoni, patrick-tambay, patrick-depailler, alan-jones, jody-scheckter, jean-pierre-jabouille, emerson-fittipaldi, hans-joachim-stuck, riccardo-patrese, vittorio-brambilla, rupert-keegan, brian-henton, hans-binder, ian-scheckter, jean-pierre-jarier, alex-ribeiro, brett-lunger]
+- lap: 4
+  drivers: [james-hunt, mario-andretti, jacques-laffite, niki-lauda, carlos-reutemann, ronnie-peterson, gunnar-nilsson, clay-regazzoni, patrick-tambay, patrick-depailler, alan-jones, jody-scheckter, jean-pierre-jabouille, emerson-fittipaldi, hans-joachim-stuck, riccardo-patrese, vittorio-brambilla, rupert-keegan, brian-henton, hans-binder, ian-scheckter, brett-lunger, alex-ribeiro, jean-pierre-jarier]
+- lap: 5
+  drivers: [james-hunt, mario-andretti, jacques-laffite, niki-lauda, carlos-reutemann, ronnie-peterson, gunnar-nilsson, clay-regazzoni, patrick-tambay, patrick-depailler, alan-jones, jody-scheckter, jean-pierre-jabouille, emerson-fittipaldi, hans-joachim-stuck, riccardo-patrese, vittorio-brambilla, rupert-keegan, brian-henton, ian-scheckter, hans-binder, brett-lunger, alex-ribeiro]
+- lap: 6
+  drivers: [jacques-laffite, niki-lauda, carlos-reutemann, mario-andretti, ronnie-peterson, gunnar-nilsson, clay-regazzoni, patrick-tambay, patrick-depailler, alan-jones, jody-scheckter, jean-pierre-jabouille, emerson-fittipaldi, hans-joachim-stuck, riccardo-patrese, vittorio-brambilla, rupert-keegan, brian-henton, ian-scheckter, hans-binder, brett-lunger, alex-ribeiro]
+- lap: 7
+  drivers: [jacques-laffite, niki-lauda, carlos-reutemann, mario-andretti, ronnie-peterson, gunnar-nilsson, clay-regazzoni, patrick-tambay, patrick-depailler, alan-jones, jody-scheckter, jean-pierre-jabouille, emerson-fittipaldi, hans-joachim-stuck, riccardo-patrese, vittorio-brambilla, rupert-keegan, brian-henton, ian-scheckter, hans-binder, brett-lunger, alex-ribeiro]
+- lap: 8
+  drivers: [jacques-laffite, niki-lauda, carlos-reutemann, mario-andretti, ronnie-peterson, gunnar-nilsson, clay-regazzoni, patrick-tambay, patrick-depailler, alan-jones, jody-scheckter, jean-pierre-jabouille, emerson-fittipaldi, hans-joachim-stuck, riccardo-patrese, vittorio-brambilla, rupert-keegan, brian-henton, ian-scheckter, hans-binder, brett-lunger, alex-ribeiro]
+- lap: 9
+  drivers: [jacques-laffite, niki-lauda, carlos-reutemann, mario-andretti, ronnie-peterson, gunnar-nilsson, clay-regazzoni, patrick-tambay, patrick-depailler, alan-jones, jody-scheckter, jean-pierre-jabouille, emerson-fittipaldi, hans-joachim-stuck, riccardo-patrese, vittorio-brambilla, brian-henton, ian-scheckter, hans-binder, brett-lunger, alex-ribeiro]
+- lap: 10
+  drivers: [jacques-laffite, niki-lauda, mario-andretti, carlos-reutemann, gunnar-nilsson, ronnie-peterson, clay-regazzoni, patrick-tambay, patrick-depailler, jody-scheckter, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, hans-joachim-stuck, riccardo-patrese, vittorio-brambilla, brian-henton, ian-scheckter, hans-binder, brett-lunger, alex-ribeiro]
+- lap: 11
+  drivers: [jacques-laffite, niki-lauda, mario-andretti, carlos-reutemann, gunnar-nilsson, ronnie-peterson, clay-regazzoni, patrick-tambay, patrick-depailler, jody-scheckter, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, hans-joachim-stuck, vittorio-brambilla, brian-henton, ian-scheckter, hans-binder, brett-lunger, riccardo-patrese, alex-ribeiro]
+- lap: 12
+  drivers: [jacques-laffite, niki-lauda, mario-andretti, carlos-reutemann, gunnar-nilsson, ronnie-peterson, clay-regazzoni, patrick-tambay, patrick-depailler, jody-scheckter, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, hans-joachim-stuck, vittorio-brambilla, brian-henton, ian-scheckter, hans-binder, brett-lunger, alex-ribeiro, riccardo-patrese]
+- lap: 13
+  drivers: [jacques-laffite, niki-lauda, mario-andretti, carlos-reutemann, gunnar-nilsson, ronnie-peterson, clay-regazzoni, patrick-tambay, patrick-depailler, jody-scheckter, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, hans-joachim-stuck, vittorio-brambilla, brian-henton, ian-scheckter, brett-lunger, hans-binder, alex-ribeiro, riccardo-patrese]
+- lap: 14
+  drivers: [jacques-laffite, niki-lauda, carlos-reutemann, mario-andretti, gunnar-nilsson, ronnie-peterson, clay-regazzoni, patrick-tambay, patrick-depailler, jody-scheckter, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, vittorio-brambilla, hans-joachim-stuck, brian-henton, ian-scheckter, brett-lunger, hans-binder, alex-ribeiro, riccardo-patrese]
+- lap: 15
+  drivers: [jacques-laffite, niki-lauda, carlos-reutemann, gunnar-nilsson, ronnie-peterson, clay-regazzoni, patrick-tambay, patrick-depailler, jody-scheckter, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, vittorio-brambilla, hans-joachim-stuck, brian-henton, ian-scheckter, brett-lunger, hans-binder, alex-ribeiro, riccardo-patrese]
+- lap: 16
+  drivers: [jacques-laffite, niki-lauda, carlos-reutemann, gunnar-nilsson, ronnie-peterson, clay-regazzoni, patrick-tambay, patrick-depailler, jody-scheckter, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, ian-scheckter, brett-lunger, hans-binder, alex-ribeiro, riccardo-patrese]
+- lap: 17
+  drivers: [jacques-laffite, niki-lauda, carlos-reutemann, gunnar-nilsson, ronnie-peterson, clay-regazzoni, patrick-tambay, patrick-depailler, jody-scheckter, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, brett-lunger, ian-scheckter, hans-binder, alex-ribeiro, riccardo-patrese]
+- lap: 18
+  drivers: [jacques-laffite, niki-lauda, carlos-reutemann, gunnar-nilsson, ronnie-peterson, patrick-tambay, patrick-depailler, jody-scheckter, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, brett-lunger, ian-scheckter, hans-binder, alex-ribeiro, riccardo-patrese]
+- lap: 19
+  drivers: [jacques-laffite, niki-lauda, carlos-reutemann, gunnar-nilsson, patrick-tambay, patrick-depailler, jody-scheckter, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, brett-lunger, ian-scheckter, hans-binder, alex-ribeiro, riccardo-patrese]
+- lap: 20
+  drivers: [niki-lauda, jacques-laffite, carlos-reutemann, gunnar-nilsson, patrick-tambay, patrick-depailler, jody-scheckter, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, brett-lunger, ian-scheckter, hans-binder, alex-ribeiro, riccardo-patrese]
+- lap: 21
+  drivers: [niki-lauda, jacques-laffite, carlos-reutemann, gunnar-nilsson, patrick-tambay, jody-scheckter, patrick-depailler, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, brett-lunger, ian-scheckter, hans-binder, alex-ribeiro, riccardo-patrese]
+- lap: 22
+  drivers: [niki-lauda, jacques-laffite, carlos-reutemann, gunnar-nilsson, patrick-tambay, jody-scheckter, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, brett-lunger, ian-scheckter, hans-binder, patrick-depailler, alex-ribeiro, riccardo-patrese]
+- lap: 23
+  drivers: [niki-lauda, jacques-laffite, carlos-reutemann, gunnar-nilsson, patrick-tambay, jody-scheckter, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, brett-lunger, hans-binder, ian-scheckter, patrick-depailler, alex-ribeiro, riccardo-patrese]
+- lap: 24
+  drivers: [niki-lauda, jacques-laffite, carlos-reutemann, gunnar-nilsson, patrick-tambay, jody-scheckter, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, brett-lunger, hans-binder, ian-scheckter, patrick-depailler, alex-ribeiro, riccardo-patrese]
+- lap: 25
+  drivers: [niki-lauda, jacques-laffite, carlos-reutemann, gunnar-nilsson, patrick-tambay, jody-scheckter, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, brett-lunger, hans-binder, patrick-depailler, ian-scheckter, alex-ribeiro, riccardo-patrese]
+- lap: 26
+  drivers: [niki-lauda, jacques-laffite, carlos-reutemann, gunnar-nilsson, patrick-tambay, jody-scheckter, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, brett-lunger, hans-binder, patrick-depailler, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 27
+  drivers: [niki-lauda, jacques-laffite, carlos-reutemann, gunnar-nilsson, patrick-tambay, jody-scheckter, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, brett-lunger, hans-binder, patrick-depailler, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 28
+  drivers: [niki-lauda, jacques-laffite, carlos-reutemann, gunnar-nilsson, patrick-tambay, jody-scheckter, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, brett-lunger, hans-binder, patrick-depailler, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 29
+  drivers: [niki-lauda, jacques-laffite, carlos-reutemann, gunnar-nilsson, patrick-tambay, jody-scheckter, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, brett-lunger, hans-binder, patrick-depailler, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 30
+  drivers: [niki-lauda, jacques-laffite, carlos-reutemann, gunnar-nilsson, patrick-tambay, jody-scheckter, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, brett-lunger, hans-binder, patrick-depailler, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 31
+  drivers: [niki-lauda, jacques-laffite, carlos-reutemann, gunnar-nilsson, patrick-tambay, jody-scheckter, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, brett-lunger, hans-binder, patrick-depailler, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 32
+  drivers: [niki-lauda, jacques-laffite, carlos-reutemann, gunnar-nilsson, patrick-tambay, jody-scheckter, alan-jones, jean-pierre-jabouille, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, brett-lunger, hans-binder, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 33
+  drivers: [niki-lauda, jacques-laffite, carlos-reutemann, gunnar-nilsson, patrick-tambay, jody-scheckter, jean-pierre-jabouille, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, brett-lunger, hans-binder, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 34
+  drivers: [niki-lauda, jacques-laffite, carlos-reutemann, gunnar-nilsson, patrick-tambay, jody-scheckter, emerson-fittipaldi, jean-pierre-jabouille, vittorio-brambilla, brian-henton, hans-joachim-stuck, brett-lunger, hans-binder, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 35
+  drivers: [niki-lauda, jacques-laffite, carlos-reutemann, patrick-tambay, jody-scheckter, emerson-fittipaldi, jean-pierre-jabouille, vittorio-brambilla, brian-henton, hans-joachim-stuck, brett-lunger, hans-binder, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 36
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, jean-pierre-jabouille, vittorio-brambilla, brian-henton, hans-joachim-stuck, brett-lunger, hans-binder, ian-scheckter, carlos-reutemann, riccardo-patrese, alex-ribeiro]
+- lap: 37
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, jean-pierre-jabouille, vittorio-brambilla, brian-henton, hans-joachim-stuck, brett-lunger, hans-binder, ian-scheckter, carlos-reutemann, riccardo-patrese, alex-ribeiro]
+- lap: 38
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, jean-pierre-jabouille, vittorio-brambilla, brian-henton, hans-joachim-stuck, brett-lunger, hans-binder, ian-scheckter, carlos-reutemann, riccardo-patrese, alex-ribeiro]
+- lap: 39
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, hans-binder, brett-lunger, jean-pierre-jabouille, ian-scheckter, carlos-reutemann, riccardo-patrese, alex-ribeiro]
+- lap: 40
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, hans-binder, brett-lunger, ian-scheckter, carlos-reutemann, riccardo-patrese, alex-ribeiro]
+- lap: 41
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, hans-binder, brett-lunger, ian-scheckter, carlos-reutemann, riccardo-patrese, alex-ribeiro]
+- lap: 42
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, hans-binder, brett-lunger, ian-scheckter, carlos-reutemann, riccardo-patrese, alex-ribeiro]
+- lap: 43
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, hans-binder, brett-lunger, ian-scheckter, carlos-reutemann, riccardo-patrese, alex-ribeiro]
+- lap: 44
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, hans-binder, brett-lunger, ian-scheckter, carlos-reutemann, riccardo-patrese, alex-ribeiro]
+- lap: 45
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, hans-binder, brett-lunger, ian-scheckter, carlos-reutemann, riccardo-patrese, alex-ribeiro]
+- lap: 46
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, hans-binder, brett-lunger, ian-scheckter, carlos-reutemann, riccardo-patrese, alex-ribeiro]
+- lap: 47
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, hans-binder, brett-lunger, ian-scheckter, carlos-reutemann, riccardo-patrese, alex-ribeiro]
+- lap: 48
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, hans-binder, brett-lunger, ian-scheckter, carlos-reutemann, riccardo-patrese, alex-ribeiro]
+- lap: 49
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, hans-binder, brett-lunger, ian-scheckter, carlos-reutemann, riccardo-patrese, alex-ribeiro]
+- lap: 50
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, hans-binder, brett-lunger, ian-scheckter, carlos-reutemann, riccardo-patrese, alex-ribeiro]
+- lap: 51
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, vittorio-brambilla, brian-henton, hans-joachim-stuck, hans-binder, brett-lunger, carlos-reutemann, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 52
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, vittorio-brambilla, hans-joachim-stuck, hans-binder, brett-lunger, carlos-reutemann, ian-scheckter, brian-henton, riccardo-patrese, alex-ribeiro]
+- lap: 53
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, vittorio-brambilla, hans-joachim-stuck, hans-binder, brett-lunger, carlos-reutemann, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 54
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, vittorio-brambilla, hans-joachim-stuck, hans-binder, brett-lunger, carlos-reutemann, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 55
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, vittorio-brambilla, hans-joachim-stuck, hans-binder, brett-lunger, carlos-reutemann, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 56
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, vittorio-brambilla, hans-joachim-stuck, hans-binder, brett-lunger, carlos-reutemann, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 57
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, vittorio-brambilla, hans-joachim-stuck, hans-binder, brett-lunger, carlos-reutemann, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 58
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, vittorio-brambilla, hans-joachim-stuck, hans-binder, brett-lunger, carlos-reutemann, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 59
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, vittorio-brambilla, emerson-fittipaldi, hans-joachim-stuck, hans-binder, brett-lunger, carlos-reutemann, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 60
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, vittorio-brambilla, emerson-fittipaldi, hans-joachim-stuck, hans-binder, brett-lunger, carlos-reutemann, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 61
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, vittorio-brambilla, emerson-fittipaldi, hans-joachim-stuck, hans-binder, brett-lunger, carlos-reutemann, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 62
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, vittorio-brambilla, emerson-fittipaldi, hans-joachim-stuck, hans-binder, carlos-reutemann, brett-lunger, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 63
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, vittorio-brambilla, emerson-fittipaldi, hans-joachim-stuck, hans-binder, carlos-reutemann, brett-lunger, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 64
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, vittorio-brambilla, emerson-fittipaldi, hans-joachim-stuck, hans-binder, carlos-reutemann, brett-lunger, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 65
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, vittorio-brambilla, emerson-fittipaldi, hans-joachim-stuck, carlos-reutemann, hans-binder, brett-lunger, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 66
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, vittorio-brambilla, emerson-fittipaldi, hans-joachim-stuck, carlos-reutemann, hans-binder, brett-lunger, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 67
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, vittorio-brambilla, emerson-fittipaldi, carlos-reutemann, hans-joachim-stuck, hans-binder, brett-lunger, ian-scheckter, riccardo-patrese, alex-ribeiro]
+- lap: 68
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, carlos-reutemann, hans-joachim-stuck, hans-binder, brett-lunger, ian-scheckter, alex-ribeiro]
+- lap: 69
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, carlos-reutemann, hans-joachim-stuck, hans-binder, brett-lunger, ian-scheckter, alex-ribeiro]
+- lap: 70
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, carlos-reutemann, hans-joachim-stuck, hans-binder, brett-lunger, ian-scheckter, alex-ribeiro]
+- lap: 71
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, carlos-reutemann, hans-joachim-stuck, hans-binder, brett-lunger, ian-scheckter, alex-ribeiro]
+- lap: 72
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, carlos-reutemann, hans-joachim-stuck, hans-binder, brett-lunger, ian-scheckter, alex-ribeiro]
+- lap: 73
+  drivers: [niki-lauda, jacques-laffite, patrick-tambay, jody-scheckter, emerson-fittipaldi, carlos-reutemann, hans-joachim-stuck, hans-binder, brett-lunger, ian-scheckter]
+- lap: 74
+  drivers: [niki-lauda, jacques-laffite, jody-scheckter, emerson-fittipaldi]
+- lap: 75
+  drivers: [niki-lauda, jacques-laffite]

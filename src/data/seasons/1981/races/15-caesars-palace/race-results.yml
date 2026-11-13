@@ -19,10 +19,10 @@
   engineManufacturerId: renault
   tyreManufacturerId: michelin
   laps: 75
-  time: "1:44:29.127"
+  time: "1:44:29.125"
   timePenalty:
-  gap: "+20.050"
-  interval: "+20.050"
+  gap: "+20.048"
+  interval: "+20.048"
   reasonRetired:
   points: 6
   gridPosition: 5
@@ -33,9 +33,9 @@
   engineManufacturerId: alfa-romeo
   tyreManufacturerId: michelin
   laps: 75
-  time: "1:44:29.507"
+  time: "1:44:29.505"
   timePenalty:
-  gap: "+20.430"
+  gap: "+20.428"
   interval: "+0.380"
   reasonRetired:
   points: 4
@@ -47,10 +47,10 @@
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
   laps: 75
-  time: "1:44:56.547"
+  time: "1:44:56.550"
   timePenalty:
-  gap: "+47.470"
-  interval: "+27.040"
+  gap: "+47.473"
+  interval: "+27.045"
   reasonRetired:
   points: 3
   gridPosition: 9
@@ -61,10 +61,10 @@
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
   laps: 75
-  time: "1:45:25.517"
+  time: "1:45:25.515"
   timePenalty:
-  gap: "+1:16.440"
-  interval: "+28.970"
+  gap: "+1:16.438"
+  interval: "+28.965"
   reasonRetired:
   points: 2
   gridPosition: 4
@@ -75,10 +75,10 @@
   engineManufacturerId: matra
   tyreManufacturerId: michelin
   laps: 75
-  time: "1:45:27.257"
+  time: "1:45:27.252"
   timePenalty:
-  gap: "+1:18.180"
-  interval: "+1.740"
+  gap: "+1:18.175"
+  interval: "+1.737"
   reasonRetired:
   points: 1
   gridPosition: 12
@@ -89,10 +89,10 @@
   engineManufacturerId: ford
   tyreManufacturerId: michelin
   laps: 75
-  time: "1:45:27.577"
+  time: "1:45:27.574"
   timePenalty:
-  gap: "+1:18.500"
-  interval: "+0.320"
+  gap: "+1:18.497"
+  interval: "+0.322"
   reasonRetired:
   points:
   gridPosition: 6
@@ -255,7 +255,7 @@
   driverId: eddie-cheever
   constructorId: tyrrell
   engineManufacturerId: ford
-  tyreManufacturerId: avon
+  tyreManufacturerId: goodyear
   laps: 10
   time:
   timePenalty:

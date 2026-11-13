@@ -33,7 +33,7 @@
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 33
   time:
   timePenalty:
   gap:
@@ -202,7 +202,7 @@
   engineManufacturerId: alfa-romeo
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 9
   time:
   timePenalty:
   gap:
@@ -403,6 +403,6 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Withdrew
   points:
   gridPosition: 23

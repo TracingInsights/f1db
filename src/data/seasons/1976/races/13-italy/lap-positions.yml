@@ -1,0 +1,106 @@
+- lap: 0
+  drivers: [jacques-laffite, jody-scheckter, carlos-pace, patrick-depailler, niki-lauda, hans-joachim-stuck, carlos-reutemann, ronnie-peterson, clay-regazzoni, jacky-ickx, rolf-stommelen, gunnar-nilsson, larry-perkins, mario-andretti, tom-pryce, vittorio-brambilla, jean-pierre-jarier, alan-jones, harald-ertl, emerson-fittipaldi, alessandro-pesenti-rossi, henri-pescarolo, brett-lunger, james-hunt, jochen-mass, john-watson]
+- lap: 1
+  drivers: [jody-scheckter, jacques-laffite, patrick-depailler, ronnie-peterson, carlos-reutemann, carlos-pace, clay-regazzoni, hans-joachim-stuck, mario-andretti, vittorio-brambilla, gunnar-nilsson, niki-lauda, jacky-ickx, alan-jones, larry-perkins, tom-pryce, jean-pierre-jarier, john-watson, rolf-stommelen, emerson-fittipaldi, harald-ertl, alessandro-pesenti-rossi, james-hunt, henri-pescarolo, brett-lunger, jochen-mass]
+- lap: 2
+  drivers: [jody-scheckter, jacques-laffite, patrick-depailler, ronnie-peterson, carlos-reutemann, clay-regazzoni, hans-joachim-stuck, carlos-pace, mario-andretti, vittorio-brambilla, gunnar-nilsson, niki-lauda, jacky-ickx, alan-jones, larry-perkins, tom-pryce, john-watson, jean-pierre-jarier, rolf-stommelen, harald-ertl, james-hunt, emerson-fittipaldi, alessandro-pesenti-rossi, henri-pescarolo, brett-lunger, jochen-mass]
+- lap: 3
+  drivers: [jody-scheckter, patrick-depailler, ronnie-peterson, jacques-laffite, clay-regazzoni, carlos-reutemann, hans-joachim-stuck, vittorio-brambilla, mario-andretti, niki-lauda, carlos-pace, jacky-ickx, gunnar-nilsson, tom-pryce, john-watson, alan-jones, larry-perkins, james-hunt, jean-pierre-jarier, rolf-stommelen, harald-ertl, emerson-fittipaldi, alessandro-pesenti-rossi, henri-pescarolo, brett-lunger]
+- lap: 4
+  drivers: [jody-scheckter, ronnie-peterson, patrick-depailler, jacques-laffite, clay-regazzoni, carlos-reutemann, hans-joachim-stuck, vittorio-brambilla, mario-andretti, niki-lauda, carlos-pace, jacky-ickx, tom-pryce, john-watson, james-hunt, alan-jones, larry-perkins, jean-pierre-jarier, harald-ertl, rolf-stommelen, alessandro-pesenti-rossi, emerson-fittipaldi, brett-lunger, henri-pescarolo, gunnar-nilsson]
+- lap: 5
+  drivers: [jody-scheckter, ronnie-peterson, patrick-depailler, jacques-laffite, clay-regazzoni, carlos-reutemann, hans-joachim-stuck, vittorio-brambilla, niki-lauda, mario-andretti, jacky-ickx, tom-pryce, john-watson, james-hunt, alan-jones, larry-perkins, jean-pierre-jarier, harald-ertl, alessandro-pesenti-rossi, rolf-stommelen, emerson-fittipaldi, brett-lunger, henri-pescarolo, gunnar-nilsson]
+- lap: 6
+  drivers: [jody-scheckter, ronnie-peterson, patrick-depailler, jacques-laffite, clay-regazzoni, carlos-reutemann, hans-joachim-stuck, vittorio-brambilla, niki-lauda, mario-andretti, jacky-ickx, tom-pryce, john-watson, james-hunt, alan-jones, larry-perkins, jean-pierre-jarier, harald-ertl, alessandro-pesenti-rossi, rolf-stommelen, emerson-fittipaldi, brett-lunger, henri-pescarolo, gunnar-nilsson]
+- lap: 7
+  drivers: [jody-scheckter, ronnie-peterson, patrick-depailler, jacques-laffite, clay-regazzoni, carlos-reutemann, vittorio-brambilla, niki-lauda, hans-joachim-stuck, mario-andretti, jacky-ickx, tom-pryce, john-watson, james-hunt, alan-jones, larry-perkins, harald-ertl, jean-pierre-jarier, alessandro-pesenti-rossi, rolf-stommelen, emerson-fittipaldi, brett-lunger, henri-pescarolo, gunnar-nilsson]
+- lap: 8
+  drivers: [jody-scheckter, ronnie-peterson, patrick-depailler, jacques-laffite, clay-regazzoni, carlos-reutemann, vittorio-brambilla, niki-lauda, hans-joachim-stuck, mario-andretti, jacky-ickx, tom-pryce, james-hunt, john-watson, alan-jones, larry-perkins, harald-ertl, jean-pierre-jarier, alessandro-pesenti-rossi, rolf-stommelen, emerson-fittipaldi, brett-lunger, henri-pescarolo, gunnar-nilsson]
+- lap: 9
+  drivers: [jody-scheckter, ronnie-peterson, patrick-depailler, jacques-laffite, clay-regazzoni, vittorio-brambilla, niki-lauda, carlos-reutemann, hans-joachim-stuck, mario-andretti, jacky-ickx, tom-pryce, james-hunt, john-watson, alan-jones, harald-ertl, jean-pierre-jarier, alessandro-pesenti-rossi, rolf-stommelen, emerson-fittipaldi, brett-lunger, henri-pescarolo, gunnar-nilsson]
+- lap: 10
+  drivers: [jody-scheckter, ronnie-peterson, patrick-depailler, jacques-laffite, clay-regazzoni, vittorio-brambilla, niki-lauda, carlos-reutemann, hans-joachim-stuck, mario-andretti, jacky-ickx, james-hunt, tom-pryce, john-watson, alan-jones, harald-ertl, jean-pierre-jarier, alessandro-pesenti-rossi, rolf-stommelen, emerson-fittipaldi, brett-lunger, henri-pescarolo, gunnar-nilsson]
+- lap: 11
+  drivers: [ronnie-peterson, jody-scheckter, patrick-depailler, clay-regazzoni, jacques-laffite, vittorio-brambilla, niki-lauda, carlos-reutemann, hans-joachim-stuck, mario-andretti, jacky-ickx, james-hunt, tom-pryce, john-watson, alan-jones, harald-ertl, jean-pierre-jarier, alessandro-pesenti-rossi, rolf-stommelen, emerson-fittipaldi, brett-lunger, henri-pescarolo, gunnar-nilsson]
+- lap: 12
+  drivers: [ronnie-peterson, jody-scheckter, patrick-depailler, clay-regazzoni, jacques-laffite, vittorio-brambilla, niki-lauda, carlos-reutemann, hans-joachim-stuck, mario-andretti, jacky-ickx, tom-pryce, john-watson, alan-jones, harald-ertl, jean-pierre-jarier, alessandro-pesenti-rossi, rolf-stommelen, emerson-fittipaldi, brett-lunger, henri-pescarolo, gunnar-nilsson]
+- lap: 13
+  drivers: [ronnie-peterson, patrick-depailler, jody-scheckter, clay-regazzoni, jacques-laffite, vittorio-brambilla, niki-lauda, carlos-reutemann, hans-joachim-stuck, mario-andretti, jacky-ickx, tom-pryce, john-watson, alan-jones, harald-ertl, jean-pierre-jarier, alessandro-pesenti-rossi, rolf-stommelen, emerson-fittipaldi, brett-lunger, henri-pescarolo, gunnar-nilsson]
+- lap: 14
+  drivers: [ronnie-peterson, patrick-depailler, jody-scheckter, clay-regazzoni, jacques-laffite, niki-lauda, vittorio-brambilla, carlos-reutemann, hans-joachim-stuck, mario-andretti, jacky-ickx, tom-pryce, john-watson, alan-jones, harald-ertl, jean-pierre-jarier, alessandro-pesenti-rossi, rolf-stommelen, emerson-fittipaldi, brett-lunger, henri-pescarolo, gunnar-nilsson]
+- lap: 15
+  drivers: [ronnie-peterson, patrick-depailler, jody-scheckter, clay-regazzoni, jacques-laffite, niki-lauda, vittorio-brambilla, carlos-reutemann, hans-joachim-stuck, mario-andretti, jacky-ickx, tom-pryce, john-watson, alan-jones, harald-ertl, jean-pierre-jarier, alessandro-pesenti-rossi, rolf-stommelen, emerson-fittipaldi, brett-lunger, henri-pescarolo, gunnar-nilsson]
+- lap: 16
+  drivers: [ronnie-peterson, patrick-depailler, jody-scheckter, clay-regazzoni, jacques-laffite, niki-lauda, vittorio-brambilla, carlos-reutemann, hans-joachim-stuck, mario-andretti, jacky-ickx, tom-pryce, john-watson, alan-jones, harald-ertl, jean-pierre-jarier, alessandro-pesenti-rossi, rolf-stommelen, emerson-fittipaldi, brett-lunger, henri-pescarolo, gunnar-nilsson]
+- lap: 17
+  drivers: [ronnie-peterson, patrick-depailler, jody-scheckter, clay-regazzoni, jacques-laffite, niki-lauda, vittorio-brambilla, carlos-reutemann, hans-joachim-stuck, mario-andretti, jacky-ickx, tom-pryce, john-watson, alan-jones, harald-ertl, jean-pierre-jarier, alessandro-pesenti-rossi, rolf-stommelen, emerson-fittipaldi, brett-lunger, henri-pescarolo, gunnar-nilsson]
+- lap: 18
+  drivers: [ronnie-peterson, patrick-depailler, jody-scheckter, clay-regazzoni, jacques-laffite, niki-lauda, vittorio-brambilla, carlos-reutemann, hans-joachim-stuck, mario-andretti, jacky-ickx, tom-pryce, john-watson, alan-jones, harald-ertl, jean-pierre-jarier, alessandro-pesenti-rossi, rolf-stommelen, emerson-fittipaldi, brett-lunger, henri-pescarolo, gunnar-nilsson]
+- lap: 19
+  drivers: [ronnie-peterson, patrick-depailler, jody-scheckter, clay-regazzoni, jacques-laffite, niki-lauda, vittorio-brambilla, carlos-reutemann, hans-joachim-stuck, mario-andretti, jacky-ickx, tom-pryce, john-watson, alan-jones, harald-ertl, jean-pierre-jarier, alessandro-pesenti-rossi, rolf-stommelen, emerson-fittipaldi, brett-lunger, henri-pescarolo, gunnar-nilsson]
+- lap: 20
+  drivers: [ronnie-peterson, patrick-depailler, jody-scheckter, clay-regazzoni, jacques-laffite, niki-lauda, vittorio-brambilla, carlos-reutemann, hans-joachim-stuck, mario-andretti, jacky-ickx, tom-pryce, john-watson, alan-jones, harald-ertl, jean-pierre-jarier, alessandro-pesenti-rossi, rolf-stommelen, emerson-fittipaldi, brett-lunger, henri-pescarolo, gunnar-nilsson]
+- lap: 21
+  drivers: [ronnie-peterson, patrick-depailler, jody-scheckter, clay-regazzoni, jacques-laffite, niki-lauda, vittorio-brambilla, carlos-reutemann, hans-joachim-stuck, mario-andretti, jacky-ickx, tom-pryce, john-watson, alan-jones, harald-ertl, jean-pierre-jarier, alessandro-pesenti-rossi, rolf-stommelen, emerson-fittipaldi, brett-lunger, gunnar-nilsson, henri-pescarolo]
+- lap: 22
+  drivers: [ronnie-peterson, patrick-depailler, jody-scheckter, clay-regazzoni, jacques-laffite, niki-lauda, vittorio-brambilla, carlos-reutemann, hans-joachim-stuck, mario-andretti, jacky-ickx, tom-pryce, john-watson, alan-jones, harald-ertl, jean-pierre-jarier, alessandro-pesenti-rossi, rolf-stommelen, emerson-fittipaldi, brett-lunger, gunnar-nilsson, henri-pescarolo]
+- lap: 23
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jody-scheckter, jacques-laffite, niki-lauda, vittorio-brambilla, carlos-reutemann, mario-andretti, hans-joachim-stuck, tom-pryce, jacky-ickx, john-watson, alan-jones, harald-ertl, jean-pierre-jarier, alessandro-pesenti-rossi, rolf-stommelen, emerson-fittipaldi, brett-lunger, gunnar-nilsson, henri-pescarolo]
+- lap: 24
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jacques-laffite, jody-scheckter, niki-lauda, carlos-reutemann, vittorio-brambilla, tom-pryce, jacky-ickx, john-watson, alan-jones, harald-ertl, alessandro-pesenti-rossi, rolf-stommelen, jean-pierre-jarier, emerson-fittipaldi, brett-lunger, gunnar-nilsson, henri-pescarolo]
+- lap: 25
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jacques-laffite, jody-scheckter, niki-lauda, vittorio-brambilla, carlos-reutemann, tom-pryce, jacky-ickx, john-watson, alan-jones, harald-ertl, rolf-stommelen, emerson-fittipaldi, brett-lunger, jean-pierre-jarier, alessandro-pesenti-rossi, gunnar-nilsson, henri-pescarolo]
+- lap: 26
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jody-scheckter, jacques-laffite, niki-lauda, vittorio-brambilla, carlos-reutemann, jacky-ickx, tom-pryce, john-watson, harald-ertl, alan-jones, rolf-stommelen, jean-pierre-jarier, emerson-fittipaldi, brett-lunger, gunnar-nilsson, alessandro-pesenti-rossi, henri-pescarolo]
+- lap: 27
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jody-scheckter, jacques-laffite, niki-lauda, vittorio-brambilla, carlos-reutemann, jacky-ickx, tom-pryce, john-watson, harald-ertl, rolf-stommelen, alan-jones, brett-lunger, emerson-fittipaldi, gunnar-nilsson, alessandro-pesenti-rossi, henri-pescarolo, jean-pierre-jarier]
+- lap: 28
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jody-scheckter, jacques-laffite, niki-lauda, vittorio-brambilla, carlos-reutemann, jacky-ickx, tom-pryce, john-watson, harald-ertl, rolf-stommelen, alan-jones, brett-lunger, emerson-fittipaldi, gunnar-nilsson, alessandro-pesenti-rossi, henri-pescarolo, jean-pierre-jarier]
+- lap: 29
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jody-scheckter, jacques-laffite, niki-lauda, vittorio-brambilla, carlos-reutemann, jacky-ickx, tom-pryce, john-watson, harald-ertl, rolf-stommelen, alan-jones, gunnar-nilsson, emerson-fittipaldi, brett-lunger, alessandro-pesenti-rossi, henri-pescarolo, jean-pierre-jarier]
+- lap: 30
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jody-scheckter, jacques-laffite, niki-lauda, vittorio-brambilla, carlos-reutemann, jacky-ickx, tom-pryce, john-watson, harald-ertl, rolf-stommelen, alan-jones, gunnar-nilsson, emerson-fittipaldi, brett-lunger, alessandro-pesenti-rossi, henri-pescarolo, jean-pierre-jarier]
+- lap: 31
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jody-scheckter, jacques-laffite, niki-lauda, vittorio-brambilla, carlos-reutemann, tom-pryce, jacky-ickx, john-watson, harald-ertl, rolf-stommelen, alan-jones, gunnar-nilsson, emerson-fittipaldi, brett-lunger, alessandro-pesenti-rossi, henri-pescarolo, jean-pierre-jarier]
+- lap: 32
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jody-scheckter, jacques-laffite, niki-lauda, vittorio-brambilla, carlos-reutemann, tom-pryce, jacky-ickx, john-watson, harald-ertl, rolf-stommelen, alan-jones, gunnar-nilsson, emerson-fittipaldi, brett-lunger, alessandro-pesenti-rossi, henri-pescarolo, jean-pierre-jarier]
+- lap: 33
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jody-scheckter, jacques-laffite, niki-lauda, vittorio-brambilla, carlos-reutemann, tom-pryce, jacky-ickx, john-watson, harald-ertl, rolf-stommelen, alan-jones, gunnar-nilsson, emerson-fittipaldi, brett-lunger, alessandro-pesenti-rossi, henri-pescarolo, jean-pierre-jarier]
+- lap: 34
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jody-scheckter, jacques-laffite, niki-lauda, vittorio-brambilla, carlos-reutemann, tom-pryce, jacky-ickx, john-watson, harald-ertl, alan-jones, rolf-stommelen, gunnar-nilsson, emerson-fittipaldi, brett-lunger, alessandro-pesenti-rossi, henri-pescarolo, jean-pierre-jarier]
+- lap: 35
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jody-scheckter, jacques-laffite, niki-lauda, vittorio-brambilla, carlos-reutemann, tom-pryce, jacky-ickx, john-watson, harald-ertl, alan-jones, rolf-stommelen, gunnar-nilsson, emerson-fittipaldi, brett-lunger, alessandro-pesenti-rossi, henri-pescarolo, jean-pierre-jarier]
+- lap: 36
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jody-scheckter, jacques-laffite, niki-lauda, vittorio-brambilla, carlos-reutemann, tom-pryce, jacky-ickx, john-watson, harald-ertl, alan-jones, gunnar-nilsson, emerson-fittipaldi, brett-lunger, rolf-stommelen, alessandro-pesenti-rossi, henri-pescarolo, jean-pierre-jarier]
+- lap: 37
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jody-scheckter, jacques-laffite, niki-lauda, vittorio-brambilla, carlos-reutemann, tom-pryce, jacky-ickx, john-watson, harald-ertl, alan-jones, gunnar-nilsson, emerson-fittipaldi, brett-lunger, alessandro-pesenti-rossi, rolf-stommelen, henri-pescarolo, jean-pierre-jarier]
+- lap: 38
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jacques-laffite, jody-scheckter, niki-lauda, vittorio-brambilla, tom-pryce, carlos-reutemann, jacky-ickx, john-watson, harald-ertl, alan-jones, gunnar-nilsson, emerson-fittipaldi, brett-lunger, alessandro-pesenti-rossi, henri-pescarolo, rolf-stommelen, jean-pierre-jarier]
+- lap: 39
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jacques-laffite, jody-scheckter, niki-lauda, vittorio-brambilla, tom-pryce, carlos-reutemann, jacky-ickx, john-watson, harald-ertl, alan-jones, gunnar-nilsson, emerson-fittipaldi, brett-lunger, alessandro-pesenti-rossi, henri-pescarolo, rolf-stommelen, jean-pierre-jarier]
+- lap: 40
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jacques-laffite, jody-scheckter, niki-lauda, vittorio-brambilla, tom-pryce, carlos-reutemann, jacky-ickx, john-watson, harald-ertl, alan-jones, gunnar-nilsson, emerson-fittipaldi, brett-lunger, alessandro-pesenti-rossi, henri-pescarolo, jean-pierre-jarier, rolf-stommelen]
+- lap: 41
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jacques-laffite, niki-lauda, jody-scheckter, vittorio-brambilla, tom-pryce, carlos-reutemann, jacky-ickx, john-watson, harald-ertl, alan-jones, gunnar-nilsson, emerson-fittipaldi, brett-lunger, alessandro-pesenti-rossi, henri-pescarolo, jean-pierre-jarier, rolf-stommelen]
+- lap: 42
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jacques-laffite, niki-lauda, jody-scheckter, vittorio-brambilla, tom-pryce, carlos-reutemann, jacky-ickx, john-watson, harald-ertl, alan-jones, gunnar-nilsson, brett-lunger, emerson-fittipaldi, alessandro-pesenti-rossi, henri-pescarolo, jean-pierre-jarier]
+- lap: 43
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jacques-laffite, niki-lauda, jody-scheckter, vittorio-brambilla, tom-pryce, carlos-reutemann, jacky-ickx, john-watson, harald-ertl, alan-jones, gunnar-nilsson, brett-lunger, emerson-fittipaldi, alessandro-pesenti-rossi, henri-pescarolo, jean-pierre-jarier]
+- lap: 44
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jacques-laffite, niki-lauda, jody-scheckter, vittorio-brambilla, tom-pryce, carlos-reutemann, jacky-ickx, john-watson, harald-ertl, alan-jones, gunnar-nilsson, brett-lunger, emerson-fittipaldi, alessandro-pesenti-rossi, henri-pescarolo, jean-pierre-jarier]
+- lap: 45
+  drivers: [ronnie-peterson, patrick-depailler, clay-regazzoni, jacques-laffite, niki-lauda, jody-scheckter, vittorio-brambilla, tom-pryce, carlos-reutemann, jacky-ickx, john-watson, harald-ertl, alan-jones, gunnar-nilsson, brett-lunger, emerson-fittipaldi, alessandro-pesenti-rossi, henri-pescarolo, jean-pierre-jarier]
+- lap: 46
+  drivers: [ronnie-peterson, clay-regazzoni, jacques-laffite, patrick-depailler, niki-lauda, jody-scheckter, vittorio-brambilla, tom-pryce, carlos-reutemann, jacky-ickx, john-watson, harald-ertl, alan-jones, gunnar-nilsson, brett-lunger, emerson-fittipaldi, alessandro-pesenti-rossi, henri-pescarolo, jean-pierre-jarier]
+- lap: 47
+  drivers: [ronnie-peterson, clay-regazzoni, jacques-laffite, niki-lauda, patrick-depailler, jody-scheckter, vittorio-brambilla, tom-pryce, carlos-reutemann, jacky-ickx, john-watson, harald-ertl, alan-jones, gunnar-nilsson, brett-lunger, emerson-fittipaldi, henri-pescarolo, alessandro-pesenti-rossi, jean-pierre-jarier]
+- lap: 48
+  drivers: [ronnie-peterson, clay-regazzoni, jacques-laffite, niki-lauda, patrick-depailler, jody-scheckter, vittorio-brambilla, tom-pryce, carlos-reutemann, jacky-ickx, john-watson, alan-jones, harald-ertl, gunnar-nilsson, brett-lunger, emerson-fittipaldi, henri-pescarolo, alessandro-pesenti-rossi]
+- lap: 49
+  drivers: [ronnie-peterson, clay-regazzoni, jacques-laffite, niki-lauda, patrick-depailler, jody-scheckter, vittorio-brambilla, tom-pryce, carlos-reutemann, jacky-ickx, john-watson, alan-jones, harald-ertl, gunnar-nilsson, brett-lunger, emerson-fittipaldi, henri-pescarolo, alessandro-pesenti-rossi]
+- lap: 50
+  drivers: [ronnie-peterson, clay-regazzoni, jacques-laffite, niki-lauda, jody-scheckter, patrick-depailler, vittorio-brambilla, tom-pryce, carlos-reutemann, jacky-ickx, john-watson, alan-jones, gunnar-nilsson, brett-lunger, emerson-fittipaldi]
+- lap: 51
+  drivers: [ronnie-peterson, clay-regazzoni, jacques-laffite, niki-lauda, jody-scheckter, patrick-depailler, vittorio-brambilla, tom-pryce, carlos-reutemann, jacky-ickx, john-watson, alan-jones, gunnar-nilsson]
+- lap: 52
+  drivers: [ronnie-peterson, clay-regazzoni, jacques-laffite, niki-lauda, jody-scheckter, patrick-depailler, vittorio-brambilla, tom-pryce, carlos-reutemann, jacky-ickx, john-watson]

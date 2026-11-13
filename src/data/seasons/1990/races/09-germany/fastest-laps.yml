@@ -179,6 +179,16 @@
   gap: "+4.653"
   interval: "+0.082"
 - position: 19
+  driverNumber: 26
+  driverId: philippe-alliot
+  constructorId: ligier
+  engineManufacturerId: ford
+  tyreManufacturerId: goodyear
+  lap:
+  time: "1:50.268"
+  gap: "+4.666"
+  interval: "+0.013"
+- position: 20
   driverNumber: 23
   driverId: pierluigi-martini
   constructorId: minardi
@@ -187,8 +197,8 @@
   lap: 11
   time: "1:51.326"
   gap: "+5.724"
-  interval: "+1.071"
-- position: 20
+  interval: "+1.058"
+- position: 21
   driverNumber: 35
   driverId: gregor-foitek
   constructorId: onyx
@@ -198,7 +208,7 @@
   time: "1:51.456"
   gap: "+5.854"
   interval: "+0.130"
-- position: 21
+- position: 22
   driverNumber: 7
   driverId: david-brabham
   constructorId: brabham
@@ -208,7 +218,7 @@
   time: "1:52.018"
   gap: "+6.416"
   interval: "+0.562"
-- position: 22
+- position: 23
   driverNumber: 9
   driverId: michele-alboreto
   constructorId: arrows
@@ -218,7 +228,7 @@
   time: "1:52.041"
   gap: "+6.439"
   interval: "+0.023"
-- position: 23
+- position: 24
   driverNumber: 12
   driverId: martin-donnelly
   constructorId: lotus

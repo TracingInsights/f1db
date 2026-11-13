@@ -47,7 +47,7 @@
   engineManufacturerId: maserati
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 57
   time:
   timePenalty:
   gap:
@@ -132,7 +132,7 @@
   engineManufacturerId: ferrari
   tyreManufacturerId: englebert
   sharedCar: true
-  laps:
+  laps: 36
   time:
   timePenalty:
   gap:
@@ -149,9 +149,9 @@
   laps: 81
   time:
   timePenalty:
-  gap: "+19 laps"
+  gap:
   interval:
-  reasonRetired:
+  reasonRetired: Engine
   points:
   gridPosition: 3
 - position: DNF
@@ -175,7 +175,7 @@
   engineManufacturerId: maserati
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 46
   time:
   timePenalty:
   gap:

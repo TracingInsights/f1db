@@ -1,0 +1,158 @@
+- lap: 0
+  drivers: [jean-pierre-jabouille, rene-arnoux, nelson-piquet, jacques-laffite, didier-pironi, carlos-reutemann, patrick-depailler, alan-jones, jody-scheckter, gilles-villeneuve, riccardo-patrese, bruno-giacomelli, jean-pierre-jarier, elio-de-angelis, mario-andretti, derek-daly, ricardo-zunino, emerson-fittipaldi, jochen-mass, clay-regazzoni, john-watson, eddie-cheever, keke-rosberg, geoff-lees]
+- lap: 1
+  drivers: [jean-pierre-jabouille, rene-arnoux, alan-jones, jacques-laffite, carlos-reutemann, nelson-piquet, gilles-villeneuve, jody-scheckter, didier-pironi, jean-pierre-jarier, patrick-depailler, derek-daly, bruno-giacomelli, riccardo-patrese, jochen-mass, ricardo-zunino, emerson-fittipaldi, mario-andretti, clay-regazzoni, keke-rosberg, eddie-cheever, john-watson, elio-de-angelis, geoff-lees]
+- lap: 2
+  drivers: [jean-pierre-jabouille, rene-arnoux, alan-jones, jacques-laffite, carlos-reutemann, nelson-piquet, jody-scheckter, gilles-villeneuve, jean-pierre-jarier, didier-pironi, derek-daly, bruno-giacomelli, patrick-depailler, riccardo-patrese, jochen-mass, ricardo-zunino, emerson-fittipaldi, mario-andretti, clay-regazzoni, keke-rosberg, eddie-cheever, john-watson, geoff-lees]
+- lap: 3
+  drivers: [jean-pierre-jabouille, rene-arnoux, alan-jones, jacques-laffite, carlos-reutemann, jody-scheckter, nelson-piquet, jean-pierre-jarier, didier-pironi, derek-daly, bruno-giacomelli, riccardo-patrese, jochen-mass, patrick-depailler, emerson-fittipaldi, ricardo-zunino, mario-andretti, clay-regazzoni, keke-rosberg, eddie-cheever, gilles-villeneuve, john-watson, geoff-lees]
+- lap: 4
+  drivers: [jean-pierre-jabouille, rene-arnoux, alan-jones, jacques-laffite, carlos-reutemann, jody-scheckter, nelson-piquet, jean-pierre-jarier, didier-pironi, derek-daly, bruno-giacomelli, riccardo-patrese, jochen-mass, emerson-fittipaldi, patrick-depailler, ricardo-zunino, mario-andretti, clay-regazzoni, keke-rosberg, gilles-villeneuve, eddie-cheever, john-watson, geoff-lees]
+- lap: 5
+  drivers: [jean-pierre-jabouille, rene-arnoux, alan-jones, jacques-laffite, carlos-reutemann, jody-scheckter, nelson-piquet, jean-pierre-jarier, didier-pironi, derek-daly, bruno-giacomelli, riccardo-patrese, jochen-mass, emerson-fittipaldi, ricardo-zunino, mario-andretti, patrick-depailler, clay-regazzoni, keke-rosberg, gilles-villeneuve, eddie-cheever, john-watson, geoff-lees]
+- lap: 6
+  drivers: [jean-pierre-jabouille, rene-arnoux, alan-jones, jacques-laffite, carlos-reutemann, jody-scheckter, nelson-piquet, jean-pierre-jarier, didier-pironi, derek-daly, bruno-giacomelli, riccardo-patrese, jochen-mass, emerson-fittipaldi, ricardo-zunino, mario-andretti, clay-regazzoni, patrick-depailler, keke-rosberg, gilles-villeneuve, eddie-cheever, john-watson, geoff-lees]
+- lap: 7
+  drivers: [jean-pierre-jabouille, rene-arnoux, alan-jones, jacques-laffite, carlos-reutemann, jody-scheckter, nelson-piquet, jean-pierre-jarier, didier-pironi, derek-daly, bruno-giacomelli, riccardo-patrese, jochen-mass, emerson-fittipaldi, ricardo-zunino, mario-andretti, clay-regazzoni, patrick-depailler, keke-rosberg, gilles-villeneuve, john-watson, eddie-cheever, geoff-lees]
+- lap: 8
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jody-scheckter, nelson-piquet, jean-pierre-jarier, didier-pironi, derek-daly, bruno-giacomelli, jochen-mass, riccardo-patrese, emerson-fittipaldi, ricardo-zunino, mario-andretti, clay-regazzoni, keke-rosberg, gilles-villeneuve, patrick-depailler, john-watson, eddie-cheever, geoff-lees]
+- lap: 9
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jody-scheckter, nelson-piquet, jean-pierre-jarier, didier-pironi, derek-daly, bruno-giacomelli, jochen-mass, riccardo-patrese, emerson-fittipaldi, ricardo-zunino, mario-andretti, clay-regazzoni, keke-rosberg, john-watson, geoff-lees, patrick-depailler, gilles-villeneuve]
+- lap: 10
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jody-scheckter, jean-pierre-jarier, nelson-piquet, didier-pironi, derek-daly, bruno-giacomelli, jochen-mass, riccardo-patrese, emerson-fittipaldi, ricardo-zunino, mario-andretti, clay-regazzoni, keke-rosberg, john-watson, geoff-lees, gilles-villeneuve, patrick-depailler]
+- lap: 11
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jody-scheckter, jean-pierre-jarier, nelson-piquet, didier-pironi, derek-daly, bruno-giacomelli, jochen-mass, emerson-fittipaldi, ricardo-zunino, mario-andretti, clay-regazzoni, keke-rosberg, john-watson, geoff-lees, gilles-villeneuve, patrick-depailler]
+- lap: 12
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, jody-scheckter, nelson-piquet, didier-pironi, derek-daly, bruno-giacomelli, jochen-mass, emerson-fittipaldi, ricardo-zunino, mario-andretti, clay-regazzoni, keke-rosberg, john-watson, geoff-lees, gilles-villeneuve, patrick-depailler]
+- lap: 13
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, derek-daly, bruno-giacomelli, jochen-mass, emerson-fittipaldi, ricardo-zunino, mario-andretti, clay-regazzoni, jody-scheckter, keke-rosberg, john-watson, geoff-lees, gilles-villeneuve, patrick-depailler]
+- lap: 14
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, derek-daly, bruno-giacomelli, jochen-mass, emerson-fittipaldi, ricardo-zunino, mario-andretti, clay-regazzoni, keke-rosberg, john-watson, geoff-lees, gilles-villeneuve, patrick-depailler, jody-scheckter]
+- lap: 15
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, derek-daly, bruno-giacomelli, jochen-mass, emerson-fittipaldi, ricardo-zunino, mario-andretti, clay-regazzoni, keke-rosberg, john-watson, geoff-lees, gilles-villeneuve, patrick-depailler]
+- lap: 16
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, derek-daly, bruno-giacomelli, jochen-mass, emerson-fittipaldi, ricardo-zunino, mario-andretti, clay-regazzoni, keke-rosberg, john-watson, geoff-lees, gilles-villeneuve, patrick-depailler]
+- lap: 17
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, derek-daly, bruno-giacomelli, jochen-mass, emerson-fittipaldi, ricardo-zunino, mario-andretti, clay-regazzoni, keke-rosberg, john-watson, geoff-lees, gilles-villeneuve, patrick-depailler]
+- lap: 18
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, bruno-giacomelli, jochen-mass, emerson-fittipaldi, ricardo-zunino, mario-andretti, clay-regazzoni, derek-daly, keke-rosberg, john-watson, geoff-lees, gilles-villeneuve, patrick-depailler]
+- lap: 19
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, bruno-giacomelli, jochen-mass, ricardo-zunino, emerson-fittipaldi, mario-andretti, clay-regazzoni, keke-rosberg, john-watson, geoff-lees, derek-daly, gilles-villeneuve, patrick-depailler]
+- lap: 20
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, bruno-giacomelli, jochen-mass, ricardo-zunino, emerson-fittipaldi, mario-andretti, clay-regazzoni, keke-rosberg, john-watson, geoff-lees, derek-daly, gilles-villeneuve, patrick-depailler]
+- lap: 21
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, bruno-giacomelli, jochen-mass, ricardo-zunino, emerson-fittipaldi, mario-andretti, clay-regazzoni, keke-rosberg, john-watson, geoff-lees, derek-daly, gilles-villeneuve, patrick-depailler]
+- lap: 22
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, bruno-giacomelli, jochen-mass, ricardo-zunino, emerson-fittipaldi, mario-andretti, clay-regazzoni, keke-rosberg, john-watson, geoff-lees, derek-daly, gilles-villeneuve, patrick-depailler]
+- lap: 23
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, bruno-giacomelli, jochen-mass, ricardo-zunino, emerson-fittipaldi, mario-andretti, clay-regazzoni, keke-rosberg, john-watson, geoff-lees, derek-daly, gilles-villeneuve, patrick-depailler]
+- lap: 24
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, bruno-giacomelli, jochen-mass, ricardo-zunino, emerson-fittipaldi, mario-andretti, clay-regazzoni, keke-rosberg, john-watson, geoff-lees, derek-daly, gilles-villeneuve, patrick-depailler]
+- lap: 25
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, bruno-giacomelli, jochen-mass, ricardo-zunino, emerson-fittipaldi, mario-andretti, clay-regazzoni, keke-rosberg, john-watson, geoff-lees, derek-daly, gilles-villeneuve, patrick-depailler]
+- lap: 26
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, bruno-giacomelli, jochen-mass, ricardo-zunino, emerson-fittipaldi, mario-andretti, clay-regazzoni, keke-rosberg, john-watson, derek-daly, geoff-lees, gilles-villeneuve, patrick-depailler]
+- lap: 27
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, bruno-giacomelli, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, gilles-villeneuve, geoff-lees, patrick-depailler]
+- lap: 28
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, bruno-giacomelli, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, gilles-villeneuve, derek-daly, geoff-lees, patrick-depailler]
+- lap: 29
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, bruno-giacomelli, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, gilles-villeneuve, derek-daly, geoff-lees, patrick-depailler]
+- lap: 30
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, bruno-giacomelli, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, gilles-villeneuve, derek-daly, geoff-lees, patrick-depailler]
+- lap: 31
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, bruno-giacomelli, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, gilles-villeneuve, geoff-lees, patrick-depailler]
+- lap: 32
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, bruno-giacomelli, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, patrick-depailler]
+- lap: 33
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, bruno-giacomelli, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, patrick-depailler]
+- lap: 34
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, alan-jones, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, bruno-giacomelli, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, patrick-depailler]
+- lap: 35
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, bruno-giacomelli, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, patrick-depailler]
+- lap: 36
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, bruno-giacomelli, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, patrick-depailler]
+- lap: 37
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, jochen-mass, bruno-giacomelli, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, patrick-depailler]
+- lap: 38
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, jochen-mass, bruno-giacomelli, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, patrick-depailler]
+- lap: 39
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, jochen-mass, bruno-giacomelli, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, patrick-depailler]
+- lap: 40
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, bruno-giacomelli, derek-daly, geoff-lees, patrick-depailler]
+- lap: 41
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, bruno-giacomelli, patrick-depailler]
+- lap: 42
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, bruno-giacomelli, patrick-depailler]
+- lap: 43
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, bruno-giacomelli, patrick-depailler]
+- lap: 44
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, bruno-giacomelli, patrick-depailler]
+- lap: 45
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, bruno-giacomelli, patrick-depailler]
+- lap: 46
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, bruno-giacomelli, patrick-depailler]
+- lap: 47
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, bruno-giacomelli, patrick-depailler]
+- lap: 48
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, bruno-giacomelli, patrick-depailler]
+- lap: 49
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, bruno-giacomelli, patrick-depailler]
+- lap: 50
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, bruno-giacomelli, patrick-depailler]
+- lap: 51
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, bruno-giacomelli, patrick-depailler]
+- lap: 52
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, bruno-giacomelli, patrick-depailler]
+- lap: 53
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, bruno-giacomelli, patrick-depailler]
+- lap: 54
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, jochen-mass, ricardo-zunino, emerson-fittipaldi, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, bruno-giacomelli]
+- lap: 55
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, jean-pierre-jarier, nelson-piquet, didier-pironi, jochen-mass, emerson-fittipaldi, ricardo-zunino, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, bruno-giacomelli]
+- lap: 56
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, nelson-piquet, didier-pironi, jean-pierre-jarier, jochen-mass, emerson-fittipaldi, ricardo-zunino, clay-regazzoni, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, bruno-giacomelli]
+- lap: 57
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, nelson-piquet, didier-pironi, jochen-mass, emerson-fittipaldi, ricardo-zunino, clay-regazzoni, jean-pierre-jarier, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, bruno-giacomelli]
+- lap: 58
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, nelson-piquet, didier-pironi, jochen-mass, emerson-fittipaldi, ricardo-zunino, clay-regazzoni, jean-pierre-jarier, mario-andretti, keke-rosberg, john-watson, derek-daly, geoff-lees, bruno-giacomelli]
+- lap: 59
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, nelson-piquet, didier-pironi, jochen-mass, emerson-fittipaldi, ricardo-zunino, clay-regazzoni, jean-pierre-jarier, mario-andretti, john-watson, derek-daly, geoff-lees, bruno-giacomelli]
+- lap: 60
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, nelson-piquet, didier-pironi, jochen-mass, emerson-fittipaldi, ricardo-zunino, clay-regazzoni, jean-pierre-jarier, mario-andretti, john-watson, derek-daly, bruno-giacomelli, geoff-lees]
+- lap: 61
+  drivers: [jean-pierre-jabouille, rene-arnoux, jacques-laffite, carlos-reutemann, nelson-piquet, didier-pironi, jochen-mass, emerson-fittipaldi, ricardo-zunino, clay-regazzoni, jean-pierre-jarier, mario-andretti, john-watson, derek-daly, bruno-giacomelli, geoff-lees]
+- lap: 62
+  drivers: [rene-arnoux, jacques-laffite, carlos-reutemann, nelson-piquet, didier-pironi, jochen-mass, emerson-fittipaldi, ricardo-zunino, clay-regazzoni, jean-pierre-jarier, mario-andretti, john-watson, bruno-giacomelli, geoff-lees]
+- lap: 63
+  drivers: [rene-arnoux, jacques-laffite, carlos-reutemann, nelson-piquet, didier-pironi, jochen-mass, emerson-fittipaldi, clay-regazzoni, ricardo-zunino, jean-pierre-jarier, mario-andretti, john-watson, bruno-giacomelli, geoff-lees]
+- lap: 64
+  drivers: [rene-arnoux, jacques-laffite, carlos-reutemann, nelson-piquet, didier-pironi, jochen-mass, emerson-fittipaldi, clay-regazzoni, ricardo-zunino, jean-pierre-jarier, john-watson, mario-andretti, bruno-giacomelli, geoff-lees]
+- lap: 65
+  drivers: [rene-arnoux, jacques-laffite, nelson-piquet, didier-pironi, jochen-mass, carlos-reutemann, emerson-fittipaldi, clay-regazzoni, jean-pierre-jarier, ricardo-zunino, john-watson, mario-andretti, bruno-giacomelli, geoff-lees]
+- lap: 66
+  drivers: [rene-arnoux, jacques-laffite, nelson-piquet, didier-pironi, jochen-mass, carlos-reutemann, emerson-fittipaldi, clay-regazzoni, jean-pierre-jarier, ricardo-zunino, john-watson, mario-andretti, bruno-giacomelli, geoff-lees]
+- lap: 67
+  drivers: [rene-arnoux, jacques-laffite, nelson-piquet, didier-pironi, jochen-mass, carlos-reutemann, emerson-fittipaldi, clay-regazzoni, jean-pierre-jarier, ricardo-zunino, john-watson, mario-andretti, bruno-giacomelli, geoff-lees]
+- lap: 68
+  drivers: [rene-arnoux, jacques-laffite, nelson-piquet, didier-pironi, jochen-mass, carlos-reutemann, emerson-fittipaldi, jean-pierre-jarier, clay-regazzoni, ricardo-zunino, john-watson, mario-andretti, bruno-giacomelli, geoff-lees]
+- lap: 69
+  drivers: [rene-arnoux, jacques-laffite, didier-pironi, nelson-piquet, jochen-mass, carlos-reutemann, emerson-fittipaldi, jean-pierre-jarier, clay-regazzoni, ricardo-zunino, john-watson, mario-andretti, bruno-giacomelli, geoff-lees]
+- lap: 70
+  drivers: [rene-arnoux, jacques-laffite, didier-pironi, nelson-piquet, jochen-mass, carlos-reutemann, emerson-fittipaldi, jean-pierre-jarier, clay-regazzoni, ricardo-zunino, john-watson, mario-andretti, geoff-lees]
+- lap: 71
+  drivers: [rene-arnoux, jacques-laffite, didier-pironi, nelson-piquet, jochen-mass, carlos-reutemann, emerson-fittipaldi, jean-pierre-jarier, clay-regazzoni, ricardo-zunino, john-watson, mario-andretti]
+- lap: 72
+  drivers: [rene-arnoux, jacques-laffite, didier-pironi, nelson-piquet, carlos-reutemann, jochen-mass, jean-pierre-jarier, emerson-fittipaldi, clay-regazzoni, ricardo-zunino, john-watson, mario-andretti]
+- lap: 73
+  drivers: [rene-arnoux, jacques-laffite, didier-pironi, nelson-piquet, carlos-reutemann, jochen-mass, jean-pierre-jarier, emerson-fittipaldi, clay-regazzoni, ricardo-zunino, john-watson, mario-andretti]
+- lap: 74
+  drivers: [rene-arnoux, jacques-laffite, didier-pironi, nelson-piquet, carlos-reutemann, jochen-mass, jean-pierre-jarier, emerson-fittipaldi, clay-regazzoni, ricardo-zunino, john-watson, mario-andretti]
+- lap: 75
+  drivers: [rene-arnoux, jacques-laffite, didier-pironi, nelson-piquet, carlos-reutemann, jochen-mass, jean-pierre-jarier, emerson-fittipaldi, clay-regazzoni, ricardo-zunino, john-watson, mario-andretti]
+- lap: 76
+  drivers: [rene-arnoux, jacques-laffite, didier-pironi, nelson-piquet, carlos-reutemann, jochen-mass, jean-pierre-jarier, emerson-fittipaldi, clay-regazzoni, ricardo-zunino, john-watson, mario-andretti]
+- lap: 77
+  drivers: [rene-arnoux, jacques-laffite, didier-pironi, nelson-piquet, carlos-reutemann, jochen-mass, jean-pierre-jarier, emerson-fittipaldi, clay-regazzoni, ricardo-zunino]
+- lap: 78
+  drivers: [rene-arnoux, jacques-laffite, didier-pironi, nelson-piquet]

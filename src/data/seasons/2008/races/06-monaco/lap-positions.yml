@@ -1,0 +1,154 @@
+- lap: 0
+  drivers: [felipe-massa, kimi-raikkonen, lewis-hamilton, heikki-kovalainen, robert-kubica, nico-rosberg, fernando-alonso, jarno-trulli, mark-webber, timo-glock, jenson-button, nick-heidfeld, kazuki-nakajima, rubens-barrichello, david-coulthard, sebastien-bourdais, nelson-piquet-jr, adrian-sutil, sebastian-vettel, giancarlo-fisichella]
+- lap: 1
+  drivers: [felipe-massa, lewis-hamilton, kimi-raikkonen, robert-kubica, fernando-alonso, nico-rosberg, jarno-trulli, timo-glock, nick-heidfeld, kazuki-nakajima, mark-webber, david-coulthard, rubens-barrichello, sebastien-bourdais, nelson-piquet-jr, adrian-sutil, sebastian-vettel, giancarlo-fisichella, heikki-kovalainen, jenson-button]
+- lap: 2
+  drivers: [felipe-massa, lewis-hamilton, kimi-raikkonen, robert-kubica, fernando-alonso, nico-rosberg, jarno-trulli, timo-glock, nick-heidfeld, mark-webber, kazuki-nakajima, david-coulthard, rubens-barrichello, sebastien-bourdais, adrian-sutil, nelson-piquet-jr, sebastian-vettel, giancarlo-fisichella, heikki-kovalainen, jenson-button]
+- lap: 3
+  drivers: [felipe-massa, lewis-hamilton, kimi-raikkonen, robert-kubica, fernando-alonso, jarno-trulli, timo-glock, nick-heidfeld, mark-webber, kazuki-nakajima, david-coulthard, rubens-barrichello, adrian-sutil, sebastien-bourdais, nelson-piquet-jr, sebastian-vettel, giancarlo-fisichella, heikki-kovalainen, nico-rosberg, jenson-button]
+- lap: 4
+  drivers: [felipe-massa, lewis-hamilton, kimi-raikkonen, robert-kubica, fernando-alonso, jarno-trulli, nick-heidfeld, mark-webber, kazuki-nakajima, david-coulthard, rubens-barrichello, adrian-sutil, sebastien-bourdais, sebastian-vettel, nelson-piquet-jr, giancarlo-fisichella, heikki-kovalainen, nico-rosberg, timo-glock, jenson-button]
+- lap: 5
+  drivers: [felipe-massa, lewis-hamilton, kimi-raikkonen, robert-kubica, fernando-alonso, jarno-trulli, nick-heidfeld, mark-webber, kazuki-nakajima, david-coulthard, rubens-barrichello, adrian-sutil, sebastien-bourdais, sebastian-vettel, nelson-piquet-jr, giancarlo-fisichella, heikki-kovalainen, nico-rosberg, timo-glock, jenson-button]
+- lap: 6
+  drivers: [felipe-massa, kimi-raikkonen, robert-kubica, fernando-alonso, lewis-hamilton, jarno-trulli, nick-heidfeld, mark-webber, kazuki-nakajima, david-coulthard, rubens-barrichello, adrian-sutil, sebastien-bourdais, sebastian-vettel, nelson-piquet-jr, giancarlo-fisichella, heikki-kovalainen, nico-rosberg, timo-glock, jenson-button]
+- lap: 7
+  drivers: [felipe-massa, kimi-raikkonen, robert-kubica, fernando-alonso, lewis-hamilton, jarno-trulli, nick-heidfeld, mark-webber, kazuki-nakajima, david-coulthard, rubens-barrichello, sebastien-bourdais, adrian-sutil, sebastian-vettel, nelson-piquet-jr, giancarlo-fisichella, heikki-kovalainen, nico-rosberg, timo-glock, jenson-button]
+- lap: 8
+  drivers: [felipe-massa, kimi-raikkonen, robert-kubica, lewis-hamilton, nick-heidfeld, mark-webber, fernando-alonso, kazuki-nakajima, rubens-barrichello, jarno-trulli, adrian-sutil, nelson-piquet-jr, sebastian-vettel, giancarlo-fisichella, heikki-kovalainen, nico-rosberg, timo-glock, jenson-button]
+- lap: 9
+  drivers: [felipe-massa, kimi-raikkonen, robert-kubica, lewis-hamilton, nick-heidfeld, mark-webber, fernando-alonso, kazuki-nakajima, rubens-barrichello, adrian-sutil, nelson-piquet-jr, jarno-trulli, sebastian-vettel, giancarlo-fisichella, heikki-kovalainen, nico-rosberg, timo-glock, jenson-button]
+- lap: 10
+  drivers: [felipe-massa, kimi-raikkonen, robert-kubica, lewis-hamilton, nick-heidfeld, mark-webber, fernando-alonso, kazuki-nakajima, rubens-barrichello, adrian-sutil, nelson-piquet-jr, jarno-trulli, sebastian-vettel, giancarlo-fisichella, heikki-kovalainen, nico-rosberg, timo-glock, jenson-button]
+- lap: 11
+  drivers: [felipe-massa, kimi-raikkonen, robert-kubica, lewis-hamilton, nick-heidfeld, mark-webber, fernando-alonso, kazuki-nakajima, rubens-barrichello, nelson-piquet-jr, adrian-sutil, jarno-trulli, sebastian-vettel, heikki-kovalainen, giancarlo-fisichella, nico-rosberg, timo-glock, jenson-button]
+- lap: 12
+  drivers: [felipe-massa, kimi-raikkonen, robert-kubica, lewis-hamilton, nick-heidfeld, fernando-alonso, mark-webber, kazuki-nakajima, rubens-barrichello, nelson-piquet-jr, adrian-sutil, jarno-trulli, sebastian-vettel, heikki-kovalainen, nico-rosberg, timo-glock, giancarlo-fisichella, jenson-button]
+- lap: 13
+  drivers: [felipe-massa, robert-kubica, kimi-raikkonen, lewis-hamilton, nick-heidfeld, fernando-alonso, mark-webber, kazuki-nakajima, rubens-barrichello, nelson-piquet-jr, adrian-sutil, jarno-trulli, sebastian-vettel, heikki-kovalainen, nico-rosberg, timo-glock, jenson-button, giancarlo-fisichella]
+- lap: 14
+  drivers: [felipe-massa, robert-kubica, lewis-hamilton, kimi-raikkonen, nick-heidfeld, mark-webber, adrian-sutil, kazuki-nakajima, rubens-barrichello, jarno-trulli, nelson-piquet-jr, sebastian-vettel, heikki-kovalainen, timo-glock, jenson-button, giancarlo-fisichella, fernando-alonso, nico-rosberg]
+- lap: 15
+  drivers: [felipe-massa, robert-kubica, lewis-hamilton, kimi-raikkonen, nick-heidfeld, mark-webber, adrian-sutil, kazuki-nakajima, jarno-trulli, rubens-barrichello, nelson-piquet-jr, sebastian-vettel, heikki-kovalainen, timo-glock, jenson-button, giancarlo-fisichella, fernando-alonso, nico-rosberg]
+- lap: 16
+  drivers: [robert-kubica, felipe-massa, lewis-hamilton, kimi-raikkonen, nick-heidfeld, mark-webber, adrian-sutil, kazuki-nakajima, jarno-trulli, rubens-barrichello, nelson-piquet-jr, sebastian-vettel, heikki-kovalainen, timo-glock, jenson-button, giancarlo-fisichella, fernando-alonso, nico-rosberg]
+- lap: 17
+  drivers: [robert-kubica, felipe-massa, lewis-hamilton, kimi-raikkonen, mark-webber, adrian-sutil, jarno-trulli, rubens-barrichello, kazuki-nakajima, nelson-piquet-jr, sebastian-vettel, heikki-kovalainen, timo-glock, jenson-button, giancarlo-fisichella, fernando-alonso, nico-rosberg, nick-heidfeld]
+- lap: 18
+  drivers: [robert-kubica, felipe-massa, lewis-hamilton, kimi-raikkonen, mark-webber, adrian-sutil, jarno-trulli, rubens-barrichello, kazuki-nakajima, nelson-piquet-jr, sebastian-vettel, heikki-kovalainen, timo-glock, jenson-button, giancarlo-fisichella, fernando-alonso, nico-rosberg, nick-heidfeld]
+- lap: 19
+  drivers: [robert-kubica, felipe-massa, lewis-hamilton, kimi-raikkonen, mark-webber, adrian-sutil, jarno-trulli, rubens-barrichello, kazuki-nakajima, nelson-piquet-jr, sebastian-vettel, heikki-kovalainen, timo-glock, jenson-button, giancarlo-fisichella, fernando-alonso, nico-rosberg, nick-heidfeld]
+- lap: 20
+  drivers: [robert-kubica, felipe-massa, lewis-hamilton, kimi-raikkonen, mark-webber, adrian-sutil, jarno-trulli, rubens-barrichello, kazuki-nakajima, nelson-piquet-jr, sebastian-vettel, heikki-kovalainen, timo-glock, jenson-button, giancarlo-fisichella, fernando-alonso, nico-rosberg, nick-heidfeld]
+- lap: 21
+  drivers: [robert-kubica, felipe-massa, lewis-hamilton, kimi-raikkonen, mark-webber, adrian-sutil, jarno-trulli, rubens-barrichello, kazuki-nakajima, sebastian-vettel, nelson-piquet-jr, heikki-kovalainen, timo-glock, jenson-button, giancarlo-fisichella, fernando-alonso, nico-rosberg, nick-heidfeld]
+- lap: 22
+  drivers: [robert-kubica, felipe-massa, lewis-hamilton, kimi-raikkonen, mark-webber, adrian-sutil, jarno-trulli, rubens-barrichello, kazuki-nakajima, sebastian-vettel, nelson-piquet-jr, heikki-kovalainen, timo-glock, jenson-button, giancarlo-fisichella, fernando-alonso, nico-rosberg, nick-heidfeld]
+- lap: 23
+  drivers: [robert-kubica, felipe-massa, lewis-hamilton, kimi-raikkonen, mark-webber, adrian-sutil, jarno-trulli, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, sebastian-vettel, nelson-piquet-jr, timo-glock, jenson-button, giancarlo-fisichella, fernando-alonso, nico-rosberg, nick-heidfeld]
+- lap: 24
+  drivers: [robert-kubica, felipe-massa, lewis-hamilton, kimi-raikkonen, mark-webber, adrian-sutil, jarno-trulli, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, nelson-piquet-jr, sebastian-vettel, timo-glock, jenson-button, giancarlo-fisichella, fernando-alonso, nico-rosberg, nick-heidfeld]
+- lap: 25
+  drivers: [robert-kubica, felipe-massa, lewis-hamilton, kimi-raikkonen, mark-webber, adrian-sutil, jarno-trulli, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, nelson-piquet-jr, sebastian-vettel, timo-glock, jenson-button, giancarlo-fisichella, fernando-alonso, nico-rosberg, nick-heidfeld]
+- lap: 26
+  drivers: [felipe-massa, lewis-hamilton, robert-kubica, kimi-raikkonen, mark-webber, adrian-sutil, jarno-trulli, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, nelson-piquet-jr, sebastian-vettel, timo-glock, jenson-button, giancarlo-fisichella, fernando-alonso, nico-rosberg, nick-heidfeld]
+- lap: 27
+  drivers: [felipe-massa, lewis-hamilton, robert-kubica, mark-webber, kimi-raikkonen, adrian-sutil, jarno-trulli, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, nelson-piquet-jr, sebastian-vettel, timo-glock, jenson-button, giancarlo-fisichella, fernando-alonso, nico-rosberg, nick-heidfeld]
+- lap: 28
+  drivers: [felipe-massa, lewis-hamilton, robert-kubica, mark-webber, adrian-sutil, kimi-raikkonen, jarno-trulli, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, nelson-piquet-jr, sebastian-vettel, timo-glock, jenson-button, giancarlo-fisichella, fernando-alonso, nico-rosberg, nick-heidfeld]
+- lap: 29
+  drivers: [felipe-massa, lewis-hamilton, robert-kubica, mark-webber, adrian-sutil, kimi-raikkonen, jarno-trulli, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, nelson-piquet-jr, sebastian-vettel, timo-glock, jenson-button, giancarlo-fisichella, fernando-alonso, nico-rosberg, nick-heidfeld]
+- lap: 30
+  drivers: [felipe-massa, lewis-hamilton, robert-kubica, mark-webber, adrian-sutil, kimi-raikkonen, jarno-trulli, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, nelson-piquet-jr, sebastian-vettel, timo-glock, jenson-button, giancarlo-fisichella, fernando-alonso, nico-rosberg, nick-heidfeld]
+- lap: 31
+  drivers: [felipe-massa, lewis-hamilton, robert-kubica, mark-webber, adrian-sutil, kimi-raikkonen, jarno-trulli, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, nelson-piquet-jr, sebastian-vettel, timo-glock, jenson-button, giancarlo-fisichella, fernando-alonso, nico-rosberg, nick-heidfeld]
+- lap: 32
+  drivers: [felipe-massa, lewis-hamilton, robert-kubica, mark-webber, adrian-sutil, kimi-raikkonen, jarno-trulli, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, nelson-piquet-jr, sebastian-vettel, timo-glock, jenson-button, giancarlo-fisichella, fernando-alonso, nico-rosberg, nick-heidfeld]
+- lap: 33
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, mark-webber, adrian-sutil, kimi-raikkonen, jarno-trulli, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, nelson-piquet-jr, sebastian-vettel, timo-glock, jenson-button, giancarlo-fisichella, fernando-alonso, nico-rosberg, nick-heidfeld]
+- lap: 34
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, mark-webber, adrian-sutil, kimi-raikkonen, jarno-trulli, rubens-barrichello, kazuki-nakajima, nelson-piquet-jr, sebastian-vettel, timo-glock, jenson-button, giancarlo-fisichella, heikki-kovalainen, fernando-alonso, nico-rosberg, nick-heidfeld]
+- lap: 35
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, mark-webber, adrian-sutil, kimi-raikkonen, jarno-trulli, rubens-barrichello, kazuki-nakajima, nelson-piquet-jr, sebastian-vettel, timo-glock, jenson-button, giancarlo-fisichella, fernando-alonso, nico-rosberg, heikki-kovalainen, nick-heidfeld]
+- lap: 36
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, mark-webber, adrian-sutil, kimi-raikkonen, jarno-trulli, rubens-barrichello, kazuki-nakajima, sebastian-vettel, nelson-piquet-jr, timo-glock, jenson-button, nico-rosberg, giancarlo-fisichella, heikki-kovalainen, fernando-alonso, nick-heidfeld]
+- lap: 37
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, mark-webber, adrian-sutil, kimi-raikkonen, rubens-barrichello, kazuki-nakajima, sebastian-vettel, nelson-piquet-jr, timo-glock, jenson-button, nico-rosberg, jarno-trulli, heikki-kovalainen, fernando-alonso, nick-heidfeld]
+- lap: 38
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, mark-webber, adrian-sutil, kimi-raikkonen, rubens-barrichello, kazuki-nakajima, sebastian-vettel, nelson-piquet-jr, jenson-button, nico-rosberg, heikki-kovalainen, jarno-trulli, fernando-alonso, timo-glock, nick-heidfeld]
+- lap: 39
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, mark-webber, adrian-sutil, kimi-raikkonen, rubens-barrichello, kazuki-nakajima, sebastian-vettel, nelson-piquet-jr, jenson-button, nico-rosberg, heikki-kovalainen, jarno-trulli, fernando-alonso, timo-glock, nick-heidfeld]
+- lap: 40
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, mark-webber, adrian-sutil, kimi-raikkonen, rubens-barrichello, kazuki-nakajima, sebastian-vettel, nelson-piquet-jr, jenson-button, nico-rosberg, heikki-kovalainen, jarno-trulli, fernando-alonso, timo-glock, nick-heidfeld]
+- lap: 41
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, mark-webber, adrian-sutil, kimi-raikkonen, rubens-barrichello, kazuki-nakajima, sebastian-vettel, nelson-piquet-jr, jenson-button, nico-rosberg, heikki-kovalainen, jarno-trulli, fernando-alonso, timo-glock, nick-heidfeld]
+- lap: 42
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, mark-webber, adrian-sutil, kimi-raikkonen, rubens-barrichello, kazuki-nakajima, sebastian-vettel, nelson-piquet-jr, nico-rosberg, jenson-button, heikki-kovalainen, jarno-trulli, fernando-alonso, timo-glock, nick-heidfeld]
+- lap: 43
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, mark-webber, adrian-sutil, kimi-raikkonen, rubens-barrichello, kazuki-nakajima, sebastian-vettel, nelson-piquet-jr, nico-rosberg, jenson-button, heikki-kovalainen, jarno-trulli, fernando-alonso, timo-glock, nick-heidfeld]
+- lap: 44
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, mark-webber, adrian-sutil, kimi-raikkonen, rubens-barrichello, kazuki-nakajima, sebastian-vettel, nelson-piquet-jr, nico-rosberg, jenson-button, heikki-kovalainen, jarno-trulli, timo-glock, fernando-alonso, nick-heidfeld]
+- lap: 45
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, mark-webber, adrian-sutil, kimi-raikkonen, rubens-barrichello, kazuki-nakajima, sebastian-vettel, nelson-piquet-jr, nico-rosberg, jenson-button, heikki-kovalainen, jarno-trulli, timo-glock, fernando-alonso, nick-heidfeld]
+- lap: 46
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, mark-webber, adrian-sutil, kimi-raikkonen, rubens-barrichello, kazuki-nakajima, sebastian-vettel, nico-rosberg, jenson-button, heikki-kovalainen, jarno-trulli, nelson-piquet-jr, timo-glock, fernando-alonso, nick-heidfeld]
+- lap: 47
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, mark-webber, adrian-sutil, kimi-raikkonen, rubens-barrichello, kazuki-nakajima, sebastian-vettel, nico-rosberg, jenson-button, heikki-kovalainen, jarno-trulli, timo-glock, nelson-piquet-jr, fernando-alonso, nick-heidfeld]
+- lap: 48
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, adrian-sutil, kimi-raikkonen, mark-webber, rubens-barrichello, kazuki-nakajima, sebastian-vettel, nico-rosberg, heikki-kovalainen, jenson-button, jarno-trulli, fernando-alonso, timo-glock, nick-heidfeld]
+- lap: 49
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, adrian-sutil, kimi-raikkonen, mark-webber, rubens-barrichello, kazuki-nakajima, sebastian-vettel, nico-rosberg, jarno-trulli, heikki-kovalainen, jenson-button, fernando-alonso, timo-glock, nick-heidfeld]
+- lap: 50
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, adrian-sutil, kimi-raikkonen, rubens-barrichello, kazuki-nakajima, sebastian-vettel, mark-webber, nico-rosberg, jarno-trulli, jenson-button, heikki-kovalainen, fernando-alonso, timo-glock, nick-heidfeld]
+- lap: 51
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, adrian-sutil, kimi-raikkonen, rubens-barrichello, kazuki-nakajima, sebastian-vettel, mark-webber, nico-rosberg, jarno-trulli, jenson-button, heikki-kovalainen, fernando-alonso, timo-glock, nick-heidfeld]
+- lap: 52
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, adrian-sutil, kimi-raikkonen, rubens-barrichello, mark-webber, sebastian-vettel, nico-rosberg, kazuki-nakajima, jenson-button, heikki-kovalainen, fernando-alonso, jarno-trulli, timo-glock, nick-heidfeld]
+- lap: 53
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, adrian-sutil, kimi-raikkonen, rubens-barrichello, mark-webber, sebastian-vettel, kazuki-nakajima, nico-rosberg, heikki-kovalainen, jenson-button, fernando-alonso, timo-glock, jarno-trulli, nick-heidfeld]
+- lap: 54
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, kimi-raikkonen, adrian-sutil, mark-webber, rubens-barrichello, sebastian-vettel, kazuki-nakajima, nico-rosberg, heikki-kovalainen, jenson-button, fernando-alonso, timo-glock, jarno-trulli, nick-heidfeld]
+- lap: 55
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, kimi-raikkonen, adrian-sutil, mark-webber, sebastian-vettel, rubens-barrichello, kazuki-nakajima, nico-rosberg, heikki-kovalainen, jenson-button, fernando-alonso, timo-glock, jarno-trulli, nick-heidfeld]
+- lap: 56
+  drivers: [lewis-hamilton, felipe-massa, robert-kubica, kimi-raikkonen, adrian-sutil, mark-webber, sebastian-vettel, rubens-barrichello, kazuki-nakajima, nico-rosberg, heikki-kovalainen, jenson-button, fernando-alonso, timo-glock, jarno-trulli, nick-heidfeld]
+- lap: 57
+  drivers: [lewis-hamilton, robert-kubica, felipe-massa, adrian-sutil, kimi-raikkonen, mark-webber, sebastian-vettel, rubens-barrichello, kazuki-nakajima, nico-rosberg, heikki-kovalainen, jenson-button, fernando-alonso, timo-glock, jarno-trulli, nick-heidfeld]
+- lap: 58
+  drivers: [lewis-hamilton, robert-kubica, felipe-massa, adrian-sutil, kimi-raikkonen, mark-webber, sebastian-vettel, rubens-barrichello, kazuki-nakajima, nico-rosberg, heikki-kovalainen, jenson-button, fernando-alonso, timo-glock, jarno-trulli, nick-heidfeld]
+- lap: 59
+  drivers: [lewis-hamilton, robert-kubica, felipe-massa, adrian-sutil, kimi-raikkonen, mark-webber, sebastian-vettel, rubens-barrichello, kazuki-nakajima, nico-rosberg, heikki-kovalainen, jenson-button, fernando-alonso, timo-glock, jarno-trulli, nick-heidfeld]
+- lap: 60
+  drivers: [lewis-hamilton, robert-kubica, felipe-massa, adrian-sutil, kimi-raikkonen, mark-webber, sebastian-vettel, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, jenson-button, fernando-alonso, timo-glock, jarno-trulli, nick-heidfeld]
+- lap: 61
+  drivers: [lewis-hamilton, robert-kubica, felipe-massa, adrian-sutil, kimi-raikkonen, mark-webber, sebastian-vettel, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, jenson-button, fernando-alonso, timo-glock, jarno-trulli, nick-heidfeld]
+- lap: 62
+  drivers: [lewis-hamilton, robert-kubica, felipe-massa, adrian-sutil, kimi-raikkonen, mark-webber, sebastian-vettel, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, jenson-button, fernando-alonso, timo-glock, jarno-trulli, nick-heidfeld]
+- lap: 63
+  drivers: [lewis-hamilton, robert-kubica, felipe-massa, adrian-sutil, kimi-raikkonen, mark-webber, sebastian-vettel, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, jenson-button, fernando-alonso, timo-glock, jarno-trulli, nick-heidfeld]
+- lap: 64
+  drivers: [lewis-hamilton, robert-kubica, felipe-massa, adrian-sutil, kimi-raikkonen, mark-webber, sebastian-vettel, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, jenson-button, fernando-alonso, timo-glock, jarno-trulli, nick-heidfeld]
+- lap: 65
+  drivers: [lewis-hamilton, robert-kubica, felipe-massa, adrian-sutil, kimi-raikkonen, mark-webber, sebastian-vettel, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, jenson-button, fernando-alonso, timo-glock, jarno-trulli, nick-heidfeld]
+- lap: 66
+  drivers: [lewis-hamilton, robert-kubica, felipe-massa, adrian-sutil, kimi-raikkonen, mark-webber, sebastian-vettel, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, jenson-button, fernando-alonso, timo-glock, jarno-trulli, nick-heidfeld]
+- lap: 67
+  drivers: [lewis-hamilton, robert-kubica, felipe-massa, adrian-sutil, kimi-raikkonen, mark-webber, sebastian-vettel, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, fernando-alonso, jenson-button, timo-glock, jarno-trulli, nick-heidfeld]
+- lap: 68
+  drivers: [lewis-hamilton, robert-kubica, felipe-massa, mark-webber, sebastian-vettel, rubens-barrichello, kazuki-nakajima, kimi-raikkonen, heikki-kovalainen, fernando-alonso, jenson-button, timo-glock, jarno-trulli, nick-heidfeld]
+- lap: 69
+  drivers: [lewis-hamilton, robert-kubica, felipe-massa, mark-webber, sebastian-vettel, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, kimi-raikkonen, fernando-alonso, jenson-button, timo-glock, jarno-trulli, nick-heidfeld]
+- lap: 70
+  drivers: [lewis-hamilton, robert-kubica, felipe-massa, mark-webber, sebastian-vettel, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, kimi-raikkonen, fernando-alonso, jenson-button, timo-glock, jarno-trulli, nick-heidfeld]
+- lap: 71
+  drivers: [lewis-hamilton, robert-kubica, felipe-massa, mark-webber, sebastian-vettel, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, kimi-raikkonen, fernando-alonso, jenson-button, timo-glock, jarno-trulli, nick-heidfeld]
+- lap: 72
+  drivers: [lewis-hamilton, robert-kubica, felipe-massa, mark-webber, sebastian-vettel, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, kimi-raikkonen, fernando-alonso, jenson-button, timo-glock, jarno-trulli, nick-heidfeld]
+- lap: 73
+  drivers: [lewis-hamilton, robert-kubica, felipe-massa, mark-webber, sebastian-vettel, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, kimi-raikkonen, fernando-alonso, jenson-button, timo-glock, jarno-trulli]
+- lap: 74
+  drivers: [lewis-hamilton, robert-kubica, felipe-massa, mark-webber, sebastian-vettel, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, kimi-raikkonen, fernando-alonso, jenson-button, timo-glock, jarno-trulli]
+- lap: 75
+  drivers: [lewis-hamilton, robert-kubica, felipe-massa, mark-webber, sebastian-vettel, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, kimi-raikkonen, fernando-alonso, jenson-button, timo-glock, jarno-trulli]
+- lap: 76
+  drivers: [lewis-hamilton, robert-kubica, felipe-massa, mark-webber, sebastian-vettel, rubens-barrichello, kazuki-nakajima, heikki-kovalainen, kimi-raikkonen]

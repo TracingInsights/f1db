@@ -1,0 +1,120 @@
+- lap: 0
+  drivers: [mario-andretti, carlos-reutemann, alan-jones, gilles-villeneuve, niki-lauda, james-hunt, john-watson, jean-pierre-jarier, jean-pierre-jabouille, jacques-laffite, jody-scheckter, patrick-depailler, emerson-fittipaldi, hans-joachim-stuck, keke-rosberg, didier-pironi, clay-regazzoni, patrick-tambay, derek-daly, bobby-rahal, rene-arnoux, rolf-stommelen, hector-rebaque, brett-lunger, michael-bleekemolen, arturo-merzario]
+- lap: 1
+  drivers: [mario-andretti, carlos-reutemann, gilles-villeneuve, alan-jones, niki-lauda, jean-pierre-jarier, james-hunt, john-watson, jody-scheckter, patrick-depailler, jacques-laffite, jean-pierre-jabouille, keke-rosberg, patrick-tambay, clay-regazzoni, didier-pironi, derek-daly, michael-bleekemolen, rene-arnoux, bobby-rahal, arturo-merzario, brett-lunger, rolf-stommelen, emerson-fittipaldi, hans-joachim-stuck]
+- lap: 2
+  drivers: [mario-andretti, carlos-reutemann, gilles-villeneuve, alan-jones, niki-lauda, james-hunt, john-watson, jean-pierre-jarier, jody-scheckter, patrick-depailler, jacques-laffite, jean-pierre-jabouille, keke-rosberg, patrick-tambay, didier-pironi, clay-regazzoni, derek-daly, rene-arnoux, michael-bleekemolen, bobby-rahal, arturo-merzario, brett-lunger, rolf-stommelen, emerson-fittipaldi]
+- lap: 3
+  drivers: [carlos-reutemann, gilles-villeneuve, mario-andretti, alan-jones, niki-lauda, james-hunt, john-watson, patrick-depailler, jean-pierre-jarier, jody-scheckter, jean-pierre-jabouille, keke-rosberg, patrick-tambay, jacques-laffite, didier-pironi, derek-daly, clay-regazzoni, rene-arnoux, michael-bleekemolen, bobby-rahal, arturo-merzario, brett-lunger, emerson-fittipaldi, rolf-stommelen]
+- lap: 4
+  drivers: [carlos-reutemann, gilles-villeneuve, mario-andretti, alan-jones, niki-lauda, james-hunt, john-watson, patrick-depailler, jean-pierre-jarier, jody-scheckter, jean-pierre-jabouille, keke-rosberg, patrick-tambay, jacques-laffite, didier-pironi, derek-daly, clay-regazzoni, rene-arnoux, michael-bleekemolen, bobby-rahal, arturo-merzario, emerson-fittipaldi, brett-lunger, rolf-stommelen]
+- lap: 5
+  drivers: [carlos-reutemann, gilles-villeneuve, mario-andretti, alan-jones, niki-lauda, james-hunt, john-watson, patrick-depailler, jean-pierre-jarier, jody-scheckter, jean-pierre-jabouille, keke-rosberg, patrick-tambay, jacques-laffite, didier-pironi, derek-daly, clay-regazzoni, rene-arnoux, michael-bleekemolen, emerson-fittipaldi, bobby-rahal, arturo-merzario, brett-lunger, rolf-stommelen]
+- lap: 6
+  drivers: [carlos-reutemann, gilles-villeneuve, mario-andretti, alan-jones, niki-lauda, james-hunt, john-watson, patrick-depailler, jean-pierre-jarier, jean-pierre-jabouille, jody-scheckter, keke-rosberg, patrick-tambay, jacques-laffite, didier-pironi, derek-daly, clay-regazzoni, rene-arnoux, emerson-fittipaldi, michael-bleekemolen, bobby-rahal, arturo-merzario, brett-lunger, rolf-stommelen]
+- lap: 7
+  drivers: [carlos-reutemann, gilles-villeneuve, mario-andretti, alan-jones, niki-lauda, james-hunt, john-watson, patrick-depailler, jean-pierre-jarier, jean-pierre-jabouille, jody-scheckter, keke-rosberg, patrick-tambay, jacques-laffite, didier-pironi, derek-daly, clay-regazzoni, rene-arnoux, emerson-fittipaldi, bobby-rahal, arturo-merzario, brett-lunger, rolf-stommelen, michael-bleekemolen]
+- lap: 8
+  drivers: [carlos-reutemann, gilles-villeneuve, mario-andretti, alan-jones, niki-lauda, james-hunt, john-watson, patrick-depailler, jean-pierre-jarier, jean-pierre-jabouille, jody-scheckter, keke-rosberg, patrick-tambay, jacques-laffite, didier-pironi, derek-daly, clay-regazzoni, rene-arnoux, emerson-fittipaldi, bobby-rahal, arturo-merzario, brett-lunger, rolf-stommelen, michael-bleekemolen]
+- lap: 9
+  drivers: [carlos-reutemann, gilles-villeneuve, mario-andretti, alan-jones, niki-lauda, james-hunt, patrick-depailler, jean-pierre-jabouille, jean-pierre-jarier, jody-scheckter, keke-rosberg, patrick-tambay, jacques-laffite, didier-pironi, derek-daly, clay-regazzoni, emerson-fittipaldi, rene-arnoux, john-watson, bobby-rahal, arturo-merzario, brett-lunger, rolf-stommelen, michael-bleekemolen]
+- lap: 10
+  drivers: [carlos-reutemann, gilles-villeneuve, mario-andretti, alan-jones, niki-lauda, james-hunt, patrick-depailler, jean-pierre-jabouille, jody-scheckter, jean-pierre-jarier, keke-rosberg, patrick-tambay, jacques-laffite, didier-pironi, derek-daly, clay-regazzoni, emerson-fittipaldi, rene-arnoux, bobby-rahal, arturo-merzario, brett-lunger, john-watson, rolf-stommelen, michael-bleekemolen]
+- lap: 11
+  drivers: [carlos-reutemann, gilles-villeneuve, mario-andretti, alan-jones, niki-lauda, james-hunt, jean-pierre-jabouille, patrick-depailler, jody-scheckter, keke-rosberg, patrick-tambay, jean-pierre-jarier, didier-pironi, derek-daly, emerson-fittipaldi, clay-regazzoni, rene-arnoux, jacques-laffite, bobby-rahal, brett-lunger, arturo-merzario, john-watson, rolf-stommelen, michael-bleekemolen]
+- lap: 12
+  drivers: [carlos-reutemann, gilles-villeneuve, mario-andretti, alan-jones, niki-lauda, james-hunt, jean-pierre-jabouille, patrick-depailler, jody-scheckter, keke-rosberg, patrick-tambay, didier-pironi, derek-daly, emerson-fittipaldi, clay-regazzoni, rene-arnoux, bobby-rahal, brett-lunger, arturo-merzario, john-watson, jean-pierre-jarier, rolf-stommelen, jacques-laffite, michael-bleekemolen]
+- lap: 13
+  drivers: [carlos-reutemann, gilles-villeneuve, mario-andretti, alan-jones, niki-lauda, james-hunt, jean-pierre-jabouille, patrick-depailler, jody-scheckter, keke-rosberg, patrick-tambay, didier-pironi, derek-daly, emerson-fittipaldi, clay-regazzoni, rene-arnoux, bobby-rahal, brett-lunger, john-watson, arturo-merzario, jean-pierre-jarier, rolf-stommelen, jacques-laffite, michael-bleekemolen]
+- lap: 14
+  drivers: [carlos-reutemann, gilles-villeneuve, mario-andretti, alan-jones, niki-lauda, james-hunt, jean-pierre-jabouille, patrick-depailler, jody-scheckter, keke-rosberg, patrick-tambay, didier-pironi, derek-daly, emerson-fittipaldi, clay-regazzoni, rene-arnoux, john-watson, bobby-rahal, brett-lunger, arturo-merzario, jean-pierre-jarier, jacques-laffite, michael-bleekemolen, rolf-stommelen]
+- lap: 15
+  drivers: [carlos-reutemann, gilles-villeneuve, mario-andretti, alan-jones, niki-lauda, james-hunt, jean-pierre-jabouille, patrick-depailler, jody-scheckter, keke-rosberg, patrick-tambay, didier-pironi, derek-daly, emerson-fittipaldi, clay-regazzoni, rene-arnoux, john-watson, bobby-rahal, brett-lunger, arturo-merzario, jean-pierre-jarier, jacques-laffite, michael-bleekemolen, rolf-stommelen]
+- lap: 16
+  drivers: [carlos-reutemann, gilles-villeneuve, mario-andretti, alan-jones, niki-lauda, james-hunt, jean-pierre-jabouille, patrick-depailler, jody-scheckter, keke-rosberg, patrick-tambay, didier-pironi, derek-daly, emerson-fittipaldi, clay-regazzoni, rene-arnoux, john-watson, bobby-rahal, brett-lunger, arturo-merzario, jean-pierre-jarier, jacques-laffite, michael-bleekemolen, rolf-stommelen]
+- lap: 17
+  drivers: [carlos-reutemann, gilles-villeneuve, mario-andretti, alan-jones, niki-lauda, james-hunt, jean-pierre-jabouille, patrick-depailler, jody-scheckter, keke-rosberg, patrick-tambay, didier-pironi, derek-daly, emerson-fittipaldi, clay-regazzoni, rene-arnoux, john-watson, bobby-rahal, brett-lunger, jean-pierre-jarier, arturo-merzario, jacques-laffite, michael-bleekemolen, rolf-stommelen]
+- lap: 18
+  drivers: [carlos-reutemann, gilles-villeneuve, mario-andretti, alan-jones, niki-lauda, james-hunt, jean-pierre-jabouille, patrick-depailler, jody-scheckter, keke-rosberg, patrick-tambay, didier-pironi, emerson-fittipaldi, derek-daly, rene-arnoux, john-watson, clay-regazzoni, bobby-rahal, brett-lunger, jean-pierre-jarier, arturo-merzario, jacques-laffite, michael-bleekemolen, rolf-stommelen]
+- lap: 19
+  drivers: [carlos-reutemann, gilles-villeneuve, mario-andretti, alan-jones, niki-lauda, james-hunt, jean-pierre-jabouille, patrick-depailler, jody-scheckter, keke-rosberg, patrick-tambay, didier-pironi, emerson-fittipaldi, derek-daly, rene-arnoux, john-watson, bobby-rahal, jean-pierre-jarier, brett-lunger, arturo-merzario, jacques-laffite, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 20
+  drivers: [carlos-reutemann, gilles-villeneuve, mario-andretti, alan-jones, niki-lauda, james-hunt, jean-pierre-jabouille, patrick-depailler, jody-scheckter, keke-rosberg, patrick-tambay, didier-pironi, emerson-fittipaldi, derek-daly, rene-arnoux, john-watson, jean-pierre-jarier, bobby-rahal, brett-lunger, arturo-merzario, jacques-laffite, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 21
+  drivers: [carlos-reutemann, gilles-villeneuve, alan-jones, mario-andretti, niki-lauda, james-hunt, jean-pierre-jabouille, patrick-depailler, jody-scheckter, keke-rosberg, patrick-tambay, didier-pironi, emerson-fittipaldi, derek-daly, rene-arnoux, john-watson, jean-pierre-jarier, bobby-rahal, brett-lunger, arturo-merzario, jacques-laffite, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 22
+  drivers: [carlos-reutemann, gilles-villeneuve, alan-jones, mario-andretti, niki-lauda, james-hunt, jean-pierre-jabouille, patrick-depailler, jody-scheckter, patrick-tambay, emerson-fittipaldi, didier-pironi, derek-daly, john-watson, rene-arnoux, jean-pierre-jarier, bobby-rahal, brett-lunger, arturo-merzario, jacques-laffite, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 23
+  drivers: [carlos-reutemann, alan-jones, mario-andretti, niki-lauda, james-hunt, jean-pierre-jabouille, jody-scheckter, patrick-tambay, emerson-fittipaldi, didier-pironi, derek-daly, john-watson, rene-arnoux, jean-pierre-jarier, bobby-rahal, brett-lunger, arturo-merzario, jacques-laffite, patrick-depailler, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 24
+  drivers: [carlos-reutemann, alan-jones, mario-andretti, niki-lauda, james-hunt, jean-pierre-jabouille, jody-scheckter, patrick-tambay, emerson-fittipaldi, didier-pironi, derek-daly, john-watson, rene-arnoux, jean-pierre-jarier, bobby-rahal, brett-lunger, arturo-merzario, jacques-laffite, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 25
+  drivers: [carlos-reutemann, alan-jones, niki-lauda, mario-andretti, james-hunt, jean-pierre-jabouille, jody-scheckter, patrick-tambay, emerson-fittipaldi, didier-pironi, derek-daly, john-watson, rene-arnoux, jean-pierre-jarier, bobby-rahal, brett-lunger, arturo-merzario, jacques-laffite, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 26
+  drivers: [carlos-reutemann, alan-jones, niki-lauda, mario-andretti, jean-pierre-jabouille, jody-scheckter, james-hunt, patrick-tambay, emerson-fittipaldi, didier-pironi, derek-daly, rene-arnoux, jean-pierre-jarier, bobby-rahal, brett-lunger, jacques-laffite, arturo-merzario, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 27
+  drivers: [carlos-reutemann, alan-jones, niki-lauda, jean-pierre-jabouille, jody-scheckter, mario-andretti, patrick-tambay, emerson-fittipaldi, didier-pironi, derek-daly, jean-pierre-jarier, rene-arnoux, james-hunt, bobby-rahal, brett-lunger, jacques-laffite, arturo-merzario, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 28
+  drivers: [carlos-reutemann, alan-jones, niki-lauda, jean-pierre-jabouille, jody-scheckter, patrick-tambay, emerson-fittipaldi, didier-pironi, jean-pierre-jarier, derek-daly, rene-arnoux, james-hunt, bobby-rahal, brett-lunger, jacques-laffite, arturo-merzario, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 29
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, patrick-tambay, emerson-fittipaldi, didier-pironi, jean-pierre-jarier, derek-daly, rene-arnoux, james-hunt, bobby-rahal, brett-lunger, jacques-laffite, arturo-merzario, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 30
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, patrick-tambay, emerson-fittipaldi, didier-pironi, jean-pierre-jarier, derek-daly, rene-arnoux, james-hunt, bobby-rahal, brett-lunger, jacques-laffite, arturo-merzario, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 31
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, patrick-tambay, emerson-fittipaldi, jean-pierre-jarier, didier-pironi, derek-daly, rene-arnoux, james-hunt, bobby-rahal, brett-lunger, jacques-laffite, arturo-merzario, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 32
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, patrick-tambay, emerson-fittipaldi, jean-pierre-jarier, didier-pironi, derek-daly, rene-arnoux, james-hunt, bobby-rahal, jacques-laffite, brett-lunger, arturo-merzario, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 33
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, patrick-tambay, emerson-fittipaldi, jean-pierre-jarier, didier-pironi, derek-daly, rene-arnoux, james-hunt, bobby-rahal, jacques-laffite, brett-lunger, arturo-merzario, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 34
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, patrick-tambay, jean-pierre-jarier, emerson-fittipaldi, didier-pironi, derek-daly, rene-arnoux, james-hunt, bobby-rahal, jacques-laffite, brett-lunger, arturo-merzario, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 35
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, patrick-tambay, jean-pierre-jarier, emerson-fittipaldi, didier-pironi, derek-daly, rene-arnoux, james-hunt, bobby-rahal, jacques-laffite, brett-lunger, arturo-merzario, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 36
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, patrick-tambay, jean-pierre-jarier, emerson-fittipaldi, didier-pironi, derek-daly, rene-arnoux, james-hunt, bobby-rahal, jacques-laffite, brett-lunger, arturo-merzario, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 37
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, jean-pierre-jarier, patrick-tambay, emerson-fittipaldi, derek-daly, rene-arnoux, didier-pironi, james-hunt, bobby-rahal, jacques-laffite, brett-lunger, arturo-merzario, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 38
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, jean-pierre-jarier, patrick-tambay, emerson-fittipaldi, derek-daly, rene-arnoux, didier-pironi, james-hunt, jacques-laffite, bobby-rahal, brett-lunger, arturo-merzario, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 39
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, jean-pierre-jarier, patrick-tambay, emerson-fittipaldi, derek-daly, rene-arnoux, didier-pironi, james-hunt, jacques-laffite, bobby-rahal, brett-lunger, arturo-merzario, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 40
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, jean-pierre-jarier, patrick-tambay, emerson-fittipaldi, derek-daly, rene-arnoux, james-hunt, didier-pironi, jacques-laffite, bobby-rahal, brett-lunger, arturo-merzario, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 41
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, jean-pierre-jarier, patrick-tambay, emerson-fittipaldi, derek-daly, rene-arnoux, james-hunt, didier-pironi, jacques-laffite, bobby-rahal, brett-lunger, arturo-merzario, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 42
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, jean-pierre-jarier, patrick-tambay, emerson-fittipaldi, derek-daly, rene-arnoux, james-hunt, didier-pironi, jacques-laffite, bobby-rahal, brett-lunger, arturo-merzario, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 43
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, jean-pierre-jarier, patrick-tambay, emerson-fittipaldi, derek-daly, james-hunt, rene-arnoux, didier-pironi, jacques-laffite, bobby-rahal, brett-lunger, arturo-merzario, clay-regazzoni, michael-bleekemolen, rolf-stommelen]
+- lap: 44
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, jean-pierre-jarier, patrick-tambay, emerson-fittipaldi, derek-daly, james-hunt, rene-arnoux, didier-pironi, jacques-laffite, bobby-rahal, brett-lunger, arturo-merzario, clay-regazzoni, rolf-stommelen]
+- lap: 45
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, jean-pierre-jarier, patrick-tambay, emerson-fittipaldi, james-hunt, derek-daly, rene-arnoux, didier-pironi, jacques-laffite, bobby-rahal, brett-lunger, arturo-merzario, clay-regazzoni, rolf-stommelen]
+- lap: 46
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, jean-pierre-jarier, emerson-fittipaldi, patrick-tambay, james-hunt, derek-daly, rene-arnoux, didier-pironi, jacques-laffite, bobby-rahal, brett-lunger, arturo-merzario, clay-regazzoni, rolf-stommelen]
+- lap: 47
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, jean-pierre-jarier, emerson-fittipaldi, patrick-tambay, james-hunt, derek-daly, rene-arnoux, didier-pironi, jacques-laffite, bobby-rahal, brett-lunger, clay-regazzoni, rolf-stommelen]
+- lap: 48
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, jean-pierre-jarier, emerson-fittipaldi, patrick-tambay, james-hunt, derek-daly, rene-arnoux, didier-pironi, jacques-laffite, bobby-rahal, brett-lunger, clay-regazzoni, rolf-stommelen]
+- lap: 49
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, jean-pierre-jarier, emerson-fittipaldi, patrick-tambay, james-hunt, derek-daly, rene-arnoux, didier-pironi, jacques-laffite, bobby-rahal, brett-lunger, clay-regazzoni, rolf-stommelen]
+- lap: 50
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, jean-pierre-jarier, emerson-fittipaldi, patrick-tambay, james-hunt, derek-daly, rene-arnoux, didier-pironi, jacques-laffite, bobby-rahal, brett-lunger, clay-regazzoni, rolf-stommelen]
+- lap: 51
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, jean-pierre-jarier, emerson-fittipaldi, patrick-tambay, james-hunt, derek-daly, rene-arnoux, didier-pironi, jacques-laffite, bobby-rahal, brett-lunger, clay-regazzoni, rolf-stommelen]
+- lap: 52
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jabouille, jody-scheckter, jean-pierre-jarier, emerson-fittipaldi, patrick-tambay, james-hunt, derek-daly, rene-arnoux, didier-pironi, jacques-laffite, bobby-rahal, brett-lunger, clay-regazzoni, rolf-stommelen]
+- lap: 53
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jarier, jody-scheckter, jean-pierre-jabouille, emerson-fittipaldi, patrick-tambay, james-hunt, derek-daly, rene-arnoux, didier-pironi, jacques-laffite, bobby-rahal, brett-lunger, clay-regazzoni, rolf-stommelen]
+- lap: 54
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jarier, jody-scheckter, jean-pierre-jabouille, emerson-fittipaldi, patrick-tambay, james-hunt, derek-daly, rene-arnoux, didier-pironi, jacques-laffite, bobby-rahal, brett-lunger, clay-regazzoni, rolf-stommelen]
+- lap: 55
+  drivers: [carlos-reutemann, alan-jones, jean-pierre-jarier, jody-scheckter, jean-pierre-jabouille, emerson-fittipaldi, patrick-tambay, james-hunt, derek-daly, rene-arnoux, didier-pironi, jacques-laffite, bobby-rahal, brett-lunger, clay-regazzoni]
+- lap: 56
+  drivers: [carlos-reutemann, alan-jones, jody-scheckter, jean-pierre-jabouille, emerson-fittipaldi, patrick-tambay, james-hunt, derek-daly, rene-arnoux, didier-pironi, jacques-laffite, bobby-rahal, brett-lunger, clay-regazzoni]
+- lap: 57
+  drivers: [carlos-reutemann, alan-jones, jody-scheckter, jean-pierre-jabouille, emerson-fittipaldi, patrick-tambay, james-hunt, derek-daly, rene-arnoux, didier-pironi, jacques-laffite, bobby-rahal, brett-lunger]
+- lap: 58
+  drivers: [carlos-reutemann, alan-jones, jody-scheckter, jean-pierre-jabouille, emerson-fittipaldi, patrick-tambay, james-hunt, derek-daly, rene-arnoux, didier-pironi, jacques-laffite, bobby-rahal, brett-lunger]
+- lap: 59
+  drivers: [carlos-reutemann, alan-jones, jody-scheckter, jean-pierre-jabouille, emerson-fittipaldi, patrick-tambay]

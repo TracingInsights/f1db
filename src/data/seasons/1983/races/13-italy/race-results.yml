@@ -146,7 +146,7 @@
   tyreManufacturerId: goodyear
   laps: 51
   time:
-  timePenalty:
+  timePenalty: "60.000"
   gap: "+1 lap"
   interval:
   reasonRetired:

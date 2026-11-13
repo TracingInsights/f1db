@@ -75,10 +75,10 @@
   engineManufacturerId: ferrari
   tyreManufacturerId: pirelli
   laps: 56
-  time: "1:38:17.080"
+  time: "1:38:37.080"
   timePenalty: "20.000"
-  gap: "+37.248"
-  interval: "+0.290"
+  gap: "+57.248"
+  interval: "+20.290"
   reasonRetired:
   points: 8
   gridPosition: 5
@@ -92,7 +92,7 @@
   time: "1:38:46.271"
   timePenalty:
   gap: "+1:06.439"
-  interval: "+29.191"
+  interval: "+9.191"
   reasonRetired:
   points: 6
   gridPosition: 10

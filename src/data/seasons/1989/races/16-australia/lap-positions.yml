@@ -1,0 +1,142 @@
+- lap: 0
+  drivers: [ayrton-senna, alain-prost, pierluigi-martini, alessandro-nannini, thierry-boutsen, riccardo-patrese, nigel-mansell, stefano-modena, andrea-de-cesaris, alex-caffi, nicola-larini, martin-brundle, emanuele-pirro, gerhard-berger, jean-alesi, ivan-capelli, jj-lehto, nelson-piquet, philippe-alliot, derek-warwick, piercarlo-ghinzani, eddie-cheever, satoru-nakajima, olivier-grouillard, mauricio-gugelmin, rene-arnoux]
+- lap: 1
+  drivers: [ayrton-senna, pierluigi-martini, thierry-boutsen, riccardo-patrese, alessandro-nannini, andrea-de-cesaris, nigel-mansell, alex-caffi, stefano-modena, martin-brundle, derek-warwick, nelson-piquet, gerhard-berger, emanuele-pirro, eddie-cheever, jj-lehto, rene-arnoux, olivier-grouillard, philippe-alliot, piercarlo-ghinzani, mauricio-gugelmin, satoru-nakajima, ivan-capelli, jean-alesi]
+- lap: 2
+  drivers: [ayrton-senna, pierluigi-martini, thierry-boutsen, riccardo-patrese, alessandro-nannini, andrea-de-cesaris, alex-caffi, nigel-mansell, derek-warwick, nelson-piquet, martin-brundle, gerhard-berger, stefano-modena, eddie-cheever, rene-arnoux, emanuele-pirro, jj-lehto, olivier-grouillard, philippe-alliot, piercarlo-ghinzani, satoru-nakajima, mauricio-gugelmin, ivan-capelli, jean-alesi]
+- lap: 3
+  drivers: [ayrton-senna, thierry-boutsen, riccardo-patrese, pierluigi-martini, alessandro-nannini, andrea-de-cesaris, alex-caffi, nigel-mansell, derek-warwick, nelson-piquet, martin-brundle, eddie-cheever, rene-arnoux, emanuele-pirro, jj-lehto, olivier-grouillard, stefano-modena, philippe-alliot, satoru-nakajima, piercarlo-ghinzani, mauricio-gugelmin, ivan-capelli, gerhard-berger, jean-alesi]
+- lap: 4
+  drivers: [ayrton-senna, thierry-boutsen, riccardo-patrese, alessandro-nannini, pierluigi-martini, andrea-de-cesaris, nigel-mansell, alex-caffi, derek-warwick, nelson-piquet, martin-brundle, eddie-cheever, emanuele-pirro, jj-lehto, olivier-grouillard, satoru-nakajima, stefano-modena, philippe-alliot, piercarlo-ghinzani, mauricio-gugelmin, gerhard-berger, ivan-capelli, rene-arnoux, jean-alesi]
+- lap: 5
+  drivers: [ayrton-senna, thierry-boutsen, riccardo-patrese, alessandro-nannini, pierluigi-martini, nigel-mansell, andrea-de-cesaris, derek-warwick, alex-caffi, nelson-piquet, martin-brundle, eddie-cheever, emanuele-pirro, jj-lehto, olivier-grouillard, satoru-nakajima, philippe-alliot, stefano-modena, gerhard-berger, mauricio-gugelmin, piercarlo-ghinzani, ivan-capelli, jean-alesi]
+- lap: 6
+  drivers: [ayrton-senna, thierry-boutsen, riccardo-patrese, alessandro-nannini, nigel-mansell, pierluigi-martini, andrea-de-cesaris, derek-warwick, alex-caffi, martin-brundle, eddie-cheever, emanuele-pirro, jj-lehto, olivier-grouillard, satoru-nakajima, nelson-piquet, philippe-alliot, gerhard-berger, mauricio-gugelmin, ivan-capelli, stefano-modena, piercarlo-ghinzani]
+- lap: 7
+  drivers: [ayrton-senna, thierry-boutsen, riccardo-patrese, alessandro-nannini, nigel-mansell, pierluigi-martini, derek-warwick, andrea-de-cesaris, alex-caffi, eddie-cheever, martin-brundle, emanuele-pirro, jj-lehto, olivier-grouillard, satoru-nakajima, nelson-piquet, mauricio-gugelmin, ivan-capelli, piercarlo-ghinzani, stefano-modena]
+- lap: 8
+  drivers: [ayrton-senna, thierry-boutsen, riccardo-patrese, alessandro-nannini, nigel-mansell, pierluigi-martini, andrea-de-cesaris, alex-caffi, eddie-cheever, martin-brundle, emanuele-pirro, jj-lehto, satoru-nakajima, olivier-grouillard, nelson-piquet, mauricio-gugelmin, ivan-capelli, piercarlo-ghinzani, stefano-modena]
+- lap: 9
+  drivers: [ayrton-senna, thierry-boutsen, riccardo-patrese, alessandro-nannini, nigel-mansell, pierluigi-martini, andrea-de-cesaris, alex-caffi, eddie-cheever, martin-brundle, jj-lehto, satoru-nakajima, emanuele-pirro, nelson-piquet, olivier-grouillard, mauricio-gugelmin, ivan-capelli, piercarlo-ghinzani, stefano-modena]
+- lap: 10
+  drivers: [ayrton-senna, thierry-boutsen, riccardo-patrese, alessandro-nannini, nigel-mansell, pierluigi-martini, andrea-de-cesaris, alex-caffi, eddie-cheever, martin-brundle, jj-lehto, satoru-nakajima, emanuele-pirro, nelson-piquet, olivier-grouillard, mauricio-gugelmin, ivan-capelli, piercarlo-ghinzani, stefano-modena]
+- lap: 11
+  drivers: [ayrton-senna, thierry-boutsen, riccardo-patrese, alessandro-nannini, nigel-mansell, andrea-de-cesaris, pierluigi-martini, alex-caffi, eddie-cheever, satoru-nakajima, jj-lehto, martin-brundle, nelson-piquet, emanuele-pirro, olivier-grouillard, mauricio-gugelmin, ivan-capelli, piercarlo-ghinzani, stefano-modena]
+- lap: 12
+  drivers: [ayrton-senna, thierry-boutsen, riccardo-patrese, alessandro-nannini, nigel-mansell, pierluigi-martini, alex-caffi, eddie-cheever, andrea-de-cesaris, satoru-nakajima, jj-lehto, martin-brundle, nelson-piquet, emanuele-pirro, olivier-grouillard, mauricio-gugelmin, ivan-capelli, piercarlo-ghinzani, stefano-modena]
+- lap: 13
+  drivers: [ayrton-senna, thierry-boutsen, riccardo-patrese, alessandro-nannini, nigel-mansell, pierluigi-martini, alex-caffi, eddie-cheever, satoru-nakajima, jj-lehto, nelson-piquet, emanuele-pirro, olivier-grouillard, piercarlo-ghinzani, stefano-modena, mauricio-gugelmin, ivan-capelli]
+- lap: 14
+  drivers: [thierry-boutsen, riccardo-patrese, alessandro-nannini, nigel-mansell, pierluigi-martini, eddie-cheever, satoru-nakajima, jj-lehto, nelson-piquet, emanuele-pirro, olivier-grouillard, mauricio-gugelmin, piercarlo-ghinzani, stefano-modena]
+- lap: 15
+  drivers: [thierry-boutsen, alessandro-nannini, nigel-mansell, riccardo-patrese, pierluigi-martini, eddie-cheever, satoru-nakajima, jj-lehto, nelson-piquet, emanuele-pirro, olivier-grouillard, mauricio-gugelmin, piercarlo-ghinzani, stefano-modena]
+- lap: 16
+  drivers: [thierry-boutsen, alessandro-nannini, nigel-mansell, riccardo-patrese, eddie-cheever, pierluigi-martini, satoru-nakajima, jj-lehto, nelson-piquet, emanuele-pirro, olivier-grouillard, mauricio-gugelmin, piercarlo-ghinzani, stefano-modena]
+- lap: 17
+  drivers: [thierry-boutsen, alessandro-nannini, nigel-mansell, riccardo-patrese, eddie-cheever, satoru-nakajima, jj-lehto, pierluigi-martini, nelson-piquet, emanuele-pirro, olivier-grouillard, mauricio-gugelmin, piercarlo-ghinzani, stefano-modena]
+- lap: 18
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, eddie-cheever, satoru-nakajima, jj-lehto, pierluigi-martini, nelson-piquet, emanuele-pirro, olivier-grouillard, mauricio-gugelmin, piercarlo-ghinzani, stefano-modena]
+- lap: 19
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, eddie-cheever, satoru-nakajima, jj-lehto, pierluigi-martini, nelson-piquet, emanuele-pirro, olivier-grouillard, mauricio-gugelmin, stefano-modena]
+- lap: 20
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, eddie-cheever, satoru-nakajima, jj-lehto, pierluigi-martini, emanuele-pirro, olivier-grouillard, mauricio-gugelmin, stefano-modena]
+- lap: 21
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, eddie-cheever, satoru-nakajima, jj-lehto, pierluigi-martini, emanuele-pirro, olivier-grouillard, mauricio-gugelmin, stefano-modena]
+- lap: 22
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, eddie-cheever, satoru-nakajima, jj-lehto, pierluigi-martini, emanuele-pirro, olivier-grouillard, mauricio-gugelmin, stefano-modena]
+- lap: 23
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, eddie-cheever, satoru-nakajima, jj-lehto, pierluigi-martini, emanuele-pirro, mauricio-gugelmin, stefano-modena]
+- lap: 24
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, jj-lehto, pierluigi-martini, emanuele-pirro, mauricio-gugelmin, stefano-modena]
+- lap: 25
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, jj-lehto, eddie-cheever, pierluigi-martini, emanuele-pirro, mauricio-gugelmin, stefano-modena]
+- lap: 26
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, jj-lehto, eddie-cheever, pierluigi-martini, emanuele-pirro, mauricio-gugelmin, stefano-modena]
+- lap: 27
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, jj-lehto, eddie-cheever, pierluigi-martini, emanuele-pirro, mauricio-gugelmin, stefano-modena]
+- lap: 28
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, pierluigi-martini, emanuele-pirro, mauricio-gugelmin, stefano-modena]
+- lap: 29
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, pierluigi-martini, emanuele-pirro, mauricio-gugelmin, stefano-modena]
+- lap: 30
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, pierluigi-martini, emanuele-pirro, mauricio-gugelmin, stefano-modena]
+- lap: 31
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, pierluigi-martini, emanuele-pirro, mauricio-gugelmin, stefano-modena]
+- lap: 32
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, pierluigi-martini, emanuele-pirro, mauricio-gugelmin, stefano-modena]
+- lap: 33
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, pierluigi-martini, emanuele-pirro, mauricio-gugelmin, stefano-modena]
+- lap: 34
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, pierluigi-martini, emanuele-pirro, mauricio-gugelmin, stefano-modena]
+- lap: 35
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, pierluigi-martini, emanuele-pirro, mauricio-gugelmin, stefano-modena]
+- lap: 36
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, pierluigi-martini, emanuele-pirro, mauricio-gugelmin, stefano-modena]
+- lap: 37
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, pierluigi-martini, emanuele-pirro, mauricio-gugelmin, stefano-modena]
+- lap: 38
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, pierluigi-martini, emanuele-pirro, mauricio-gugelmin, stefano-modena]
+- lap: 39
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, pierluigi-martini, emanuele-pirro, mauricio-gugelmin, stefano-modena]
+- lap: 40
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, pierluigi-martini, emanuele-pirro, mauricio-gugelmin, stefano-modena]
+- lap: 41
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, pierluigi-martini, emanuele-pirro, mauricio-gugelmin, stefano-modena]
+- lap: 42
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, eddie-cheever, pierluigi-martini, emanuele-pirro, mauricio-gugelmin, stefano-modena]
+- lap: 43
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin, stefano-modena]
+- lap: 44
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin, stefano-modena]
+- lap: 45
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin, stefano-modena]
+- lap: 46
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin, stefano-modena]
+- lap: 47
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin, stefano-modena]
+- lap: 48
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin, stefano-modena]
+- lap: 49
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin, stefano-modena]
+- lap: 50
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin, stefano-modena]
+- lap: 51
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin, stefano-modena]
+- lap: 52
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin, stefano-modena]
+- lap: 53
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin, stefano-modena]
+- lap: 54
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin, stefano-modena]
+- lap: 55
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin, stefano-modena]
+- lap: 56
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin, stefano-modena]
+- lap: 57
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin, stefano-modena]
+- lap: 58
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin, stefano-modena]
+- lap: 59
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin, stefano-modena]
+- lap: 60
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin, stefano-modena]
+- lap: 61
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin, stefano-modena]
+- lap: 62
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin, stefano-modena]
+- lap: 63
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin, stefano-modena]
+- lap: 64
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin, stefano-modena]
+- lap: 65
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin]
+- lap: 66
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini, mauricio-gugelmin]
+- lap: 67
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro, pierluigi-martini]
+- lap: 68
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima, emanuele-pirro]
+- lap: 69
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima]
+- lap: 70
+  drivers: [thierry-boutsen, alessandro-nannini, riccardo-patrese, satoru-nakajima]

@@ -165,7 +165,7 @@
   interval: "+2.003"
   reasonRetired:
   points:
-  gridPosition: 22
+  gridPosition: PL
 - position: 13
   driverNumber: 41
   driverId: arvid-lindblad
@@ -191,7 +191,7 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Collision
   points:
   gridPosition: 4
 - position: DNF
@@ -205,7 +205,7 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Collision damage
   points:
   gridPosition: 19
 - position: DNF
@@ -219,7 +219,7 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Collision
   points:
   gridPosition: 14
 - position: DNF
@@ -233,7 +233,7 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Collision
   points:
   gridPosition: 21
 - position: DNF
@@ -275,7 +275,7 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Accident
   points:
   gridPosition: 2
 - position: DNF
@@ -289,7 +289,7 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Collision
   points:
   gridPosition: 20
 - position: DNF
@@ -303,6 +303,6 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Collision
   points:
   gridPosition: 18

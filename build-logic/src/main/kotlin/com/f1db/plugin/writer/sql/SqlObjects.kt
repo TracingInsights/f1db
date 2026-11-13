@@ -57,6 +57,9 @@ fun getAllViews(): List<TableImpl<*>> {
         RACE_RESULT,
         FASTEST_LAP,
         PIT_STOP,
-        DRIVER_OF_THE_DAY_RESULT
+        DRIVER_OF_THE_DAY_RESULT,
+        SPRINT_FASTEST_LAP,
+        LAP_POSITION,
+        SPRINT_LAP_POSITION
     )
 }

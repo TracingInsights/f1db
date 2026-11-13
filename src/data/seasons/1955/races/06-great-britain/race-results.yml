@@ -89,7 +89,7 @@
   engineManufacturerId: ferrari
   tyreManufacturerId: englebert
   sharedCar: true
-  laps:
+  laps: 27
   time:
   timePenalty:
   gap:
@@ -146,7 +146,7 @@
   engineManufacturerId: vanwall
   tyreManufacturerId: pirelli
   sharedCar: true
-  laps:
+  laps: 22
   time:
   timePenalty:
   gap:
@@ -301,7 +301,7 @@
   engineManufacturerId: alta
   tyreManufacturerId: dunlop
   sharedCar: true
-  laps:
+  laps: 8
   time:
   timePenalty:
   gap:

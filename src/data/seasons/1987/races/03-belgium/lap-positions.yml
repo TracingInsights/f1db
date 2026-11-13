@@ -1,0 +1,88 @@
+- lap: 0
+  drivers: [nigel-mansell, nelson-piquet, ayrton-senna, gerhard-berger, michele-alboreto, alain-prost, thierry-boutsen, riccardo-patrese, teo-fabi, stefan-johansson, eddie-cheever, derek-warwick, andrea-de-cesaris, alessandro-nannini, satoru-nakajima, rene-arnoux, piercarlo-ghinzani, martin-brundle, adrian-campos, christian-danner, ivan-capelli, philippe-alliot, philippe-streiff, jonathan-palmer, pascal-fabre, alex-caffi]
+- lap: 1
+  drivers: [nelson-piquet, michele-alboreto, alain-prost, thierry-boutsen, gerhard-berger, teo-fabi, riccardo-patrese, stefan-johansson, eddie-cheever, derek-warwick, andrea-de-cesaris, alessandro-nannini, satoru-nakajima, rene-arnoux, martin-brundle, piercarlo-ghinzani, christian-danner, ivan-capelli, philippe-alliot, alex-caffi, pascal-fabre, philippe-streiff, nigel-mansell]
+- lap: 2
+  drivers: [nelson-piquet, michele-alboreto, alain-prost, thierry-boutsen, teo-fabi, riccardo-patrese, stefan-johansson, eddie-cheever, derek-warwick, andrea-de-cesaris, gerhard-berger, rene-arnoux, martin-brundle, satoru-nakajima, piercarlo-ghinzani, christian-danner, ivan-capelli, philippe-alliot, alex-caffi, pascal-fabre, philippe-streiff, nigel-mansell]
+- lap: 3
+  drivers: [nelson-piquet, michele-alboreto, alain-prost, thierry-boutsen, teo-fabi, stefan-johansson, riccardo-patrese, eddie-cheever, derek-warwick, andrea-de-cesaris, rene-arnoux, martin-brundle, satoru-nakajima, piercarlo-ghinzani, christian-danner, ivan-capelli, philippe-alliot, alex-caffi, pascal-fabre, philippe-streiff, nigel-mansell]
+- lap: 4
+  drivers: [nelson-piquet, michele-alboreto, alain-prost, thierry-boutsen, teo-fabi, stefan-johansson, eddie-cheever, andrea-de-cesaris, derek-warwick, rene-arnoux, riccardo-patrese, martin-brundle, satoru-nakajima, piercarlo-ghinzani, christian-danner, ivan-capelli, philippe-alliot, alex-caffi, pascal-fabre, philippe-streiff, nigel-mansell]
+- lap: 5
+  drivers: [nelson-piquet, michele-alboreto, alain-prost, thierry-boutsen, teo-fabi, stefan-johansson, eddie-cheever, andrea-de-cesaris, derek-warwick, rene-arnoux, martin-brundle, satoru-nakajima, piercarlo-ghinzani, christian-danner, ivan-capelli, alex-caffi, philippe-alliot, riccardo-patrese, pascal-fabre, philippe-streiff, nigel-mansell]
+- lap: 6
+  drivers: [nelson-piquet, michele-alboreto, alain-prost, teo-fabi, thierry-boutsen, stefan-johansson, andrea-de-cesaris, eddie-cheever, derek-warwick, rene-arnoux, martin-brundle, satoru-nakajima, piercarlo-ghinzani, christian-danner, alex-caffi, ivan-capelli, philippe-alliot, nigel-mansell, philippe-streiff, pascal-fabre]
+- lap: 7
+  drivers: [nelson-piquet, michele-alboreto, alain-prost, teo-fabi, stefan-johansson, thierry-boutsen, andrea-de-cesaris, eddie-cheever, derek-warwick, rene-arnoux, martin-brundle, satoru-nakajima, piercarlo-ghinzani, christian-danner, alex-caffi, ivan-capelli, philippe-alliot, nigel-mansell, philippe-streiff, pascal-fabre]
+- lap: 8
+  drivers: [nelson-piquet, michele-alboreto, alain-prost, teo-fabi, stefan-johansson, thierry-boutsen, andrea-de-cesaris, eddie-cheever, rene-arnoux, martin-brundle, satoru-nakajima, piercarlo-ghinzani, christian-danner, ivan-capelli, philippe-alliot, nigel-mansell, alex-caffi, philippe-streiff, pascal-fabre, derek-warwick]
+- lap: 9
+  drivers: [nelson-piquet, michele-alboreto, alain-prost, teo-fabi, stefan-johansson, thierry-boutsen, andrea-de-cesaris, eddie-cheever, rene-arnoux, martin-brundle, satoru-nakajima, piercarlo-ghinzani, christian-danner, ivan-capelli, philippe-alliot, nigel-mansell, philippe-streiff, pascal-fabre, alex-caffi]
+- lap: 10
+  drivers: [alain-prost, teo-fabi, stefan-johansson, thierry-boutsen, andrea-de-cesaris, eddie-cheever, rene-arnoux, martin-brundle, satoru-nakajima, piercarlo-ghinzani, ivan-capelli, philippe-alliot, nelson-piquet, nigel-mansell, philippe-streiff, pascal-fabre, alex-caffi]
+- lap: 11
+  drivers: [alain-prost, teo-fabi, stefan-johansson, thierry-boutsen, andrea-de-cesaris, eddie-cheever, rene-arnoux, martin-brundle, satoru-nakajima, piercarlo-ghinzani, ivan-capelli, philippe-alliot, nigel-mansell, philippe-streiff, pascal-fabre, nelson-piquet, alex-caffi]
+- lap: 12
+  drivers: [alain-prost, teo-fabi, stefan-johansson, thierry-boutsen, andrea-de-cesaris, eddie-cheever, rene-arnoux, martin-brundle, satoru-nakajima, piercarlo-ghinzani, ivan-capelli, philippe-alliot, nigel-mansell, philippe-streiff, pascal-fabre]
+- lap: 13
+  drivers: [alain-prost, teo-fabi, stefan-johansson, thierry-boutsen, andrea-de-cesaris, eddie-cheever, rene-arnoux, martin-brundle, satoru-nakajima, piercarlo-ghinzani, ivan-capelli, philippe-alliot, nigel-mansell, philippe-streiff, pascal-fabre]
+- lap: 14
+  drivers: [alain-prost, teo-fabi, stefan-johansson, thierry-boutsen, andrea-de-cesaris, eddie-cheever, rene-arnoux, martin-brundle, satoru-nakajima, piercarlo-ghinzani, ivan-capelli, philippe-alliot, nigel-mansell, philippe-streiff, pascal-fabre]
+- lap: 15
+  drivers: [alain-prost, teo-fabi, stefan-johansson, thierry-boutsen, andrea-de-cesaris, eddie-cheever, rene-arnoux, martin-brundle, satoru-nakajima, piercarlo-ghinzani, philippe-alliot, nigel-mansell, philippe-streiff, pascal-fabre]
+- lap: 16
+  drivers: [alain-prost, teo-fabi, stefan-johansson, thierry-boutsen, andrea-de-cesaris, eddie-cheever, rene-arnoux, martin-brundle, satoru-nakajima, piercarlo-ghinzani, philippe-alliot, nigel-mansell, philippe-streiff, pascal-fabre]
+- lap: 17
+  drivers: [alain-prost, stefan-johansson, teo-fabi, andrea-de-cesaris, thierry-boutsen, eddie-cheever, rene-arnoux, martin-brundle, satoru-nakajima, piercarlo-ghinzani, philippe-alliot, nigel-mansell, philippe-streiff, pascal-fabre]
+- lap: 18
+  drivers: [alain-prost, stefan-johansson, teo-fabi, andrea-de-cesaris, eddie-cheever, rene-arnoux, satoru-nakajima, martin-brundle, piercarlo-ghinzani, philippe-alliot, thierry-boutsen, philippe-streiff, pascal-fabre]
+- lap: 19
+  drivers: [alain-prost, stefan-johansson, teo-fabi, andrea-de-cesaris, eddie-cheever, rene-arnoux, satoru-nakajima, piercarlo-ghinzani, philippe-alliot, martin-brundle, philippe-streiff, pascal-fabre]
+- lap: 20
+  drivers: [alain-prost, stefan-johansson, teo-fabi, andrea-de-cesaris, eddie-cheever, satoru-nakajima, rene-arnoux, piercarlo-ghinzani, philippe-alliot, philippe-streiff, pascal-fabre]
+- lap: 21
+  drivers: [alain-prost, teo-fabi, stefan-johansson, andrea-de-cesaris, eddie-cheever, piercarlo-ghinzani, satoru-nakajima, rene-arnoux, philippe-alliot, philippe-streiff, pascal-fabre]
+- lap: 22
+  drivers: [alain-prost, stefan-johansson, teo-fabi, andrea-de-cesaris, eddie-cheever, piercarlo-ghinzani, satoru-nakajima, rene-arnoux, philippe-alliot, philippe-streiff, pascal-fabre]
+- lap: 23
+  drivers: [alain-prost, stefan-johansson, teo-fabi, andrea-de-cesaris, eddie-cheever, piercarlo-ghinzani, satoru-nakajima, rene-arnoux, philippe-alliot, philippe-streiff, pascal-fabre]
+- lap: 24
+  drivers: [alain-prost, stefan-johansson, teo-fabi, andrea-de-cesaris, eddie-cheever, satoru-nakajima, piercarlo-ghinzani, rene-arnoux, philippe-alliot, philippe-streiff, pascal-fabre]
+- lap: 25
+  drivers: [alain-prost, stefan-johansson, teo-fabi, andrea-de-cesaris, eddie-cheever, satoru-nakajima, piercarlo-ghinzani, rene-arnoux, philippe-alliot, philippe-streiff, pascal-fabre]
+- lap: 26
+  drivers: [alain-prost, stefan-johansson, teo-fabi, andrea-de-cesaris, eddie-cheever, satoru-nakajima, piercarlo-ghinzani, rene-arnoux, philippe-alliot, pascal-fabre, philippe-streiff]
+- lap: 27
+  drivers: [alain-prost, stefan-johansson, teo-fabi, andrea-de-cesaris, eddie-cheever, satoru-nakajima, rene-arnoux, piercarlo-ghinzani, philippe-alliot, pascal-fabre, philippe-streiff]
+- lap: 28
+  drivers: [alain-prost, stefan-johansson, teo-fabi, andrea-de-cesaris, eddie-cheever, satoru-nakajima, rene-arnoux, piercarlo-ghinzani, philippe-alliot, pascal-fabre, philippe-streiff]
+- lap: 29
+  drivers: [alain-prost, stefan-johansson, teo-fabi, andrea-de-cesaris, eddie-cheever, satoru-nakajima, rene-arnoux, piercarlo-ghinzani, philippe-alliot, pascal-fabre, philippe-streiff]
+- lap: 30
+  drivers: [alain-prost, stefan-johansson, andrea-de-cesaris, teo-fabi, eddie-cheever, satoru-nakajima, rene-arnoux, piercarlo-ghinzani, philippe-alliot, pascal-fabre, philippe-streiff]
+- lap: 31
+  drivers: [alain-prost, stefan-johansson, andrea-de-cesaris, teo-fabi, eddie-cheever, satoru-nakajima, rene-arnoux, piercarlo-ghinzani, philippe-alliot, pascal-fabre, philippe-streiff]
+- lap: 32
+  drivers: [alain-prost, stefan-johansson, andrea-de-cesaris, teo-fabi, eddie-cheever, satoru-nakajima, rene-arnoux, piercarlo-ghinzani, philippe-alliot, pascal-fabre, philippe-streiff]
+- lap: 33
+  drivers: [alain-prost, stefan-johansson, andrea-de-cesaris, teo-fabi, eddie-cheever, satoru-nakajima, rene-arnoux, piercarlo-ghinzani, philippe-alliot, pascal-fabre, philippe-streiff]
+- lap: 34
+  drivers: [alain-prost, stefan-johansson, andrea-de-cesaris, teo-fabi, eddie-cheever, satoru-nakajima, rene-arnoux, philippe-alliot, piercarlo-ghinzani, pascal-fabre, philippe-streiff]
+- lap: 35
+  drivers: [alain-prost, stefan-johansson, andrea-de-cesaris, eddie-cheever, satoru-nakajima, rene-arnoux, philippe-alliot, piercarlo-ghinzani, pascal-fabre, philippe-streiff]
+- lap: 36
+  drivers: [alain-prost, stefan-johansson, andrea-de-cesaris, eddie-cheever, satoru-nakajima, rene-arnoux, philippe-alliot, piercarlo-ghinzani, pascal-fabre, philippe-streiff]
+- lap: 37
+  drivers: [alain-prost, stefan-johansson, andrea-de-cesaris, eddie-cheever, satoru-nakajima, rene-arnoux, piercarlo-ghinzani, philippe-alliot, pascal-fabre, philippe-streiff]
+- lap: 38
+  drivers: [alain-prost, stefan-johansson, andrea-de-cesaris, eddie-cheever, satoru-nakajima, rene-arnoux, piercarlo-ghinzani, philippe-alliot, pascal-fabre, philippe-streiff]
+- lap: 39
+  drivers: [alain-prost, stefan-johansson, andrea-de-cesaris, eddie-cheever, satoru-nakajima, rene-arnoux, piercarlo-ghinzani, philippe-alliot, philippe-streiff]
+- lap: 40
+  drivers: [alain-prost, stefan-johansson, andrea-de-cesaris, eddie-cheever, satoru-nakajima, rene-arnoux, piercarlo-ghinzani, philippe-alliot]
+- lap: 41
+  drivers: [alain-prost, stefan-johansson, andrea-de-cesaris, eddie-cheever, satoru-nakajima, rene-arnoux]
+- lap: 42
+  drivers: [alain-prost, stefan-johansson, andrea-de-cesaris, eddie-cheever, satoru-nakajima]
+- lap: 43
+  drivers: [alain-prost, stefan-johansson]

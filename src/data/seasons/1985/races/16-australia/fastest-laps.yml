@@ -139,6 +139,16 @@
   gap: "+3.061"
   interval: "+0.151"
 - position: 15
+  driverNumber: 11
+  driverId: elio-de-angelis
+  constructorId: lotus
+  engineManufacturerId: renault
+  tyreManufacturerId: goodyear
+  lap: 8
+  time: "1:26.913"
+  gap: "+3.155"
+  interval: "+0.094"
+- position: 16
   driverNumber: 7
   driverId: nelson-piquet
   constructorId: brabham
@@ -147,8 +157,8 @@
   lap: 8
   time: "1:27.155"
   gap: "+3.397"
-  interval: "+0.336"
-- position: 16
+  interval: "+0.242"
+- position: 17
   driverNumber: 3
   driverId: martin-brundle
   constructorId: tyrrell
@@ -158,7 +168,7 @@
   time: "1:27.223"
   gap: "+3.465"
   interval: "+0.068"
-- position: 17
+- position: 18
   driverNumber: 33
   driverId: alan-jones
   constructorId: lola
@@ -168,7 +178,7 @@
   time: "1:27.504"
   gap: "+3.746"
   interval: "+0.281"
-- position: 18
+- position: 19
   driverNumber: 23
   driverId: eddie-cheever
   constructorId: alfa-romeo
@@ -178,7 +188,7 @@
   time: "1:27.744"
   gap: "+3.986"
   interval: "+0.240"
-- position: 19
+- position: 20
   driverNumber: 29
   driverId: pierluigi-martini
   constructorId: minardi
@@ -188,7 +198,7 @@
   time: "1:28.366"
   gap: "+4.608"
   interval: "+0.622"
-- position: 20
+- position: 21
   driverNumber: 19
   driverId: teo-fabi
   constructorId: toleman
@@ -198,7 +208,7 @@
   time: "1:28.535"
   gap: "+4.777"
   interval: "+0.169"
-- position: 21
+- position: 22
   driverNumber: 22
   driverId: riccardo-patrese
   constructorId: alfa-romeo
@@ -208,7 +218,7 @@
   time: "1:28.675"
   gap: "+4.917"
   interval: "+0.140"
-- position: 22
+- position: 23
   driverNumber: 20
   driverId: piercarlo-ghinzani
   constructorId: toleman
@@ -218,7 +228,7 @@
   time: "1:28.809"
   gap: "+5.051"
   interval: "+0.134"
-- position: 23
+- position: 24
   driverNumber: 24
   driverId: huub-rothengatter
   constructorId: osella
@@ -228,7 +238,7 @@
   time: "1:28.942"
   gap: "+5.184"
   interval: "+0.133"
-- position: 24
+- position: 25
   driverNumber: 5
   driverId: nigel-mansell
   constructorId: williams

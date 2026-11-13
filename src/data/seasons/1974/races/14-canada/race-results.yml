@@ -45,7 +45,7 @@
   driverId: james-hunt
   constructorId: hesketh
   engineManufacturerId: ford
-  tyreManufacturerId: goodyear
+  tyreManufacturerId: firestone
   laps: 80
   time: "1:40:41.805"
   timePenalty:
@@ -401,7 +401,7 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Accident
   points:
   gridPosition:
 - position: DNQ

@@ -1,0 +1,102 @@
+- lap: 0
+  drivers: [tony-brooks, jack-brabham, phil-hill, stirling-moss, jean-behra, jo-bonnier, masten-gregory, maurice-trintignant, harry-schell, bruce-mclaren, olivier-gendebien, dan-gurney, ron-flockhart, graham-hill, innes-ireland, roy-salvadori, colin-davis, fritz-dorey, ian-burgess, carel-godin-de-beaufort, giorgio-scarlatti]
+- lap: 1
+  drivers: [tony-brooks, stirling-moss, masten-gregory, jack-brabham, phil-hill, harry-schell, jo-bonnier, maurice-trintignant, bruce-mclaren, graham-hill, olivier-gendebien, innes-ireland, dan-gurney, roy-salvadori, ron-flockhart, ian-burgess, colin-davis, giorgio-scarlatti, fritz-dorey, jean-behra, carel-godin-de-beaufort]
+- lap: 2
+  drivers: [tony-brooks, stirling-moss, phil-hill, masten-gregory, jack-brabham, maurice-trintignant, jo-bonnier, harry-schell, innes-ireland, bruce-mclaren, dan-gurney, olivier-gendebien, graham-hill, ron-flockhart, roy-salvadori, ian-burgess, colin-davis, jean-behra, fritz-dorey, giorgio-scarlatti, carel-godin-de-beaufort]
+- lap: 3
+  drivers: [tony-brooks, stirling-moss, masten-gregory, phil-hill, jack-brabham, maurice-trintignant, jo-bonnier, harry-schell, innes-ireland, bruce-mclaren, dan-gurney, olivier-gendebien, graham-hill, ron-flockhart, roy-salvadori, ian-burgess, jean-behra, colin-davis, fritz-dorey, giorgio-scarlatti, carel-godin-de-beaufort]
+- lap: 4
+  drivers: [tony-brooks, masten-gregory, stirling-moss, phil-hill, maurice-trintignant, jack-brabham, jo-bonnier, harry-schell, innes-ireland, dan-gurney, bruce-mclaren, graham-hill, olivier-gendebien, ron-flockhart, jean-behra, roy-salvadori, ian-burgess, colin-davis, carel-godin-de-beaufort, fritz-dorey, giorgio-scarlatti]
+- lap: 5
+  drivers: [tony-brooks, masten-gregory, maurice-trintignant, jack-brabham, stirling-moss, phil-hill, jo-bonnier, harry-schell, dan-gurney, graham-hill, innes-ireland, olivier-gendebien, bruce-mclaren, jean-behra, ron-flockhart, ian-burgess, colin-davis, roy-salvadori, carel-godin-de-beaufort, fritz-dorey, giorgio-scarlatti]
+- lap: 6
+  drivers: [tony-brooks, maurice-trintignant, masten-gregory, jack-brabham, stirling-moss, phil-hill, harry-schell, jo-bonnier, dan-gurney, olivier-gendebien, graham-hill, bruce-mclaren, jean-behra, innes-ireland, ron-flockhart, ian-burgess, colin-davis, roy-salvadori, carel-godin-de-beaufort, fritz-dorey, giorgio-scarlatti]
+- lap: 7
+  drivers: [tony-brooks, maurice-trintignant, jack-brabham, masten-gregory, stirling-moss, phil-hill, harry-schell, dan-gurney, olivier-gendebien, jean-behra, bruce-mclaren, graham-hill, ron-flockhart, colin-davis, ian-burgess, roy-salvadori, carel-godin-de-beaufort, fritz-dorey, innes-ireland, giorgio-scarlatti]
+- lap: 8
+  drivers: [tony-brooks, maurice-trintignant, jack-brabham, stirling-moss, masten-gregory, phil-hill, dan-gurney, olivier-gendebien, harry-schell, jean-behra, bruce-mclaren, ron-flockhart, ian-burgess, roy-salvadori, carel-godin-de-beaufort, fritz-dorey, innes-ireland, giorgio-scarlatti]
+- lap: 9
+  drivers: [tony-brooks, maurice-trintignant, jack-brabham, stirling-moss, phil-hill, dan-gurney, olivier-gendebien, jean-behra, harry-schell, bruce-mclaren, ron-flockhart, ian-burgess, roy-salvadori, carel-godin-de-beaufort, fritz-dorey, innes-ireland, giorgio-scarlatti]
+- lap: 10
+  drivers: [tony-brooks, maurice-trintignant, jack-brabham, stirling-moss, phil-hill, dan-gurney, jean-behra, olivier-gendebien, harry-schell, bruce-mclaren, ron-flockhart, ian-burgess, roy-salvadori, fritz-dorey, carel-godin-de-beaufort, innes-ireland, giorgio-scarlatti]
+- lap: 11
+  drivers: [tony-brooks, maurice-trintignant, jack-brabham, stirling-moss, phil-hill, jean-behra, dan-gurney, olivier-gendebien, harry-schell, bruce-mclaren, ron-flockhart, ian-burgess, fritz-dorey, roy-salvadori, carel-godin-de-beaufort, innes-ireland, giorgio-scarlatti]
+- lap: 12
+  drivers: [tony-brooks, maurice-trintignant, jack-brabham, phil-hill, stirling-moss, jean-behra, dan-gurney, olivier-gendebien, ron-flockhart, bruce-mclaren, ian-burgess, fritz-dorey, harry-schell, roy-salvadori, carel-godin-de-beaufort, innes-ireland, giorgio-scarlatti]
+- lap: 13
+  drivers: [tony-brooks, maurice-trintignant, jack-brabham, phil-hill, stirling-moss, jean-behra, dan-gurney, olivier-gendebien, ron-flockhart, bruce-mclaren, ian-burgess, fritz-dorey, harry-schell, roy-salvadori, carel-godin-de-beaufort, innes-ireland, giorgio-scarlatti]
+- lap: 14
+  drivers: [tony-brooks, maurice-trintignant, jack-brabham, phil-hill, stirling-moss, jean-behra, dan-gurney, olivier-gendebien, bruce-mclaren, ron-flockhart, fritz-dorey, harry-schell, roy-salvadori, carel-godin-de-beaufort, innes-ireland, giorgio-scarlatti]
+- lap: 15
+  drivers: [tony-brooks, maurice-trintignant, jack-brabham, phil-hill, stirling-moss, jean-behra, dan-gurney, olivier-gendebien, ron-flockhart, bruce-mclaren, harry-schell, fritz-dorey, roy-salvadori, carel-godin-de-beaufort, giorgio-scarlatti]
+- lap: 16
+  drivers: [tony-brooks, maurice-trintignant, jack-brabham, phil-hill, stirling-moss, jean-behra, dan-gurney, olivier-gendebien, ron-flockhart, bruce-mclaren, harry-schell, fritz-dorey, roy-salvadori, carel-godin-de-beaufort, giorgio-scarlatti]
+- lap: 17
+  drivers: [tony-brooks, maurice-trintignant, jack-brabham, stirling-moss, phil-hill, jean-behra, dan-gurney, olivier-gendebien, ron-flockhart, bruce-mclaren, harry-schell, roy-salvadori, fritz-dorey, carel-godin-de-beaufort, giorgio-scarlatti]
+- lap: 18
+  drivers: [tony-brooks, maurice-trintignant, jack-brabham, stirling-moss, phil-hill, jean-behra, dan-gurney, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, roy-salvadori, fritz-dorey, carel-godin-de-beaufort, giorgio-scarlatti]
+- lap: 19
+  drivers: [tony-brooks, maurice-trintignant, jack-brabham, stirling-moss, phil-hill, jean-behra, dan-gurney, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, fritz-dorey, roy-salvadori, carel-godin-de-beaufort, giorgio-scarlatti]
+- lap: 20
+  drivers: [tony-brooks, jack-brabham, phil-hill, stirling-moss, jean-behra, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, fritz-dorey, maurice-trintignant, roy-salvadori, carel-godin-de-beaufort, giorgio-scarlatti]
+- lap: 21
+  drivers: [tony-brooks, jack-brabham, phil-hill, stirling-moss, jean-behra, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, fritz-dorey, maurice-trintignant, carel-godin-de-beaufort, giorgio-scarlatti]
+- lap: 22
+  drivers: [tony-brooks, jack-brabham, phil-hill, stirling-moss, jean-behra, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, fritz-dorey, maurice-trintignant, carel-godin-de-beaufort, giorgio-scarlatti]
+- lap: 23
+  drivers: [tony-brooks, jack-brabham, phil-hill, jean-behra, stirling-moss, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, fritz-dorey, maurice-trintignant, carel-godin-de-beaufort, giorgio-scarlatti]
+- lap: 24
+  drivers: [tony-brooks, jack-brabham, jean-behra, phil-hill, stirling-moss, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, fritz-dorey, maurice-trintignant, giorgio-scarlatti, carel-godin-de-beaufort]
+- lap: 25
+  drivers: [tony-brooks, jack-brabham, phil-hill, jean-behra, stirling-moss, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, fritz-dorey, maurice-trintignant, giorgio-scarlatti, carel-godin-de-beaufort]
+- lap: 26
+  drivers: [tony-brooks, phil-hill, jack-brabham, jean-behra, stirling-moss, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, fritz-dorey, maurice-trintignant, giorgio-scarlatti, carel-godin-de-beaufort]
+- lap: 27
+  drivers: [tony-brooks, phil-hill, jack-brabham, jean-behra, stirling-moss, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, fritz-dorey, maurice-trintignant, giorgio-scarlatti, carel-godin-de-beaufort]
+- lap: 28
+  drivers: [tony-brooks, phil-hill, jack-brabham, jean-behra, stirling-moss, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, maurice-trintignant, giorgio-scarlatti, carel-godin-de-beaufort, fritz-dorey]
+- lap: 29
+  drivers: [tony-brooks, phil-hill, jack-brabham, jean-behra, stirling-moss, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, maurice-trintignant, giorgio-scarlatti, carel-godin-de-beaufort, fritz-dorey]
+- lap: 30
+  drivers: [tony-brooks, phil-hill, jack-brabham, stirling-moss, jean-behra, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, maurice-trintignant, giorgio-scarlatti, carel-godin-de-beaufort, fritz-dorey]
+- lap: 31
+  drivers: [tony-brooks, phil-hill, jack-brabham, stirling-moss, olivier-gendebien, jean-behra, bruce-mclaren, ron-flockhart, harry-schell, maurice-trintignant, giorgio-scarlatti, carel-godin-de-beaufort, fritz-dorey]
+- lap: 32
+  drivers: [tony-brooks, phil-hill, jack-brabham, stirling-moss, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, maurice-trintignant, giorgio-scarlatti, carel-godin-de-beaufort, fritz-dorey]
+- lap: 33
+  drivers: [tony-brooks, phil-hill, jack-brabham, stirling-moss, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, maurice-trintignant, giorgio-scarlatti, carel-godin-de-beaufort, fritz-dorey]
+- lap: 34
+  drivers: [tony-brooks, phil-hill, jack-brabham, stirling-moss, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, maurice-trintignant, giorgio-scarlatti, carel-godin-de-beaufort, fritz-dorey]
+- lap: 35
+  drivers: [tony-brooks, phil-hill, jack-brabham, stirling-moss, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, maurice-trintignant, giorgio-scarlatti, carel-godin-de-beaufort, fritz-dorey]
+- lap: 36
+  drivers: [tony-brooks, phil-hill, jack-brabham, stirling-moss, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, maurice-trintignant, giorgio-scarlatti, carel-godin-de-beaufort, fritz-dorey]
+- lap: 37
+  drivers: [tony-brooks, phil-hill, jack-brabham, stirling-moss, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, giorgio-scarlatti, carel-godin-de-beaufort, fritz-dorey]
+- lap: 38
+  drivers: [tony-brooks, phil-hill, stirling-moss, jack-brabham, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, giorgio-scarlatti, carel-godin-de-beaufort, fritz-dorey]
+- lap: 39
+  drivers: [tony-brooks, phil-hill, stirling-moss, jack-brabham, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, giorgio-scarlatti, carel-godin-de-beaufort, fritz-dorey]
+- lap: 40
+  drivers: [tony-brooks, phil-hill, stirling-moss, jack-brabham, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, giorgio-scarlatti, carel-godin-de-beaufort, fritz-dorey]
+- lap: 41
+  drivers: [tony-brooks, phil-hill, stirling-moss, jack-brabham, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell, giorgio-scarlatti]
+- lap: 42
+  drivers: [tony-brooks, phil-hill, stirling-moss, jack-brabham, bruce-mclaren, olivier-gendebien, ron-flockhart, harry-schell]
+- lap: 43
+  drivers: [tony-brooks, phil-hill, jack-brabham, bruce-mclaren, olivier-gendebien, ron-flockhart, harry-schell]
+- lap: 44
+  drivers: [tony-brooks, phil-hill, jack-brabham, bruce-mclaren, olivier-gendebien, ron-flockhart, harry-schell]
+- lap: 45
+  drivers: [tony-brooks, phil-hill, jack-brabham, bruce-mclaren, olivier-gendebien, ron-flockhart, harry-schell]
+- lap: 46
+  drivers: [tony-brooks, phil-hill, jack-brabham, bruce-mclaren, olivier-gendebien, ron-flockhart, harry-schell]
+- lap: 47
+  drivers: [tony-brooks, phil-hill, jack-brabham, olivier-gendebien, bruce-mclaren, ron-flockhart, harry-schell]
+- lap: 48
+  drivers: [tony-brooks, phil-hill, jack-brabham, olivier-gendebien, bruce-mclaren, ron-flockhart]
+- lap: 49
+  drivers: [tony-brooks, phil-hill, jack-brabham, olivier-gendebien, bruce-mclaren, ron-flockhart]
+- lap: 50
+  drivers: [tony-brooks, phil-hill, jack-brabham, olivier-gendebien, bruce-mclaren, ron-flockhart]

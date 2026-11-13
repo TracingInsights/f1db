@@ -1,0 +1,74 @@
+- lap: 0
+  drivers: [jack-brabham, tony-brooks, phil-hill, olivier-gendebien, graham-hill, jo-bonnier, innes-ireland, chris-bristow, jim-clark, wolfgang-von-trips, dan-gurney, willy-mairesse, bruce-mclaren, lucien-bianchi, lance-reventlow, alan-stacey, chuck-daigh]
+- lap: 1
+  drivers: [jack-brabham, olivier-gendebien, phil-hill, graham-hill, innes-ireland, jo-bonnier, bruce-mclaren, tony-brooks, chris-bristow, willy-mairesse, wolfgang-von-trips, dan-gurney, alan-stacey, lucien-bianchi, jim-clark, chuck-daigh, lance-reventlow]
+- lap: 2
+  drivers: [jack-brabham, innes-ireland, phil-hill, jo-bonnier, olivier-gendebien, graham-hill, bruce-mclaren, tony-brooks, chris-bristow, wolfgang-von-trips, willy-mairesse, dan-gurney, lucien-bianchi, alan-stacey, jim-clark, chuck-daigh]
+- lap: 3
+  drivers: [jack-brabham, innes-ireland, phil-hill, graham-hill, jo-bonnier, olivier-gendebien, bruce-mclaren, chris-bristow, wolfgang-von-trips, willy-mairesse, lucien-bianchi, dan-gurney, alan-stacey, jim-clark, chuck-daigh]
+- lap: 4
+  drivers: [jack-brabham, phil-hill, innes-ireland, graham-hill, olivier-gendebien, bruce-mclaren, jo-bonnier, chris-bristow, wolfgang-von-trips, willy-mairesse, lucien-bianchi, alan-stacey, dan-gurney, jim-clark, chuck-daigh]
+- lap: 5
+  drivers: [jack-brabham, phil-hill, innes-ireland, graham-hill, bruce-mclaren, olivier-gendebien, jo-bonnier, wolfgang-von-trips, chris-bristow, willy-mairesse, lucien-bianchi, alan-stacey, jim-clark, chuck-daigh]
+- lap: 6
+  drivers: [jack-brabham, phil-hill, bruce-mclaren, graham-hill, jo-bonnier, olivier-gendebien, innes-ireland, wolfgang-von-trips, chris-bristow, willy-mairesse, lucien-bianchi, alan-stacey, jim-clark, chuck-daigh]
+- lap: 7
+  drivers: [jack-brabham, phil-hill, bruce-mclaren, graham-hill, olivier-gendebien, jo-bonnier, wolfgang-von-trips, chris-bristow, willy-mairesse, jim-clark, alan-stacey, lucien-bianchi, innes-ireland, chuck-daigh]
+- lap: 8
+  drivers: [jack-brabham, phil-hill, bruce-mclaren, graham-hill, olivier-gendebien, jo-bonnier, wolfgang-von-trips, chris-bristow, willy-mairesse, jim-clark, alan-stacey, innes-ireland, lucien-bianchi, chuck-daigh]
+- lap: 9
+  drivers: [jack-brabham, phil-hill, graham-hill, olivier-gendebien, jo-bonnier, bruce-mclaren, wolfgang-von-trips, chris-bristow, willy-mairesse, innes-ireland, jim-clark, alan-stacey, lucien-bianchi, chuck-daigh]
+- lap: 10
+  drivers: [jack-brabham, phil-hill, graham-hill, olivier-gendebien, jo-bonnier, bruce-mclaren, wolfgang-von-trips, chris-bristow, willy-mairesse, innes-ireland, jim-clark, alan-stacey, lucien-bianchi, chuck-daigh]
+- lap: 11
+  drivers: [jack-brabham, phil-hill, olivier-gendebien, graham-hill, jo-bonnier, bruce-mclaren, wolfgang-von-trips, chris-bristow, willy-mairesse, innes-ireland, jim-clark, alan-stacey, lucien-bianchi, chuck-daigh]
+- lap: 12
+  drivers: [jack-brabham, phil-hill, olivier-gendebien, graham-hill, jo-bonnier, bruce-mclaren, wolfgang-von-trips, chris-bristow, willy-mairesse, innes-ireland, jim-clark, alan-stacey, lucien-bianchi, chuck-daigh]
+- lap: 13
+  drivers: [jack-brabham, phil-hill, olivier-gendebien, graham-hill, bruce-mclaren, jo-bonnier, wolfgang-von-trips, chris-bristow, willy-mairesse, innes-ireland, jim-clark, alan-stacey, lucien-bianchi, chuck-daigh]
+- lap: 14
+  drivers: [jack-brabham, phil-hill, olivier-gendebien, graham-hill, bruce-mclaren, wolfgang-von-trips, chris-bristow, willy-mairesse, alan-stacey, jim-clark, jo-bonnier, chuck-daigh, lucien-bianchi]
+- lap: 15
+  drivers: [jack-brabham, phil-hill, olivier-gendebien, graham-hill, bruce-mclaren, chris-bristow, wolfgang-von-trips, willy-mairesse, alan-stacey, jim-clark, chuck-daigh, lucien-bianchi]
+- lap: 16
+  drivers: [jack-brabham, phil-hill, olivier-gendebien, graham-hill, bruce-mclaren, chris-bristow, willy-mairesse, wolfgang-von-trips, alan-stacey, jim-clark, chuck-daigh, lucien-bianchi]
+- lap: 17
+  drivers: [jack-brabham, phil-hill, olivier-gendebien, graham-hill, bruce-mclaren, willy-mairesse, chris-bristow, wolfgang-von-trips, alan-stacey, jim-clark, lucien-bianchi]
+- lap: 18
+  drivers: [jack-brabham, phil-hill, olivier-gendebien, graham-hill, bruce-mclaren, willy-mairesse, chris-bristow, wolfgang-von-trips, alan-stacey, jim-clark, lucien-bianchi]
+- lap: 19
+  drivers: [jack-brabham, phil-hill, olivier-gendebien, graham-hill, bruce-mclaren, chris-bristow, willy-mairesse, wolfgang-von-trips, alan-stacey, jim-clark, lucien-bianchi]
+- lap: 20
+  drivers: [jack-brabham, phil-hill, olivier-gendebien, graham-hill, bruce-mclaren, willy-mairesse, alan-stacey, wolfgang-von-trips, jim-clark, lucien-bianchi]
+- lap: 21
+  drivers: [jack-brabham, phil-hill, olivier-gendebien, graham-hill, bruce-mclaren, willy-mairesse, alan-stacey, wolfgang-von-trips, jim-clark, lucien-bianchi]
+- lap: 22
+  drivers: [jack-brabham, phil-hill, graham-hill, olivier-gendebien, bruce-mclaren, willy-mairesse, alan-stacey, wolfgang-von-trips, jim-clark, lucien-bianchi]
+- lap: 23
+  drivers: [jack-brabham, phil-hill, graham-hill, olivier-gendebien, bruce-mclaren, willy-mairesse, alan-stacey, jim-clark, lucien-bianchi]
+- lap: 24
+  drivers: [jack-brabham, phil-hill, graham-hill, olivier-gendebien, bruce-mclaren, alan-stacey, jim-clark, lucien-bianchi]
+- lap: 25
+  drivers: [jack-brabham, phil-hill, olivier-gendebien, graham-hill, bruce-mclaren, jim-clark, lucien-bianchi]
+- lap: 26
+  drivers: [jack-brabham, phil-hill, olivier-gendebien, graham-hill, bruce-mclaren, jim-clark, lucien-bianchi]
+- lap: 27
+  drivers: [jack-brabham, phil-hill, graham-hill, olivier-gendebien, bruce-mclaren, jim-clark, lucien-bianchi]
+- lap: 28
+  drivers: [jack-brabham, phil-hill, graham-hill, olivier-gendebien, bruce-mclaren, jim-clark, lucien-bianchi]
+- lap: 29
+  drivers: [jack-brabham, graham-hill, olivier-gendebien, bruce-mclaren, phil-hill, jim-clark]
+- lap: 30
+  drivers: [jack-brabham, graham-hill, olivier-gendebien, bruce-mclaren, phil-hill, jim-clark]
+- lap: 31
+  drivers: [jack-brabham, graham-hill, olivier-gendebien, bruce-mclaren, phil-hill, jim-clark]
+- lap: 32
+  drivers: [jack-brabham, graham-hill, olivier-gendebien, bruce-mclaren, phil-hill, jim-clark]
+- lap: 33
+  drivers: [jack-brabham, graham-hill, olivier-gendebien, bruce-mclaren, phil-hill, jim-clark]
+- lap: 34
+  drivers: [jack-brabham, graham-hill, olivier-gendebien, bruce-mclaren, phil-hill, jim-clark]
+- lap: 35
+  drivers: [jack-brabham, graham-hill, bruce-mclaren, olivier-gendebien, phil-hill]
+- lap: 36
+  drivers: [jack-brabham, bruce-mclaren]

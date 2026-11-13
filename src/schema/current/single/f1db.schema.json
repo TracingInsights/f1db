@@ -2132,6 +2132,27 @@
           },
           "description": "The pit stops made during the race."
         },
+        "lapPositions": {
+          "type": ["array", "null"],
+          "items": {
+            "$ref": "#/definitions/LapPosition"
+          },
+          "description": "The running order at the end of every lap of the race."
+        },
+        "sprintFastestLaps": {
+          "type": ["array", "null"],
+          "items": {
+            "$ref": "#/definitions/FastestLap"
+          },
+          "description": "The fastest laps recorded during the sprint race."
+        },
+        "sprintLapPositions": {
+          "type": ["array", "null"],
+          "items": {
+            "$ref": "#/definitions/LapPosition"
+          },
+          "description": "The running order at the end of every lap of the sprint race."
+        },
         "driverOfTheDayResults": {
           "type": ["array", "null"],
           "items": {
@@ -2218,6 +2239,9 @@
         "raceResults",
         "fastestLaps",
         "pitStops",
+        "lapPositions",
+        "sprintFastestLaps",
+        "sprintLapPositions",
         "driverOfTheDayResults",
         "driverStandings",
         "constructorStandings"
@@ -2856,6 +2880,58 @@
         "lap",
         "time",
         "timeMillis"
+      ]
+    },
+    "LapPosition": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "positionDisplayOrder": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "The position display order of the lap position."
+        },
+        "lap": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "The lap number (0 = the order at the start, where known)."
+        },
+        "positionNumber": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "The running position of the driver at the end of the lap."
+        },
+        "driverNumber": {
+          "type": "string",
+          "pattern": "^[0-9]+$",
+          "description": "The car number of the driver."
+        },
+        "driverId": {
+          "type": "string",
+          "description": "The identifier of the driver."
+        },
+        "constructorId": {
+          "type": "string",
+          "description": "The identifier of the constructor."
+        },
+        "engineManufacturerId": {
+          "type": "string",
+          "description": "The identifier of the engine manufacturer."
+        },
+        "tyreManufacturerId": {
+          "type": "string",
+          "description": "The identifier of the tyre manufacturer."
+        }
+      },
+      "required": [
+        "positionDisplayOrder",
+        "lap",
+        "positionNumber",
+        "driverNumber",
+        "driverId",
+        "constructorId",
+        "engineManufacturerId",
+        "tyreManufacturerId"
       ]
     },
     "DriverOfTheDayResult": {

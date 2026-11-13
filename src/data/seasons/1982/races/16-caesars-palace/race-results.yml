@@ -19,10 +19,10 @@
   engineManufacturerId: ford
   tyreManufacturerId: michelin
   laps: 75
-  time: "1:42:24.178"
+  time: "1:42:24.180"
   timePenalty:
-  gap: "+27.290"
-  interval: "+27.290"
+  gap: "+27.292"
+  interval: "+27.292"
   reasonRetired:
   points: 6
   gridPosition: 9
@@ -36,7 +36,7 @@
   time: "1:42:53.338"
   timePenalty:
   gap: "+56.450"
-  interval: "+29.160"
+  interval: "+29.158"
   reasonRetired:
   points: 4
   gridPosition: 4
@@ -47,10 +47,10 @@
   engineManufacturerId: renault
   tyreManufacturerId: michelin
   laps: 75
-  time: "1:43:05.538"
+  time: "1:43:05.536"
   timePenalty:
-  gap: "+1:08.650"
-  interval: "+12.200"
+  gap: "+1:08.648"
+  interval: "+12.198"
   reasonRetired:
   points: 3
   gridPosition: 1
@@ -61,10 +61,10 @@
   engineManufacturerId: ford
   tyreManufacturerId: goodyear
   laps: 75
-  time: "1:43:08.268"
+  time: "1:43:08.263"
   timePenalty:
-  gap: "+1:11.380"
-  interval: "+2.730"
+  gap: "+1:11.375"
+  interval: "+2.727"
   reasonRetired:
   points: 2
   gridPosition: 6
@@ -185,7 +185,7 @@
   driverId: manfred-winkelhock
   constructorId: ats-wheels
   engineManufacturerId: ford
-  tyreManufacturerId: goodyear
+  tyreManufacturerId: michelin
   laps: 62
   time:
   timePenalty:
@@ -373,7 +373,7 @@
   timePenalty:
   gap:
   interval:
-  reasonRetired:
+  reasonRetired: Accident
   points:
   gridPosition:
 - position: DNQ
@@ -395,7 +395,7 @@
   driverId: eliseo-salazar
   constructorId: ats-wheels
   engineManufacturerId: ford
-  tyreManufacturerId: goodyear
+  tyreManufacturerId: michelin
   laps:
   time:
   timePenalty:
